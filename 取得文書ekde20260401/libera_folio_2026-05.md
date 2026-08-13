@@ -1,0 +1,245 @@
+---
+source: "Libera Folio (liberafolio.org)"
+generated_at: "2026-08-13T10:14:32.127204+00:00"
+generator: "retradio_lib.py"
+time_range: "2026-05-05 – 2026-05-26"
+---
+
+
+# Kataluna junularo bonvenigas la ĉi-jaran IJK-n
+
+**Published:** 2026-05-05
+
+**URL:** https://www.liberafolio.org/2026/05/05/kataluna-junularo-bonvenigas-la-ci-jaran-ijk-n/
+
+**Categories:** TEJO, movado
+
+Kataluna Esperanto-Junularo, kiu ĉi-jare kunlaboras por organizi la Internacian Junularan Kongreson, estis fondita dek jarojn post la falo de la diktaturo en Hispanio. ”En Esperanto multaj katalunoj trovis lingvon kongruan kun la novaj valoroj de demokratia kaj plureca socio”, rakontas Hayden Hendricks, estrarano de KEJ. Poste la asocio travivis periodon de neaktiveco, sed estis refondita en 2019, jam de nova generacio de junuloj.
+
+En 2025 la Kataluna Esperanto-Junularo (KEJ) festis sian kvardekjariĝon. Malantaŭ tiu datreveno troviĝas historio riĉa je iniciatoj, kreemo kaj internacia kunlaboro — trajtoj, kiuj manifestiĝos en la gastigo de la 82-a Internacia Junulara Kongreso (IJK) en Tiana, Katalunio en aŭgusto de 2026.
+
+Per tiu kongreso KEJ celas festi sian historion, la katalunan kulturon, kaj du grandiozajn okazojn: la kompletigon de la ĉefturo de la Sagrada Família kaj plenan suneklipson. Detaloj pri la kongreso kaj aliĝilo troveblas ĉe la oficiala retejo .
+
+Kvankam Esperanto atingis la Katalunan Landaron jam fine de la 19-a jarcento, la ideo starigi memstaran junularan sekcion maturiĝis nur en la malfruaj 1970aj jaroj en la kunteksto de la postdiktatura periodo.
+
+Dum la epoko de la faŝisma reĝimo, la vivo en Katalunio estis strikte reguligita: la kataluna lingvo estis malpermesita, Esperanto estis rigardata kun suspekto kaj ĉiuj amaskomunikiloj estis cenzurataj.
+
+Post la restarigo de demokratio en 1975, la lando malfermiĝis al eksteraj influoj, turismo kaj civila aktivismo. Junuloj klopodis por adopti novajn ideologiojn kaj aserti siajn lingvan kaj kulturan identecojn.
+
+En Esperanto multaj katalunoj trovis lingvon kongruan kun la novaj valoroj de demokratia kaj plureca socio.
+
+En 1985 oficiale fondiĝis la Asocio de Junaj Esperantistoj de Katalunio, kiu baldaŭ ricevis la nomon KEJ. Jam de sia komenco, KEJ estis fruktodona. En 1986 formiĝis la muzikgrupo Kaj Tiel Plu, kies adaptado de tradiciaj kantoj en Esperanton daŭras ĝis hodiaŭ. Samtempe floris eldonado.
+
+La revuon Kata Luno verkis kaj redaktis KEJ-anoj, plenigante la paĝojn per siaj propraj kreemaj verkoj, unualoke la komiksoj de Arnau Torras. KEJ ankaŭ helpis organizi partoprenadon en pluraj politikaj movadoj, de la manifestacioj kontraŭ deviga militservo ĝis la domokupa movado.
+
+Post periodo de malaktiveco, KEJ estis refondita en 2019 de nova generacio de junuloj. Tio ne estis nur administra ŝanĝo, sed tute nova vizio: pli forta ligo al aliaj lokaj kaj internaciaj organizaĵoj, uzo de modernaj amaskomunikiloj kaj fokuso al ĉeestaj renkontiĝoj.
+
+Malgraŭ la defioj de la pandemio, la asocio rapide adaptiĝis per virtualaj aranĝoj kaj poste rekomencis ĉeestajn agadojn. Elstaras inter tiuj aranĝoj RenKEJtiĝo, kiu post kvar eldonoj jam atingis rekonon kiel unu el la plej sukcesaj eŭropaj junularaj renkontiĝoj.
+
+Ĉi-jare la asocio okazigis Esperanto-kursojn en la tri plej grandaj publikaj universitatoj de Barcelono. Danke al forta agado en sociaj retoj kaj kunlaboro kun influistoj, KEJ sukcesis allogi junulojn el Valencilando kaj Balearoj. Krome, la asocio fariĝis membro de la Nacia Konsilo de la Junularo de Katalunio, tiel firme enradikigante Esperanton en la ĝenerala kataluna junularo.
+
+La kongreso okazos en aŭgusto kaj celas kunigi esperantistojn el la tuta mondo por festi la viglan movadon en Katalunio. En lando riĉa je kulturo, historio kaj gastronomio, la partoprenantoj pasigos unu varman someran semajnon ĉe belaj mediteraneaj plaĝoj kaj verdaj arbaroj.
+
+Pro la graveco de naturo en la verkaro de Gaudí kaj la plena suneklipso spertebla dum la kongreso, la oficiala temo de la kongreso estos ”Naturo el la Homaj Okuloj.”
+
+Tiu moto celas inspiri dialogon pri daŭripovo kaj interkultura kunlaboro. Dum unu semajno en Tiana centoj da homoj el la tuta mondo uzos komunan lingvon por skizi komunan vojon antaŭen.
+
+Hayden Hendricks
+
+La aŭtoro estas estrarano en KEJ kaj unu el la organizantoj de IJK 2026
+
+
+---
+
+# REU plu aneksas Ukrainion
+
+**Published:** 2026-05-12
+
+**URL:** https://www.liberafolio.org/2026/05/12/reu-plu-aneksas-ukrainion/
+
+**Categories:** movado
+
+La rusia landa asocio de UEA decidis krei regionan fakon en plia okupita teritorio de Ukrainio. Jam en 2016 REU en la praktiko agnoskis la kontraŭleĝan anekson de Krimeo, registrante Krimean Esperanto-Centron kiel sian regionan organizon. Nun ĝi kreas regionan fakon ankaŭ en la tiel nomata ”Donecka Popola Respubliko”.
+
+En la aprila numero de Ponto , la membrobulteno de Rusia Esperantista Unio, aperis protokolo de estrara kunsido, okazinta rete la 18-an de aprilo 2026. Partoprenis la kunsidon ses estraranoj el naŭ, inkluzive de la prezidanto, Svetlana Smetanina.
+
+Inter la diskutitaj punktoj estis la kreo de nova regiona fako de REU. La regiono pri kiu temas estas la tiel nomata ”Donecka Popola Respubliko”, kiu situas en la internacie rekonata teritorio de Ukrainio, sed estas okupata de la rusia armeo kaj kontraŭleĝe regata de Rusio ekde 2014.
+
+Ĝis 2022 la teritorio de ”Donecka Popola Respubliko”, DNR, estis formale rekonata kiel parto de Ukrainio ankaŭ de Rusio. Tamen lige kun la komenco de la grandskala invada milito de Rusio kontraŭ Ukrainio en 2022 Rusio unue rekonis DNR kiel ”sendependan ŝtaton”, kaj poste formale aneksis ĝin.
+
+Ĝuste en tiu okupita teritorio de Ukrainio REU nun decidis krei novan regionan fakon. ”Ĝis nun en DNR ne estis regiona fako de REU, nek membroj de REU. Sed ĵus membriĝis triopo de homoj … kiuj iniciatas krei regionan fakon de REU en DNR”, la protokolo tekstas.
+
+Ĉiuj partoprenintaj estraranoj unuanime akceptis la proponon krei la proponitan regionan fakon, al kiu apartenu la tri novaj membroj de la asocio.
+
+Laŭ la statuto de UEA principe estu nur unu landa asocio en ĉiu regno. La demando estis vaste diskutata lige kun la komenco de la disfalo de Sovetio en la fino de la 1980-aj jaroj, kiam ekaperis pluraj novaj landaj asocioj. La komitato de UEA tiam konkludis, ke por observi la statuton, ĉiu nova landa asocio havu regulan agadon nur en la propra regno.
+
+UEA principe sekvas la politikon de UN, laŭ kiu la teritorioj okupitaj de Rusio restas parto de Ukrainio, sendepende de tio, kion la rusiaj aŭtoritatoj decidas pri ili. Tial la sinteno de la landa asocio de UEA en Rusio certe ne estas senproblema por UEA.
+
+Jam en 2015, post la anekso de Krimeo, la tiama estraro de UEA komencis konsideri, kion fari pri la afero.
+
+”La Estraro nun esploras la aferon, i.a. la demandon, ĉu temas pri konstanta organizita agado de REU en Krimeo. Entute temas pri serioza afero, kiun la respondeculoj de UEA devas trankvile kaj objektive esplori, sen miksi en ĝin siajn eventualajn personajn opiniojn kaj sintenojn”, la tiama ĝenerala direktoro de UEA, Osmo Buller, skribis en la komitata diskutejo.
+
+Ŝajne tiu esploro tamen neniam estis finfarita. Almenaŭ nenie aperis informoj pri ĝi.
+
+Intertempe aperis pliaj problemoj en la rilato de UEA kun la landa asocio en Rusio. En 2023 REU proteste al decido de UEA ne longigi la oficperiodon de ĉefdelegito Svetlana Smetanina decidis ”haltigi” sian membrecon en UEA, kaj de tiam ne pagas sian kotizon.
+
+Dum la komitata kunsido en Brno en aŭgusto 2025 oni diskutis la situacion kaj eventualan eksigon de REU pro nepago de kotizo. Ankaŭ rilate tion tamen nenio plia okazis.
+
+Laŭ la statuto de UEA, aliĝinta asocio povas esti konsiderata kiel eksiĝinta, se ĝi ”ĉesas plenumi la kondiĉojn priskribitajn en la Ĝenerala Regularo, kaj se tion formale konstatas la Komitato surbaze de raporto de la Ĝenerala Direktoro.”
+
+Internacia Federacio de Ĵurnalistoj ĵus eksigis Rusian Union de Ĵurnalistoj interalie pro tio ke la rusia organizaĵo akceptis aliĝon de regionaj organizaĵoj en okupitaj ukrainaj teritorioj. La decido estas la konkludo de proceduro komencita jam en 2022.
+
+Pli pri la temo:
+
+REU pretas aktivi en okupita teritorio (2024)
+
+La prezidanto de REU volas likvidi Ukrainion (2022)
+
+Rusia Esperantista Unio aneksis Krimeon (2017)
+
+
+---
+
+# La finna egipto ekparolas Esperanton
+
+**Published:** 2026-05-19
+
+**URL:** https://www.liberafolio.org/2026/05/19/la-finna-egipto-ekparolas-esperanton/
+
+**Categories:** kulturo
+
+Unu el la ampleksaj ĉefverkoj de la finna literaturo baldaŭ aperos en Esperanto. Jouko Lindstedt jam de pli ol unu jaro tradukadas la plej konatan romanon de Mika Waltari, Sinuhe la Egipto. Ĝin eldonos Esperanto-Asocio de Britio. En nia intervjuo Jouko Lindstedt rakontas, pri kia libro temas kaj kial indas ĝin traduki al Esperanto.
+
+La historia romano “Sinuhe egyptiläinen” (Sinuhe la Egipto) estis en 2008 elektita la plej amata libro en Finnlando, kaj en 2017 ĝi en publika voĉdonado estis nomita la verko de la jarcento. La libro aperis en 1945, tuj post la dua mondmilito, kaj kvankam ĝi temas pri okazaĵoj en Egiptio antaŭ pli ol tri mil jaroj, multaj vidis en ĝi ankaŭ alegorion pri okazaĵoj de la ĵusa milito.
+
+La aŭtoro Mika Waltari verkis la ampleksan libron dum nuraj tri kaj duona monatoj, en stato de intensa inspiriĝo, certe influite de siaj dummilitaj spertoj, sed sur la solida bazo de dudekjara profunda interesiĝo pri la historio de Egiptio. Tiun interesiĝon vekis la malkovro de la tombo de Tutanĥamono en 1922, kiam Waltari estis 14-jara.
+
+La verko baldaŭ estis tradukita al multaj lingvoj, kaj iĝis ankaŭ internacie unu el la plej furoraj sukcesoj de la finna literaturo. Krom la literaturaj valoroj, la libro ricevis laŭdojn de spertuloj pro sia escepta fideleco al la fakta historio de Egiptio kaj la najbara regiono, tia kia ĝi estis konata en la verkotempo.
+
+Nun Esperanto-Asocio de Britio decidis eldoni la verkon, kiun jam tradukas Jouko Lindstedt. Ni petis lin rakonti pli pri la projekto.
+
+Libera Folio: Kio estas speciala pri ĉi tiu libro, kial vi decidis traduki ĝuste ĝin?
+
+Jouko Lindstedt: – Ĝi estas internacie unu el la plej sukcesaj finnaj romanoj. Unuflanke, ĝi estas fascina rakonto kun atentokapta intrigo okazanta en la Proksim-Oriento dum la 14-a jarcento antaŭ la Komuna Erao, kun multaj faktoj science fidindaj. Aliflanke, ĝi estas ankaŭ provo de la aŭtoro pritrakti la profundajn elreviĝon kaj pesimismon kaŭzitajn de la Dua Mondmilito. Tradukante mi sentis, ke Sinuhe parolas ankaŭ pri tiuj elreviĝo kaj pesimismo, kiujn multaj el ni sentas pro la okazaĵoj en la nuna mondo.
+
+Sinuhe estas jam tradukita al multaj lingvoj, ĉu ne indus elekti iun same altkvalitan sed internacie malpli konatan verkon?
+
+– Mi supozas, ke altkvalitaj finnaj romanoj estas ĝuste tiuj, kiujn oni multe tradukis! Esceptoj estas nur iuj, kiuj malgraŭ sia bona kvalito parolas ĉefe nur al la finna legantaro, kaj eble ankaŭ iuj, kiujn estus tre malfacile traduki.
+
+Ĉu vi ion scias pri la kvalito de la tradukoj en aliaj lingvoj?
+
+– Mi ne rigardis ilin. Sed laŭ Vikipedio la angla traduko forlasis trionon de la teksto, ĉefe la filozofiecajn partojn, kaj krome ĝi baziĝas sur la sveda traduko, ne la finna originalo. Tamen ĝi siatempe tre furoris en Usono kaj estis eĉ filmita en Holivudo. Ekzemple la bulgaran tradukon faris mia unua instruisto pri la bulgara, kiu tre bone sciis la finnan. Pri la ceteraj tradukoj, sume ĉirkaŭ 40, mi nenion scias.
+
+La verko estas tre ampleksa. Kiom da tempo vi jam okupiĝas pri ĝi, kaj kiel longe vi kredas ke daŭros sume la laboro?
+
+Mi komencis serioze traduki komence de la jaro 2025 kaj nun ĵus povis sendi la unuan duonon de mia manuskripto al du provlegantoj. Laborante samtakte mi finos la duan duonon iam dum la aŭtuno de 2027, kio signifas, ke post provlegado kaj reviziado la libro povos aperi iam dum 2028. Mi klopodas por labori regule, sed kompreneble havas ankaŭ multajn aliajn aferojn en la vivo, ankaŭ Esperantajn…
+
+Kiajn defiojn vi renkontis ĝis nun?
+
+– La stilo de Waltari, kun speciala impona ritmo kaj iuj intence arĥaikaj trajtoj, estas esenca ingredienco de la verko kaj estas grave iel transdoni ĝin en Esperanto. Li multon ĉerpis el la Biblio, en kiu precipe la libro de la Predikanto ankaŭ teme tuŝas la verkon, sekve mi ofte konsultis la Esperantan Malnovan Testamenton. Ankaŭ la Proverbaro de Zamenhof estis bona helpilo en pluraj lokoj. Sed male ol oni povus kredi, ”La Faraono” de Prus, lerte tradukita de Kabe, estas teme kaj stile tiom alitipa verko, ke ĝi ne multe utilis en la tradukado.
+
+Ĉu vi kredas, ke la verko havas ŝancon iĝi populara inter novaj generacioj de esperantistoj, kiuj eble ne kutimas legi tiel ampleksajn tekstojn?
+
+– Nu, la esperantistoj ja ankoraŭ iom legas librojn, dum en la cetera mondo pli kaj pli da homoj utiligas nur aŭdvidan materialon – kiu ĝis nun malmultas en Esperantujo. Mi esperas, ke multaj homoj almenaŭ komencos legi kaj estos poste kaptitaj de la intrigo kaj legos ĝis la fino!
+
+
+---
+
+# UEA ne ricevis EU-subvencion
+
+**Published:** 2026-05-20
+
+**URL:** https://www.liberafolio.org/2026/05/20/uea-ne-ricevis-eu-subvencion/
+
+**Categories:** UEA, movado
+
+Same kiel TEJO, ankaŭ UEA ĉi-jare ne ricevos la administran subvencion de la programo Erasmus+ de EU. Pri tio informis la estraro de UEA en la 19-a de majo. La buĝetita subvencio por 2026 estis 175 000 eŭroj, sumo kiu nun mankos en la buĝeto de UEA. Salajroj estos reduktitaj kaj dungitoj demisias.
+
+Laŭ raporto nun publikigita en la retejo de UEA , la nericevo de administra subvencio estis traktita en kunsido de la ĝenerala direktoro kaj la komisiono pri financo de UEA la 2-an de majo. Partoprenis ankaŭ la komitataj reviziantoj kaj du estraranoj.
+
+La raporto estis preparita la 9-an de majo, sed publikigita nur dek tagojn poste, la 19-an de majo. En la sama tago la estraro en la komitata retlisto informis, ke la asocio ĉi-jare ne ricevos la administran subvencion de EU.
+
+“Gravas atenti, ke la situacio de UEA estas malsama ol tiu de TEJO. Dum la pasintaj jaroj UEA ne plene elspezis la ricevitajn subvenciojn kaj rezervis la neuzitajn sumojn ĝuste por certigi pli grandan stabilecon kaj daŭripovon de la Asocio. Pro tio la nericevo de la subvencio en 2026 ne estas problema por UEA”, la estraro de UEA skribas en la mesaĝo dissendita de ĝenerala sekretario Aleks Kadar.
+
+Laŭ la raporto en la retejo de UEA, la asocio en 2023 malnete ricevis proksimume 140 000 eŭrojn de tia administra subvencio, sed nur 39 000 eŭroj estis uzitaj. En la sekva jaro 2024 la subvencio altiĝis al 175 000 eŭroj, sed laŭ la raporto oni uzis nur 48 000 eŭrojn. La altiĝo de la subvencio laŭ la raporto estis motivita de pli granda nombro de dungitoj.
+
+Similan subvencion de 175 000 eŭroj UEA ricevis ankaŭ en la jaro 2025, kaj la buĝeto de la jaro 2026 kalkulis pri samgranda administra subvencio ankaŭ ĉi-jare. Tio tamen laŭ la estraro ne estos problemo, ĉar granda parto de la subvencioj de la antaŭaj jaroj estis ŝparita.
+
+Iom kontraŭdire la raporto samtempe informas, ke la ĝenerala direktoro jam kunsidis kun dungitoj de UEA por informi pri la nericevo de la subvencio, “sekve de kio oni plenpace interkonsentis pri kelkaj senkostaj demisioj kaj pri reduktoj de salajroj ĉe kelkaj postenoj”.
+
+La buĝeto de UEA ne estos reviziita pro la nericevo de la subvencio, laŭ la raporto.
+
+Dum la sama kunveno oni pritraktis ankaŭ la situacion de TEJO, kiu ĉi-jare same ne ricevas la administran subvencion de EU. Male ol UEA, TEJO ne plu havas sufiĉan kapitalon por kovri la perdon.
+
+En la buĝeto de UEA por 2026 jam estas antaŭvidata elspezo de 25 000 eŭroj al TEJO por kompensi la laborhorojn de TEJO-dungitoj, kiuj kontribuas al la agado kaj taskoj de UEA. Komence oni supozis, ke TEJO aldone al tio bezonus plian subtenon de UEA, kiu tiuokaze povus esti donita en formo de kredito.
+
+Tamen nun laŭ la raporto montriĝas, ke la buĝetita sumo de 25 000 eŭroj sufiĉos, kaj estos pravigita el la vidpunkto de UEA, ĉar ĝi helpos konservi la postenon de TEJO-oficisto en Roterdamo. Tiu posteno estas bezonata por la volontula programo de TEJO. Laŭ la raporto la “koncerna oficisto” krome nun trejniĝas por helpi la funkciadon de la libroservo de UEA.
+
+Cetere la buĝeto de TEJO por 2026 ĝis nun restas neaprobita, ĉar ne sufiĉe multaj komitatanoj partoprenis en la voĉdono pri ĝi.
+
+
+---
+
+# La UK en 2028 okazos en Litovio
+
+**Published:** 2026-05-26
+
+**URL:** https://www.liberafolio.org/2026/05/26/la-uk-en-2028-okazos-en-litovio/
+
+**Categories:** UEA, movado
+
+La Universala Kongreso de Esperanto en la jaro 2028 okazos en Kaŭno, Litovio. Tion anoncis la estraro de UEA en gazetara komuniko.
+
+Post Melburno/Narrm en 2027 la UK revenos al Eŭropo – kaj same revenos al Litovio kaj al Baltio post la 90-a UK en Vilno en 2005. La 113-an Universalan Kongreson gastigos la dua plej granda urbo de Litovio kaj unu el la plej gravaj kulturaj centroj de Baltio, Kaŭno, kie la kongreso okazos unuafoje.
+
+La elekto pri Kaŭno aldone havas historian kaj simbolan signifon por la movado: la urbo ankaŭ estas forte ligita al la historio de Esperanto. En Kaŭno naskiĝis Klara Zilbernik, la edzino de L. L. Zamenhof kaj unu el la plej gravaj subtenantoj de la frua Esperanto-movado, sen kies malavara gesto kaj amo ne estus publikigita la Unua Libro. Tiu historia ligo donas al la kongreso apartan simbolan dimension kaj eblon omaĝi gravan virinon de la Esperanto-historio.
+
+La litova Esperanto-movado havas longan kaj respektatan tradicion. Litova Esperanto-Asocio (LEA) dum jardekoj aktive kontribuas al internacia Esperanto-agado, organizado de eventoj kaj kultura kunlaboro. Pro tio UEA kun entuziasmo akceptis la inviton de LEA kongresi en Kaŭno en 2028.
+
+Kaŭno ofertas taŭgan kaj modernan infrastrukturon por internacia evento: universitatojn, kongresejojn, viglan kulturan vivon, piedireblan urban centron kaj ampleksajn turismajn eblojn. Vizitantoj povos ĝui historiajn kvartalojn, muzeojn, koncertojn, verdajn parkojn kaj la apartan etoson de moderna baltia urbo.
+
+Laŭ gazetara komuniko de UEA.
+
+
+---
+
+# La Centra Oficejo denove ne vendita
+
+**Published:** 2026-05-26
+
+**URL:** https://www.liberafolio.org/2026/05/26/la-centra-oficejo-denove-ne-vendita/
+
+**Categories:** UEA, movado
+
+UEA denove malsukcesis vendi la domon en Roterdamo, kie ekde 1962 situas la Centra Oficejo de la asocio. La aĉetonto, kiu aperis en septembro 2025, nun denove malaperis.
+
+La decido pri la vendo de la domo ĉe Nieuwe Binnenweg 176 estis diskutata longe, kaj ĝi estis fine aprobita de la komitato de UEA en reta voĉdonado en februaro 2022. De tiam daŭras la klopodoj realigi la decidon.
+
+En septembro 2025 la estraro anoncis, ke fine aperis interesito, kiu pretas pagi 1,15 milionojn da eŭroj por la domo. Tamen pasis monatoj, la kontrakto ne estis subskribita, kaj en januaro montriĝis, ke la situacio ŝanĝiĝis.
+
+La interesito ne sukcesis pagi la necesan garantipagon, kaj proponis, ke anstataŭ li la domon aĉetu novfondita investa kompanio. Komenciĝis esploroj pri la kompanio kaj la deveno de la mono. Intertempe, jam en januaro la domon vizitis nova interesito.
+
+Tamen nek kun la subite aperinta investa kompanio, nek kun la nova interesito la negoco prosperis. Laŭ dokumento publikigita en la retejo de UEA la 19-an de majo eblas konkludi, ke neniu el tiuj plu aktualas.
+
+”La antaŭa kandidato, kun kiu progresis intertraktadoj en pli frua fazo, ne daŭrigis la aĉetprocezon. Sekve la Estraro kun subteno de la makleristejo decidis remalfermi la procezon al aliaj eblaj kandidatoj”, la estraro de UEA raportis al la komisiono pri financoj.
+
+Laŭ la estraro la makleristo plu aktive laboras pri la vendo kaj serĉas novajn interesatojn. La vendo devas okazi kongrue kun ”la reala valoro de la posedaĵo”, la estraro skribas en la raporto.
+
+”La oficeja domo jam ricevis novajn vizitojn kaj UEA jam ricevis novan proponon al kiu ĝi reagis kaj atendas”, la raporto informas.
+
+Laŭ la sama raporto la komisiono pri financoj konsentis pri la daŭrigo de la nuna vendostrategio, ”kun atento al la evoluo de la merkato kaj al novaj proponoj”.
+
+Neniu komento pri la raporto ĝis nun aperis en la komitata diskutejo de UEA, kie ĝi estis publikigita antaŭ semajno.
+
+La biblioteko kaj arkivo de UEA, kiuj situis en la vendata domo, estis fordonitaj post la decido pri la vendo. Plu funkcias en la domo la libroservo de UEA. Tamen mankas aparta dungito por prizorgi ĝin, post la emeritiĝo de Ionel Oneț en januaro 2026.
+
+Laŭ analizo de la nederlanda firmao NDRP, kiu specialiĝas pri nemoveblaĵoj, la merkato de oficejaj spacoj en Nederlando dum la lastaj jaroj disdividiĝis, parte pro la oftiĝo de distanca laboro.
+
+Daŭre estas granda postulado de altkvalitaj, modernaj kaj bone situantaj oficejoj, dum por malpli altkvalitaj oficejaj spacoj ne plu estas facile trovi uzantojn.
+
+Legu pli:
+
+Vendo de la domo de UEA denove prokrastita
+
+
+---

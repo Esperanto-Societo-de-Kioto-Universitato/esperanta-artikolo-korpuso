@@ -1,0 +1,268 @@
+---
+source: "UEA Facila (uea.facila.org)"
+generated_at: "2026-08-13T10:14:40.972006+00:00"
+generator: "retradio_lib.py"
+time_range: "2026-07-03 – 2026-07-26"
+---
+
+
+# EsperRadio: kvar jaroj da frateco
+
+**Published:** 2026-07-03
+
+**URL:** https://uea.facila.org/artikoloj/tra-la-reto/esperradio-kvar-jaroj-da-frateco-r526
+
+**Author:** Laura Brazzabeni
+
+**Categories:** Tra la reto
+
+**Audio:** https://uea.facila.org/uploads/monthly_2026_07/esperradiored2.mp3.65bc27d0b229084be3aaa28827fd3d1f.mp3
+
+Eblas aŭskulti ĉi tiun artikolon, kiun voĉlegis Margaret Zaleski-Zamenhof.
+
+Ĉu vi serĉas voĉon kiu parolas pri paco, kulturo kaj amikeco? EsperRadio, la "frateca radio" , kiu ĵus festis sian kvaran naskiĝtagon, estas la radio por vi! Tiu reta radio naskiĝis antaŭ kvar jaroj danke al la kuraĝa ideo de Alessandro, kiun ĝiaj aŭskultantoj konas kiel Vox (la Voĉo).
+
+La celo estis krei retejon, kie Esperanto povos flugi libere kvazaŭ “per flugiloj de facila vento”, por atingi homojn en ĉiu angulo de la Tero.
+
+EsperRadio estas ne nur simpla podkasto aŭ persona blogo. Ĝi havas viglan kaj buntan teamon de spertuloj, kiuj laboras kune por proponi altkvalitajn programerojn. La personaro ĉiam kreskas, kaj ĉiu membro alportas sian sperton.
+
+Laura Brazzabeni, kiel sperta raportisto, vojaĝas (virtuale kaj ankaŭ reale) por rakonti al ni pri la plej gravaj esperantistaj eventoj tutmonde. Ŝi ankaŭ informas pri la internaciaj tagoj anoncataj ĉiujare de UN kaj aliaj internaciaj instancoj . Ekzemploj estas Internacia Tago de Tradukado, Internacia Tago de Amikeco, Tago de Eŭropo, kaj aliaj.
+
+Nicola Morandi per sia rubriko Stelesperanto gvidas nin tra la misteroj de astronomio , rigardante la stelojn tra niaj okuloj.
+
+Clarissa Sabatini per sia programero Intronaŭtoj invitas nin al profunda trankvilo per gvidata meditado .
+
+Larisa Odenchuk montras al ni, ke per Esperanto eblas fari ankaŭ manlaborojn. Ŝi instruas al ni la belecon de la japana arto origamio .
+
+Claudia Maggi, por la amantoj de literaturo, laŭtlegas librojn en Esperanto. Tio estas bonega maniero malkovri novajn verkistojn kaj samtempe plibonigi nian kapablon kompreni parolatan Esperanton.
+
+Malgosia Komarnicka, la plej nova membro de la teamo, en sia rubriko rakontas fascinajn historiojn pri famaj esperantistaj virinoj, de la komenco de la movado ĝis la nuntempo.
+
+EsperRadio havas ankaŭ alian celon: disvastigi nian lingvon inter ne-esperantistoj en Italio. Tial la elsendoj estas ne nur en Esperanto. La teamanoj ofte uzas ankaŭ la italan lingvon. Kial? Ĉar ili volas klarigi niajn kulturon kaj idealojn al homoj, kiuj ankoraŭ ne parolas la lingvon, sed estas scivolemaj.
+
+Ĝi estas vera ponto inter malsamaj mondoj. Ne gravas, ĉu vi estas sperta esperantisto aŭ nur komencanto, EsperRadio havas ion por vi. Ni invitas vin aŭskulti, lerni kaj festi kun ni la daŭran sukceson de tiu ĉi mirinda projekto. Ĉiujn elsendojn vi trovos en la sociaj retejoj Facebook kaj YouTube simple serĉante la nomon “EsperRadio”.
+
+Aŭskultu EsperRadion, la fratecan radion!
+
+Laura Brazzabeni
+
+2
+
+1
+
+1
+
+Laura Brazzabeni estas itala esperantistino kaj la prezidanto de Itala Esperanto-Federacio. Ŝi estas la Ĝenerala Direktoro de Itala Instituto de Esperanto, kie ŝi okupiĝas pri instruado kaj kunordigado de ekzamenoj. Ŝi ankaŭ okupiĝas pri kongresoj por Internacia Ligo de Esperantistaj Instruistoj (ILEI).
+
+astronomio: scienco pri la steloj kaj aliaj ĉielaj objektoj.
+
+bunta: mult-kolora, miks-kolora; kun multaj diversaj aspektoj.
+
+el-sendo: programo dissendata per radio, televido aŭ Interreto.
+
+evento: aparta, sufiĉe grava kaj memorinda okazaĵo.
+
+fascina: tiel alloga, ke apenaŭ eblas forturni la okulojn aŭ la menson.
+
+instanco: grava organizaĵo posedanta juĝan aŭ decidan povon.
+
+laŭt-legi: legi per forta voĉo, por ke aliaj homoj aŭdu.
+
+meditado: la ago longe kaj profunde fiksi sian penson al io.
+
+mistero: neklarigebla kaj kaŝita fakto.
+
+origamio: tradicia japana arto krei formojn el papero.
+
+personaro: la tuto de la personoj laborantaj en iu organizaĵo.
+
+podkasto: programo trovebla en Interreto, kiun interesatoj povas kopii kaj aŭskulti per propra telefono, komputilo aŭ alia ilo.
+
+teamo: grupo de kunludantoj en sporto aŭ ludo; grupo de homoj, kiuj agas kune por plenumi iun taskon.
+
+UN: Unuiĝintaj Nacioj.
+
+
+---
+
+# Konkurso “Vikio amas ZEO-jn”
+
+**Published:** 2026-07-14
+
+**URL:** https://uea.facila.org/artikoloj/movado/konkurso-%E2%80%9Cvikio-amas-zeo-jn%E2%80%9D-r528
+
+**Categories:** Movado
+
+Esperanto-placo en Gotenburgo, Svedujo. Foto: NicoRay - Propra verko, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=6743772
+
+Universala Esperanto-Asocio (UEA) subtenas la konkurson “Vikio amas ZEO-jn”. Stranga nomo, ĉu ne? Kio estas Vikio, kaj kio estas ZEO-j?
+
+Vikio estas mallongigo de Vikipedio , tio estas grandega kolekto de informaj artikoloj en Interreto, kreita de siaj uzantoj. Ĉiu ajn rajtas kontribui al Vikipedio.
+
+ZEO estas mallongigo de Zamenhof/Esperanto-Objekto . Tiun nomon ni donas al ĉiu loko, strato, monumento aŭ alia objekto, kiu memorigas pri L. L. Zamenhof aŭ pri la lingvo Esperanto. ZEO-j estas gravaj por la Esperanto- komunumo , ĉar ili tiras la atenton de ekstera publiko al nia lingvo. Ili ankaŭ montras, ke Esperanto ricevis oficialan rekonon . Sed ZEO-j ankaŭ efikas interne de la Esperanto-movado, ĉar ili povas krei senton de komuna identeco inter la parolantoj. Multaj esperantistoj ja ŝatas viziti la konatajn ZEO-jn aŭ fotiĝi apud statuo de Zamenhof. Farante tion, ili trovas “ fizikan Esperantujon ”, kiu anstataŭas la mankon de oficiala teritorio . Artikolo pri ZEO-j jam aperis en uea.facila .
+
+En Vikipedio vi trovos diversajn listojn de ZEO-j, foje kun fotoj de la koncernaj monumentoj, sed ili ne estas kompletaj , kaj por multaj mankas aktualaj fotoj. Tial la asocio Vikimedio Esperanto (VMEO), faka asocio kunlaboranta kun UEA, organizis la konkurson “Vikio amas ZEO-jn”. La celo estas instigi la al-ŝuton de fotoj al Vikipedio, kun premiado de la plej bonaj. La konkurso disvolviĝas dum la tuta monato julio 2026, kiam oni ankaŭ festas la Tagon de Esperanto. La reguloj, konsiloj kaj premioj troviĝas en la jena ligilo .
+
+Inter la subtenantaj organizaĵoj troviĝas UEA, kiu disdonos premiojn al la plej bonaj fotoj laŭ kontinentoj . Ankaŭ la Fondaĵo Esperanto de Hispanio premios fotojn de ZEO-j en hispanlingvaj landoj. Oni invitas ankaŭ al aliaj organizaĵoj proponi premiojn.
+
+La konkurso estas malfermita ankaŭ al neesperantistoj kaj pro tio la reguloj aperas nun en pluraj lingvoj. Esperantistoj estas invitataj kreskigi la nombron de lingvoj. Volontuloj bonvolu kontakti la organizantojn ĉe la Komisiono de UEA por ZEO-j ĉe la adreso: zeoj@uea.org.
+
+UEA invitas ĉiujn parolantojn de Esperanto, kaj ankaŭ neesperantistajn amikojn, partopreni en la konkurso, alŝutante fotojn, precipe se ne jam ekzistas aliaj pri la sama ZEO. UEA kuraĝigas volontulojn uzi la okazon por aktualigi kaj plibonigi la listojn pri ZEO-j en la tuta mondo kaj por disvastigi la ZEO-jn ene de nia movado kaj ekster ĝi.
+
+La konkurso “Vikio Amas ZEO-jn” kongruas kun la strategio AKIRI de UEA, precipe en la kampo Kunlaborado. Se vi deziras subteni la laboron de UEA, la plej bona maniero por fari tion estas per membriĝo aŭ donacado.
+
+Fonto: Gazetara komuniko de UEA n-ro 1311 (2026-07-10)
+
+2
+
+aktuala: nuntempa.
+
+disvolviĝi: malfermi sin de volvita formo; evolui al pli forta, pli vasta, aŭ pli bone kreskinta formo.
+
+Esperantujo: la Esperanta mondo.
+
+fizika: korpa, ne mensa aŭ virtuala.
+
+identeco: la maniero, laŭ kiu oni vidas sin; la bildo, kiun homo aŭ hom-grupo havas pri si mem.
+
+instigi: aktive premi iun, por ke tiu homo faru iun agon.
+
+komisiono: malgranda grupo formita interne de pli granda organizaĵo kun la celo plenumi difinitan taskon.
+
+kompleta: en kiu mankas nenio.
+
+komunumo: societo bazita sur komuneco de vivo kaj interesoj; grupo de homoj kune vivantaj kaj kun komunaj interesoj.
+
+kongrui: havi la saman formon, enhavon aŭ ideojn kiel io alia; havi la taŭgan formon aŭ enhavon por plenumi iun funkcion; taŭgi, konveni.
+
+kontinento: Afriko, Ameriko, Azio, Eŭropo kaj Oceanio estas kontinentoj; granda regiono de la tero.
+
+kun-labori: okupiĝi kune pri iu komuna laboro aŭ projekto.
+
+monumento: konstruaĵo aŭ artaĵo konstruita memore al grava homo aŭ okazaĵo; konstruaĵo aŭ artaĵo, kiu nun staras kiel memoraĵo de pli frua historia periodo.
+
+n-ro: numero
+
+oficiala: anoncita kiel valida laŭ la koncerna oficejo.
+
+rekono: kono de iu afero, ĉar oni jam renkontis ĝin pli frue; la ago akcepti ion kiel validan aŭ valoran.
+
+statuo: artverko, kutime el ŝtono, en la formo de homo.
+
+strategio: lerte preparita plano de milito; plano pri la maniero atingi iun celon.
+
+sub-teni: helpi homon, asocion, projekton, politikon aŭ simile, por ke ĝi sukcesu.
+
+teritorio: regiono apartenanta al iu ŝtato aŭ popolo, kiu konsideras ĝin propra kaj defendas ĝin kontraŭ enveno de eksteruloj.
+
+volontulo: homo, kiu proponas sin por plenumi taskon aŭ fari laboron, plej ofte sen-page.
+
+
+---
+
+# Kongreso por virinoj
+
+**Published:** 2026-07-18
+
+**URL:** https://uea.facila.org/artikoloj/movado/kongreso-por-virinoj-r527
+
+**Author:** Alessandra Madella
+
+**Categories:** Movado
+
+**Audio:** https://uea.facila.org/uploads/monthly_2026_07/mioraintervjuored.mp3.9aef42f1dab375476b463ad9f3cb5df6.mp3
+
+La 2-a Afrika Kongreso de Virinoj en Tanzanio, 2024
+
+Eblas aŭskulti ĉi tiun artikolon, kiun voĉlegis Alessandra Madella.
+
+Miora Raveloharison el Madagaskaro estas estraranino de Universala Esperanto Asocio (UEA) kun respondeco pri Virina Agado. Ŝi estas ankaŭ la ĉefa organizanto de la Unua Kongreso de Virinoj, kiu okazos en Graz, Aŭstrujo en julio 2026, tuj antaŭ la Universala Kongreso.
+
+La estraro de UEA starigis la Komisionon por Virina Agado de UEA en 2024. La komisiono konsistas el kvin virinoj, el Ĉinujo, Italujo, Kubo, Pollando kaj Madagaskaro. Ili kunlaboras kun kvar konsilantinoj el Britujo, Israelo, DR Kongo kaj Svislando. En intervjuo Miora klarigis, ke tiu grupo kune aranĝas ĉiujn agadojn, kvankam ĉiuj estraraninoj okupiĝas pri aparta kampo. Laŭ Miora, el tiu diverseco venas forto.
+
+Jen la ĉefaj celoj de la Virina Komisiono:
+
+1) grupigi kaj kunlaborigi virinojn; 2) kolekti kaj diskonigi informojn pri virinaj vivkondiĉoj; 3) kapabligi virinojn en diversaj kampoj; 4) kreskigi respekton al knabinoj kaj virinoj; 5) serĉi kontaktojn kun naciaj virinaj asocioj.
+
+La komisiono decidis okazigi kvar konferencojn jare. En la 8-a de marto oni rete festas la Internacian Tagon de Virinoj. En la 25-a de majo oni festas la fondiĝon de la komisiono en tiu dato. Dum la Universala Kongreso de UEA la virinoj renkontiĝas ĉeeste , kaj dum la Virtuala Kongreso de UEA ili renkontiĝas rete. Krome, la membroj aktivas ankaŭ en aliaj naciaj kaj internaciaj Esperanto-kongresoj, kiel tiuj de Internacia Ligo de Esperantistaj Instruistoj (ILEI) kaj, ĉi-jare, de Itala Esperanto- Federacio . Ĉiuj interesataj virinoj povas libere partopreni en la agado de la Virina Komisiono. Sufiĉas sendi mesaĝon al la Komision o . La Virina Komisiono havas ankaŭ konton “Virina agado” ĉe Fejsbuko , kaj ĉiuj estas invitataj sekvi kaj “ŝati” ĝin.
+
+Miora gvidas la esperantistan virinan asocion en Afriko kaj delonge agadas en tiu kampo. Kongresojn por afrikaj virinoj ŝi jam organizis en 2018, kaj poste en 2024 antaŭ la Universala Kongreso (UK) en Aruŝo. Tiuj estis neforgeseblaj eventoj .
+
+Antaŭ la UK en Graz, la 30-an kaj 31-an de julio 2026, okazos la Unua Kongreso de Virinoj. La temo de la kongreso estos: “Virinoj: povoplenaj homoj”. Estos ankaŭ abunda interkultura programo de virinoj el diversaj landoj. Kiu ne jam aliĝis al la UK povos mendi la Antaŭkongreson A2 “Virina Kongreso” en sia aliĝilo al la UK.
+
+La 2-a Kongreso de Virinoj okazos en 2027 dum la Kongreso de ILEI en Pollando. Oni planas, ke ĝi daŭru plenan semajnon.
+
+Laŭ Miora, virinoj estas homoj kun propra identeco kaj gravaj spertoj. Ŝi opinias, ke virinoj povas kuraĝigi unu la aliajn antaŭeniri kaj kunlabori, por evoluigi nian amatan lingvon. Laŭ ŝi, virinoj uzu siajn kapablojn por kune kreski, helpante unu la aliajn. Ŝi invitas ĉiujn veni por kunlabori kun la agado de la Virina Komisiono.
+
+Alessandra Madella Miora Raveloharison
+
+La plena intervjuo kun Miora estas legebla ĉi tie: https://esperanto.cgtn.com/2026/06/17/ARTI1781669002224197 Intervjuis ŝin Alessandra Madella.
+
+2
+
+Alessandra Madella estas italino, nun loĝanta en Ĉinujo. Ŝi instruas Interkulturan Komunikadon kaj Esperanton ĉe la Universitato de Zaozhuang. Ŝi estas vic-prezidanto de ILEI (Internacia Ligo de Esperantistaj Instruistoj).
+
+Miora Raveloharison estas madagaskara esperantistino, estrarano de la Afrika Komisiono kaj la Virina Komisiono de UEA, kunfondinta de Esperantista Virina Asocio en Afriko (EVAA), membro de Internacia Ligo de Esperantistaj Instruistoj (ILEI) en Madagaskaro, honora membro de la landa asocio Unuiĝa Malagasa Esperantisto (UME), honora membro de Kristana Esperantista Ligo Internacia (KELI) en Madagaskaro. Ŝi estas pastorino kaj doktorino, instruista esploristino.
+
+abunda: en bona kvanto aŭ nombro, kiu sufiĉos al ĉiaj bezonoj, sen risko de mankoj.
+
+aliĝi: aldoniĝi, almetiĝi, membriĝi, aparteniĝi al, iĝi partoprenanto en io; aliĝilo: dokumento per kiu oni enskribiĝas al kongreso aŭ simila aranĝo.
+
+ĉe-este: estante tie en la loko, kie io okazas; ne virtuale aŭ rete.
+
+estraro: la grupo de homoj, kiuj direktas la agadon de asocio aŭ alia organizaĵo; estrarano: membro de estraro.
+
+evento: aparta, sufiĉe grava kaj memorinda okazaĵo.
+
+federacio: unuiĝo aŭ kungrupiĝo de ŝtatoj, asocioj aŭ organizaĵoj por komuna celo.
+
+Fejsbuko (Facebook): nomo de populara retejo, kie la homoj interŝanĝas informojn, opiniojn, fotojn, kaj tiel plu.
+
+identeco: la maniero, laŭ kiu oni vidas sin; la bildo, kiun homo aŭ hom-grupo havas pri si mem.
+
+komisiono: malgranda grupo formita interne de pli granda organizaĵo kun la celo plenumi difinitan taskon.
+
+konferenco: renkontiĝo de fakuloj, kiuj diskutas gravajn aferojn rilate al sia fako.
+
+konto: (en komputado) la persona enskribiĝo de ĉiu unuopa uzanto en komputilo aŭ retejo, normale atingebla per uzanto-nomo kaj pasvorto.
+
+kun-labori: okupiĝi kune pri iu komuna laboro aŭ projekto.
+
+parto-preni: esti unu el la homoj, kiuj ĉe-estas kaj kune aktivas en iu komuna agado.
+
+respondeco: la devo okupiĝi pri plenumado de iu agado kaj respondi al plendoj aŭ aliaj komentoj pri ĝia realigo; la devo zorgi pri la rezulto de iu ago aŭ faro, aŭ pri la taŭga plenumo de iu afero.
+
+
+---
+
+# La viro, kiu faligis murojn
+
+**Published:** 2026-07-19
+
+**URL:** https://uea.facila.org/filmetoj/la-viro-kiu-faligis-murojn-r406
+
+**Categories:** Filmetoj
+
+[Embed] https://www.youtube.com/embed/TiOOJuwtaqQ?width=100%25&height=86.25
+
+Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
+
+
+---
+
+# Kial ni estas perfortemaj? [Teorio de Socia lernado]
+
+**Published:** 2026-07-26
+
+**URL:** https://uea.facila.org/filmetoj/kial-ni-estas-perfortemaj-teorio-de-socia-lernado-r407
+
+**Categories:** Filmetoj
+
+[Embed] https://www.youtube.com/embed/xYHyIRgtOWs?width=100%25&height=86.25
+
+1
+
+Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
+
+
+---
