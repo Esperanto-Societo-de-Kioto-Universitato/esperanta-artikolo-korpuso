@@ -1,10 +1,27 @@
 ---
 source: "UEA Facila (uea.facila.org)"
-generated_at: "2026-08-13T10:14:40.932097+00:00"
+generated_at: "2026-08-22T16:14:09.726355+00:00"
 generator: "retradio_lib.py"
-time_range: "2026-04-08 – 2026-04-26"
+time_range: "2026-04-05 – 2026-04-26"
 ---
 
+
+# La 4-a datreveno de EsperRadio 2026.
+
+**Published:** 2026-04-05
+
+**URL:** https://uea.facila.org/filmetoj/la-4-a-datreveno-de-esperradio-2026-r391
+
+**Categories:** Filmetoj
+
+[Embed] https://www.youtube.com/embed/uu_2xK-mhsA?width=100%25&height=86.25
+
+1
+
+Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
+
+
+---
 
 # Kvin infanoj samtempe
 

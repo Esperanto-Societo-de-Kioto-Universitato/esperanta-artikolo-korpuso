@@ -1,6 +1,6 @@
 ---
 source: "UEA Facila (uea.facila.org)"
-generated_at: "2026-08-13T10:14:40.995979+00:00"
+generated_at: "2026-08-22T16:14:09.924876+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-08-02 – 2026-08-09"
 ---
@@ -51,6 +51,23 @@ time_range: "2026-08-02 – 2026-08-09"
 [Embed] https://www.youtube.com/embed/46tmJlslq64?width=100%25&height=86.25
 
 2
+
+Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
+
+
+---
+
+# Mono en siaj diversaj strangaj formoj
+
+**Published:** 2026-08-09
+
+**URL:** https://uea.facila.org/filmetoj/mono-en-siaj-diversaj-strangaj-formoj-r385
+
+**Categories:** Filmetoj
+
+[Embed] https://www.youtube.com/embed/6rk647p2hJs?width=100%25&height=86.25
+
+1
 
 Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
 

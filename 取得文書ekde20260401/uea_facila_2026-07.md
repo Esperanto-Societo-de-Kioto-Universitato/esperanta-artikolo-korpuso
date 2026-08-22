@@ -1,6 +1,6 @@
 ---
 source: "UEA Facila (uea.facila.org)"
-generated_at: "2026-08-13T10:14:40.972006+00:00"
+generated_at: "2026-08-22T16:14:09.828140+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-07-03 – 2026-07-26"
 ---
@@ -81,6 +81,25 @@ podkasto: programo trovebla en Interreto, kiun interesatoj povas kopii kaj aŭsk
 teamo: grupo de kunludantoj en sporto aŭ ludo; grupo de homoj, kiuj agas kune por plenumi iun taskon.
 
 UN: Unuiĝintaj Nacioj.
+
+
+---
+
+# KuriPorKONGO
+
+**Published:** 2026-07-05
+
+**URL:** https://uea.facila.org/filmetoj/kuriporkongo-r404
+
+**Categories:** Filmetoj
+
+[Embed] https://www.youtube.com/embed/tgOim_jBbao?width=100%25&height=86.25
+
+1
+
+1
+
+Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
 
 
 ---
@@ -246,6 +265,75 @@ respondeco: la devo okupiĝi pri plenumado de iu agado kaj respondi al plendoj a
 [Embed] https://www.youtube.com/embed/TiOOJuwtaqQ?width=100%25&height=86.25
 
 Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
+
+
+---
+
+# Venu al la Itala Kongreso de Esperanto!
+
+**Published:** 2026-07-26
+
+**URL:** https://uea.facila.org/artikoloj/kongresoj-kaj-kunvenoj/venu-al-la-itala-kongreso-de-esperanto-r529
+
+**Author:** Laura Brazzabeni
+
+**Categories:** Kongresoj kaj kunvenoj
+
+**Audio:** https://uea.facila.org/uploads/monthly_2026_07/ItalaKongresored.mp3.a5fa022f63402cac67c1f322154449e7.mp3
+
+Eblas aŭskulti ĉi tiun artikolon, kiun voĉlegis Patrick Morando.
+
+Ĉu vi jam havas planojn por ĉi tiu aŭgusto? Se vi serĉas belan lokon, interesajn homojn kaj grandan eblon paroli Esperanton, ni havas bonegan proponon por vi. De la 22-a ĝis la 29-a de aŭgusto 2026 okazos la Itala Kongreso de Esperanto. Tiu grava aranĝo atendos vin en tre speciala kaj vizitinda urbeto: Vico del Gargano. ( Prononcu la nomon same kiel en Esperanto, sed anstataŭ “vico” diru “viko”.)
+
+Vico del Gargano estas ĉarma historia vilaĝo en la suda parto de Italio, en la regiono Apulio. Ĝi situas sur monteto, proksime al la maro kaj al granda, verda arbaro. Ĝi estas konata kiel unu el la plej belaj vilaĝoj de Italio. Ĝiaj stratetoj kaj malnovaj domoj kreos magian etoson por nia kongreso. Ĝi estas la perfekta loko por ferii kaj lerni samtempe.
+
+Tre gravan kaj aktualan temon havas la ĉi-jara kongreso: Esperanto: lingvo de paco kaj de defendo de identecoj . En la nuna mondo, ni bezonas pacon pli ol iam ajn. Esperanto helpas nin kompreni unu la alian sen perdi nian propran kulturon. Per nia lingvo, ni povas protekti la diversecon de la mondo.
+
+La organizanto de la kongresa programo estos Lu Wunsch, konata kaj sperta esperantisto. Li kaj la loka teamo laboras multe por prepari bonegan programon por ĉiu gasto.
+
+La programo de la semajno estos tre riĉa. Ne gravas, ĉu vi estas komencanto aŭ sperta esperantisto, ĉar ĉiuj trovos ion interesan. Jen kelkaj aferoj, kiuj atendos vin:
+
+•    Ĉu vi volas plibonigi vian Esperanton? Okazos lingvaj kursoj por diversaj niveloj. Se vi estas nova en nia komunumo , vi povos partopreni en la kurso por komencantoj. Se vi jam parolas bone kaj volas diskuti, vi povos elekti la paroligan kurson por progresantoj.
+
+• Ĉeestos multaj interesaj prelegantoj el diversaj landoj.
+
+•    Italio estas lando de arto kaj naturo. Dum la kongreso, ni kune vizitos la plej vidindajn lokojn ĉirkaŭ Vico del Gargano. Ni promenos en la naturo, vidos la maron kaj lernos pri la loka historio. Ĉi tiaj ekskursoj estas la plej bona maniero por amikiĝi kun aliaj partoprenantoj kaj paroli Esperanton en tute natura maniero.
+
+La Itala Kongreso ne estas nur serio da prelegoj. Ĝi estas granda festo de amikeco. Vi renkontos homojn el Italio kaj el la tuta mondo. Vi povos kune manĝi la bongustajn italajn manĝojn, kanti, ridi, kaj pasigi neforgeseblan tempon. Post la lastaj monatoj de laborado aŭ studado, vi meritas tian ĝuindan someran sperton.
+
+Partopreni en la kongreso estas facila maniero fariĝi parto de la granda esperantista familio.
+
+Por aliĝi kaj ricevi informojn, alklaku la ligilon . Ĝis baldaŭ en la bela Italio!
+
+Laura Brazzabeni
+
+2
+
+Laura Brazzabeni estas itala esperantistino kaj la prezidanto de Itala Esperanto-Federacio. Ŝi estas la Ĝenerala Direktoro de Itala Instituto de Esperanto, kie ŝi okupiĝas pri instruado kaj kunordigado de ekzamenoj. Ŝi ankaŭ okupiĝas pri kongresoj por Internacia Ligo de Esperantistaj Instruistoj (ILEI).
+
+aktuala: nuntempa
+
+aliĝi: aldoniĝi, almetiĝi, membriĝi, aparteniĝi al, iĝi partoprenanto en io.
+
+ĉe-esti: esti tie en la loko, kie io okazas.
+
+etoso: ĝenerala sento, kiun la ĉirkaŭaĵo prezentas al la ĉeestantoj.
+
+identeco: la maniero, laŭ kiu oni vidas sin; la bildo, kiun homo aŭ hom-grupo havas pri si mem; la eco de persono, kiu efektive estas tia, kia li/ŝi vidas sin
+
+komunumo: societo bazita sur komuneco de vivo kaj interesoj; grupo de homoj kune vivantaj kaj kun komunaj interesoj.
+
+magia: mirinda, kvazaŭ farita per super-naturaj rimedoj.
+
+parto-preni: esti unu el la homoj, kiuj ĉe-estas kaj kune aktivas en iu komuna agado.
+
+prononci: elparoli; diri sonojn por formi vortojn.
+
+protekti: defendi kontraŭ danĝeroj.
+
+situi: troviĝi, esti en iu loko.
+
+teamo: grupo de kunludantoj en sporto aŭ ludo; grupo de homoj, kiuj agas kune por plenumi iun taskon.
 
 
 ---

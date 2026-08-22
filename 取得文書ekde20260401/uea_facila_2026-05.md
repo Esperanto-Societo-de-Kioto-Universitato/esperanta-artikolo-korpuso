@@ -1,8 +1,8 @@
 ---
 source: "UEA Facila (uea.facila.org)"
-generated_at: "2026-08-13T10:14:40.946014+00:00"
+generated_at: "2026-08-22T16:14:09.812031+00:00"
 generator: "retradio_lib.py"
-time_range: "2026-05-02 – 2026-05-30"
+time_range: "2026-05-02 – 2026-05-31"
 ---
 
 
@@ -159,6 +159,23 @@ UEA: Universala Esperanto-Asocio
 **Categories:** Filmetoj
 
 [Embed] https://www.youtube.com/embed/Vq9BpvW9rs0?width=100%25&height=86.25
+
+2
+
+Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
+
+
+---
+
+# Kiu velas sur mar'
+
+**Published:** 2026-05-16
+
+**URL:** https://uea.facila.org/filmetoj/kiu-velas-sur-mar-r397
+
+**Categories:** Filmetoj
+
+[Embed] https://www.youtube.com/embed/1amb726Tdio?width=100%25&height=86.25
 
 2
 
@@ -413,6 +430,21 @@ registri: konservi sonojn (voĉojn aŭ muzikon) aŭ filmi okazaĵon por posta a�
 sidejo: ĉefa oficejo de organizaĵo.
 
 sub-teni: helpi homon, asocion, projekton, politikon aŭ simile, por ke ĝi sukcesu.
+
+
+---
+
+# EsKu 82 Zsofia Korody
+
+**Published:** 2026-05-31
+
+**URL:** https://uea.facila.org/filmetoj/esku-82-zsofia-korody-r399
+
+**Categories:** Filmetoj
+
+[Embed] https://www.youtube.com/embed/fmRxetIS90w?width=100%25&height=86.25
+
+Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
 
 
 ---
