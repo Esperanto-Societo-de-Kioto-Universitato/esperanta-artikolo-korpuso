@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-03-03T10:42:50.429873+00:00"
+generated_at: "2026-09-15T10:54:36.806347+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-06-04 – 2025-06-30"
 ---
@@ -36,8 +36,6 @@ Yue
 
 Raportis kaj fotis: Rafael Henrique Zerbetto
 
-<span style="font-family: "times new roman"; font-size: 20px;">Drakboata Festo, la unua tradicia festo de Ĉinio enlistigita kiel monda nemateria kultura heredaĵo - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -60,8 +58,6 @@ La ekspozicio unuafoje aranĝis zonon pri malalt-altituda ekonomio, kun kvin sub
 Partoprenantoj deziras efektivigi pli da projektoj kaj kunlaboraj kontraktoj, tio estas ankaŭ la celo de la ekspozicio. La datumoj jam atestas la fruktodonajn rezultojn de la ekspozicio: Ekde la okazigo de la ekspozicio, la totala investo de 56.776 miliardoj da usonaj dolaroj estis subskribita en kontraktoj por eksterlande financaj projektoj, kaj la totala investo de 9 713.925 miliardoj da juanoj estis subskribita en kontraktoj por enlandaj kunlaboraj projektoj.
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Trezoroj de Shang-dinastio de Ĉinio - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -88,8 +84,6 @@ Iuj retanoj diris: "La aktiveco estas signifoplena. La infanoj povas heredi la t
 
 Redaktoro: Liu Zijia
 
-<span style="font-family: "times new roman"; font-size: 20px;">Shaanxi: Noviga kunlaboro sur sltnivela platformo laŭ Silka Vojo - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -106,8 +100,6 @@ El Popola Chinio
 En la lastaj jaroj, la modludila marko Pop Mart el Ĉinio rapide akiris popularecon en la eŭropa merkato. Fondita en 2010, ĝi kreskis de eta marko ĝis ĉefflua kultura fenomeno fervore sekvata de junuloj. Ĝiaj produktoj, kun treege rekoneblaj dezajnoj, famiĝis tutmonde.
 
 Redaktoro: Liu Zijia
-
-<span style="font-family: "times new roman"; font-size: 20px;">Shaanxi: Noviga kunlaboro sur sltnivela platformo laŭ Silka Vojo - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -147,8 +139,6 @@ La kvinageneracia farmisto Rick Kimberly rigardas terkultivadon ne nur kiel kome
 Randy Renze, duon-emerita farmisto el Manning, Iovao, kaj iama oficisto de John Deere, iam vojaĝis inter Usono kaj Ĉinio dum la jaroj por konstrui rilatojn kun entreprenoj kaj la registaro."Tarifoj kostas al la usona farmisto," diris Renze. Kvankam la 90-taga paŭzo iomete malaltigis la tarifojn, li rimarkigis, ke ili ankoraŭ estas multe super antaŭaj niveloj.
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">LABUBU famiĝis tutmonde - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -211,8 +201,6 @@ Sur la modernaj vojoj de Xinjiang, trajnoj kaj kamionoj anstataŭas kamelojn kaj
 
 Verkis: Rafael Henrique Zerbetto
 
-<span style="font-family: "times new roman"; font-size: 20px;">Agrikulturaj produktoj kaj tarifoj -- Iovaaj farmistoj volas stabilecon - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -231,8 +219,6 @@ La 6-an de junio ĉina prezidanto Xi Jinping ricevis aŭdiencon de Panchen Erde
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Malfermeco kaj inkluzivigo pavimas vojon de xinjiang-a disvolvado - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -257,8 +243,6 @@ Donald Trump esprimis grandan respekton al prezidanto Xi Jinping kaj diris, ke l
 
 Redaktoro: Xie Ruifeng
 
-<span style="font-family: "times new roman"; font-size: 20px;">Malfermeco kaj inkluzivigo pavimas vojon de xinjiang-a disvolvado - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -279,8 +263,6 @@ La unua kunveno de la mekanismo pri ĉin-usona ekonomia kaj komerca interkonsili
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Malfermeco kaj inkluzivigo pavimas vojon de xinjiang-a disvolvado - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -307,8 +289,6 @@ Ekranego montras realtempan monitoradon de la medio.
 
 Raportis kaj fotis: Rafael Henrique Zerbetto
 
-<span style="font-family: "times new roman"; font-size: 20px;">Malfermeco kaj inkluzivigo pavimas vojon de xinjiang-a disvolvado - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -333,8 +313,6 @@ La tre atendata komerca intertraktado okazas nur kelkajn tagojn post telefona ko
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Malfermeco kaj inkluzivigo pavimas vojon de xinjiang-a disvolvado - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -371,8 +349,6 @@ La sekva agado estas grava. Ĝi devus esti mezurita, principa kaj inteligenta.
 
 Redaktoro: Xie Ruifeng
 
-<span style="font-family: "times new roman"; font-size: 20px;">Malfermeco kaj inkluzivigo pavimas vojon de xinjiang-a disvolvado - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -395,8 +371,6 @@ Li esprimis esperon, ke la progreso de la londona kunveno helpos plifortigi konf
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Massoud Amin: Kion signifas la konflikto inter Usono kaj Ĉinio por la mondo? - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -421,8 +395,6 @@ Li faris la rimarkojn en la unua kunveno de la mekanismo pri ĉin-usona ekonomia
 
 Redaktoro: Xie Ruifeng
 
-<span style="font-family: "times new roman"; font-size: 20px;">Massoud Amin: Kion signifas la konflikto inter Usono kaj Ĉinio por la mondo? - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -443,8 +415,6 @@ Ekde la unua Pintkunveno inter Ĉinio kaj Centra Azio, kunlaboro inter Ĉinio ka
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Ĉina vicĉefministro urĝas Usonon solvi komercajn disputojn kun Ĉinio per dialogo kaj kunlaboro - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -467,8 +437,6 @@ Laŭ statistiko de doganoj, la importado kaj eksportado de Ĉinio al la kvin c
 
 Redaktoro: Xie Ruifeng
 
-<span style="font-family: "times new roman"; font-size: 20px;">Ĉina vicĉefministro urĝas Usonon solvi komercajn disputojn kun Ĉinio per dialogo kaj kunlaboro - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -485,8 +453,6 @@ El Popola Chinio
 Astano estas la ĉefurbo de Kazaĥio, kun mirindaj vidindaĵoj kaj pejzaĝoj. Somere Astano havas smeraldan ĉielon, pompajn florojn kaj aparte belan horizonton. Ĉi tie ankaŭ okazos la 2-a Pintkunveno de Ĉinio kaj Centra Azio.
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Ĉina vicĉefministro urĝas Usonon solvi komercajn disputojn kun Ĉinio per dialogo kaj kunlaboro - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -510,8 +476,6 @@ Tokajev diris, ke Ĉinio estas amika najbaro, intima amiko kaj fidinda partnero 
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Somera beleco de Astano - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -541,8 +505,6 @@ La centraziaj landoj atingis konsenton, ke la kreskigo de laborantaro de special
 *Eksa ĉefministro de Kirgizio kaj profesoro ĉe la Lernejo "La Zono kaj Vojo" de la Pekina Instruista Universitato
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Somera beleco de Astano - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -575,8 +537,6 @@ Projektoj kadre de la "Cifereca Silka Vojo" celas krei komunan interregionan se
 
 Redaktoro: Xie Ruifeng
 
-<span style="font-family: "times new roman"; font-size: 20px;">Somera beleco de Astano - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -608,8 +568,6 @@ Per komunaj ekspozicioj, akademiaj partnerecoj kaj interŝanĝo de plej bonaj pr
 
 Redaktoro: Xie Ruifeng
 
-<span style="font-family: "times new roman"; font-size: 20px;">Somera beleco de Astano - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -626,8 +584,6 @@ El Popola Chinio
 Grandaj pandoj estas inter la plej raraj bestoj en la mondo. Konataj kiel "vivantaj fosilioj", ili estas ne nur trezoroj de Ĉinio, sed ankaŭ bestoj tre ŝatataj en la tuta mondo. La Esplorbazo de Grandaj Pandoj en Chengdu, Sichuan-provinco de Ĉinio, estas neprofitocela bredejo de grandaj pandoj financata de la ĉina registaro kaj ankaŭ esplorejo pri grandaj pandoj, malgrandaj pandoj kaj aliaj raraj bestoj. Ĝi troviĝas nur 10 kilometrojn for de la urbocentro de Chengdu kaj estis fondita en 1987 por prizorgado de ses grandaj pandoj savitaj el malsano kaj malsato. Nun en la bazo vivas 237 grandaj pandoj en malsamaj aĝoj.
 
 Raportis kaj fotis: Rafael Henrique Zerbetto
-
-Uzbeka klerulo: Gravas interkultura dialogo kaj interhoma interŝanĝo por Uzbekio kaj Ĉinio - esperanto.china.org.cn
 
 El Popola Chinio
 
@@ -712,8 +668,6 @@ Antaŭ nelonge, kiam Brazilo inaŭguris la hidrelektran centralon Belo Monte, fo
 
 Verkis kaj fotis: Rafael Henrique Zerbetto
 
-<span style="font-family: "times new roman"; font-size: 20px;">Xi Jinping renkontiĝis kun kazaĥa prezidento Tokayev - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -755,8 +709,6 @@ Nanyin havas signifan akademian esplorvaloron en muzikologio, antropologio, ling
 
 Redaktoroj: Rafael Henrique Zerbetto kaj Xie Ruifeng
 
-<span style="font-family: "times new roman"; font-size: 20px;">Ĉina sperto pri energitransiro: Diskoniginda en COP30 - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -784,8 +736,6 @@ Oni povas diri, ke Meshrepo konsistigas la plej gravan portanton de ujguraj kult
 
 Redaktoro: Xie Ruifeng
 
-<span style="font-family: "times new roman"; font-size: 20px;">Ĉina sperto pri energitransiro: Diskoniginda en COP30 - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -808,8 +758,6 @@ Li ankaŭ diris, ke ne ekzistas gajnintoj en tarifaj kaj komercaj militoj, kaj 
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Esplorbazo de Grandaj Pandoj en Chengdu - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -842,8 +790,6 @@ Kiel la plej reprezenta eksponejo pri antikva Shu-civilizacio, la Muzeo de Jinsh
 
 Raportis kaj fotis: Rafael Henrique Zerbetto
 
-<span style="font-family: "times new roman"; font-size: 20px;">Ĉina sperto pri energitransiro: Diskoniginda en COP30 - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -868,8 +814,6 @@ Preskaŭ 40 ekonomiaj kaj komercaj eventoj estas planitaj dum la ekspozicio, ink
 La unua ekspozicio okazis en Kunming en 2013, la saman jaron kiam Ĉinio prezentis la iniciaton "La Zono kaj Vojo". Ĝi de tiam faciligis pli ol 110 miliardojn da usonaj dolaroj en eksterlandaj komercaj transakcioj kaj servis pli ol 20 mil entreprenojn. En 2024, komercado inter Ĉinio kaj sudaziaj landoj atingis preskaŭ 200 miliardojn da usonaj dolaroj, duobliĝante en la pasinta jardeko kun averaĝa jara kreskorapideco de 6.3%.
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">La arkeologiejo Jinsha en Chengdu - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -896,8 +840,6 @@ Post prezento de la tradicia maskoŝanĝado de Sichuan-a Opero, artisto salutas 
 
 Raportis kaj fotis: Rafael Henrique Zerbetto
 
-<span style="font-family: "times new roman"; font-size: 20px;">Ĉina sperto pri energitransiro: Diskoniginda en COP30 - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -922,8 +864,6 @@ Kiel unu el la muzikaj tradicioj, ekzistas diferencaj skoloj de ludarto de
 Antikvaj guĉinoj estis faritaj el ligno kaj kordoj el tordita silko. Ornamaĵoj inkluzivis inkrustitajn punktojn el perlamoto aŭ aliaj similaj materialoj. En 2010 guĉino el Song-dinastio estis vendita kontraŭ 22 milionoj da usonaj dolaroj, fariĝinte la plej multekosta muzikinstrumento iam vendita.
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Malfermiĝis 9-a Ĉina kaj Sud-Azia Ekspozicio en Kunming - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -953,8 +893,6 @@ Sen kredinda strategio, la komerca milito de la usona prezidento riskas subfosi 
 *Quang Thanh Phan, el Vjetnama Nacia Universitato en Ho-Ĉi-Min-urbo de Vjetnamio
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Okazis lanĉ-ceremonio de libro de islanda esperantisto - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -990,8 +928,6 @@ Komence de la 20-a jarcento, la kultura elito provis restarigi Kunĉju-operon, k
 Hodiaŭ, Kunĉju-opero estas profesie prezentita en sep gravaj urboj de Ĉinio: Pekino, Ŝanhajo, Suzhou, Nankino, Chenzhou, Wenzhou kaj Hangzhou, kaj ankaŭ en Taibei de Taiwan de la lando. Neprofesiaj operaj societoj estas aktivaj en multaj aliaj urboj en Ĉinio kaj eksterlande, kaj operkompanioj foje turneas.
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Guĉino - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -1032,8 +968,6 @@ Kun patro el Islando kaj patrino el Ĉinio, Eirdis kreskis sub la du kulturoj k
 
 Redaktoro: Gao Shuyuan
 
-<span style="font-family: "times new roman"; font-size: 20px;">Artistoj riĉigas noktovivon en Kuanzhai-aleo de Chengdu - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -1058,8 +992,6 @@ Wang Shengjuan ankaŭ menciis, ke kiam ŝia edzo Wang Zailang estis grave malsan
 La rakonto de Wang Shengjuan montras al ni la malfacilaĵojn kaj belecon de nemateria kultura heredaĵo, kaj ni estas profunde kortuŝitaj de ŝiaj persisto kaj sindediĉo.
 
 Redaktoro: Sheng Min
-
-<span style="font-family: "times new roman"; font-size: 20px;">Guĉino - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -1102,8 +1034,6 @@ La ĉina verkisto kaj pentristo Feng Jicai diris: "Kvankam la ĉinaj skribaĵoj 
 
 Redaktoro: Liu Zijia
 
-<span style="font-family: "times new roman"; font-size: 20px;">Guĉino - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -1124,8 +1054,6 @@ Al la malferma ceremonio ĉeestis ĉina ĉefministro Li Qiang. Li diris, ke Ĉin
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Han Meilin: Kial mi verkis "Ĉielan Libron"? - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -1204,8 +1132,6 @@ João Batista Magalhães, ministro-konsilanto ĉe la brazila ambasadorejo en Pek
 
 Verkis: Rafael Henrique Zerbetto
 
-<span style="font-family: "times new roman"; font-size: 20px;">Han Meilin: Kial mi verkis "Ĉielan Libron"? - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -1231,8 +1157,6 @@ Entute vigla kaj turisma urbo, kun unika strukturo por vizitantoj kaj tradicia k
 
 (el UEA.org)
 
-<span style="font-family: "times new roman"; font-size: 20px;">Sukcesa brazila Junia Festo en Pekino - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -1249,8 +1173,6 @@ El Popola Chinio
 Inventita de Bi Sheng ĉirkaŭ la jaro 1040, dum la dinastio Norda Song (960-1127), la tekniko de movebla presado per lignopecoj estas unu el la kvar grandaj inventoj de Ĉinio, kune kun pulvo, papero kaj kompaso. Kompare kun la malnova prestekniko de Tang-dinastio (618-907), kio postulis unu tutan lignoblokon por ĉiu paĝo, la tekniko de moveblaj pecoj ebligas redaktadon de la teksto presota kaj post presado oni povas reuzi la tipojn. La vilaĝo Dongyuan de la urbo Ruian en la provinco Zhejiang de Ĉinio, estas la nura loko, kie la tekniko de presado per lignaj moveblaj tipoj daŭre estas heredata pro sia historia kaj kultura graveco. En 2011 tiu tekniko estis sukcese enmetita en la liston de Unesko pri Nemateria Kultura Heredaĵo Bezonanta Urĝan Protekton.
 
 Verkis kaj fotis: Rafael Zeerbetto
-
-<span style="font-family: "times new roman"; font-size: 20px;">Sukcesa brazila Junia Festo en Pekino - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -1269,8 +1191,6 @@ Sur la strato Zhongyi de la urbo Ruian, Ĉinio, la aktoroj de Nanxi-opero preze
 
 Redaktoro: Sheng Min
 
-<span style="font-family: "times new roman"; font-size: 20px;">111-a UK okazos en Graco - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -1287,8 +1207,6 @@ El Popola Chinio
 La farado de papera rondventumilo de Wenzhou estas tradicia ĉina metiarto, kiu kombinas paperfaradon kaj presteknikojn. Ĝia produkttekniko estas nemateria kultura heredaĵo de la urbo Wenzhou. La papero farita el pura morusŝelo havas unikan teksturon, donante al la ventumilo artan belecon kiel murpentraĵo.
 
 Redaktoro: Sheng Min
-
-<span style="font-family: "times new roman"; font-size: 20px;">111-a UK okazos en Graco - esperanto.china.org.cn</span>
 
 El Popola Chinio
 

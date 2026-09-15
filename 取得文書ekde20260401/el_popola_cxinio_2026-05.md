@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-08-13T10:15:12.612723+00:00"
+generated_at: "2026-09-15T11:04:52.347081+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-05-01 – 2026-05-29"
 ---
@@ -349,8 +349,6 @@ https://visa.vfsglobal.com/chn/en/bra/apply-visa.
 
 Raportis: Rafael Henrique Zerbetto
 
-Ĉina Fokuso / China Focus - Esperanto
-
 El Popola Chinio
 
 
@@ -373,8 +371,6 @@ El-Enany diris, ke Unesko volas plifortigi kunlaboron kun Ĉinio, levi edukan ka
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-Ĉina Fokuso / China Focus - Esperanto
 
 El Popola Chinio
 
@@ -399,8 +395,6 @@ Li ankaŭ atentigis, ke protekti pacon kaj stabilecon de la Tajvana Markolo esta
 
 Redaktoro: Xie Ruifeng
 
-Ĉina Fokuso / China Focus - Esperanto
-
 El Popola Chinio
 
 
@@ -417,8 +411,6 @@ El Popola Chinio
 La 14-an de majo ĉina prezidanto Xi Jinping kaj usona prezidento Donald Trump vizitis la Ĉielan Altaron de Pekino. La du ŝtatestroj kunfotiĝis antaŭ la Preĝhalo por Riĉa Rikolto.
 
 Redaktoro: Xie Ruifeng
-
-Ĉina Fokuso / China Focus - Esperanto
 
 El Popola Chinio
 
@@ -448,8 +440,6 @@ La kompanio adoptis ĉinan strategion, kiun oni povas priskribi kiel "novigi kun
 "Por ni, la novigado en Ĉinio okazas tiel rapide, ke vi devas fari ĝin surloke, aliel vi neniam postkuros," li diris.
 
 Redaktoro: Xie Ruifeng
-
-Ĉina Fokuso / China Focus - Esperanto
 
 El Popola Chinio
 
@@ -484,8 +474,6 @@ Antaŭ la ŝtatestraj interparoloj, Xi Jinping gastigis bonvenan ceremonion por 
 
 Redaktoro: Xie Ruifeng
 
-Ĉina Fokuso / China Focus - Esperanto
-
 El Popola Chinio
 
 
@@ -513,8 +501,6 @@ Multaj kamparaj komunumoj en Sud-Afriko forte dependas de agrikultura eksportado
 
 Redaktoro: Xie Ruifeng
 
-Ĉina Fokuso / China Focus - Esperanto
-
 El Popola Chinio
 
 
@@ -540,8 +526,6 @@ Kobzev emfazis, ke la 15-a Kvinjara Plano de Ĉinio, kiu emfazas altkvalitan dis
 
 Redaktoro: Xie Ruifeng
 
-Ĉina Fokuso / China Focus - Esperanto
-
 El Popola Chinio
 
 
@@ -558,8 +542,6 @@ El Popola Chinio
 Antaŭtagmeze de la 20-a de majo, ĉina prezidanto Xi Jinping interparolis kun rusa prezidento Vladimir Putin en la Granda Popola Halo de Pekino. La du ŝtatestroj akiris komunan konsenton pri daŭrigo de la valideco de Ĉin-Rusa Traktato pri Bona Najbareco kaj Amikeca Kunlaboro.
 
 Redaktoro: Xie Ruifeng
-
-Ĉina Fokuso / China Focus - Esperanto
 
 El Popola Chinio
 
@@ -585,8 +567,6 @@ Nuntempe la ĉefa tasko de la mondo ne estas konkuro inter ideologioj, sed ellab
 Resume, la sinsekvaj vizitoj de usona kaj rusa gvidantoj malkaŝis la fakton, ke nun Ĉinio ludas ian rolon en la estigo de preskaŭ ĉiuj gravaj diplomatiaj rilatoj kaj ĉiuj strategioj rilataj al estontaj internaciaj situacioj. Ĉinio, per sia socia disvolviĝo, politika sistemo kaj stabila strategio, fariĝas grava forto por stabiligi rilatojn inter gravaj landoj kaj konstrui homaran komunumon de komuna estonteco.
 
 Redaktoro: Gao Shuyuan
-
-Ĉina Fokuso / China Focus - Esperanto
 
 El Popola Chinio
 
@@ -660,8 +640,6 @@ La krizoj de Ukrainio ĝis Gazao montras, ke al la mondo ne mankas dialogo, sed 
 La preskaŭ samtempaj vizitoj de Usono kaj Rusio al Pekino reflektas pli grandan realecon: La nuna mondo fariĝas samtempe pli konkurenca kaj pli interdependa. En tiu situacio, la rilatoj inter Ĉinio kaj Rusio ne estas nur afero inter du najbaraj potencoj, sed ankaŭ parto de la pli vasta procezo de restrukturado de la internacia ordo. Kaj eble la plej grava demando de nia epoko ne estas "kiu gvidos la mondon", sed "ĉu la mondo ankoraŭ povos konservi sufiĉe da dialogo por eviti krizojn kaj rompiĝojn, kiuj superas regadon".
 
 Verkis: Bui Hai Mung
-
-Ĉina Fokuso / China Focus - Esperanto
 
 El Popola Chinio
 
@@ -740,8 +718,6 @@ La rakonto de ĉi tiu esploristo estas unu el multaj ekzemploj, kiuj montras la 
 
 Raportis: Bui Hai Mung
 
-Ĉina Fokuso / China Focus - Esperanto
-
 El Popola Chinio
 
 
@@ -805,8 +781,6 @@ Kiel esprimas la ideo de ESHAKO:
 
 Unu tabulo, tri lingvoj; saĝa ludo, mondo kunigita.
 
-Ĉina Fokuso / China Focus - Esperanto
-
 El Popola Chinio
 
 
@@ -836,8 +810,6 @@ Budorcas taxicolor
 
 Redaktoro: Xie Ruifeng
 
-Ĉina Fokuso / China Focus - Esperanto
-
 El Popola Chinio
 
 
@@ -854,8 +826,6 @@ El Popola Chinio
 La 25-an de majo la ĉinaj astronaŭtoj de Shenzhou-23 glate eniĝis en la kosmostacion Tiangong kaj renkontiĝis kun la tri kolegoj veturintaj per Shenzhou-22. Tio estas la oka fojo por ĉinaj astronaŭtoj fari renkontiĝon en la kosmostacio. Kaj estas la unua fojo, ke alvenis astronaŭto el Hongkongo.
 
 Redaktoro: Xie Ruifeng
-
-Ĉina Fokuso / China Focus - Esperanto
 
 El Popola Chinio
 
@@ -878,8 +848,6 @@ en la 24-a de majo, Usono kaj Irano jam atingis interkonsenton pri la kadro de i
 
 Redaktoro: Gao Shuyuan
 
-Ĉina Fokuso / China Focus - Esperanto
-
 El Popola Chinio
 
 
@@ -896,8 +864,6 @@ El Popola Chinio
 Ĉi-jare estas la 75-jariĝo de paca liberigo de Xizang de Ĉinio. Dum la pasintaj 75 jaroj, la regiono multe ŝanĝiĝis, kaj ĝi estas bela kaj ĉarma.
 
 Redaktoro: Xie Ruifeng
-
-Ĉina Fokuso / China Focus - Esperanto
 
 El Popola Chinio
 
@@ -916,8 +882,6 @@ La 23-an de majo popolanoj en Xizang de Ĉinio okazigis ceremonion por festi la 
 
 Redaktoro: Xie Ruifeng
 
-Ĉina Fokuso / China Focus - Esperanto
-
 El Popola Chinio
 
 
@@ -935,8 +899,6 @@ Posttagmeze de la 25-a de majo ĉina prezidanto Xi Jinping intervidiĝis kun ser
 
 Redaktoro: Xie Ruifeng
 
-Ĉina Fokuso / China Focus - Esperanto
-
 El Popola Chinio
 
 
@@ -953,8 +915,6 @@ El Popola Chinio
 Vespere de la 25-a de majo en la ceremonio okazigita en la Granda Popola Halo en Pekino ĉina prezidanto Xi Jinping donis al serba prezidento Aleksandar Vučić Amikecan Medalon de la Ĉina Popola Respubliko.
 
 Redaktoro: Xie Ruifeng
-
-Ĉina Fokuso / China Focus - Esperanto
 
 El Popola Chinio
 
@@ -1023,8 +983,6 @@ La aziaj popoloj refoje fariĝis posedantoj de sia propra destino kaj jam ne est
 
 Rafael Henrique Zerbetto
 
-Ĉina Fokuso / China Focus - Esperanto
-
 El Popola Chinio
 
 
@@ -1043,8 +1001,6 @@ El Popola Chinio
 Ĝis la fino de 2025,  entute 125.2 mil kilometroj da ŝoseoj estis en servo, tiuj veturvojoj (superantaj la 3-an gradon laŭ landa normo) okupas 95% de la tuta longeco.
 
 Redaktoro: Gao Shuyuan
-
-Ĉina Fokuso / China Focus - Esperanto
 
 El Popola Chinio
 
@@ -1074,8 +1030,6 @@ Krome, la "komisaro" povas doni praktikeblajn sugestojn al la uzanto, generi 24-
 De klarigo de fakturoj ĝis sugestoj pri energiuza optimumigo, malantaŭ la servado de la "komisaro" estas profunda transiro de serva koncepto. La serva centro pliigas sian servon, antaŭenigas profundan integriĝon de AI kun siaj kernaj komercaj agadoj, plibonigante la servokvaliton kaj malfermas novan vojon por la amasa realigo de AI en la elektroserva industrio.
 
 Redaktoro: Xie Ruifeng
-
-Ĉina Fokuso / China Focus - Esperanto
 
 El Popola Chinio
 

@@ -1,0 +1,988 @@
+---
+source: "El Popola Ĉinio (esperanto.china.org.cn)"
+generated_at: "2026-09-15T11:04:52.514840+00:00"
+generator: "retradio_lib.py"
+time_range: "2026-09-01 – 2026-09-14"
+---
+
+
+# Ĉina prezidanto Xi Jinping intervidiĝis kun uzbeka prezidento Shavkat Mirziyoyev
+
+**Published:** 2026-09-01
+
+**URL:** http://esperanto.china.org.cn/2026-09/01/content_118674695.htm
+
+**Categories:** Plej Freŝaj
+
+La 31-an de aŭgusto ĉina prezidanto Xi Jinping intervidiĝis kun uzbeka prezidento Shavkat Mirziyoyev okaze de la Pintkunveno de Ŝanhaja Kunlabora Organizo (ŜKO) 2026 en Biŝkeko, Kirgizio. Xi Jinping diris, ke sub gvidado de la du ŝtatestroj, la dulandaj rilatoj daŭre pliboniĝas kaj leviĝas kun fruktodona kunlaboro en diversaj kampoj kaj rimarkinda progreso en konstruado de ĉin-uzbeka komunumo de komuna estonteco.
+
+Xi Jinping diris, ke Ĉinio pretas labori kun Uzbekio por solidigi strategian reciprokan fidon kaj profundigi reciprok-profitan kunlaboron. Ĉinio kaj Uzbekio devas labori kune por plene efektivigi rezultojn de la pintkunveno en Tianjin kaj akceli disvolvon kaj progreson de la regiono.
+
+(el ĈRI)
+
+Redaktoro: Xie Ruifeng
+
+El Popola Chinio
+
+
+---
+
+# Ĉinio volas antaŭeniri man-en-mane laŭ moderniga vojo kun Mongolio
+
+**Published:** 2026-09-01
+
+**URL:** http://esperanto.china.org.cn/2026-09/01/content_118674706.htm
+
+**Categories:** Plej Freŝaj
+
+La 31-an de aŭgusto Xi Jinping renkontiĝis kun mongola prezidento Ukhnaa Khurelsukh okaze de la Pintkunveno de la Ŝanhaja Kunlabora Organizo 2026 en Biŝkeko, Kirgizio. Xi Jinping diris, ke Ĉinio kaj Mongolio estas proksimaj najbaroj ligitaj per montoj kaj riveroj, kaj paca kunekzistado, reciproka subteno, solidareco kaj reciprokprofita kunlaboro ĉiam estas la ĉefaj kaj difinaj trajtoj de duflankaj rilatoj. Ĉinio volas labori kun Mongolio por plie kreskigi reciprok-profitajn kunlaborojn kaj antaŭeniri man-en-mane laŭ la respektivaj vojoj de modernigo.
+
+Xi Jinping diris, ke Ĉinio pretas plifortigi la kunagadon pri disvolvaj strategioj kun Mongolio, antaŭenigi tradician kunlaboron en komerco, konektebleco kaj energio, kaj mineralaj resursoj, kaj esplori potencialon por kunlaboroj en kampoj kiel verdaj mineraloj, artefarita intelekto kaj cifereca ekonomio.
+
+(el ĈRI)
+
+Redaktoro: Xie Ruifeng
+
+El Popola Chinio
+
+
+---
+
+# Xi Jinping renkontiĝis kun Vladimir Putin en Biŝkeko, Kirgizio
+
+**Published:** 2026-09-01
+
+**URL:** http://esperanto.china.org.cn/2026-09/01/content_118674733.htm
+
+**Categories:** Plej Freŝaj
+
+La 31-an de aŭgusto ĉina prezidanto Xi Jinping renkontiĝis kun rusa prezidento Vladimir Putin okaze de la Pintkunveno de la Ŝanhaja Kunlabora Organizo (ŜKO) 2026 en Biŝkeko, Kirgizio. Xi Jinping diris, ke dum la sukcesa ŝtata vizito de Putin al Ĉinio en majo, li kaj Putin faris aranĝojn por konduki duflankajn rilatojn al pli altkvalita kaj pli altnivela disvolviĝo el strategia kaj longtempa perspektivo, kaj atingis komunan konsenton pri profundigo de kunlaboro inter Ĉinio kaj Rusio en diversaj sektoroj sub la novaj cirkonstancoj.
+
+Xi Jinping rimarkis, ke la internacia situacio prezentas rimarkindan kreskon de necertaj kaj neantaŭvideblaj faktoroj, kontraŭ la fono de akcelitaj profundaj ŝanĝiĝoj neviditaj en jarcento. Sed la strebado de homoj tra la mondo al paco, disvolviĝo, kunlaboro kaj kungajnaj rezultoj restas senŝanĝa. ŜKO portas la gravan respondecon protekti regionan stabilecon kaj antaŭenigi regionan disvolviĝon. Ĉinio volas labori kun Rusio kaj aliaj partioj por kune plani la vojon por la disvolviĝo de ŜKO, helpi certigi ĝian stabilan kaj daŭran progreson, kaj plifortigi la movforton por reformado de tutmonda administrado kaj la antaŭenigo de egala kaj enorda multpolusa mondo.
+
+(el ĈRI)
+
+Redaktoro: Xie Ruifeng
+
+El Popola Chinio
+
+
+---
+
+# Ĉinio pretas labori kun Kirgizio por fortigi laŭliniigon de disvolvaj strategioj
+
+**Published:** 2026-09-01
+
+**URL:** http://esperanto.china.org.cn/2026-09/01/content_118674740.htm
+
+**Categories:** Plej Freŝaj
+
+La 31-an de aŭgusto ĉina prezidanto Xi Jinping intervidiĝis kun kirgiza prezidento Sadyr Japarov en Kirgizio. Li diris, ke Ĉinio pretas labori kun Kirgizio por pli bone aranĝi disvolvajn strategiojn, profundigi interŝanĝojn de spertoj pri administrado, liveri pli da veraj kaj alireblaj rezultoj de praktika kunlaboro, kaj fari esencan progreson en konstruado de ĉin-kirgiza komunumo kun komuna estonteco.
+
+Sekve, Xi Jinping kaj Sadyr Japarov atestis interŝanĝon de kunlaboraj dokumentoj, kaj subskribis duflankan traktaton pri eterna bonnajbareco, amikeco kaj kunlaboro.
+
+(el ĈRI)
+
+Redaktoro: Xie Ruifeng
+
+El Popola Chinio
+
+
+---
+
+# Nepala ministro dankas Ĉinion pro helpo kaj sav-subteno kontraŭ katastrofo
+
+**Published:** 2026-09-01
+
+**URL:** http://esperanto.china.org.cn/2026-09/01/content_118675016.htm
+
+**Categories:** Plej Freŝaj
+
+Lastatempe nepala ministro pri scienco, teknologio kaj novigado Mahabir Pun esprimis dankon al la ĉina registaro pro la sendo de krizhelpaj provizaĵoj kaj savteamoj al la regionoj trafitaj de la katastrofo. Li diris, ke la helpo servos al livero de loĝejoj, subteno de rekonstruado kaj malblokado al enirejoj de tuneloj en konstruejoj de hidroelektra centralo, kie homoj estas enfermitaj.
+
+(el ĈRI)
+
+Redaktoro: Gao Shuyuan
+
+El Popola Chinio
+
+
+---
+
+# Instalita ŝnurŝtupara evakua koridoro por savistoj sur la ŝtata ŝoseo 216 de Ĉinio
+
+**Published:** 2026-09-01
+
+**URL:** http://esperanto.china.org.cn/2026-09/01/content_118675026.htm
+
+**Categories:** Plej Freŝaj
+
+La 31-an de aŭgusto post la malblokado de la ŝtata ŝoseo 216, ĉina konstrua kompanio AnNeng instalis ŝnurŝtuparan evakuan koridoron, kio ligante plurajn rifuĝejojn, sekurigas la savistojn kontraŭ subitaj inundoj, ŝlimfluoj kaj aliaj danĝeroj.
+
+Redaktoro: Gao Shuyuan
+
+El Popola Chinio
+
+
+---
+
+# Xi Jinping atingis Kairon por ŝtata vizito al Egiptio
+
+**Published:** 2026-09-02
+
+**URL:** http://esperanto.china.org.cn/2026-09/02/content_118676352.htm
+
+**Categories:** Plej Freŝaj
+
+Ĉina prezidanto Xi Jinping atingis Kairon por ŝtata vizito al Egiptio en la 1-a de septembro laŭ la loka tempo.
+
+Xi Jinping diris, ke Ĉinio kaj Egiptio estas ambaŭ antikvaj civilizacioj, kun tradicia amikeco, kiu daŭris milojn da jaroj kaj eltenis la provon de la tempo. Dum la pasintaj 70 jaroj, ekde la establiĝo de diplomatiaj rilatoj, la du landoj staris unu apud la alia kaj faris reciprok-profitan kunlaboron, malgraŭ la ŝanĝiĝoj de la internacia kaj regiona situacioj.
+
+Redaktoro: Xie Ruifeng
+
+El Popola Chinio
+
+
+---
+
+# Xi Jinping ĉeestis pintkunvenon de ŜKO
+
+**Published:** 2026-09-02
+
+**URL:** http://esperanto.china.org.cn/2026-09/02/content_118676383.htm
+
+**Categories:** Plej Freŝaj
+
+La 1-an de septembro ĉina prezidanto Xi Jinping ĉeestis al la pintkunveno de la Konsilio de Ŝtatestroj de la Ŝanhaja Kunlabora Organizo (ŜKO) en Biŝkeko, Kirgizio, kaj faris gravan paroladon.
+
+Xi Jinping diris en sia parolado, ke la jaro 2026 markas la 25-an datrevenon de la establo de ŜKO. Antaŭ 25 jaroj, fronte al la profundaj lecionoj de la malvarma milito, la reala minaco de la "tri fortoj", kaj la fervoraj atendoj de la popoloj de diversaj landoj pri paco kaj disvolviĝo, protekti suverenecon, sekurecon kaj disvolvajn interesojn fariĝis universalaj konsentoj inter regionaj landoj. ŜKO naskiĝis ĝuste en tia situacio, kaj ĝi montris ĉiam pli fortan viglecon. Dum la pasintaj 25 jaroj, la organizo trairis eksterordinaran vojon. La plej grava disvolva atingo estas, ke ĝi iom post iom fariĝis la nova modelo de regiona kunlabora organizo kun la plej vasta teritorio, plej grandnombra loĝantaro kaj grandega disvolva potencialo en la mondo.
+
+Xi Jinping diris, ke Ĉinio volas labori kun ĉiuj partioj por daŭre alte teni la flagon de la "ŝanhaja spirito", efektivigi la disvolvan strategion de ŜKO por la venontaj 10 jaroj, atingi pli altkvalitan disvolviĝon, kaj fari pli grandajn kontribuojn al konstruado de la homara komunumo de komuna estonteco.
+
+(el ĈRI)
+
+Redaktoro: Xie Ruifeng
+
+El Popola Chinio
+
+
+---
+
+# Egipta aktoro Sherif Sobhy: Kino estas ponto por plifortigi kulturajn interŝanĝojn inter Egiptio kaj Ĉinio
+
+**Published:** 2026-09-02
+
+**URL:** http://esperanto.china.org.cn/2026-09/02/content_118676390.htm
+
+**Categories:** Plej Freŝaj
+
+Egipta aktoro Sherif Sobhy lastatempe estis intervjuita de ĉina amaskomunikilo. Li diris, ke lia sperto aktori en la ĉina filmo "Iam en Mezoriento" (angle: Once Upon a Time in the Middle East; ĉine kaj arabe: Bonvenon al restoracio Loong) montris, kiel kino povas servi kiel ponto por plifortigi kulturajn interŝanĝojn inter Egiptio kaj Ĉinio.
+
+Sobhy diris, ke la rolo Zayd, kiun li ludis, "estas tre humana". Li ploris dum legado de la scenaro de tiu ĉi ĉina kontraŭmilita filmo, kiu altiris atenton pro rakonto de mezorienta milita historio tra la okuloj de ĉina kuiristo.
+
+En la filmo, Zayd komence estis trankvilema viro, amema edzo kaj sindonema patro. Sed post kiam eksplodo mortigis lian edzinon kaj filinon, li droniĝis en malĝojo kaj soifo je venĝo, kio pelis lin en terorisman grupon.
+
+Sobhy diris, ke li ne rigardis Zayd kiel esence perfortan homon. "Li ne kreskis en terorisma grupo, nek li estis origine perfortema. Li fakte estis kompatema," li diris.
+
+La defio do estis portreti la dolorigan transformiĝon de ordinara homo, kies malĝojo iom post iom superfortas lian antaŭan homecon. Por prepari por la rolo, Sobhy imagis sin kiel patron subite rabitan.
+
+"Post la morto de liaj familianoj, li komencis vivi kaj konduti preskaŭ kiel roboto, sen emocioj," diris Sobhy, aldonante, ke multaj el la sentoj de Zayd estis transdonitaj per liaj okuloj.
+
+Pri la internacia kunlaboro dum la filmado, li diris, ke labori kun la ĉina teamo estis alia memorinda parto de la sperto.
+
+Li rimarkis diferencojn inter ĉinaj kaj egiptaj kinfaraj stiloj, dirante, ke ĉinaj teamoj povas pasigi multajn horojn perfektigante ununuran scenon, la reĝisoro atente observas ĉiun filmadon, angulon kaj agadon.
+
+Iufoje, la reĝisoro aperigis la filmajn sonojn antaŭ la sceno por helpi lin mergi sin en la malĝojo de Zayd, Sobhy diris, "Kiel aktoro, mi tre aprezas klarajn instrukciojn kaj direktojn."
+
+Tio, kio plej tuŝis Sobhy, tamen, venis post kiam la filmo atingis ĉinajn kinejojn.
+
+"Mi neniam povus imagi la varmegan reagon de la ĉina publiko," li diris.
+
+Li estis kortuŝita de mesaĝoj de ĉinaj spektantoj, kiuj simpatiis kun Zayd kaj komprenis la diferencon inter la viro, kiu li estis, kaj la persono, kiu li fariĝis.
+
+"Ili komprenis, ke tio ne estis vera Zayd. La morto de lia edzino kaj filino ŝanĝis lin," diris Sobhy.
+
+Por li, tiaj reagoj montris, ke publiko el malsamaj kulturaj kaj lingvaj fonoj povas alproksimiĝi per universalaj homaj emocioj.
+
+Sobhy ankaŭ vidas simbolan signifon en la restoracia medio de la filmo. Komence, Zayd diras al la ĉina kuiristo, ke la rizo estas sala, parte por aserti sian aŭtoritaton. Tamen, laŭ tempopaso, li komprenas, ke homoj dividas la saman amaran guston de milito, eĉ kiam ili havas malsamajn kulturajn fonojn kaj manĝkutimojn.
+
+"Ĝi fariĝis simbolo de renkonto inter malsamaj kulturoj kaj de harmonio inter homoj el malsamaj landoj," li diris.
+
+La mesaĝo de la filmo ankaŭ resonis kun Sobhy kiel egipta aktoro el regiono, kiu spertis longdaŭrajn konfliktojn.
+
+"Por iu ajn vivanta en la araba mondo, kie ni estas ĉirkaŭitaj de multaj konfliktoj, la revo estas tre simpla: ĉiuj volas vivi en paco kaj ne perdi la homojn, kiujn ili amas," li diris.
+
+"Malgraŭ niaj malsamaj kulturoj aŭ naciecoj, ni ĉiuj dividas la saman deziron vivi en paco," li aldonis.
+
+Redaktoro: Xie Ruifeng
+
+El Popola Chinio
+
+
+---
+
+# Surloka medicina inspektado kaj desinfektado farata en Gyirong
+
+**Published:** 2026-09-02
+
+**URL:** http://esperanto.china.org.cn/2026-09/02/content_118677078.htm
+
+**Categories:** Plej Freŝaj
+
+La 1-an de septembro, medicinistoj de ĉina armeo en Xizang-a Aŭtonoma Regiono, sudokcidenta Ĉinio, faris sanekzamenojn al la lokanoj kaj disinfektis ŝlimfluotrafitajn lokojn por garantii por la sano de lokanoj kaj savistoj.
+
+La 1-an de septembro, armea medicinisto disinfektis helikopteron.
+
+La 1-an de septembro, armea medicinisto testis akvokvaliton.
+
+La 1-an de septembro, armea medicinisto mezuris sangopremon por la lokanoj.
+
+Redaktoro: Xie Ruifeng
+
+El Popola Chinio
+
+
+---
+
+# Ĉina prezidanto Xi Jinping intervidiĝis kun egipta prezidento Abdel Fattah El-Sisi
+
+**Published:** 2026-09-03
+
+**URL:** http://esperanto.china.org.cn/2026-09/03/content_118678880.htm
+
+**Categories:** Plej Freŝaj
+
+La 2-an de septembro ĉina prezidanto Xi Jinping intervidiĝis kun egipta prezidento Abdel Fattah El-Sisi en Kairo, Egiptio.
+
+Xi Jinping diris, ke Ĉinio kaj Egiptio devas firme subteni unu la alian, konservi tendencon de altnivelaj interŝanĝoj, plifortigi interŝanĝojn kaj kunlaboron en diversaj kampoj je ĉiuj niveloj, kaj plibonigi la interŝanĝon kaj reciprokan lernadon de administraj spertoj. La du flankoj devas antaŭenigi reciprokprofitan kunlaboron, plifortigi la sinergion de disvolvaj strategioj, liberigi la potencialon por kunlabori en tradiciaj kampoj kiel infrastruktura konstruado, elektro, agrikulturo kaj komunika teknologio, kaj krei novigon en kunlaboro kiel verda energio, elektraj veturiloj, aerkosma teknologio, cifereca ekonomio kaj moderna agrikultura teknologio. Li diris, ke la du flankoj devas antaŭenigi kulturajn kaj interpopolajn interŝanĝojn, ĉiuflanke vastigi kulturajn, edukajn, teknologiajn, sanzorgajn, sportajn kaj aliajn interŝanĝojn kaj kunlaboron, vastigi personarajn interŝanĝojn, kaj plibonigi interpopolan konekteblecon. La du flankoj devas plifortigi sekurecan kunlaboron, komune kontraŭbati transnaciajn krimojn, profundigi internacian kunlaboron en batalo kontraŭ korupto, firme subteni la reciprokan kontraŭterorisman klopodon, kaj protekti la komunan sekurecon de la du landoj. La du flankoj devas plifortigi internacian multflankan kunlaboron, plu kunordigi kaj kunlabori strikte sur multflankaj platformoj kiel la Unuiĝintaj Nacioj kaj BRICS-landoj, kune labori por antaŭenigi la konstruadon de la Ĉin-Araba Kunlabora Forumo kaj la Forumo pri Ĉin-Afrika Kunlaboro, kune oponi unuflankismon kaj ĉikanadon, kaj antaŭenigi la konstruadon de pli justa kaj racia tutmonda administrado.
+
+(el ĈRI)
+
+Redaktoro: Xie Ruifeng
+
+El Popola Chinio
+
+
+---
+
+# Alireblas la 3-kilometra sekcio de la ŝtata ŝoseo 216 blokita pro ŝlimfluo
+
+**Published:** 2026-09-03
+
+**URL:** http://esperanto.china.org.cn/2026-09/03/content_118679250.htm
+
+**Categories:** Plej Freŝaj
+
+Matene de la 2-a de septembro, ekalireblis la 3-kilometra sekcio de la ĉina ŝtata ŝoseo 216 blokita pro ŝlimfluo.
+
+Laŭ la ĵus riparita vojo, savistoj, krizhelpaj provizaĵoj kaj ekipaĵoj povas atingi la plej trafitan regionon por plenumi savadon.
+
+La 1-an de septembro, oni reestigis sav-vojon al la landlima haveno Gyirong, la plej trafita regiono de la katastrofo.
+
+Volontula servejo surstrate en Gyirong
+
+Redaktoro: Gao Shuyuan
+
+El Popola Chinio
+
+
+---
+
+# 21 homoj perdis vivon, 541 homoj restas en senkontakto pro la ŝlimfluo ĉe Gyirong
+
+**Published:** 2026-09-03
+
+**URL:** http://esperanto.china.org.cn/2026-09/03/content_118679271.htm
+
+**Categories:** Plej Freŝaj
+
+Laŭ gazetara konferenco okazigita de la registaro de Xizang-a Aŭtonoma Regiono, sudokcidenta Ĉinio, ĝis la tagmezo de la 2-a de septembro, 21 homoj pereis, 541 homoj restas en senkontakto pro la ŝlimfluo trafinta Gyirong. Nuntempe la sav- kaj katastrofaj respondaj laboroj estas enorde kaj efike plenumataj.
+
+Redaktoro: Gao Shuyuan
+
+El Popola Chinio
+
+
+---
+
+# Ĉinio plifortigas ligojn kun la Tutmonda Sudo
+
+**Published:** 2026-09-03
+
+**URL:** http://esperanto.china.org.cn/2026-09/03/content_118679455.htm
+
+**Author:** Rafael Henrique Zerbetto
+
+**Categories:** Plej Freŝaj
+
+Dum internaciaj konfliktoj kaj malamikecoj alprenas danĝerajn konturojn, kun ebleco de eskalado, Ĉinio, per la lastatempaj ŝtatvizitoj de prezidanto Xi Jinping al Kirgizio kaj Egiptio, klopodas antaŭenigi mesaĝon de paco kaj internacia kunlaboro.
+
+Oficiala foto de ŜKO-pintkunveno 2026 en Biŝkeko
+
+Male al la tipa mondkoncepto de Okcidento, kiu vidas la mondon kiel ŝaktabulon, en kiu regas la logiko de nulsuma ludo, tio estas, ke la venko de unu implicas la malvenkon de alia, Ĉinio antaŭenigas la vizion, ke eblas samtempe realigi la komunan disvolviĝon de ĉiuj landoj de la mondo surbaze de kunlaboro kaj interŝanĝoj de scioj.
+
+Ŝtata vizito al Kirgizio
+
+Xi
+
+Jinping
+
+vizitis la landon en Centra Azio laŭ invito de ĝia prezidento Sadyr Japarov, kun la celo plifortigi la duflankan kunlaboron inter la du landoj. Post la ŝtatvizito, la ĉina ŝtatestro partoprenis en la pintkunveno de la Ŝanhaja Kunlabora Organizo (ŜKO), okazinta en Biŝkeko.
+
+La rilatoj inter Ĉinio kaj Kirgizio baziĝas sur kvar ĉefaj kolonoj: ekonomia kunlaboro, infrastrukturo, komerco kaj regiona integriĝo. La lando de Centra Azio estas strategia por Ĉinio pro sia geografia situo, enkorpigita en la surteraj itineroj de la iniciato "La Zono kaj Vojo", kaj ĝi estas unu el la unuaj landoj aliĝintaj al tiu iniciato, proponita de Xi
+
+Jinping
+
+en 2013.
+
+Dum la vizito, la du ŝtatestroj emfazis la plivastigon de kunlaboroj en kampoj kiel konektebleco, energio, transporto kaj ekonomia disvolvado. Xi
+
+Jinping
+
+deklaris, ke la rilatoj inter la du landoj eniris en fazon de pli granda disvolviĝo, dum la kirgiza registaro substrekis la gravecon de la partnereco kun Ĉinio por konstrui infrastrukturon kaj akceli ekonomian kreskon.
+
+Unu el la strategiaj temoj en la duflankaj rilatoj estas la konstruado kaj plivastigo de transport-koridoroj ligantaj Ĉinion al Centra Azio, inkluzive de fervojaj projektoj, kiuj povas pliigi la regionan integriĝon kaj faciligi la komercon inter Ĉinio kaj diversaj landoj de Eŭrazio, alportante avantaĝojn al ĉiuj.
+
+Pintkunveno de la ŜKO
+
+La partopreno en la pintkunveno de ŜKO estis la ĉefa momento de la vizito de Xi
+
+Jinping
+
+al Biŝkeko. En tiu okazo, la ĉina ŝtatestro estis apud gravaj gvidantoj, kiel la rusa prezidanto Vladimir Putin, la barata ĉefministro Narendra Modi kaj la irana prezidento Masoud Pezeshkian.
+
+En la pasintjara pintkunveno en Tianjin, Ĉinio, Xi
+
+Jinping
+
+lanĉis la Mondan Regadan Iniciaton (MRI), bazitan sur kvin principoj: suverena egaleco inter la landoj; unuforma aplikado de internaciaj reguloj, kiel la Ĉarto de UN; plurflankismo; homcentrita aliro; kaj praktika agado.
+
+Lanĉita en momento, kiam la nuna mondordo estas troe dominata de la okcidentaj potencoj kaj karakterizata de duoblaj normoj, MRI proponas al la mondo pli justan kaj plurpolusan internacian ordon, kun pli granda decidopovo por la landoj de la Tutmonda Sudo. La lanĉo de MRI dum pintkunveno de ŜKO ne estis hazarda: ĝi estas unu el la plej gravaj neokcidentaj platformoj por politika, ekonomia kaj sekureca kunlaboroj, per kiu la ĉina gvidanto klopodas montri al la mondo, per praktiko, ke tutmonda regado povas esti organizita ĉirkaŭ pluraj centroj anstataŭ ununura.
+
+La ĉi-jara pintkunveno okazis en momento de pli granda internacia atento pri la rolo de ŜKO kiel forumo por kunordigo inter aziaj landoj kaj eksteraj partneroj, pro ĝia kapablo konstrui konsentojn kaj praktikajn kunlaborojn inter landoj kun tre malsamaj interesoj kaj realaĵoj.
+
+La parolado de Xi
+
+Jinping
+
+en la pintkunveno de ŜKO
+
+En sia parolado ĉe la pintkunveno de Biŝkeko, Xi
+
+Jinping
+
+defendis pli grandan kunlaboron inter la membroj de ŜKO, emfazante la bezonon plifortigi plurflankismon, plivastigi ekonomian kunordigon kaj antaŭenigi pli egalecan internacian ordon.
+
+En julio, dum la Monda Konferenco pri Artefarita Intelekto (AI) okazinta en Ŝanhajo, Xi
+
+Jinping
+
+defendis internacian kunlaboron por demokratia kaj malferma disvolviĝo de AI. Ĉi-foje li proponis, dum la pintkunveno de ŜKO, la estigon de internacia centro por aplikado de AI.
+
+Li ankaŭ emfazis la gravecon fortigi kunlaboron inter la membroj de ŜKO en kampoj, kiuj iras de komerco kaj investoj ĝis energio kaj resursoj, kaj invitis la interesitajn landojn partopreni en la serio "Granda Merkato por Ĉiuj: Eksporti al Ĉinio", celanta plivastigi la aliron de la membrolandoj de ŜKO al la ĉina merkato.
+
+Xi
+
+Jinping
+
+ankaŭ defendis pli egalecon partoprenon de landoj en la tutmonda regado, eĥigante MRI; la plifortigon de ekonomia kunlaboro kaj konektebleco inter la membroj de la organizo, eĥigante la inicitaton "La Zono kaj Vojo"; la plivastigon de kunlaboro pri regiona sekureco, eĥigante la Mondan Sekurecan Iniciaton; kaj la antaŭenigon de disvolviĝo kiel centra elemento de internaciaj rilatoj, eĥigante la Mondan Disvolvan Iniciaton.
+
+Tiel, la ĉina prezidanto uzis la pintkunvenon de Biŝkeko por proponi vojon al kunlabora plurpolusa disvolviĝo, utiligante plurajn iniciatojn proponitajn de Ĉinio dum pli ol jardeko kaj montrante, ke ili ne estas izolitaj iniciatoj, sed aro da iniciatoj, kiuj kompletigas kaj interrilatas unuj kun la aliaj.
+
+Vizito al Egiptio
+
+Post la vizito al Kirgizio, Xi Jinping iris al Egiptio, en sia unua ŝtatvizito al la lando post dek jaroj. La vojaĝo okazis laŭ invito de la egipta prezidanto Abdel Fattah El-Sisi kaj koincidis kun la 70-a datreveno de la starigo de diplomatiaj rilatoj inter la du landoj.
+
+Egipta prezidento Abdel Fattah El-Sisi bonvenigas ĉinan prezidanton Xi Jinping.
+
+Dum la vizito, Xi
+
+Jinping
+
+kaj El-Sisi diskutis pri la profundigo de la duflanka kunlaboro en diversaj kampoj. Egiptio plivastigis sian proksimiĝon al Ĉinio dum la lastaj jaroj, precipe per ĉinaj investoj en infrastrukturo, industrio, energio kaj projektoj rilataj al "La Zono kaj Vojo". La plivastigo de duflanka komerco, ĉinaj investoj en industriaj zonoj kaj infrastrukturo, teknologia kunlaboro kaj kunordigo pri regionaj aferoj, precipe en Mezoriento kaj pri la situacio en Palestino, estis la ĉefaj temoj diskutitaj inter la gvidantoj de la du landoj.
+
+Egiptio, kiu ankaŭ estas membro de BRICS, havas grandegan strategian gravecon pro sia geografia situo, precipe pro sia kontrolo de la Sueza Kanalo, unu el la ĉefaj maraj itineroj de la tutmonda komerco. La kunlaboro kun Ĉinio laŭ la principo de reciproka gajno alportis investojn kaj ekonomian disvolviĝon al la lando.
+
+Komunaj militaj ekzercoj
+
+Antaŭ la vizito de Xi
+
+Jinping
+
+, aerarmeoj de Ĉinio kaj Egiptio sukcese okazigis komunajn ekzercojn. La agadoj inkluzivis la partoprenon de ĉinaj kaj egiptaj aviadiloj kaj estis prezentitaj de la du registaroj kiel parto de la profundigo de la defenda kunlaboro.
+
+Ĉina fueltransporta aviadilo YU-20 transdonas fuelon al ĉasaviadilo Rafale de egipta aerarmeo.
+
+La ekzercojn partoprenis ĉinaj J-16-ĉasaviadilojn kaj egiptaj aviadiloj, inkluzive de la franc-fabrikitaj Rafale-ĉasaviadiloj. La okazigo de tiuj manovroj altiris atenton pro la kombinado de ekipaĵoj de malsamaj devenoj kaj montris la kreskon de interagado inter la du landoj ankaŭ en tiu kampo. Unu fakto, kiu altiris la atenton de la mondo, estis la unua dumfluga fueltransdono al okcidentfabrikita ĉasaviadilo, nome la Rafale de la Egipta Aerarmeo, fare de ĉina aviadilo YU-20. Ambaŭ aviadiloj estas ekipitaj per sistemo por dumfluga fueltransdono per konusa sondilo, kio ebligis la transdonon.
+
+En mondo markita de internacia streĉiteco, Ĉinio, kiel leviĝanta potenco, klopodas atingi memstarecon de sia armeo, ĉar la lando scias, ke ĝia suvereneco dependas de la kapablo konservi en siaj propraj manoj la tutan produktadĉenon de siaj armiloj, sen dependi de eksteraj provizantoj. Egiptio, aliflanke, estas malproksima de fariĝi mondpotenco, kaj industrie kaj milite. Konsiderante la nunan stadion de egiptia disvolvado, ĝia defenda strategio konsistas en diversigo de siaj armeaj kaj diplomatiaj partneroj por havi pli vastan gamon da elektebloj kaze de armita konflikto.
+
+Ĉiukaze, la mesaĝo, kiu restas post ĉi tiuj eventoj estas, ke Ĉinio kaj ĝiaj partneroj de la Tutmonda Sudo serĉas kunlaboron kaj komunan disvolviĝon anstataŭ militon kaj detruadon.
+
+Verkis: Rafael Henrique Zerbetto
+
+El Popola Chinio
+
+
+---
+
+# Xi Jinping: Regado de Ĉinio , kvina libro -- Subtenante justan mondon kaj komunan destinon
+
+**Published:** 2026-09-07
+
+**URL:** http://esperanto.china.org.cn/2026-09/07/content_118683725.htm
+
+**Categories:** Novaĵoj
+
+de Igor Ŝestakov*
+
+La kvina Libro de "Xi Jinping: Regado de Ĉinio", eldonita pasintjare en Ĉinio, povas esti karakterizita kiel gvidplano de la gravaj politikaj kaj ekonomiaj reformadoj okazantaj en la lando, celantaj plifortigi la principojn de plurpolusa mondo.
+
+La antaŭaj kvar volumoj de elektitaj verkoj kaj paroladoj de la Ĝenerala Sekretario de la Centra Komitato de la Komunista Partio de Ĉinio (KPĈ) Xi Jinping fariĝis parto de la eventoj, kiuj difinas la formadon de la tutmonda agadplano. La eldonoj estis tradukitaj en dekojn da mondaj lingvoj kaj aperis sur la bretoj de librovendejoj en pli ol 160 landoj de la mondo.
+
+La eksterordinara sukceso de la libro, laŭ la taksoj de multaj eksterlandaj politikistoj, baziĝas sur universala aliro al la kompreno de la fundamentaj valoroj de la tuta homa komunumo. Kiel rimarkis unu el la ĉefaj mondaj strategiistoj, la patriarko de la ekstera politiko de Usono Henry Kissinger, la libro de Xi Jinping malfermas fenestron por konatiĝi kun la gvidanto de ĉi tiu lando kaj la procezo de ĝia disvolviĝo, kaj ankaŭ kun ĝia civilizo, kiu aĝas jam pli ol unu jarmilon.
+
+"Xi Jinping: Regado de Ĉinio" donis al la tutmonda komunumo la eblecon detale konatiĝi kun la fundamentaj bazoj de la sistemo de ŝtata administrado kaj la politika modelo de Ĉinio en la nuna etapo de disvolviĝo.
+
+La libroj malkaŝas la principojn de la komunumo de komuna estonteco, de la "ŝanhaja spirito" kaj de la kontribuo de la lando al la formado de plurpolusa mondo, kiu ekskludas la superecon de unu sola potenco. La gvidanto de Ĉinio plurfoje rimarkis, ke la konstruado de justa mondo postulas, ke la ĉefaj internaciaj organizoj sekvu la principojn de reciproka respekto, egala kunlaboro kaj reciproka ekonomia profito.
+
+En la nova libro estas kolektitaj 91 verkoj de la ĝenerala sekretario de la Centra Komitato de KPĈ por la periodo de la 27-a de majo 2022 ĝis la 20-a de decembro 2024. Unu el la gravaj praktikaj valoroj de la program-sistemaj solvoj de la gvidanto de Ĉinio konsistas en tio, ke Xi Jinping subtenas la koncepton de sukcesa lando bazita ne sur eksterlanda influo, sed sur propra doktrino de disvolviĝo, kiu zorgas pri la defendo de la nacia suvereneco.
+
+En tiu ĉi kunteksto, akiris fundamentan gravecon la tezo, laŭ kiu la ĉina modernigo dispelis la miton, konsoliditan dum jardekoj, pri la supozata neeviteblo de la okcidenta modelo, kiu pelis multajn landojn al okcidentiĝo kaj al totala dependeco de multnaciaj kompanioj, interesitaj ekskluzive pri siaj propraj ekonomiaj profitoj.
+
+Tial, la "blinda" adaptiĝo al okcidentaj normoj ne plu povas esti konvinka kriterio de progreso. Kun la kresko de la ekonomia potenco de Ĉinio, pliiĝas la pezo de la ĉinaj perspektivoj de la tutmonda disvolviĝo.
+
+La publikaĵo ilustras detale la pozicion de Xi Jinping, promociante vojon al la kreado kaj respekto de la principo de egaleco inter ŝtatoj grandaj kaj malgrandaj, kun la celo starigi jurajn mekanismojn por malhelpi la fragmentiĝon de la komunumo de nacioj.
+
+Estas krome raportitaj la proponoj de la ĉina gvidanto orientiĝi al nova modelo de tutmondiĝo, celanta profiti el la naciaj ekonomiaj potencialoj de ĉiu lando, kiu celas krei adekvatajn kondiĉojn por infrastrukturaj investoj.
+
+En ĉi tiu eldonaĵo estas dediĉita aparta atento al Centra Azio, kun kiu Ĉinio starigis rilatojn de alianco kaj bona najbareco. La landoj de la regiono estas konsiderataj de la ĉina gvidanto kiel "prioritataj strategiaj partneroj" kaj difinitaj kiel fundamenta rondo en la renaskiĝo de la Silka Vojo.
+
+Unu el la plej signifaj okazaĵoj de la interŝtata kunlaboro estis la pintkunveno de la gvidantoj de la landoj de Centra Azio kaj Ĉinio, okazinta en Xi'an en 2023, dum kiu estis difinitaj ne nur la perspektivoj de la infrastrukturaj projektoj, sed ankaŭ pri senpagaj financaj helpoj al la landoj de la regiono por solvi gravajn soci-ekonomiajn problemojn.
+
+Mi memoras, ke en la deklaracio de Xi'an, laŭ iniciato de la ĉina flanko, aperis unuafoje punkto rilata al la kunlaboro pri sekureco, kiu koncernis la batalon kontraŭ la disvastiĝo de la "koloraj revolucioj".
+
+Ĉi tiu rimedo eniĝas en la doktrino de Xi Jinping pri la "komunumo de komuna estonteco" -- komuna spaco, bazita sur interkonsentoj pri amikeco kaj kunlaboro, kiu postulas ankaŭ adekvatan protekton kaj la garantion de sekureco.
+
+Por la kirgizoj kaj, pli ĝenerale, por la loĝantoj de Centra Azio, la libroserio "Xi Jinping: Regado de Ĉinio" formos gravan ponton de reciproka kompreno por objektiva percepto de la ĉefa eksterpolitika projekto de Ĉinio en la 21-a jarcento, la iniciato "La Zono kaj Vojo", kaj por la kreado de nova nivelo de reciproka konfido.
+
+*Igor Ŝestakov, politikologo, direktoro de la Centro por Ekspertaj Iniciatoj "Oj Ordo" (el la kirgiza lingvo: Centro de la Penso), eksperta konsilanto de la registaro kaj de la parlamento de la Kirgiza Respubliko.
+
+Esperantigita de Chen Meibao
+
+Projektita de Chen Ji
+
+El Popola Chinio
+
+
+---
+
+# Finala taksado de ĉi-jara Orkide-premio okazis en Pekino
+
+**Published:** 2026-09-07
+
+**URL:** http://esperanto.china.org.cn/2026-09/07/content_118684047.htm
+
+**Categories:** Plej Freŝaj
+
+La 6-an de septembro, la finala taksado de ĉi-jara Orkide-premio okazis en Pekino. Ĉeestis 23 juĝistoj el dek landoj, inkluzive de Ĉinio, Aŭstralio, Barato, Italio, Kazaĥio, Libano, Malio, Tajlando, Britio kaj Usono, kaj ili elektis dek rekomenditajn kandidatojn por la premio, inter kiuj une por la Dumviva Honoro, tri por la Elstara Atingo kaj ses por la Amikeca Ambasadoro. La fina listo de la dek gajnintoj estos oficiale anoncita en la premidona ceremonio en la kuranta jaro.
+
+Dum la taksado kaj interŝanĝo, la juĝistoj diris, ke la Tutmonda Civilizacia Iniciaton metita de ĉina prezidanto Xi Jinping provizas gravan direkton por antaŭenigi intercivilizaciajn interŝanĝojn kaj reciprokan lernadon, kaj ankaŭ la progreson de homa civilizacio. La Orkide-premio estas grava platformo por efektivigi la Tutmondan Civilizacian Iniciaton, ĝi starigas gravan ponton por kulturaj interŝanĝoj inter Ĉinio kaj aliaj landoj.
+
+El Popola Chinio
+
+
+---
+
+# Nepala ministro pri eksterlandaj aferoj Shisir Khanal: Ĉinio kunhavigas datumojn helpante la katastrofan respondon de Nepalo
+
+**Published:** 2026-09-08
+
+**URL:** http://esperanto.china.org.cn/2026-09/08/content_118685342.htm
+
+**Categories:** Plej Freŝaj
+
+"Ĉinio kunhavigas al Nepalo la realtempajn informojn, por ke ni atentu pri eblaj estontaj katastrofoj," diris nepala ministro pri eksterlandaj aferoj Shisir Khanal lastatempe. Laŭ Khanal, la satelitaj kaj aliaj monitoraj datumoj, kiujn Ĉinio dividas post la ruinigaj ŝlimfluoj, subtenas la daŭrantan katastrofan respondon de Nepalo kaj helpas homojn spuri pliajn riskojn, kiuj povus kaŭzi kromajn damaĝojn.
+
+Ĉinio faris subtenon al Nepalo je diversaj niveloj tuj post la katastrofo, diris Khanal, aldonante, ke dum la bezon-petoj de Nepalo evidentiĝis, kiam la lando petis helpajn provizojn kaj teknikan subtenon de Ĉinio, la ĉina flanko respondis pozitive.
+
+"Ni estas ekstreme dankema pro la tre aktiva subteno, kiun la registaro de Ĉinio donis al ni en ĉi tiu momento," li diris.
+
+La ĉina registaro jam provizis Nepalon per krizaj kontantaĵo kaj humanitara helpo, liveris tri arojn da helpaj provizoj al Katmanduo kaj sendis spertulojn pri tunela savado kaj DNA-identigo por subteni la savklopodojn de la lando.
+
+Khanal diris, ke sav-operacioj restis ekstreme malfacilaj, ĉar vojoj kaj pontoj kondukantaj al la trafita regiono estis severe damaĝitaj, lasante kelkajn areojn tute nealireblaj.
+
+Centoj da nepalamaj civitanoj, kiuj estis sur la ĉina flanko de la landlimo por komerco aŭ turismo, estis identigitaj kaj taŭge gastigitaj de la ĉina registaro, diris Khanal, aldonante, ke Nepalo pretas helpi ĉinajn civitanojn trafitajn sur la nepala flanko.
+
+"Ĉi tiu katastrofo diras al ni, ke niaj sortoj estas interplektitaj," diris Khanal.
+
+Redaktoro: Xie Ruifeng
+
+El Popola Chinio
+
+
+---
+
+# Sud-afrika ekonomikisto: Ĉina Internacia Foiro por Komerco de Servoj estas grava platformo por ekonomioj kaj entreprenoj
+
+**Published:** 2026-09-08
+
+**URL:** http://esperanto.china.org.cn/2026-09/08/content_118685843.htm
+
+**Categories:** Plej Freŝaj
+
+La Ĉina Internacia Foiro por Komerco de Servoj (mallongigo de la angla: CIFTIS) estas grava platformo por ekonomioj kaj entreprenoj por trovi novajn ŝancojn en la komerco de servoj, ĉar scio kaj datumoj fariĝis pli kaj pli gravaj motoroj de tutmonda kresko. "CIFTIS ne estas nur simpla ekspozicio, sed ankaŭ merkato por ideo, teknologio, investo kaj internacia partnereco," diris Simphiwe Madikizela, profesoro pri ekonomiko ĉe la Universitato de Sud-Afriko.
+
+"La komerco de servoj de Ĉinio ĉiam plie moviĝas al agadoj kun pli alta aldonita valoro," diris Madikizela, rimarkante, ke la komerco de sciointensaj servoj atingis 1.66 duilionojn da juanoj, konsistante 44% de la totala komerco de servoj, kaj kreskis je 6.7% en la unua duono de 2026, samtempe la eksporto de tiaj servoj pliiĝis je 12.8%.
+
+Tia evoluo estas signifa ne nur por Ĉinio, sed ankaŭ por la tutmonda ekonomio, ĉar la dua plej granda ekonomio de la mondo fariĝis ne nur grava produktanto de varoj, sed ankaŭ ĉiam grava merkato kaj provizanto de servoj, Simphiwe Madikizela diris.
+
+Emfazante la vastan enlandan merkaton kaj postulon de Ĉinio, la ekonomikisto diris: "Malferma ĉina ekonomio povas subteni tutmondan kreskon per komerco, investo, turismo, cifereca servo, profesia servo, teknologio kaj novigado."
+
+CIFTIS reflektas pli vastan transformadon en tutmondiĝo, ĉar internacia ekonomia integriĝo ne plu estas simple pri movado de fizikaj produktoj trans landlimoj, sed pri interŝanĝo de scio, teknologio, kapablo, datumo kaj servo, li diris.
+
+Por evoluantaj ekonomioj, precipe en Afriko, CIFTIS liveras ŝancojn konektiĝi kun ĉinaj kaj internaciaj partneroj en la kampoj de cifereca komerco, interreta komerco, financa servo, turismo, edukado, sanservo, loĝistiko kaj profesiaj servoj, li diris.
+
+Redaktoro: Xie Ruifeng
+
+El Popola Chinio
+
+
+---
+
+# Nacia Akrobata Trupo de KPDR
+
+**Published:** 2026-09-08
+
+**URL:** http://esperanto.china.org.cn/2026-09/08/content_118685863.htm
+
+**Categories:** Plej Freŝaj
+
+La Nacia Akrobata Trupo de la Korea Popol-Demokratia Respubliko estas prestiĝa arta trupo kun pli ol 70-jara historio, mondkonata pro sia teknika rafiniteco kaj kapablo en multnombraj tipoj de akrobataĵoj.
+
+Dum la lastaj jaroj, la trupo gajnis la plej altajn premiojn en pli ol 20 internaciaj cirkaj festivaloj en Eŭropo kaj Azio. Inter siaj plej famaj verkoj, la akrobataĵo "Flugu pli alten" gajnis la Oran Premion ĉe la 14-a Internacia Cirkofestivalo de Monte Carlo en 1989, kaj poste ricevis la Oran Premion "Idolo" ĉe la Monda Cirkarta Festivalo "Idol-2024". En 2025 la trupo kolektis tri ĉefajn premiojn: la Oran Premion Idolo por "Flugantaj viroj" ĉe "Idol-2025", la Grandan Premion por "Flugo sur ferbaraĵo" ĉe la 4-a Internacia Cirkofestivalo Bez Granits, kaj la Orleonan Premion por "Flugu pli alten" ĉe la 20-a Internacia Cirkofestivalo de Wuqiao en Ĉinio. En 2026 la akrobataĵo "Marŝado sur ŝnuro" ricevis la Grandan Premion, la Oran Premion de la Publiko kaj la Oran Premion de la Amaskomunikiloj ĉe la festivalo "Idol-2026".
+
+Raportis kaj fotis: Rafael Henrique Zerbetto
+
+El Popola Chinio
+
+
+---
+
+# La domo, kie Mao Zedong loĝis en Xuanwo
+
+**Published:** 2026-09-09
+
+**URL:** http://esperanto.china.org.cn/2026-09/09/content_118687587.htm
+
+**Categories:** Plej Freŝaj
+
+La vilaĝo Xuanwo en montara regiono de la ĉina provinco Gansu ludis gravan rolon en la historio de la Longa Marŝo, ĉar la vilaĝo situas inter la loko de la historia Batalo de Lazikou – kiu rompis la armean ĉirkaŭadon de la Ruĝa Armeo -- kaj Hadapu, kie norda Shaanxi estis difinita kiel celloko de la marŝo.
+
+Korto de la domo, kie Mao Zedong gastiĝis en Xuanwo
+
+Servante kiel portempa ripozejo por la Ruĝa Armeo post malfacila marŝo trans la borda regiono inter la provincoj Sichuan kaj Gansu kaj unu el ĝiaj plej malfacilaj kaj sangaj bataloj, la vilaĝo helpis revigligi la fortojn de la soldatoj.
+
+La sendorma nokto de Mao Zedong en Xuanwo
+
+Mao Zedong estis gastigita en la domo de la familio de Han Qiming, unu el la vilaĝanoj. La malnova loĝejo estis modesta kampara domo laŭ la tipa stilo de nordokcidenta Ĉinio, kun la fasado turnita al sudo kaj areo de proksimume 394 kvadrataj metroj, adobaj muroj kaj lignaj pordoj. Post kiam la Ruĝa Armeo konkeris Lazikou la 17-an de septembro 1936, la gvidantoj, inkluzive de Mao Zedong, daŭrigis sian vojon antaŭen kaj atingis la vilaĝon Xuanwo tiun saman nokton.
+
+En la vilaĝo la trupoj fine povis iom ripozi, sed la gvidantoj ankoraŭ devis decidi plurajn urĝajn aferojn, interalie la difinon de la sekva direkto de la marŝo kaj strategion, ekzemple, kiel trakti la lokan loĝantaron, precipe la islamanojn, kies valoroj kaj tradicioj devus esti respektataj. Pro tiu kialo, tiu nokto estis decida por la strategia turnopunkto de la Longa Marŝo en Gansu. La vilaĝo Xuanwo kaj la regiono de la monto Minshan tiel profunde restis en la memoro de la Longa Marŝo, ke ili aperis en la fama poemo "La Longa Marŝo" de Mao Zedong.
+
+La Longa Marŝo
+
+Ruĝa Arme' ne timas provojn de la Longa Marŝo,
+
+Por ĝi nur bagatelo dek mil montoj kaj riveroj.
+
+La kvin montĉenoj serpentumaj dancas ondetare;
+
+Ruliĝas grandioza Wumeng kiel ter-globetoj.
+
+La akv' de Jinsha batas bole, klif' nubtuŝa varmas,
+
+Riveron Dadu spanas pont', la feraj ĉenoj fridas.
+
+Plie ŝatinda estas la mil-lia neĝ' sur Minshan,
+
+De l' tri armeoj l' anoj ĝojradias post transiro.
+
+红军不怕远征难，
+
+万水千山只等闲。
+
+五岭逶迤腾细浪，
+
+乌蒙磅礴走泥丸。
+
+金沙水拍云崖暖，
+
+大渡桥横铁索寒。
+
+更喜岷山千里雪，
+
+三军过后尽开颜。
+
+La fama frazo "Plie ŝatinda estas la mil-lia neĝ' sur Minshan, /De l' tri armeoj l' anoj ĝojradias post transiro" estas rekte ligita al ĉi tiu loko, esprimante la ĝojon de la ruĝarmeanoj, kiam ili vidis novajn esperojn post grimpo de la monto Minshan.
+
+"La Kodo por la Islamaj Regionoj" kaj la etna politiko
+
+Xuanwo estis miksita vilaĝo de la huja etno, islamanoj, kaj de la han-a etno. Tie la Ruĝa Armeo ellaboris la "Kodon por la Islamaj Regionoj", postulante respekton al moskeoj kaj al la sanktaj tekstoj de tiu religio, malpermesante la konsumadon de porkaĵo en hujaj regionoj, certigante religian liberecon kaj antaŭenigante etnan egalecon. La kodo montras, kiel la prihomamasa laboro de la Ruĝa Armeo tradukiĝis en detalojn de la ĉiutaga vivo anstataŭ limigi sin al abstraktaj sloganoj. La loka imamo, Ding Zhenbang, post kiam li komprenis la disciplinon kaj la proponojn de la Ruĝa Armeo, esprimis sian subtenon nome de la loka loĝantaro.
+
+Moskeo troviĝas je mallonga distanco de la domo, kie Mao gastiĝis en Xuanwo-vilaĝo
+
+Mao Zedong profitis sian tempon en Xuanwo por detale konatiĝi kun la kutimoj de la huja etno per dialogo. La konstruado de tiu reciproka fido estis fundamenta por certigi la antaŭeniron de la Ruĝa Armeo en regiono forte markita de la huja etno kaj islamaj kutimoj.
+
+La domo transformita en muzeon
+
+Vizitante la domon, kie Mao Zedong gastis en Xuanwo, tri aspektoj de ĝi estas aparte atentokaptaj. La unua estas la malgranda spaco de la korto kaj la simpleco de la konstruaĵo, kiuj reflektas la malfacilajn vivkondiĉojn en tiu regiono en tiu epoko.
+
+Alia aspekto estas la eksponaĵoj rilataj al la poemo "La Longa Marŝo", klarigante la rolon de Xuanwo en la Longa Marŝo kaj kiel ĝi aperas en la poemo.
+
+Fine, la klarigoj pri la "Kodo por la Islamaj Regionoj" kaj pri la rilato inter la armeo kaj la loĝantaro montras, ke la Ruĝa Armeo ne nur batalis, sed ankaŭ valorigis disciplinon kaj respekton al ĉiuj etnoj.
+
+La domo, kie Mao Zedong gastis en Xuanwo, nuntempe funkcias kiel grava loko por ruĝa edukado kaj kampara turismo, kunigante revolucian historion, nacian unuecon kaj kamparan disvolvadon.
+
+La malnova domo montras al ni, ke historio okazas ne nur en urboj kaj sur grandaj batalkampoj, sed ankaŭ en malgrandaj vilaĝoj. Disciplino, respekto al religiaj kaj etnaj grupoj, rilatoj kun la lokanoj, sendorma nokto, poemo... ĉiuj tiuj ŝajne malgravaj aferoj estas la decidaj fortoj, kiuj determinis la progreson kaj venkon de la Longa Marŝo.
+
+Verkis kaj fotis: Rafael Henrique Zerbetto
+
+El Popola Chinio
+
+
+---
+
+# Inaŭguriĝis Ĉina Internacia Foiro por Komerco de Servoj en 2026
+
+**Published:** 2026-09-09
+
+**URL:** http://esperanto.china.org.cn/2026-09/09/content_118687620.htm
+
+**Categories:** Plej Freŝaj
+
+La 9-an de septembro en Pekino estis inaŭgurita la Ĉina Internacia Foiro por Komerco de Servoj en 2026. La foiron ĉeestas pli ol 1 800 entreprenoj en- kaj eksterlandaj, inkluzive de pli ol 456 entreprenoj en la listo Fortune 500 kaj grandaj industriaj kompanioj.
+
+Redaktoro: Xie Ruifeng
+
+El Popola Chinio
+
+
+---
+
+# Kiam ĉinaj servoj iras al la mondo
+
+**Published:** 2026-09-10
+
+**URL:** http://esperanto.china.org.cn/2026-09/10/content_118689258.htm
+
+**Categories:** Plej Freŝaj
+
+En Pekino okazas la Ĉina Internacia Foiro por Komerco de Servoj 2026. Ĉi-jare nova ekspozicia sekcio altiris la atenton de multaj vizitantoj. Ĝia nomo estas "ĉinaj servoj". Estas la unua fojo, ke tia sekcio troviĝas en la centra parto de la ekspozicio. Ĝi prezentas pli ol 140 ekzemplajn kazojn el diversaj regionoj, entreprenoj kaj organizoj de Ĉinio. La kazoj kovras 12 kampojn de la komerco de servoj. Ili temas pri spac-tempa informado, translima loĝistiko, farmacia esplorado, inteligenta produktado, kulturo, turismo kaj servoj por la ĉiutaga vivo. Teknologio ludas gravan rolon. Preskaŭ 40% de la kazoj uzas artefaritan intelekton, grandajn lingvomodelojn aŭ inteligentajn agentojn kiel kernajn teknologiojn. Sed novaj teknologioj ne estas la sola interesaĵo. Pli grava estas alia demando: kiel transformi teknologion kaj profesian scion en servojn uzeblajn en la reala vivo? Kelkaj el tiuj servoj jam celas internaciajn merkatojn.
+
+De aparatoj al servoj
+
+Unu el la prezentataj kazoj venas de la kompanio China Space-Time. La kompanio prezentas servoplatformon bazitan sur la ĉina satelita navigacia sistemo BeiDou. "En la pasinteco Ĉinio pli multe eksportis produktojn aŭ terminalajn aparatojn. Nun ni pli kaj pli transiras al eksportado de servoj," diris Xu Junjie, altranga fakulo de China Space-Time. Liaj vortoj helpas klarigi la ideon de "ĉinaj servoj".
+
+Satelito estas teknologia produkto, navigacia aparato ankaŭ estas produkto, sed lokalizado kaj spac-tempaj datumoj estas servoj. Ankaŭ la solvoj konstruitaj sur tiuj datumoj povas fariĝi servoj. Do entrepreno povas fari pli ol simple vendi aparatojn eksterlanden. Ĝi povas instali platformon, liveri servojn kaj longe kunlabori kun lokaj partneroj.
+
+China Space-Time estis fondita en 2024. Laŭ Xu, ĝi kunigas rimedojn rilatajn al BeiDou. Ĝi ankaŭ kunordas aliajn rimedojn, ekzemple satelitan interreton. La celo estas liveri spac-tempajn informservojn. Ĉe la foiro la kompanio prezentas sian Eksterlandan Servoplatformon pri Spac-Tempa Informado de BeiDou. La platformo baziĝas sur BeiDou, sed ĝi povas funkcii ankaŭ kun aliaj satelitaj navigaciaj sistemoj, kiel GPS, GLONASS kaj Galileo. Ĝi ankaŭ integras navigacian plifortigon per malalt-orbitaj satelitoj kaj mallongmesaĝan komunikadon. La platformo povas esti flekseble konektita al diversaj referencaj stacioj kaj terminalaj aparatoj. Ĝi subtenas lokan instaladon kaj lokan konservadon de datumoj, tiel ke ĝi povas adaptiĝi al la reguloj pri retoj kaj datumoj en diversaj landoj.
+
+La servoj povas esti uzataj en multaj kampoj. Inter ili estas translima loĝistiko, inteligenta agrikulturo, minindustriaj operacioj kaj senhomaj sistemoj. Laŭ la kompanio, la platformo ankaŭ povas subteni plibonigon de administrado kaj ciferecan transformiĝon en diversaj landoj.
+
+Malantaŭ tiuj servoj troviĝas granda industrio. Laŭ la Blanka Libro pri la Disvolviĝo de Ĉina BeiDou-Spac-Tempa Industrio 2026, la produktovaloro de la ĉina satelit-navigacia industrio atingis 629 miliardojn da juanoj en 2025. Tio estis kresko de 9.24% kompare kun la antaŭa jaro.
+
+Ne nur eksporti aparatojn
+
+La celo de China Space-Time ne estas nur porti la teknologion de BeiDou al aliaj landoj. Ĝi volas instali la platformon en la koncerna lando kaj poste funkciigi ĝin kune kun lokaj partneroj. "Ni esperas instali la platformon eksterlande kaj funkciigi ĝin kune kun lokaj partneroj. Tiamaniere ni povas porti ĉinajn servojn al eksterlandaj merkatoj," diris Xu. La kompanio priskribas tion kiel ŝanĝiĝon. Antaŭe la ĉefa celo estis eksporti aparatojn. Nun ĝi volas ankaŭ eksporti sian kapablon funkciigi servojn. La diferenco estas grava.
+
+"Por porti la spac-tempajn informservojn de BeiDou eksterlanden, ni opinias, ke ni devas fari pli ol eksporti ekipaĵojn. Ni volas kune konstrui platformojn, dividi kapablojn kaj kune disvolvi la servan ekosistemon. La platformo estas malferma kaj kongrua. Ĝi povas esti instalita loke kaj integri rimedojn de diversaj sistemoj kaj partneroj. Tiel ni povas iri de eksportado de ekipaĵoj al funkciigado de servoj eksterlande kaj kune kun lokaj partneroj disvolvi novajn aplikojn," diris Xu.
+
+La kompanio priskribas tion kiel ŝanĝon. Antaŭe la ĉefa celo estis eksporti aparatojn. Nun ĝi volas ankaŭ eksporti sian kapablon funkciigi servojn. La diferenco estas grava. Vendado de aparato estas ĉefe komerca transakcio. Servoplatformo bezonas pli longan kunlaboron. Ĝi devas esti instalita kaj funkciigita. Ĝi ankaŭ bezonas ĝisdatigojn kaj administradon de datumoj. Ofte necesas kunlaboro kun lokaj partneroj.
+
+Laŭ Xu, la platformo jam estas instalata en unu latinamerika lando. En la sekva etapo, la kompanio planas vastigi ĝin al landoj en Centra Azio, Sudorienta Azio kaj Suda Azio. "Spac-tempa informado estas grava parto de cifereca infrastrukturo," diris Xu. Laŭ li, servoj bazitaj sur BeiDou povas esti utilaj por loĝistiko kaj agrikulturo. Ili ankaŭ povas subteni ciferecan transformiĝon. Sed teknologio sola ne garantias sukceson en nova merkato. La rezulto dependas de la realaj bezonoj de ĉiu lando. Gravas ankaŭ la ekzistanta infrastrukturo kaj la akcepto de lokaj uzantoj.
+
+Teknologio povas iri rapide, sed kutimoj ne
+
+Xu menciis kelkajn defiojn, kiujn la kompanio renkontas eksterlande. Unu el ili estas la reguloj pri datumoj. Ĉiu lando havas siajn proprajn postulojn pri konservado, uzado kaj administrado de datumoj. Pro tio la kompanio volas instali sian platformon loke. Tio povas helpi ĝin pli bone adaptiĝi al la reguloj de ĉiu merkato.
+
+Alia defio estas la kutimoj de uzantoj. "BeiDou-servoj komencis iri eksterlanden relative malfrue. En multaj landoj homoj ankoraŭ ne bone konas la aplikojn kaj servojn de BeiDou. Necesas tempo por koni kaj akcepti ilin," diris Xu. "Ni esperas, ke BeiDou povos doni al tiuj landoj plian elekton."
+
+Tio montras gravan realaĵon por teknologiaj servoj, kiuj volas eniri novajn merkatojn. Teknologio povas rapide transiri landlimojn. Sed kutimoj ŝanĝiĝas pli malrapide. La samo validas por reguloj, normoj kaj fido. Tial la teknika nivelo ne estas la sola grava faktoro. Por uzantoj gravas, ĉu servo solvas realan problemon. Sed fido estas ankaŭ grava faktoro.
+
+Unu el pli ol 140 kazoj
+
+BeiDou estas nur unu el pli ol 140 kazoj en la sekcio "ĉinaj servoj". La kazoj estas tre diversaj, sed multaj el ili montras similan procezon. Unue estas teknologio. Poste ĝi trovas praktikan uzon. El tiu uzo aperas solvo. Kaj la solvo povas fine fariĝi servo.
+
+Artefarita intelekto (AI) estas bona ekzemplo. Preskaŭ 40% de la kazoj uzas AI, grandajn lingvomodelojn aŭ inteligentajn agentojn. Sed tiuj teknologioj ne estas montrataj nur pro si mem. Ili estas uzataj en sano, komerco, loĝistiko, produktado kaj servoj por la ĉiutaga vivo.
+
+Samtempe la limo inter produkto kaj servo fariĝis malpli klara. Elektra aŭto estas produkto. Sed programaro, datumservoj, ŝargaj solvoj kaj prizorgado ligitaj al ĝi estas servoj. Tial la kresko de ĉinaj servoj en la internacia merkato ne signifas, ke servoj anstataŭos produktojn. La du povas iri kune. Servoj povas aldoni novan valoron al teknologio kaj produktado.
+
+La internacia strategio kaj praktiko de China Space-Time estas tipa ekzemplo. La satelitoj de BeiDou daŭre funkcias en la kosmo. Sed la rakonto prezentata ĉe la foiro ne temas nur pri satelitoj kaj aparatoj. Ĝi temas ankaŭ pri la servoj konstruitaj sur tiu sistemo. Kiam tiuj servoj eniras alian landon, ili povas esti flekseble adaptitaj al la bezonoj de lokaj uzantoj kaj funkciigitaj kune kun lokaj partneroj. Inter la pli ol 140 kazoj de “Ĉinaj Servoj”, tio estas bona ekzemplo de kiel ĉinaj servoj serĉas pli grandan spacon por disvolviĝi en la internacia merkato.
+
+Verkis kaj fotis: Bui Hai Mung
+
+El Popola Chinio
+
+
+---
+
+# Shaanxi: Geoparko de Zhongnan-monto brilas sur internacia scenejo
+
+**Published:** 2026-09-10
+
+**URL:** http://esperanto.china.org.cn/2026-09/10/content_118689311.htm
+
+**Categories:** Plej Freŝaj
+
+De la 4-a ĝis la 12-a de septembro okazis en Malajzio la 9-a Interreta Simpozio de Azia-Pacifikaj Geoparkoj. La Monda Geoparko Zhongnan-monto de la urbo Xi'an, la provinco Shaanxi, estis invitita ĉeesti kaj kune diskuti kun la reprezentantoj el aliaj 22 landoj kaj regionoj de la mondo.
+
+La simpozio altiris fakulojn kaj sciencistojn de la kampo de mondaj geoparkoj. La delegacio de Zhongnan-monto partoprenis dum la tuta proceso en kunordaj konferencoj, fakaj seminarioj kaj la geoparka ekspozicio, kaj faris profundajn interŝanĝojn pri geoturismo, publika edukado, heredaĵa protektado, daŭripova evoluo kaj aliaj. En la prezentado por diskonigo, la delegacio faris paroladon, kaj la parolado ĉiuflanke montris la praktikojn de la urbo Xi'an en geologia protektado kaj ekologia evoluo. Per plurlingvaj informiloj kaj kulturaj kreivaj produktoj, la delegacio montris al la mondo la ekologian belecon kaj la ĉarman aspekton de la geoparko.
+
+Ĉi tiu partopreno estas grava praktiko por ke la geoparko integriĝu en tutmondan ekologian administradon kaj profundigu ĉi-flankan internacian kunlaboron. Sekve, la geoparko daŭre pliigos la protektadon de geologiaj restaĵoj, ĉiuflankan ekologian administradon, novigon de geologia diskonigo, profundigos praktikan kunlaboron kun geoparkoj tra la tuta mondo, kaj per internacia perspektivo antaŭenigos la ekologian protektadon de la monto kaj la regionan verdan evoluon al pli alta nivelo.
+
+Redaktoro: Xie Ruifeng
+
+El Popola Chinio
+
+
+---
+
+# Xi Jinping ĉeestos 18an BRICS-pintkunvenon en Barato
+
+**Published:** 2026-09-11
+
+**URL:** http://esperanto.china.org.cn/2026-09/11/content_118691353.htm
+
+**Categories:** Plej Freŝaj
+
+La 10an de septembro, la proparolanto de ĉina Ministerio pri Eksterlandaj Aferoj anoncis, ke ĉina prezidanto Xi Jinping ĉeestos la 18an BRICS-pintkunvenon okazontan en la 12a kaj la 13a de septembro en Nov-Delhio, Barato, laŭ la invito de barata ĉefministro Narendra Modi.
+
+(el ĈRI)
+
+Redaktoro: Xie Ruifeng
+
+El Popola Chinio
+
+
+---
+
+# Brazilo reasertas siajn valorojn en Pekino dum celebrado de sia nacia tago
+
+**Published:** 2026-09-11
+
+**URL:** http://esperanto.china.org.cn/2026-09/11/content_118691504.htm
+
+**Categories:** Plej Freŝaj
+
+La 7-an de septembro la brazila ambasadorejo en Pekino okazigis akcepton por invititoj, kun ĉeesto de reprezentantoj de la ĉina registaro, de diversaj diplomatiaj misioj en Ĉinio kaj de reprezentantoj de la civila socio, por festi la 204-an datrevenon de la sendependiĝo de Brazilo.
+
+Brazila ambasadoro Marcos Galvão parolas en la evento.
+
+En sia parolado, la brazila ambasadoro en Pekino, Marcos Galvão, emfazis, ke la sendependeco, kiun brazilanoj ĉiujare festas, "estas centra valoro, kiun ni ĉiutage praktikas kaj por kiu ni laboras ĉiutage".
+
+"Ni konstante batalas por certigi, ke brazilanoj estu liberaj fari, sur ĉiuj kampoj, siajn proprajn politikajn, ekonomiajn kaj evoluajn elektojn, kaj por demokratie difini nian destinon," substrekis la ambasadoro.
+
+Galvão rememorigis al la ĉeestantoj, ke Brazilo prepariĝas por balotado, per kiu la brazila popolo elektos siajn gvidantojn en pluraj plenumaj kaj leĝdonaj postenoj, kaj ke la voĉoj estos kalkulitaj per sekura kaj fidinda metodo ene de nur kelkaj horoj.
+
+"Tio estos la deka fojo, ekde la reveno de Brazilo al la demokratia reĝimo, kiam ni havos liberajn kaj rektajn prezidantajn elektojn, kaj la lando celas antaŭeniri sur la demokratia vojo. Por tio estas grave alfronti la defion certigi, ke ĉiuj brazilanoj havu aliron al la ŝancoj kaj al la vivnivelo, kiun ili aspiras atingi. Pro tiu kialo, disvolvado devas esti la konstanta kompaso de la brazila ekstera politiko", konkludis la ambasadoro.
+
+Galvão ankaŭ parolis pri la Ĉin-Brazila Kultura Jaro, pri ĉinaj rektaj investoj en Brazilo, pri la telefonaj interparoloj inter la prezidantoj Lula kaj Xi Jinping, kaj pri la vizitoj de 11 brazilaj ministroj al Ĉinio ĉi-jare.
+
+Cai Wei, vicministro pri eksteraj aferoj de Ĉinio, parolis nome de la ĉina registaro. Li komencis sian paroladon asertante, ke Brazilo, dum pli ol 200 jaroj da sendependeco, sekvis vojon de memfortigo, disvolviĝo kaj revigliĝo.
+
+Cai Wei, vicministro pri eksteraj aferoj de Ĉinio, parolas en la evento.
+
+"Sub la gvido de prezidanto Lula, la brazilaj registaro kaj popolo firme defendis la suverenecon kaj dignon de la nacio, aktive esploras evoluvojon kongruan kun la naciaj realaĵoj kaj ludas gravan rolon sur la internacia scenejo," diris la vicministro.
+
+Cai Wei ankaŭ emfazis la telefonajn interparolojn inter la prezidantoj Lula kaj Xi Jinping, dirante, ke gravaj komunaj konsentoj estis atingitaj, kio antaŭenigis la disvolviĝon de la duflankaj rilatoj, kiuj daŭre sekvas bonan vojon ekde kiam ili estis establitaj antaŭ 52 jaroj.
+
+Li substrekis la sinergiojn inter la evolu-strategioj de la du landoj, kiuj alportas konkretajn rezultojn en sektoroj kiel infrastrukturo, fabrikado, sano, energia transiro, financa kunlaboro kaj scienco, teknologio kaj novigado.
+
+La politiko pri senvizaj vojaĝoj por turismo, negocoj kaj familiaj vizitoj, adoptita de ambaŭ landoj, ankaŭ estis menciita, ĉar ĝi faciligas la profundigon de interŝanĝoj inter la du popoloj ĝuste nun, kiam okazas pluraj agadoj kadre de la Ĉin-Brazila Kultura Jaro.
+
+Vicministro Cai Wei, brazila ambasadoro Marcos Galvão kaj lia edzino Ana Galvão, tostas celebre al la 204-a datreveno de brazila sendependiĝo.
+
+"La mondo travivas profundajn kaj kompleksajn ŝanĝiĝojn. Unuflankismo denove plifortiĝas, ekonomia tutmondiĝo alfrontas kontraŭajn ventojn, kaj la internacia ordo suferas grandajn batojn," klarigis Cai Wei antaŭ ol fini sian paroladon esprimante sian subtenon al reciproka profito, plurflankismo kaj la legitimaj interesoj de la evoluantaj landoj.
+
+Raportis: Rafael Henrique Zerbetto
+
+El Popola Chinio
+
+
+---
+
+# La Triumfa Arko de Pjongjango
+
+**Published:** 2026-09-14
+
+**URL:** http://esperanto.china.org.cn/2026-09/14/content_118691404.htm
+
+**Categories:** Plej Freŝaj
+
+Konstruita en 1982 okaze de la 70-a naskiĝdatreveno de la prezidanto Kim Il-sung, la Triumfa Arko de Pjongjango estas impona monumento ĉe la piedo de Monto Moran kaj simbolas la korean reziston kontraŭ la japana okupado, same kiel la "triumfan revenon" de Kim Il-sung en 1945.
+
+Bildo de Monto Paektu ornamas la fasadon de la Triumfa Arko de Pjongjango.
+
+Murpentraĵo reprezentas la historian paroladon de Kim Il Sung en oktobro 1945, tuj post la liberigo de Koreio el la japana kolonia regado.
+
+La konstruaĵo estis starigita sur la Placo de la Triumfa Reveno, kie Kim Il Sung faris historian paroladon al la popolo de Pjongjango en oktobro 1945, tuj post la liberigo de Koreio el la japana kolonia regado. En tiu parolado, li vokis la nacion unuiĝi por rekonstrui sin kiel nova lando, do la arko simbolas tiun historian "triumfan revenon" kaj la komencon de la konstruado de nova Koreio.
+
+Stadiono Kim Il Sung, vidita de la Triumfa Arko
+
+La urbo rigardata el la pinto de la Triumfa Arko
+
+La strukturo, farita el 25 mil blokoj el blanka granito, estas alta je 60 metroj, do pli alta ol sia pariza ekvivalento. Plena de politika simbolismo, la arko estas ornamita per reliefoj de 70 azaleoj, kiuj reprezentas la aĝon de la estro, kaj gravuritaj sur ĝi estas la datoj "1925" kaj "1945", markante la komencon de la lukto por liberigo kaj ĝian sukceson. La monumento ankaŭ prezentas versojn el la "Kanto de la Generalo Kim Il-sung", kaj ĝi estas unu el la ĉefaj vidindejoj de la urbo, el kie oni povas desupre rigardi la ĉefurbon.
+
+Raportis kaj fotis: Rafael Henrique Zerbetto
+
+El Popola Chinio
+
+
+---
+
+# Shaanxi: Antaŭplanado estas la "balast-ŝtono" de elektroprovizo
+
+**Published:** 2026-09-14
+
+**URL:** http://esperanto.china.org.cn/2026-09/14/content_118691413.htm
+
+**Categories:** Plej Freŝaj
+
+de Qin Dian
+
+Jaro-post-jare kreskas somera elektrokonsumo, la Shaanxi-a Elektrokompanio persistis anticipe efektivigi ŝlosilajn projektojn por la elektroreto en somera pintperiodo.
+
+Ekde la fino de la pintperiodo de 2025, la kompanio tuj aranĝis kaj ekefektivigis la laboron por la sekvjara somera pintperiodo per 80 ŝlosilaj projektoj. Inter ĉiuj ŝlosilaj projektoj, la 750-kilovata transmisia kaj transforma projekto de la Tria Kanalo de norda Shaanxi al centra Shaanxi povas esti la "superprojekto" de la kompanio, kaj eĉ la unua projekto por garantii provizadon en ĉi-jara somero.
+
+Ĉi tiu projekto estas la plej grandinvesta, la plej longdistanca, la plej teknike malfacila kaj kun la plej grandnombro da konstruantoj en la historio de la kompanio. La konstru-teamo strebis tage kaj nokte, kaj finis la tutan konstruadon en 22 monatoj.
+
+Ĉi tiu elektra "granda arterio" ege pliigis la elektrotransmisian kapablon de nordo al sudo en Shaanxi. La novenergia bazo de norda Shaanxi povas ĉiujare pli multe elsendi elektron je 18 miliardojn da kilovathoroj, anstataŭigante sep milionojn da tunoj da konsumado de kruda karbo kaj redukti 14 milionojn da tunoj da karbondioksidaj emisioj. Jen la rimarkindaj ekologiaj, ekonomiaj kaj sociaj profitoj.
+
+Krom la kernaj projektoj, la kompanio glate finis du ŝlosilajn projektojn: la optimumigon de la elektroreto de suda Baoji kaj la ĉiuflankan transformon de centra Shaanxi. La optimumo al la strukturoj de la regiona elektroreto forte subtenas la provizadon dum la somero.
+
+La kompanio konstante konstruas fidindajn, verdajn, efikajn, reg-facilajn elektroretojn, kiuj ne nur subtenas la provizadon dum somero, sed ankaŭ firmigas longperspektivan fundamenton por la altkvalita evoluo de la provinca elektroreto kaj la tutlanda energiproviza strategio.
+
+Redaktoro: Xie Ruifeng
+
+El Popola Chinio
+
+
+---
+
+# Ĉinio transprenos la deĵorantan prezidantecon de BRICS en 2027
+
+**Published:** 2026-09-14
+
+**URL:** http://esperanto.china.org.cn/2026-09/14/content_118695045.htm
+
+**Categories:** Plej Freŝaj
+
+La 12-an de septembro, ĉina prezidanto Xi Jinping anoncis en la 18a Pintkunveno de BRICS en Nov-Delhio, Barato, ke Ĉinio transprenos la deĵorantan prezidantecon de BRICS en 2027.
+
+Redaktoro: Gao Shuyuan
+
+El Popola Chinio
+
+
+---
+
+# Ĉina prezidanto proponas iniciatojn pri kunlaboro de grandigita BRICS
+
+**Published:** 2026-09-14
+
+**URL:** http://esperanto.china.org.cn/2026-09/14/content_118695051.htm
+
+**Categories:** Plej Freŝaj
+
+La 13-an de septembro, ĉina prezidanto Xi Jinping proponis kvin iniciatojn pri la kunlaboro de grandigita BRICS en la kampoj de AI, komerco kaj investa faciligo, cifereca industrio, inteligenta fabrikado kaj evoluigo de talentuloj.
+
+Li diris, ke la kunlaboro de grandigita BRICS devas utiligi fortojn en enradikiĝo en emerĝantaj merkatoj kaj konekto kun la Tutmonda Sudo, subteni malfermitecon kaj kunlaboron por reciproka profito kaj kungajnaj rezultoj, teni industriajn kaj provizajn ĉenojn stabilaj kaj senbridaj, kaj kreskigi integrajn merkatojn.
+
+Redaktoro: Gao Shuyuan
+
+El Popola Chinio
+
+
+---
+
+# Xi Jinping kaj Modi faris profundan interŝanĝon de opinioj
+
+**Published:** 2026-09-14
+
+**URL:** http://esperanto.china.org.cn/2026-09/14/content_118695063.htm
+
+**Categories:** Plej Freŝaj
+
+Ĉina prezidanto Xi Jinping kaj barata ĉefministro Narendra Modi sabate faris sinceran kaj profundan interŝanĝon de opinioj, kaj atingis gravan konsenton, ke Ĉinio kaj Barato devas esti partneroj. La du gvidantoj renkontiĝis okaze de la 18a Pintkunveno de BRICS en Nov-Delhio.
+
+Xi Jinping diris, ke Ĉinio ĉiam rigardis kaj evoluigis siajn rilatojn kun Barato el strategia vidpunkto kaj kun longtempa perspektivo. Li aldonis, ke instituciaj interŝanĝoj inter la du landoj iom post iom rekomenciĝis, la listo de kunlaboraj kampoj daŭre kreskis, kaj la duflanka komerco atingis novan rekordan nivelon. Li alvokis, ke Ĉinio kaj Barato utiligu la politikan saĝecon de reciproka respekto kaj kompreno por venki malhelpojn, urĝante ambaŭ flankojn serĉi paralelan progreson en duflankaj rilatoj kaj limaj demandoj, tiel ke la du vojoj reciproke plifortigos unu la alian, por konservi pacon kaj trankvilon en limaj regionoj.
+
+Modi diris, ke li havis plurajn produktivajn renkontiĝojn kun prezidanto Xi Jinping, kiuj gvidis la barat-ĉinajn rilatojn en pozitivan direkton, servante la komunajn interesojn de la pli ol 2.8 miliardoj da popoloj de ambaŭ landoj. Li diris, ke Barato ĉiam rigardas la dulandajn rilatojn el strategia vidpunkto kaj longtempa perspektivo, kaj pretas esti partnero anstataŭ rivalo de Ĉinio, kaj konsideri la disvolviĝon de unu la alia kiel ŝancon anstataŭ defio.
+
+Li diris, ke Barato sekvas sendependan diplomatian politikon, kaj la disvolviĝo de la rilatoj kun Ĉinio ne estas submetita al la influo de iu ajn tria partio, kaj la politiko kaj pozicio de Barato pri la demandoj rilataj al Taiwan kaj Xizang restas senŝanĝaj, kaj ĝi ne permesas al iu ajn forto okupiĝi pri kontraŭĉinaj agadoj en Barato.
+
+Redaktoro: Xie Ruifeng
+
+El Popola Chinio
+
+
+---
+
+# Kiu akompanas ĉinajn entreprenojn al la mondo?
+
+**Published:** 2026-09-14
+
+**URL:** http://esperanto.china.org.cn/2026-09/14/content_118695091.htm
+
+**Author:** Bui Hai Mung
+
+**Categories:** Plej Freŝaj
+
+En la speciala zono por servoj al entreprenoj irantaj eksterlanden ĉe la Ĉina Internacia Foiro por Komerco de Servoj (CIFTIS) 2026 en Pekino, oni povas vidi tre malsamajn servojn. Unu kompanio helpas ĉinajn entreprenojn partopreni ekspoziciojn en Germanio, Italio kaj aliaj landoj. Alia ofertas servojn pri registrado de kompanioj, kontado, revizio kaj impostoj en Hongkongo. Ne malproksime, kompanio pri intelekta proprieto helpas ĉinajn teknologiojn trovi partnerojn eksterlande. KPMG parolas pri strategio, plenumo de reguloj kaj loka adaptiĝo.
+
+La servoj estas malsamaj, sed ili havas ion komunan: iliaj klientoj estas ĉinaj entreprenoj, kiuj iras al internaciaj merkatoj.
+
+La zono "Eliri al la Granda Maro" en CIFTIS
+
+Pli da ĉinaj entreprenoj eksterlande
+
+Laŭ la plej novaj datumoj de la Ministerio pri Komerco de la Ĉina Popola Respubliko (MOFCOM) kaj la Ŝtata Administracio pri Fremdlanda Valuto (SAFE), la rekta investado de Ĉinio eksterlande atingis 684.51 miliardojn da juanoj en la unuaj sep monatoj de 2026, je 2.8% pli multe ol en la sama periodo de la antaŭa jaro. La internacia ĉeesto de ĉinaj entreprenoj jam estas vasta. Laŭ la Nacinivela Ampleksa Servoplatformo por Eksterlandaj Aktivecoj de MOFCOM, fine de 2025 ekzistis ĉirkaŭ 58 000 ĉinaj entreprenoj eksterlande.
+
+Sed malantaŭ tiuj nombroj troviĝas pli grava ŝanĝo. Por multaj entreprenoj, iri eksterlanden ne plu signifas simple produkti varojn en Ĉinio kaj vendi ilin al eksterlandaj klientoj. Ili devas trovi merkatojn, konstrui markojn kaj protekti siajn teknologiojn. Ili devas registri kompaniojn, administri impostojn kaj lerni kiel funkciigi entreprenon en alia komerca medio. Ĉiu paŝo kreas bezonon de malsamaj servoj.
+
+Kiel eniri novan merkaton?
+
+Por entrepreno, kiu ankoraŭ ne havas sperton en Eŭropo aŭ Latin-Ameriko, internacia ekspozicio povas esti unu el la unuaj manieroj testi novan merkaton. Kimberly Yan, altranga fakulo pri merkatado kaj komunikado ĉe la kompanio Hannover Milano Fairs Shanghai Ltd., diris, ke unu el la taskoj de la kompanio estas helpi ĉinajn entreprenojn partopreni ekspoziciojn eksterlande. La merkatoj inkluzivas Germanion kaj Italion, sed ankaŭ Turkion, Meksikon, Aŭstralion, Singapuron kaj Saud-Arabion.
+
+La bezonoj varias laŭ industrio. En Germanio multaj ĉinaj partoprenantoj venas el industriaj sektoroj. Ili produktas industriajn komponantojn, robotojn aŭ teknologiojn rilatajn al artefarita intelekto. En Italio pli multaj venas el kampoj kiel hotelaj ekipaĵoj, modo, juvelaĵoj kaj akcesoraĵoj. Sed partopreni internacian ekspozicion ne signifas nur lui budon kaj serĉi mendojn. Laŭ Yan, por entrepreno ankoraŭ malmulte konata en iu merkato, ekspozicio povas helpi al lokaj klientoj ekkoni ĝian markon. Ĝi ankaŭ estas loko por observi la merkaton, renkonti aliajn kompaniojn en la sama industrio kaj vidi, en kiu direkto evoluas novaj teknologioj.
+
+Por grandaj ĉinaj entreprenoj jam aktivaj eksterlande, la celo povas esti alia. Yan menciis pri la kompanioj Zoomlion kaj Shanghai Electric. Por tiaj kompanioj, internacia ekspozicio ankaŭ estas loko por konservi la videblecon de la marko kaj renkonti ekzistantajn klientojn, provizantojn kaj partnerojn. Ankaŭ la preparado ne ĉiam estas simpla. Oni devas aranĝi la budon, transporti produktojn kaj komuniki kun la organizantoj. Estas ankaŭ laboro surloke, vojaĝoj kaj vizoj. Tial ekspoziciaj servoj povas fariĝi parto de la vojo al nova merkato. Sed trovi klientojn estas nur la komenco.
+
+Registri kompanion ne sufiĉas
+
+Kiam entrepreno decidas resti pli longe en eksterlanda merkato, la demandoj rapide ŝanĝiĝas. Kie registri kompanion? Kiu subskribos la kontraktojn? Kiu portos la riskojn? Kiel fluos la mono? Kie oni pagos impostojn? Tiuj estas inter la demandoj, kiujn renkontas Carina, komerca konsilisto ĉe la kompanio CONPAK Management Consultants Limited, kiam ŝi laboras kun ĉinaj entreprenoj.
+
+CONPAK funkcias en Hongkongo jam de 28 jaroj. Ĝiaj servoj inkludas registradon de kompanioj, kontadon, revizion kaj impostan konsiladon. Sed kiam la internaciaj agadoj de klientoj fariĝis pli kompleksaj, ankaŭ la bezonataj servoj ŝanĝiĝas. Carina emfazis unu gravan punkton: registri kompanion eksterlande ne signifas, ke entrepreno jam finis sian internaciiĝon. Por entrepreno aktiva en pluraj merkatoj, la grava demando ne estas nur kie registri kompanion. La tuta strukturo devas kongrui kun la reala komerca agado. Kiu respondecas pri vendado? Kiu portas la riskojn? Kiel estas organizita la monfluo? La bezono de tiaj servoj aperas sur fono de ĉiam pli vasta internacia invest-reto. Laŭ MOFCOM kaj SAFE, nur dum la unuaj sep monatoj de 2026 ĉinaj investantoj faris nefinancajn rektajn investojn en entreprenoj de 148 landoj kaj regionoj.
+
+Ankaŭ teknologio bezonas vojon al la merkato
+
+Ne ĉiu internacia komerca vojo komenciĝas per preta produkto. Marco Li, administra direktoro de la kompanio Propagate Intellectual Property Limited, rakontis pri profesoro de Sun Jatsen-Universitato en Kantono. La profesoro evoluigis maldikan folion kun karbonaj nanotuboj, kiu povas esti varmigita ĝis ĉirkaŭ 300 celsiaj gradoj. La kompanio de Li helpis pri protektado de la intelekta proprieto kaj pri serĉado de ebloj por enkonduki la teknologion en eksterlandan merkaton.
+
+Laŭ Li, komence de ĉi tiu jaro lia kompanio kontaktigis la projekton kun malajzia listigita kompanio en la naft-industrio. La teknologio poste estis uzata en aplikaĵo por varmigi naftoduktojn. La celo estas redukti la riskon de blokado dum transportado de nafto. Poste la tri flankoj — la teamo de la profesoro, la malajzia kompanio kaj la servoprovizanto — establis komunan entreprenon en Hongkongo. Ili nun laboras por plu komercigi la aplikon.
+
+La kazo montras, ke servoj pri intelekta proprieto ne nepre finiĝas ĉe registrado de patento aŭ varmarko. En iuj kazoj, tia servo povas ligi teknologion kun merkato. Ĝi helpas protekti inventon, trovi partneron kaj transformi esplorrezulton en komercan agadon. Tia bezono kreskas kun la internacia komerco de sciointensaj servoj. Laŭ MOFCOM, la eksportado de sciointensaj servoj kreskis je 12.2% en la unuaj sep monatoj de 2026. Aparte rapide kreskis enspezoj el uzrajtoj de intelekta proprieto: je 42.1%.
+
+Pli profunda ĉeesto en eksterlandaj merkatoj
+
+La tri rakontoj estas malsamaj, sed ili montras partojn de la sama ŝanĝo. KPMG priskribas tiun ŝanĝon en raporto pri la tutmondiĝo de ĉinaj entreprenoj, publikigita dum la ĉi-jara foiro. La raporto dividas la procezon en tri etapojn. En la unua etapo la ĉefa agado estas komerco kaj eksportado. Esplorado, produktado kaj plej multaj aliaj agadoj restas en Ĉinio, dum la produktoj estas vendataj eksterlande. En la dua etapo entreprenoj komencas konstrui tutmondan reton. Ili investas eksterlande kaj establas kapablojn pri produktado, vendado aŭ esplorado en aliaj merkatoj. En la tria etapo la loka adaptiĝo fariĝas pli profunda. Esplorado, produktado, vendado kaj funkciigado estas plie integritaj en la eksterlanda merkato. La kompanio ne plu simple eksportas produktojn el Ĉinio. KPMG ankaŭ priskribas tri formojn, kiuj povas ekzisti samtempe: internaciiĝo de produktoj, internaciiĝo de provizoĉenoj kaj internaciiĝo de komercaj modeloj. Grava parto de la ĉina investado eksterlande iras al landoj partoprenantaj en la iniciato "La Zono kaj Vojo". Laŭ MOFCOM, dum la unuaj sep monatoj de 2026 ĉinaj entreprenoj faris nefinancajn rektajn investojn de 151.99 miliardoj da juanoj en tiuj landoj.
+
+Ju pli kompleksa fariĝas la eksterlanda agado de entrepreno, des pli malfacile estas fari ĉion sola. Novaj demandoj aperas pri juro, dungitoj, provizoĉenoj, datumoj, impostoj kaj administrado. Tiel la internaciiĝo de ĉinaj entreprenoj mem kreas novan bezonon de profesiaj servoj. La ĉina komerco de servoj daŭre kreskas. Laŭ MOFCOM, la eksportado de servoj kreskis je 17.1% en la unuaj sep monatoj de 2026. La kompanioj ĉe la ĉi-jara foiro montras malpli videblan flankon de la internaciiĝo de ĉinaj entreprenoj.
+
+Kiam ĉinaj entreprenoj iras eksterlanden, ne nur iliaj produktoj transiras landlimojn. Ili bezonas ankaŭ servojn por trovi merkatojn, protekti teknologiojn kaj funkcii en novaj komercaj medioj. Ju pli profunde ili eniras internaciajn merkatojn, des pli gravaj fariĝas la servoj, kiuj akompanas ilin.
+
+Verkis: Bui Hai Mung
+
+El Popola Chinio
+
+
+---

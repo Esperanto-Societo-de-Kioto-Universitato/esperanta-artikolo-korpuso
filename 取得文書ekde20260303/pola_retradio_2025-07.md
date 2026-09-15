@@ -1,6 +1,6 @@
 ---
 source: "Pola Retradio (pola-retradio.org)"
-generated_at: "2026-03-03T10:42:16.351702+00:00"
+generated_at: "2026-09-15T10:54:36.981284+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-07-05 – 2025-07-31"
 ---
@@ -15,8 +15,6 @@ time_range: "2025-07-05 – 2025-07-31"
 **Categories:** Elsendoj
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/07/RetRadio_05.07.2025_sob_V_1405.mp3
-
-Podkasto: Ludu en nova fenestro | Elŝutu
 
 En la 1405-a E_elsendo el la 05.07.2025 ĉe www.pola-retradio.org:
 
@@ -155,8 +153,6 @@ El la elsendo 10.07.2025. Legas Barbara – 04′ 50″
 **Categories:** Elsendoj
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/07/RetRadio_10.07.2025_czw_M_1406.mp3
-
-Podkasto: Ludu en nova fenestro | Elŝutu
 
 En la 1406-a E_elsendo el la 10.07.2025 ĉe www.pola-retradio.org:
 
@@ -298,8 +294,6 @@ El la elsendo 15.07.2025. Legas Maciek – 01′ 55″
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/07/RetRadio_15.07.2025_wt_V_1407.mp3
 
-Podkasto: Ludu en nova fenestro | Elŝutu
-
 En la 1407-a E_elsendo el la 15.07.2025 ĉe www.pola-retradio.org:
 
 • En la enonduka parto de la elsendo ni retrorigardas al kelkaj historiaj eventoj en Pollando kaj en la mondo ligitaj kun la 15-a de julio. • Komenca aktualaĵo rilatas al la brila venko de pola tenisistino Iga Świątek en la prestiĝa turniro en la brita Wimbledon. • La kulturkronikaj informoj rilatas al okazonta lime de julio kaj aŭgusto en la norda Pollando la 29-a Internacia Ŝekspir-festivalo; al ekspozicio en Lodzo „Mumintroloj: pordo ĉiam malferma”; al la daŭranta  en la varsocia Łazienki-parko evento „La vivo de la Reĝa Ĝardeno”. • En la E-komunuma segmento ni informas pri Rafaela Urueña elektita kiel Honora Prezidanto de Hispana E-Federacio; pri nova premio anoncota dum la UK en Brno – la Premio Power por sciencaj prelegoj. • Hodiaŭ ni enrigardas la sonversion de la 154-a numero de „Tempo” de Kroata E-Ligo kaj citas novaĵojn pri Arkivo de KEL. El ĉi tiu sonversio ni prezentas krome la E-tradukon de poeziaĵo de Mladen Belica „Esti kune”. Tradukis ĝin kaj recitas Spomenka Štimec. • En la hodiaŭa elsendo aŭdiĝas kanzono de AI por la origianala teksto de Erika Godó (Belulino) „Someraj Revoj”. La hodiaŭan programinformon akompanas interreta foto prezentanta la polan tenisistinon kun la trofeo enmane. • En unuopaj rubrikoj de nia paĝo eblas konsulti la paralele legeblajn kaj aŭdeblajn tekstojn el niaj elsendoj, kio estas tradicio de nia Redakcio ekde 2003. La elsendo estas aŭdebla en jutubo ĉe la adreso: https://www.youtube.com/results?q=pola+retradio&sp=CAI%253D I.a. pere de jutubo, konforme al individua bezono, eblas rapidigi aŭ malrapidigi la parolritmon de la sondokumentoj, transsalti al iu serĉata fragmento de la elsendo.
@@ -352,8 +346,6 @@ El la elsendo 20.07.2025 – 10′ 37″
 **Categories:** Elsendoj
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/07/RetRadio_20.07.2025_ndz_M_1408.mp3
-
-Podkasto: Ludu en nova fenestro | Elŝutu
 
 En la 1408-a E_elsendo el la 20.07.2025 ĉe www.pola-retradio.org:
 
@@ -440,8 +432,6 @@ El la elsendo 20.07.2025. Legas Barbara – 03′ 30″
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/07/RetRadio_25.07.2025_pt_V_1409.mp3
 
-Podkasto: Ludu en nova fenestro | Elŝutu
-
 En la 1409-a E_elsendo el la 25.07.2025 ĉe www.pola-retradio.org:
 
 • En la enkonduka parto de la elendo ni enrigardas la kalendarfolion plukante el ĝi kelkajn historiajn eventojn ligitajn kun la 25-a de julio en Pollando kaj en la mondo. • Starante sojle de la E-Tago ni referencas al ĝi el kelkaj perspektivoj citante konforman fragmenton el la libro de Edmond Privat „Vivo de Zamenhof”. La aluditan en ĝi poeziaĵon „Ho, mia kor’” ni memorigas en la plenumo de Remigiusz Kossakowski, ne plu vivanta pola tenorulo kaj esperantisto. • La kulturkronikaj informoj koncernas la antaŭnelonge malkovritan monumenton de pola skulptistino Monika Sosnowska en Stokholmo; ekspozicion pri la renesancaj kopioj de Ptolemeo-mapoj en Varsovio; la komenciĝontan semajnfine Festivalon de Beskidy-montara Kulturo en la suda Pollando. • En la E-komunuma segmento ni informas pri nia redakcia raportado  el la 110-a UK en Brno prezentante jam la kongresraportan signalon. Kaj krome ni sciigas pri la nova scienca premio atribuota en Brno; pri la loko de la 111-a UK 2026 (Graz, Aŭstrio) al kiu eblas aliĝi favorpreze dum la UK en Brno; pri verko dediĉita al la historio de Esperanto en Zamoro, Hispanio. Krome ni informas pri la jam aliĝintaj al la UK en Brno pli ol 1100 esperantistoj. • En la hodiaŭa elsendo krom la jam menciita „Ho, mia kor’” ni memorigas la prikongresan kanton de Georgo Handzlik „Kiam venas konges…” kaj citas el la reto la ĉeĥan popolan kanton „Mistříňanka – Lojza”, kiu estas bazo de nia kongressignalo. • La hodiaŭa programinforma foto el la reto prezentas la historian ekzempleron de la Unua Libro en la pola lingvo. Aŭtoras ĝin Dawid Musialik – https://www.reddit.com/r/Esperanto/comments/y88057/original_copy_of_unua_libro_from_1887_is/ • En unuopaj rubrikoj de nia paĝo eblas konsulti la paralele legeblajn kaj aŭdeblajn tekstojn el niaj elsendoj, kio estas tradicio de nia Redakcio ekde 2003. La elsendo estas aŭdebla en jutubo ĉe la adreso: https://www.youtube.com/results?q=pola+retradio&sp=CAI%253D I.a. pere de jutubo, konforme al individua bezono, eblas rapidigi aŭ malrapidigi la parolritmon de la sondokumentoj, transsalti al iu serĉata fragmento de la elsendo.
@@ -510,8 +500,6 @@ El la elsendo 25.07.2025. Legas Gabi – 01′ 44″
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/07/RetRadio_26.07.2025_sob_BRNO_1410.mp3
 
-Podkasto: Ludu en nova fenestro | Elŝutu
-
 En la 1410-a E_elsendo el la 26.07.2025 ĉe www.pola-retradio.org:
 
 • En la hodiaŭa E-elsendo ni prezentas la unuan sonraporton pri la 110-a UK en Brno. Komence dum la sabata mateno en la akceptejo ni registris mallongajn raportetojn kun Sonja Zaretskaja el la Kongresa Fako, kun Ionel Onet el la Centra Oficejo de UEA tradicie respondeca pri la Libroservo. Ni gastigis antaŭ nia mikrofono Jiři Caletka el LKK respondecan pro kontaktoj kun amaskomunikiloj kaj Marek Blahuš respondecan pro kontaktoj kun lokaj aŭtoritatoj. Kelkvorte pri la nunjara kongresnumero „Drako de Brno” informis ĝia redaktoro Miroslav Malovec. Fine de la Komitata Kunsido ni invitis antaŭ nian mikrofonon la novan prezidanton de UEA, Fernando Maia. • La elsendo estas aŭdebla en jutubo ĉe la adreso: https://www.youtube.com/results?q=pola+retradio&sp=CAI%253D I.a. pere de jutubo, konforme al individua bezono, eblas rapidigi aŭ malrapidigi la parolritmon de la sondokumentoj, transsalti al iu serĉata fragmento de la elsendo.
@@ -528,8 +516,6 @@ En la 1410-a E_elsendo el la 26.07.2025 ĉe www.pola-retradio.org:
 **Categories:** Elsendoj
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/07/RetRadio_27.07.2025_ndz_BRNO_1411.mp3
-
-Podkasto: Ludu en nova fenestro | Elŝutu
 
 En la 1411-a E_elsendo el la 27.07.2025 ĉe www.pola-retradio.org:
 
@@ -548,8 +534,6 @@ En la 1411-a E_elsendo el la 27.07.2025 ĉe www.pola-retradio.org:
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/07/RetRadio_28.07.2025_pn_BRNO_1412.mp3
 
-Podkasto: Ludu en nova fenestro | Elŝutu
-
 En la 1412-a E_elsendo el la 28.07.2025 ĉe www.pola-retradio.org:
 
 • En la hodiaŭa E-elsendo ni prezentas la trian sonraporton pri la 110-a UK en Brno. El la bunta programo de la Kleriga Lundo konsistanta el 17 apartaj kontribuoj ni  proksimigas la vortojn de Yves Nevelsteen pri lia prezento dediĉita al temo  „Kial kaj kiel vaste diskonigi E-eventojn por la Eventa Servo de UEA. En la dua bloko ni registris komencan sonscenon el prezento de Marta Ruzza „Demenco kaj Dulingvismo”. • Du sonscenoj estis registritaj ĉe la informstandoj: de la venontjara 111-a UK en Graz, Aŭstrio – kun Norina Schantl kaj de Bahaa E-Ligo – kun Bernhard Westerhoff. • Lunde okazis la disdono de la premio Maertens. El ĉi tiu programo ni prezentas la dankvortojn kaj sinprezenton de Stela Besenyei-Merger, la unua distingito per ĉi tiu nova premio atribuata pro kontribuo al la movada evoluigo. La programinformon akompanas foto el fb prezentanta la laŭreatinon. • La elsendo estas aŭdebla en jutubo ĉe la adreso: https://www.youtube.com/results?q=pola+retradio&sp=CAI%253D I.a. pere de jutubo, konforme al individua bezono, eblas rapidigi aŭ malrapidigi la parolritmon de la sondokumentoj, transsalti al iu serĉata fragmento de la elsendo.
@@ -567,8 +551,6 @@ En la 1412-a E_elsendo el la 28.07.2025 ĉe www.pola-retradio.org:
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/07/RetRadio_29.07.2025_ndz_BRNO_1413-1.mp3
 
-Podkasto: Ludu en nova fenestro | Elŝutu
-
 En la 1413-a E_elsendo el la 29.07.2025 ĉe www.pola-retradio.org:
 
 • En la hodiaŭa E-elsendo ni prezentas la kvaran sonraporton pri la 110-a UK en Brno. • Ĉerpante el la riĉa marda programo ni proponas antaŭmikrofonan renkontiĝon kun la Rektoro de Internacia Somera Universitato, profesorino Věra Barandovská-Frank, kiu informas nin pri la komenciĝintaj sesioj de IKU, IKU/AIS kaj prelegoj de la Scienca Kafejo, kiuj startis marde. • El la programo de la nunjara Tago de Lernado ni elektis fragmenton de la prezento de Stela Besenyei-Merger, kiu prezento estis dediĉita al nova podkasto „Radikala Tenero – retaj babiladoj por interkultura lernado kaj internacia interkompreniĝo”. • Marde oni traktis ankaŭ kongresan temon. Sekve do ni prezentas la invitajn vortojn de la reĝisoro de la temo „Esperanto kaj teknologioj kiel pontoj de paco kaj popoloj” el la Solena Inaŭguro, prof. Bengt-Arne Wickström. Ili gravas en la kunteksto de la prilaborota kongresa rezolucio. • Se temas pri koncertoj ni aparte donas la atenton de tiu de Amira CHUN, kiu marde lanĉis sian novan albumon „Nova Vibrado” kaj ni fragmente prezentas ŝian kanzonon „Loĝos mi en verda mondo”. La programinformon akompanas iu el komunaj fotoj de la 110-a UK. Fotis: Jozef Baláž. • La elsendo estas aŭdebla en jutubo ĉe la adreso: https://www.youtube.com/results?q=pola+retradio&sp=CAI%253D I.a. pere de jutubo, konforme al individua bezono, eblas rapidigi aŭ malrapidigi la parolritmon de la sondokumentoj, transsalti al iu serĉata fragmento de la elsendo.
@@ -585,8 +567,6 @@ En la 1413-a E_elsendo el la 29.07.2025 ĉe www.pola-retradio.org:
 **Categories:** Elsendoj
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/07/RetRadio_30.07.2025_sr_BRNO_1414.mp3
-
-Podkasto: Ludu en nova fenestro | Elŝutu
 
 En la 1414-a E_elsendo el la 30.07.2025 ĉe www.pola-retradio.org:
 

@@ -1,6 +1,6 @@
 ---
 source: "Pola Retradio (pola-retradio.org)"
-generated_at: "2026-03-03T10:42:16.442627+00:00"
+generated_at: "2026-09-15T10:54:37.016879+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-11-05 – 2025-11-30"
 ---
@@ -85,8 +85,6 @@ El la elsendo 05.11.2025 – 03′ 57″
 **Categories:** Elsendoj
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/11/RetRadio_05.11.2025_sr_V_1435-1.mp3
-
-Podkasto: Ludu en nova fenestro | Elŝutu
 
 En la 1435-a E_elsendo el la 05.11.2025 ĉe www.pola-retradio.org:
 
@@ -192,8 +190,6 @@ El la elsendo 10.11.2025 – 08′ 35″
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/11/RetRadio_10.11.2025_pn_1436.mp3
 
-Podkasto: Ludu en nova fenestro | Elŝutu
-
 En la 1436-a E_elsendo el la 10.11.2025 ĉe www.pola-retradio.org:
 
 • Hodiaŭ antaŭ nia mikrofono gastas d-ro Gabriel Beecham. La renkontiĝo dum la 110-a UK estis la okazo ekscii i.a. pri lia vojo al Esperanto, kiu alkondukis lin al la posteno de la prezidanto de la Brita Asocio de Esperanto. Pri lia profesia laboro kiel kuracisto anestezisto. • La komencan parton de la elsendo, krom prezento de kelkaj historiaj datoj ligitaj kun la dato 10.11, ni dediĉas al temoj ĉirkaŭ la morgaŭa pola Nacia Festo, la 107-a datreveno de la reakirita suvereneco. Ni informas pri la 100-jariĝo de la varsovia Tombo de Nekonata Soldato, pri festokaza komuna kantado de la pola himno en polaj lernejoj, pri la 12-a Internacia Paderewski-festivalo en Varsovio. • La sciencan rubrikon ni dediĉas al la kreskanta kvanto de psikaj perturboj inter uzantoj de ChatGPT, pri kio atentigis Open AI. • La reta foto ornamanta la programinformon prezentas la varsovian Tombon de Nekonata Soldato. • En unuopaj rubrikoj de nia paĝo eblas konsulti la paralele legeblajn kaj aŭdeblajn tekstojn el niaj elsendoj, kio estas tradicio de nia redakcio ekde 2003. La elsendo estas aŭdebla en jutubo ĉe la adreso: https://www.youtube.com/results?q=pola+retradio&sp=CAI%253D I.a. pere de jutubo, konforme al individua bezono, eblas rapidigi aŭ malrapidigi la parolritmon de la sondokumentoj, transsalti al iu serĉata fragmento de la elsendo.
@@ -230,8 +226,6 @@ El la elsendo 15.11.2025 – 18′ 42″
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/11/RetRadio_15.11.2025_sab_V_1437.mp3
 
-Podkasto: Ludu en nova fenestro | Elŝutu
-
 En la 1437-a E_elsendo el la 15.11.2025 ĉe www.pola-retradio.org:
 
 • Nia hodiaŭa elsendo grandparte estas dediĉita al la memoro de la forpasinta la 13-an de novembro 2025 konata pola esperantisto, Roman Dobrzyński. Ni i.a. referencas al la Gazetara Komuniko de UEA – uea.org/gk/1266a1 . El nia arkivo ni memorigas ampleksan interparolon el 2006, faritan en la E-Redakcio de Pola Radio, post lia trimonata instruado de Esperanto en Ĉinio. • En la kulturtema kroniko – post la kalendarfoliaj informoj ligitaj kun la 15.11 – ni informas pri unu el la patronoj de 2006 en Pollando, kiu estas la fama pola reĝisoro Andrzej Wajda. • Muzike ni memorigas kanzonon de la kabareto de la pola E-junularo Verda Simio funkcianta en la 60-aj jaroj de la pasinta jarcento „Fluas Wisła tra ebena land’”. Roman Dobrzyński aktive ĝin partoprenis, verkis kaj tradukis por ĝia repertuaro. La programinformon akompanas foto el la E-Tagoj de Krakovo, en kiu krom Roman Dobrzyński troviĝas Raia Androvska kaj Barbara Pietrzak. • En unuopaj rubrikoj de nia paĝo eblas konsulti la paralele legeblajn kaj aŭdeblajn tekstojn el niaj elsendoj, kio estas tradicio de nia redakcio ekde 2003. La elsendo estas aŭdebla en Jutubo ĉe la adreso: https://www.youtube.com/results?q=pola+retradio&sp=CAI%253D Ineralie pere de Jutubo, konforme al individua bezono, eblas rapidigi aŭ malrapidigi la parolritmon de la sondokumentoj; eblas transsalti al ajna serĉata fragmento de la elsendo.
@@ -248,8 +242,6 @@ En la 1437-a E_elsendo el la 15.11.2025 ĉe www.pola-retradio.org:
 **Categories:** Elsendoj
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/11/RetRadio_20.11.2025_czw_M_1438.mp3
-
-Podkasto: Ludu en nova fenestro | Elŝutu
 
 En la 1438-a E_elsendo el la 20.11.2025 ĉe www.pola-retradio.org:
 
@@ -352,8 +344,6 @@ El la elsendo 20.11.2025. Legas Maciek – 03′ 51″
 **Categories:** Elsendoj
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/11/RetRadio_25.11.2025_wt_V_1439.mp3
-
-Podkasto: Ludu en nova fenestro | Elŝutu
 
 En la 1439-a E_elsendo el la 25.11.2025 ĉe www.pola-retradio.org:
 

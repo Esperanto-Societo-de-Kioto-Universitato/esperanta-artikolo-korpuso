@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-03-03T10:42:50.443800+00:00"
+generated_at: "2026-09-15T10:54:36.819865+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-07-02 – 2025-07-31"
 ---
@@ -23,8 +23,6 @@ Pro la bonkvalito de la produktoj, la kronoj produktitaj en la metiartejo estas
 Helpe de la loka federacio de handikapuloj, pli ol 40 handikapaj dungitoj laboras por li. "Estas malfacile por handikapuloj trovi laborpostenon, ili certe domaĝos sian laboron," Chen Yonghong diris, "estontece ni mem dezajnos novajn kronojn por akiri pli da mendoj, kio helpos pli da handikapuloj."
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Nanxi-opero de Ruian en Zhejiang-provinco - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -149,8 +147,6 @@ Kun produktoj vendataj en preskaŭ 100 landoj kaj regionoj kaj granda nombro da 
 
 Verkis: Rafael Henrique Zerbetto
 
-<span style="font-family: "times new roman"; font-size: 20px;">Handikapuloj "kronas" per kronoj en Nanchang de Jiangxi-provinco - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -187,8 +183,6 @@ Mi apenaŭ povis kredi, kiam li informis min, ke li jam sukcesis ricevi duonon 
 La projekto bone progresas. Ni jam sukcesis trovi konvenan terenon por konstrui la lernejon, kaj la necesaj proceduroj jam komenciĝis por daŭrigi la laboron. La registaro de mia urbo Mubela kaj IKEF-Tanzanio jam informiĝis pri la afero kaj esprimis sian dankon al la ĉina kompanio. Ni planas nomi la novan lernejon Espero Food Junc Elementa Lernejo.
 
 Ni kore dankas la kompanion Food Junc Tomato Products Co., Ltd. kaj sinjoron John Huang pro ilia esenca subteno en la realigo de tiu longdaŭra revo. Samtempe, ni daŭre petas la subtenon de individuoj kaj organizoj, kiuj volas kontribui al tiu eduka projekto kaj helpi nin atingi niajn ambiciajn celojn. Rimarkinde, kompleta bazlernejo en Tanzanio enhavas sep klasojn -- unu por antaŭbaza edukado kaj ses por baza edukado. Ĝis nun ni jam akiris la monon por la tereno kaj por konstrui unu el la tri planitaj klasĉambroj. Via kontribuo povos helpi nin konstrui la aliajn klasĉambrojn!
-
-<span style="font-family: "times new roman"; font-size: 20px;">Handikapuloj "kronas" per kronoj en Nanchang de Jiangxi-provinco - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -259,8 +253,6 @@ El tiu sperto, mi kredas, ke la plej grava konstato estas, ke plifortigo de kult
 
 Verkis kaj fotis: Rafael Henrique Zerbetto
 
-<span style="font-family: "times new roman"; font-size: 20px;">Espero Food Junc, bazlernejo helpata de ĉina kompanio per Esperanto - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -292,8 +284,6 @@ Hu Xin diris: "Ni povas skribi Nüshu. Dum skribado, nia koro trankviliĝas. Ni 
 
 Redaktoro: Liu Zijia
 
-<span style="font-family: "times new roman"; font-size: 20px;">Japanoj spertis ĉinan kulturan heredaĵon en Ruian - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -317,8 +307,6 @@ Dingsheng-kuko estis elektita en la sepan aron de la listo de nemateria kultura 
 
 Redaktoro: Xie Ruifeng
 
-<span style="font-family: "times new roman"; font-size: 20px;">Virina skribsistemo ekzistas jam delonge - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -340,8 +328,6 @@ Cetere, oni kredas, ke la pagodo estis konstruita laŭ la reguloj de Fengshui po
 
 Raportis kaj fotis: Rafael Henrique Zerbetto
 
-<span style="font-family: "times new roman"; font-size: 20px;">Virina skribsistemo ekzistas jam delonge - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -358,8 +344,6 @@ El Popola Chinio
 La vilaĝo Nanjie en Henan-provinco de Ĉinio estas mondkonata pro sia unika ekonomia modelo-bazita sur kolektivismo. Vilaĝanoj senpage havas loĝejon, manĝaĵon, vestaĵojn, edukadon, kuracadon kaj aliajn vivbezonaĵojn. Por antaŭenigi la disvolvadon de la vilaĝo, lokanoj emfazas la fundamentajn ideojn de Markso kaj Mao Zedong, kaj tra la tuta vilaĝo troviĝas portretoj de Mao kaj skribaĵoj elĉerpitaj de liaj verkoj kaj paroloj. En la centro de la vilaĝo estis konstruita placo nomita Oriento Estas Ruĝa, kie troviĝas statuo de Mao kaj portretoj de aliaj gravaj figuroj de la historio de socialismo. La placo estas konata turismejo de la vilaĝo kaj vespere fariĝis renkontiĝejo, kie lokaj homoj amuziĝas kaj infanoj ludas.
 
 Raportis kaj fotis: Rafael Henrique Zerbetto
-
-<span style="font-family: "times new roman"; font-size: 20px;">La pagodo Wenfeng en Xuchang - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -383,8 +367,6 @@ Sinjorino Laura kaj sinjoro Aldreno
 Ŝakludo en la klubo
 
 Koincide, kiam Laura atingis la klubon, Yang Chao estis klariganta la hispanan ŝakludan komencon al la lernantoj, kaj Laura venas el Hispanio. Do ambaŭ instruistoj diskonigis la sciojn de historio, geografio kaj frandaĵoj de Hispanio en la klubo. Fine, ili ŝakludis kun la lernantoj en varma etoso.
-
-<span style="font-family: "times new roman"; font-size: 20px;">La placo Oriento Estas Ruĝa en la vilaĝo Nanjie - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -421,8 +403,6 @@ Tio denove montras, ke interfero en konkurenco en tutmondaj merkatoj damaĝas ti
 
 Redaktoro: Xie Ruifeng
 
-<span style="font-family: "times new roman"; font-size: 20px;">Hispana esperantisto vizitis ŝakoklubon en la urbo Xi'an - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -443,8 +423,6 @@ Silkokulturo kaj silkometiarto de Ĉinio estas kulturaj signoj de la ĉina naci
 Silkofarado tradicie ludas gravan rolon por virinoj en la ekonomio de kamparaj regionoj. Ili ampleksas plantadon de moruso, bredadon de silkraŭpoj, malvolvadon de silko, fabrikadon de fadeno, dezajnon kaj teksadon de ŝtofo kaj tiel plu. La kulturo kaj metiarto estis transdonitaj ene de familioj. La vivciklo de silkraŭpoj estis rigardata kiel simbolo de homa vivo, morto kaj renaskiĝo. En la lagetoj ĉirkaŭ la vilaĝoj, silkraŭpaj rubaĵoj povas nutri fiŝojn, dum koto de lagetoj fekundigas la morusarbojn, kaj la folioj siavice nutras la silkraŭpojn. Ĉe la komenco de la ĉina novjaro, kamparanoj invitas metiistojn en siajn hejmojn por rakonti la rakonton pri la diino de bombikso, por forpeli malbonon kaj certigi abundan rikolton. Ĉiun kvaran monaton virinoj, kiuj bredas silkraŭpojn, ornamas sin per buntaj floroj faritaj el silko aŭ papero kaj faras rikoltajn oferojn. Silko havas rilatojn al la industrioj pri vestaĵo, litaĵo, ombrelo, ventumilo kaj aliaj, kiuj estas nepre bezonataj en la ĉiutaga vivo.
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Manĝeto Dingsheng-kuko, nemateria kultura heredaĵo kun bonaŭguro por trapasi ekzamenojn - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -467,8 +445,6 @@ Xi Jinping emfazis, ke Ĉinio volas labori kun ĉiuj landoj por subteni la civil
 
 Redaktoro: Gao Shuyuan
 
-<span style="font-family: "times new roman"; font-size: 20px;">Silkokulturo kaj silkometiarto de Ĉinio - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -489,8 +465,6 @@ La premio celas aktive praktiki la Tutmondan Civilizacian Iniciaton proponitan d
 La ceremonio estis organizita de la Ĉina Internacia Komunika Grupo. La premio kunvenigis pli ol 300 partoprenantojn, inkluzive de gajnintoj kaj juĝistoj el pli ol 30 landoj kiel Ĉinio, Pakistano, Taĝikio, Irano, Niĝerio, Bulgario, Germanio, Francio, Britio kaj Usono, kaj reprezentantoj de koncernaj centraj departementoj, internaciaj organizoj, diplomatiaj senditoj en Ĉinio, pensfabrikoj kaj amaskomunikiloj. De la 9-a ĝis la 14-a de julio, la organizantoj ankaŭ aranĝis vizitprogramon "Legi Ĉinion" en Pekino kaj Harbino por la partoprenantoj.
 
 Redaktoro: Gao Shuyuan
-
-<span style="font-family: "times new roman"; font-size: 20px;">Hispana esperantisto vizitis ŝakoklubon en la urbo Xi'an - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -519,8 +493,6 @@ Lastatempe la studio de Yao Jianping per AI "tridimensiigis" plurajn el ŝiaj ve
 
 Redaktoro: Xie Ruifeng
 
-<span style="font-family: "times new roman"; font-size: 20px;">Okazis la dua premidona ceremonio de Orkide-premio - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -543,8 +515,6 @@ banadon laŭ tradicia tibeta medicino
 Ingrediencoj kaj banejoj por bano laŭ tradicia tibeta medicino
 
 Verkita de Rafael Henrique Zerbetto
-
-<span style="font-family: "times new roman"; font-size: 20px;">Yao Jianping: Rakonti ĉinajn rakontojn per suzhou-stila brodarto - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -651,8 +621,6 @@ En mondo, kie artefarita intelekto kaj aliaj novigoj estas uzataj por disvastigi
 
 Verkis: Rafael Henrique Zerbetto
 
-<span style="font-family: "times new roman"; font-size: 20px;">Banmetodo de Xizang-a Tradicia Medicino - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -673,8 +641,6 @@ La maŭzoleo estas loko, kie troviĝas tomboj konstruitaj dum la restado de la 
 Kiel la plej vasta, altnivela kaj bone konservata arkeologiejo, ĝi fariĝas la plej fidinda atestanto de la ekzisto de la preskaŭ-200-jara dinastio, ĝia politiko pri genealogio de reganto kaj ĝia rolo kiel grava akso de la Silka Vojo.
 
 Redaktoro: Gao Shuyuan
-
-<span style="font-family: "times new roman"; font-size: 20px;">Ĉinio antaŭenigas dialogon kaj kunlaboron inter tutmondaj civilizacioj - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -709,8 +675,6 @@ Samtempe la triageneraciaj heredantoj faras novigojn sub la gvido de Su Donghe.
 
 Redaktoro: Liu Zijia
 
-<span style="font-family: "times new roman"; font-size: 20px;">Banmetodo de Xizang-a Tradicia Medicino - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -729,8 +693,6 @@ Esperanto-Muzeo en Svitavy estas kultura institucio situanta en la Domo de Otten
 La muzeo estiĝis danke al kunlaboro inter la urbo Svitavy, Urba Muzeo kaj Galerio Svitavy, Ĉeĥa Esperanto-Asocio kaj la loka klubo de amikoj de Esperanto. Ĝi estis solene inaŭgurita la 20-an de septembro 2008 kaj ĝian ekeston finance grave subtenis la Ministerio pri Kulturo de Ĉeĥa Respubliko, la urbo Svitavy kaj la usona fondaĵo Esperantic Studies Foundation (ESF). La domo estas posedaĵo de la urbo, prizorgata de la Urba Muzeo, kaj la Esperanto-Muzeo estas tie en senpaga luo. La tuta interna ekipaĵo estas posedaĵo de Ĉeĥa Esperanto-Asocio.
 
 Se vi ne sukcesis partopreni la merkredan ekskurson al Svitavy kaj Litomyšl, venu almenaŭ aŭskulti pri ĝia historio. Prelegas Libuše Dvořáková, kiu estas ligita kun la muzeo ekde ĝia fondiĝo. Libuše Dvořáková Ĵaŭdo, 16h00 - 16h45, Corsetti
-
-<span style="font-family: "times new roman"; font-size: 20px;">Ĉinio antaŭenigas dialogon kaj kunlaboron inter tutmondaj civilizacioj - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -761,8 +723,6 @@ La vizaĝo kaj kostumo de la roluloj de la Pekina Opero estas originala kaj r
 
 La Pekina Opero estas altnivela, juĝate laŭ la arta vidpunkto. Mei Lanfang, Cheng Yanqiu, Gai Jiaotian, Zhou Xinfang kaj aliaj famaj aktoroj de la maljuna generacio ĝuis altan prestiĝon en- kaj eksterlande. Jam en la 1920-aj kaj 1930-aj jaroj s-ro Mei Lanfang ludis la Pekinan Operon en Japanio, Usono kaj Sovetunio. En 1955 fama mimo kaj filmstelo Charles Spencer Chaplin rigardis la Pekinan Operon en Parizo kaj diris, ke ĝi estas brilanta perlo.
 
-<span style="font-family: "times new roman"; font-size: 20px;">Ĉinio antaŭenigas dialogon kaj kunlaboron inter tutmondaj civilizacioj - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -779,8 +739,6 @@ El Popola Chinio
 La 18-an de julio Wang Wentao, ministro pri komerco de Ĉinio, diris en gazetara konferenco pri "altkvalita kompletigo de la 14-a Kvinjara Plano" okazigita de la Informa Oficejo de la Ŝtata Konsilantaro, ke la kvalito de la eksterlanda investado al Ĉinio pliboniĝis, kaj la totala sumo de eksterlanda investado dum la periodo de la 14-a Kvinjara Plano superis la atenditan celon de 700 miliardoj da usonaj dolaroj. La ĉina strukturo pri investado daŭre optimumiĝas.
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Gravurado de sigeliloj - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -806,8 +764,6 @@ Dum la kongreso ni esploros la diversajn manierojn kiel teknologioj povas subten
 Tamen ni ankaŭ atentos pri la danĝeroj de misuzo de teknologio. Necesas konstrui kaj teni konscion pri la nepra bezono pri etiko en la uzado de teknologioj, same kiel batali kontraŭ falsaj novaĵoj kaj la dissemado de malamo. Ni devas certigi, ke niaj komunikrimedoj estas uzataj por konstrui pontojn, ne barojn, kaj ke ili kontribuas al socia inkluziveco en mondo teknologie konektita, por ke neniu restu eksterlasita. Pere de tiu temo ni ankaŭ diskutos pli amplekse pri tio kiel ciferecaj rimedoj povas esti uzataj por emancipa edukado, ĉefe por ke pacemo regu en la mensoj de la homoj.
 
 La kongresa temo intencas esplori kiel teknologioj povas subteni pacon kaj konfidon, la instruon de Esperanto kaj valorigi kulturan diversecon, samtempe atente al etikaj defioj (ekzemple, falsaj novaĵoj) kaj la bezono por socia inkluziveco.
-
-<span style="font-family: "times new roman"; font-size: 20px;">Historio de la Esperanto-Muzeo en Svitavy - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -900,8 +856,6 @@ Dum BRICS proponas alternativojn al la institucioj de Bretton Woods kaj premas p
 
 Verkis: Rafael Henrique Zerbetto
 
-<span style="font-family: "times new roman"; font-size: 20px;">Kongresa temo de UK en Brno: Esperanto kaj teknologioj kiel pontoj de paco kaj konfido inter la popoloj - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -922,8 +876,6 @@ En la muzeo
 La muzeo estiĝis danke al kunlaboro inter la urbo Svitavy, Urba Muzeo kaj Galerio Svitavy, Ĉeĥa Esperanto-Asocio kaj la loka klubo de amikoj de Esperanto. Ĝi estis solene inaŭgurita la 20-an de septembro 2008 kaj ĝian ekeston finance grave subtenis la Ministerio pri Kulturo de Ĉeĥa Respubliko, la urbo Svitavy kaj la usona fondaĵo Esperantic Studies Foundation (ESF). La domo estas posedaĵo de la urbo, prizorgata de la Urba Muzeo, kaj la Esperanto-Muzeo estas tie en senpaga luo. La tuta interna ekipaĵo estas posedaĵo de Ĉeĥa Esperanto-Asocio.
 
 Se vi ne sukcesis partopreni la merkredan ekskurson al Svitavy kaj Litomyšl, venu almenaŭ aŭskulti pri ĝia historio. Prelegas Libuše Dvořáková, kiu estas ligita kun la muzeo ekde ĝia fondiĝo. Libuše Dvořáková Ĵaŭdo, 16h00 - 16h45, Corsetti.
-
-<span style="font-family: "times new roman"; font-size: 20px;">Kongresa temo de UK en Brno: Esperanto kaj teknologioj kiel pontoj de paco kaj konfido inter la popoloj - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -1031,8 +983,6 @@ Esperantistoj ĉirkaŭ la mondo renkontiĝas por disvolvi inter si komprenon kaj
 En tiu Tago de Esperanto (26 julio), feliĉe proksima de la Internacia Tago de Espero (12 julio), kaj de la Internacia Tago de Amikeco (30 julio), ni alvokas al antaŭenigo de amikeco inter homoj, popoloj, landoj kaj kulturoj. Same, ni alvokas al rekonado de espero kaj bonfarto kiel kernaj valoroj por publikaj decidoj. Ni estas konvinkitaj, ke la sola vojo al pli bona mondo por ĉiuj bazas sur komuna dialogado. Ni postulu de niaj registaroj, ne la disputadon pri resursoj, sed la multflankan serĉadon de solvoj respektante ĉies homajn rajtojn. Ni invitas ĉiujn, ne nur koni kaj eble lerni Esperanton, sed pli grave, unuiĝi por konstrui mondon por ĉiuj ni, en paca kunekzisto.
 
 (UEA)
-
-<span style="font-family: "times new roman"; font-size: 20px;">Ĉinio antaŭenigas dialogon kaj kunlaboron inter tutmondaj civilizacioj - esperanto.china.org.cn</span>
 
 El Popola Chinio
 

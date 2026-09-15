@@ -1,6 +1,6 @@
 ---
 source: "UEA Facila (uea.facila.org)"
-generated_at: "2026-03-03T10:41:51.150343+00:00"
+generated_at: "2026-09-15T10:54:37.051564+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-06-08 – 2025-06-29"
 ---
@@ -15,10 +15,6 @@ time_range: "2025-06-08 – 2025-06-29"
 **Categories:** Filmetoj
 
 [Embed] https://www.youtube.com/embed/0oEQZBr4yqk?width=100%25&height=86.25
-
-1
-
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
 
 
 ---
@@ -50,8 +46,6 @@ La reta aliĝilo troviĝas ĉe https://ijk2025.tejo.org/alighilo/ .
 TEJO finance subtenas 20 gejunulojn el Azio kaj Oceanio, por ke ili povu partopreni en IJK. Ni elkore dankas ĉiujn, kiuj ĝis nun donacis al la fondaĵo “Partoprenu IJK-n”. Por subteni 20 homojn, ni ankoraŭ bezonas 3000 eŭrojn. Se vi volus helpi nin atingi tiun celon, bonvolu donaci al la fondaĵo.
 
 La grandeco kaj la sukceso de nia IJK dependas parte de via subteno. TEJO antaŭdankas vin!
-
-1
 
 aliĝi: aldoniĝi, almetiĝi, membriĝi, aparteniĝi al, iĝi partoprenanto en io; aliĝilo: dokumento per kiu oni enskribiĝas al kongreso aŭ simila aranĝo.
 
@@ -104,12 +98,6 @@ tra-pasi ekzamenon: ekzameniĝi.
 
 [Embed] https://www.youtube.com/embed/2KA2O4dFJEM?width=100%25&height=86.25
 
-1
-
-1
-
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
-
 
 ---
 
@@ -139,10 +127,6 @@ Radio Verda estas bona ilo por samtempe lerni kaj ĝui la lingvon. Per regula sp
 
 Arono Chapman
 
-8
-
-1
-
 Arono Chapman estas instruisto kaj lingvisto en Vankuvero, Kanado. Li estas fondinto kaj redaktoro de Radio Verda, kaj unu el la kunkreintoj de Lernu.net. Li ĝuas liberan tempon subĉiele aŭ esplorante novajn ideojn kaj teknologiojn.
 
 kanalo: arte-farita akvo-vojo; la vojo por dissendi la programojn de difinita radia, televida, aŭ reta organizaĵo.
@@ -166,10 +150,6 @@ stilo: la aparta maniero, laŭ kiu estas prezentata verko, artaĵo, vesto aŭ si
 
 [Embed] https://www.youtube.com/embed/k04P0LNgjh0?width=100%25&height=86.25
 
-1
-
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
-
 
 ---
 
@@ -183,10 +163,6 @@ stilo: la aparta maniero, laŭ kiu estas prezentata verko, artaĵo, vesto aŭ si
 
 [Embed] https://www.youtube.com/embed/EYC4ekIirCA?width=100%25&height=86.25
 
-1
-
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
-
 
 ---
 
@@ -199,10 +175,6 @@ stilo: la aparta maniero, laŭ kiu estas prezentata verko, artaĵo, vesto aŭ si
 **Categories:** Filmetoj
 
 [Embed] https://www.youtube.com/embed/wUSkUKEEQVk?width=100%25&height=86.25
-
-1
-
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
 
 
 ---
@@ -240,10 +212,6 @@ Antaŭ kvar mil jaroj, jam ekzistis pluraj dense loĝataj regionoj sur la planed
 Nuntempe, ni ne scias, ĉu la nuna emo al malamo rezultas de nia gena heredaĵo aŭ de kultura influo , sed ni nepre devas haltigi la malsaĝecon de niaj regantoj. Kiel humanaj homoj ni devas kunlabori por subteni la bonfarton de ĉiuj popoloj, kaj disvastigi solidarecon kaj sciojn. La rajton agi kiel bestoj ni lasu nur al la bestoj.
 
 Vicente Sales
-
-6
-
-1
 
 Vicente Sales estas brazila esperantisto, aktiva kiel estrarano de Societo Esperantista de Minas-Ĵerajso (SEM) kaj membro de la Rotaria e-Klubo de Esperanto. Li ankaŭ estas amatora kuristo, gitaristo, kaj entuziasma amanto de scienco. https://www.instagram.com/vicente.kuristo/
 
@@ -349,10 +317,6 @@ Maurizio 'Rico' Giacometto
 
 La libro estas aĉetebla ĉe la libroservo de UEA (18 eŭroj), kaj ĉe FEL (21.75 eŭroj). Kontrolu ankaŭ ĉe via nacia aŭ loka libroservo.
 
-7
-
-1
-
 Maurizio Giacometto ('Rico') estas redaktoro de la rubriko “Libroservo” en uea.facila.
 
 anekdoto: mallonga rakonto pri interesa, amuza aŭ nekutima okazaĵo.
@@ -409,8 +373,6 @@ toleremo: akceptemo de opinioj, kredoj aŭ agmanieroj de aliaj homoj aŭ popoloj
 **Categories:** Filmetoj
 
 [Embed] https://www.youtube.com/embed/tI4fm6h4JMU?width=100%25&height=86.25
-
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
 
 
 ---

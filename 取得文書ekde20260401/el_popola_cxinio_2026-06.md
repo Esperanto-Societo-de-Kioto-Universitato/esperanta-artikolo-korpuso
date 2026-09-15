@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-08-13T10:15:12.632848+00:00"
+generated_at: "2026-09-15T11:04:52.400931+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-06-01 – 2026-06-30"
 ---
@@ -76,8 +76,6 @@ El la perspektivo de homo el Sudorienta Azio — regiono, kiu rapide urbaniziĝa
 
 Verkis kaj fotis: Bui Hai Mung
 
-Ĉina Fokuso / China Focus - Esperanto
-
 El Popola Chinio
 
 
@@ -114,8 +112,6 @@ Hodiaŭ, en Quanzhou (Fujian-provinco) kaj Shantou (Guangdong-provinco), oni kon
 Qiaopi registris tiaman vivon de transmaraj ĉinoj en Azio, Nord-Ameriko kaj Oceanio, same kiel la historian kaj kulturan evoluon de iliaj loĝlandoj en la 19-a kaj 20-a jarcentoj. Ili konsistigas pruvon pri la ĉina internacia migrada historio kaj la interkultura kontakto kaj interagado inter la Oriento kaj Okcidento.
 
 Redaktoro: Xie Ruifeng
-
-Ĉina Fokuso / China Focus - Esperanto
 
 El Popola Chinio
 
@@ -192,8 +188,6 @@ En ĉi tiu kunteksto, la koncepto de "ĉin-laosa homara komunumo de komuna eston
 
 Verkis kaj fotis: Bui Hai Mung
 
-Ĉina Fokuso / China Focus - Esperanto
-
 El Popola Chinio
 
 
@@ -245,8 +239,6 @@ La Balta Ondo
 
 )
 
-Ĉina Fokuso / China Focus - Esperanto
-
 El Popola Chinio
 
 
@@ -272,8 +264,6 @@ Antaŭenrigardante, ŝi diris, ke UN-Habitat celas profundigi sian partnerecon k
 
 Redaktoro: Xie Ruifeng
 
-Ĉina Fokuso / China Focus - Esperanto
-
 El Popola Chinio
 
 
@@ -296,8 +286,6 @@ Dum la vizito de brazila prezidento Lula al la Ĉina Popola Respubliko en majo 2
 Tradukis: Rafael Henrique Zerbetto
 
 Fonto: EBC
-
-Ĉina Fokuso / China Focus - Esperanto
 
 El Popola Chinio
 
@@ -328,8 +316,6 @@ Besprozvannykh ankaŭ laŭdis la aŭtan industrion de Ĉinio, dirante, ke ĉinaj
 
 Redaktoro: Xie Ruifeng
 
-Ĉina Fokuso / China Focus - Esperanto
-
 El Popola Chinio
 
 
@@ -352,8 +338,6 @@ En 2016, Ĉinio lanĉis la planon "Sana Ĉinio 2030", kiu difinas longperspektiv
 "Ĉinio estas kaj daŭre estos gravega merkato por Bayer. Ĝi estas nia dua plej granda merkato en la mondo," li diris.
 
 Redaktoro: Xie Ruifeng
-
-Ĉina Fokuso / China Focus - Esperanto
 
 El Popola Chinio
 
@@ -379,8 +363,6 @@ Bokova laŭdis la kvar tutmondajn iniciatojn proponitajn de Ĉinio, priskribante
 Ŝi aldonis, ke la iniciatoj, precipe la Mondregada Iniciato, konformas al la perspektivo de UN. Ŝi ankaŭ plene subtenis la Mondan Civilizacian Iniciaton, kiu respektas la diversecon de mondaj civilizacioj.
 
 Redaktoro: Xie Ruifeng
-
-Ĉina Fokuso / China Focus - Esperanto
 
 El Popola Chinio
 
@@ -473,8 +455,6 @@ Por iu, kiu konstruas hejmon malproksime de sia naskiĝlando, la trankvilo scii,
 
 Verkis: Rafael Henrique Zerbetto
 
-Ĉina Fokuso / China Focus - Esperanto
-
 El Popola Chinio
 
 
@@ -491,8 +471,6 @@ El Popola Chinio
 La 8-an de junio ĉina prezidanto Xi Jinping atingis Pjongjangon -- ĉefurbo de la Korea Popoldemokratia Respubliko. Kim Jong Un, ĝenerala sekretario de la Laborista Partio de la lando, okazigis bonvenigan ceremonion por Xi Jinping.
 
 Redaktoro: Xie Ruifeng
-
-Ĉina Fokuso / China Focus - Esperanto
 
 El Popola Chinio
 
@@ -551,8 +529,6 @@ La historio de ekonomia evoluo montras, ke neniu lando fariĝis teknologia poten
 
 Verkis: Bui Hai Mung
 
-Ĉina Fokuso / China Focus - Esperanto
-
 El Popola Chinio
 
 
@@ -578,8 +554,6 @@ Muhriddin emfazis, ke glaĉero estas la ĉefa fonto de dolĉakvo por Centra Azio
 
 Redaktoro: Xie Ruifeng
 
-Ĉina Fokuso / China Focus - Esperanto
-
 El Popola Chinio
 
 
@@ -600,8 +574,6 @@ Xi Jinping diris, ke Ĉinio kaj la Korea Popoldemokratia Respubliko estas social
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-Ĉina Fokuso / China Focus - Esperanto
 
 El Popola Chinio
 
@@ -658,8 +630,6 @@ Pro la efektivigo de ekologi-protektaj politikoj, la vilaĝoj en Qinling estas e
 
 Redaktoro: Xie Ruifeng
 
-Ĉina Fokuso / China Focus - Esperanto
-
 El Popola Chinio
 
 
@@ -690,8 +660,6 @@ Kiam ajn Ĉinio defendas internacian sekurecon, pacon kaj multflankismon, Komoro
 Kiel afrika lando kaj membro de la Araba Ligo, Komoroj celas "servi kiel ponto" inter Ĉinio, Afriko kaj arabaj landoj, konkludis Azali Assoumani.
 
 Redaktoro: Xie Ruifeng
-
-Ĉina Fokuso / China Focus - Esperanto
 
 El Popola Chinio
 
@@ -804,8 +772,6 @@ La 56 eksponataj verkoj ankaŭ spegulas la komunan deziron pri frateco kaj paco,
 
 Verkis: Rafael Henrique Zerbetto
 
-Ĉina Fokuso / China Focus - Esperanto
-
 El Popola Chinio
 
 
@@ -829,8 +795,6 @@ La unua tago de la ekspozicio estas rezervita por profesiaj vizitantoj, kaj la s
 
 Redaktoro: Xie Ruifeng
 
-Ĉina Fokuso / China Focus - Esperanto
-
 El Popola Chinio
 
 
@@ -851,8 +815,6 @@ La du volumoj inkludas 134 artikolojn el la plej gravaj kaj fundamentaj verkoj d
 La publikigo de la verkoj estas grava por rezolute protekti la suverenecon, sekurecon kaj evoluajn interesojn de Ĉinio, formi novan kadron por la rilatoj de Ĉinio kun aliaj landoj, disvastigi la internacian influon, altiron kaj formiĝpovon de la lando al nova nivelo, kaj malfermi novajn vojojn en la diplomatio de granda lando kun ĉinaj trajtoj.
 
 Redaktoro: Xie Ruifeng
-
-Ĉina Fokuso / China Focus - Esperanto
 
 El Popola Chinio
 
@@ -878,8 +840,6 @@ Li emfazis, ke Ĉinio estas ekzemplo de tiu transiro. Li diris, ke la atingoj de
 "Ĉinio ludas gravan rolon en ĉi tiu fazo de plenumado," li diris, aldonante, ke la grandskala investo de la lando en renoviĝantaj energifontoj helpas malaltigi tutmondajn kostojn kaj akceli la populariĝon de pura energio kaj rezistemaj solvoj tutmonde.
 
 Redaktoro: Xie Ruifeng
-
-Ĉina Fokuso / China Focus - Esperanto
 
 El Popola Chinio
 
@@ -950,8 +910,6 @@ Kiam sinjorino Wang estis demandita pri la signifo de "Gaokao" por ŝia vivo, ŝ
 
 Verkis: Bui Hai Mung
 
-Ĉina Fokuso / China Focus - Esperanto
-
 El Popola Chinio
 
 
@@ -1017,8 +975,6 @@ Enla tempo, kiam Ĉinio aktive antaŭenigas novajn produktivajn fortojn bazitajn
 
 Verkis kaj fotis Bui Hai Mung
 
-Ĉina Fokuso / China Focus - Esperanto
-
 El Popola Chinio
 
 
@@ -1082,8 +1038,6 @@ Tio klarigas, kial ĉiam pli da teknologiaj projektoj el Pekino elektas Tianjin:
 
 Verkis kaj fotis: Bui Hai Mung
 
-Ĉina Fokuso / China Focus - Esperanto
-
 El Popola Chinio
 
 
@@ -1135,8 +1089,6 @@ En la mondo, kie tutmondaj rimedoj estas ĉiam pli sub premo, la konstruo de nor
 
 Raportis: Bui Hai Mung
 
-Ĉina Fokuso / China Focus - Esperanto
-
 El Popola Chinio
 
 
@@ -1165,8 +1117,6 @@ En Ĉinio ekzistas multaj malnovaj urboj, kiuj ĝenerale alfrontas malfacilojn: 
 La stacio alportas al Shaanxi ne nur stabilan elektroprovizon en urbocentro, sed ankaŭ atestilon pri harmonia kunesto de modernaj energi-infrastrukturoj kaj historiaj heredaĵoj.
 
 Redaktoro: Xie Ruifeng
-
-Ĉina Fokuso / China Focus - Esperanto
 
 El Popola Chinio
 
@@ -1225,8 +1175,6 @@ Per la iniciato publikigi ĉi tiun libroserion en la portugala, la eldonistoj es
 
 Raportis: Rafael Henrique Zerbetto
 
-Ĉina Fokuso / China Focus - Esperanto
-
 El Popola Chinio
 
 
@@ -1250,8 +1198,6 @@ He emfazis, ke Ĉinio seninterrompe perfektigas financan leĝordigon kaj rezolut
 
 Redaktoro: Xie Ruifeng
 
-Ĉina Fokuso / China Focus - Esperanto
-
 El Popola Chinio
 
 
@@ -1274,8 +1220,6 @@ La blanka libro diris, ke tutmonda administrado estas komuna klopodo, kiu rilata
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-Ĉina Fokuso / China Focus - Esperanto
 
 El Popola Chinio
 
@@ -1304,8 +1248,6 @@ Yiwu, "monda superbazaro", denove montras sian potencan proviz-ĉenan kapablon. 
 
 Redaktoro: Liu Zijia
 
-Ĉina Fokuso / China Focus - Esperanto
-
 El Popola Chinio
 
 
@@ -1332,8 +1274,6 @@ Abdul Latif Rashid laŭdis la klopodojn de Ĉinio plibonigi internaciajn rilatoj
 "La rajto al disvolviĝo devas esti rigardata kiel komuna rajto de la tuta homaro, ne kiel privilegio monopoligita de kelkaj landoj," li diris. Li esperas, ke Ĉinio ĝuos plian progreson kaj prosperon, kaj ke pli da landoj povos profiti de la progresoj de Ĉinio en ekonomio, scienco kaj kulturo.
 
 Redaktoro: Xie Ruifeng
-
-Ĉina Fokuso / China Focus - Esperanto
 
 El Popola Chinio
 
@@ -1382,8 +1322,6 @@ La ekzemplo de la Akvokubo montras al ni, ke grandaj sportaj turniroj ja povas e
 
 Verkis kaj fotis: Rafael Henrique Zerbetto
 
-Ĉina Fokuso / China Focus - Esperanto
-
 El Popola Chinio
 
 
@@ -1400,8 +1338,6 @@ El Popola Chinio
 La 22-an de junio okazis la malferma ceremonio de la 4-a Ĉina Internacia Provizĉena Ekspozicio en Pekino, Ĉinio, kun la temo "konekti la mondon por komuna estonteco".
 
 Redaktoro: Xie Ruifeng
-
-Ĉina Fokuso / China Focus - Esperanto
 
 El Popola Chinio
 
@@ -1450,8 +1386,6 @@ La kombino de AI kaj ĉina herba medicino en Tianjin montras, ke modernigo ne si
 
 Raportis: Bui Hai Mung
 
-Ĉina Fokuso / China Focus - Esperanto
-
 El Popola Chinio
 
 
@@ -1497,8 +1431,6 @@ En Ĉinio, tiu estonteco, kiun ni alkutimiĝis vidi en scienc-fikciaj filmoj, en
 
 Verkis kaj fotis: Rafael Henrique Zerbetto
 
-Ĉina Fokuso / China Focus - Esperanto
-
 El Popola Chinio
 
 
@@ -1516,8 +1448,6 @@ Inter la 23-a kaj la 25-a de junio daŭras la 17-a Somera Davos-Forumo en la urb
 
 Redaktoro: Xie Ruifeng
 
-Ĉina Fokuso / China Focus - Esperanto
-
 El Popola Chinio
 
 
@@ -1534,8 +1464,6 @@ El Popola Chinio
 La 17-a Somera Davos-Forumo malfermiĝis la 23-an de junio en la urbo Dalian de Ĉinio. La forumo, kun la temo "grandskaleca novigo", altiras 1 700 invititojn el pli ol 90 landoj kaj regionoj. La havena urbo Dalian mem estas grava punkto sur martransporta linio laŭ "La Zono kaj Vojo" kaj posedas longan historion de fabrikadaj industrioj. Kaj en la nova epoko la novaj industrioj, kiel artefarita intelekto kaj pura energio, prosperas ĉi tie.
 
 Redaktoro: Xie Ruifeng
-
-Ĉina Fokuso / China Focus - Esperanto
 
 El Popola Chinio
 
@@ -1559,8 +1487,6 @@ Li Qiang diris, ke por integriĝi kun la monda ekonomio, Ĉinio kontinue sin ded
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-Ĉina Fokuso / China Focus - Esperanto
 
 El Popola Chinio
 
@@ -1594,8 +1520,6 @@ La amfibia veturado estas alia neforgesebla sperto: pasaĝeroj povas sperti la u
 Por viziti la aŭtodromon kaj sperti la lokajn amuzajn aktivaĵojn, necesas rete mendi pakaĵon de aktivaĵoj. Por komencanto kaj sperta ŝoforo, pakaĵoj kiel "Baza Enirnivelo" kaj "Altnivela Sperto" ebligas al homoj elekti sian propran aventuron.
 
 Raportis kaj fotis: Rafael Henrique Zerbetto
-
-Ĉina Fokuso / China Focus - Esperanto
 
 El Popola Chinio
 
@@ -1645,8 +1569,6 @@ En ĉi tiu partnereco, la entrepreno provizas teknologion, aviadilojn, teknikan 
 Laŭ EHang, ĉiu eVTOL, kapabla transporti du pasaĝerojn, kun maksimuma ŝarĝo de 200 kg, kostas proksimume 2 milionojn da juanoj, dum helikoptero kostas 20-foje tiun valoron. Kiam la komercaj operacioj de eVTOL-oj populariĝos, la kosto de mallongdistancaj aervojaĝoj signife malaltiĝos, revoluciante urban veturadon.
 
 Verkis kaj fotis: Rafael Henrique Zerbetto
-
-Ĉina Fokuso / China Focus - Esperanto
 
 El Popola Chinio
 
@@ -1752,8 +1674,6 @@ La evento fermiĝis per koncerto de la brazila muzikisto Di Ramos, kiu ludis rep
 La junia festo finiĝis, sed la mondpokalo ne. La frazo "ek al la sesa titolo", dirita plurfoje dum la festo, daŭre estas en la buŝoj de brazilanoj kaj ankaŭ de multaj ĉinoj.
 
 Verkis kaj fotis: Rafael Henrique Zerbetto
-
-Ĉina Fokuso / China Focus - Esperanto
 
 El Popola Chinio
 

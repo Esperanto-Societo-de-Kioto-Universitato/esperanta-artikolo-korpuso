@@ -1,6 +1,6 @@
 ---
 source: "Pola Retradio (pola-retradio.org)"
-generated_at: "2026-03-03T10:42:16.399626+00:00"
+generated_at: "2026-09-15T10:54:37.000020+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-09-05 – 2025-09-30"
 ---
@@ -34,8 +34,6 @@ El la elsendo 05.09.2025 – 03’ 37’’
 **Categories:** Elsendoj
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/09/RetRadio_05.0.2025_pt_V_1423-2.mp3
-
-Podkasto: Ludu en nova fenestro | Elŝutu
 
 En la 1423-a E_elsendo el la 05.09.2025 ĉe www.pola-retradio.org:
 
@@ -104,8 +102,6 @@ El la elsendo 05.09.2025. Legas Barbara – 01′ 23″
 **Categories:** Elsendoj
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/09/RetRadio_10.09.2025_sr_M_1424-1.mp3
-
-Podkasto: Ludu en nova fenestro | Elŝutu
 
 En la 1424-a E_elsendo el la 10.09.2025 ĉe www.pola-retradio.org:
 
@@ -194,8 +190,6 @@ El la elsendo 10.09.2025 – 05′ 13″
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/09/RetRadio_15.09.2025_pn_V_1425.mp3
 
-Podkasto: Ludu en nova fenestro | Elŝutu
-
 En la 1425-a E_elsendo el la 15.09.2025 ĉe www.pola-retradio.org:
 
 • Hodiaŭ ni proksimigas la novan prezidantinon de la Konsilio de Kunordigantoj de Naciaj Antarktaj Programoj, COMNAP – Agnieszka Kruszewska. • En la kulturkronika bulteno ni informas pri interesa ekspozicio dediĉita al Nikifor, ĉiam pli fama eksterlande, pola naiva pentristo; pri Arĝenta Fajfilo 2025 por Tomasz Kalisz, pola orgenludisto, lekcianto, komponisto; pri la unua biblioteko en la metroo-stacio en Varsovio, la t.n. metroteko. • En la E-komunuma segmento ni prezentas la alvokon de Anatolij Ionesov partopreni la eventon LA INTERNACIAJ LETERTAGOJ 2025 “Vorto pri Samarkando: la urbo, pri kiu oni ŝatas pensi, revi kaj paroli”: imps86@yahoo.com . • En la hodiaŭa elsendo akompanas nin muzike Valentina Cancino prezentanta la kanton La Rakonto. La programakompana reta foto prezentas iun el la bildoj de Nikifor. • En unuopaj rubrikoj de nia paĝo eblas konsulti la paralele legeblajn kaj aŭdeblajn tekstojn el niaj elsendoj, kio estas tradicio de nia Redakcio ekde 2003. La elsendo estas aŭdebla en jutubo ĉe la adreso: https://www.youtube.com/results?q=pola+retradio&sp=CAI%253D Interalie pere de jutubo, konforme al individua bezono, eblas rapidigi aŭ malrapidigi la parolritmon de la sondokumentoj; eblas transsalti al iu serĉata fragmento de la elsendo.
@@ -263,8 +257,6 @@ El la elsendo 15.09.2025. Legas Barbara – 01′ 36″
 **Categories:** Elsendoj
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/09/RetRadio_20.09.2025_sob_M_1426.mp3
-
-Podkasto: Ludu en nova fenestro | Elŝutu
 
 En la 1426-a E_elsendo el la 20.09.2025 ĉe www.pola-retradio.org:
 
@@ -438,8 +430,6 @@ El la elsendo 25.09.2025. Legas Barbara – 09′ 51″
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/09/RetRadio_25.09.2025_czw_V_1427.mp3
 
-Podkasto: Ludu en nova fenestro | Elŝutu
-
 En la 1427-a E_elsendo el la 25.09.2025 ĉe www.pola-retradio.org:
 
 • Hodiaŭ nian felietonon pri historia figuro ni dediĉas al Maria Leszczyńska, kiu dum 43 jaroj estis reĝino de Francio. La 300-a datreveno de ŝia edziniĝo al Ludoviko la 15-a pasis la 6-an de septembro omaĝita per rekreo de la historia sceno en Fontainebleau. • En la kultura kroniko ni informas pri Pola Kultura Semajno en Osaka; pri urba ludo en Zagrebo omaĝanta ĝian poldevenan, meritiĝintan urbestron; pri baldaŭ okazonta en Lodzo Festivalo de Multaj Kulturoj. • En la E-komunuma segmento ni informas pri la iniciatita de UEA Semajno de Lingvoj kaj Paco (21-26.09). • En la hodiaŭa elsendo akompanas nin denove Feri Floro per fragmento de sia plej nova kanto „La vento de Aŭtuno”. La interreta foto prezentas iun el la portretoj de la reĝino Maria Leszczyńska, al kiu estas dediĉita nia felietono. • En unuopaj rubrikoj de nia paĝo eblas konsulti la paralele legeblajn kaj aŭdeblajn tekstojn el niaj elsendoj, kio estas tradicio de nia Redakcio ekde 2003. La elsendo estas aŭdebla en jutubo ĉe la adreso: https://www.youtube.com/results?q=pola+retradio&sp=CAI%253D Interalie pere de jutubo, konforme al individua bezono, eblas rapidigi aŭ malrapidigi la parolritmon de la sondokumentoj; eblas transsalti al iu serĉata fragmento de la elsendo.
@@ -526,8 +516,6 @@ El la elsendo 30.09.2025 – 07′ 52″
 **Categories:** Elsendoj
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/09/RetRadio_30.09.2025_wt_M_1428.mp3, https://www.vinilkosmo-mp3.com/eo/kanzono-tradicia-progresiva/kaj-tiel-plu-102/4-je-la-kvara.html
-
-Podkasto: Ludu en nova fenestro | Elŝutu
 
 En la 1428-a E_elsendo el la 30.09.2025 ĉe www.pola-retradio.org:
 

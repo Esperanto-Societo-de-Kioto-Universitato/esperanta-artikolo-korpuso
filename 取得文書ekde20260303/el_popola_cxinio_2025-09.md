@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-03-03T10:42:50.493915+00:00"
+generated_at: "2026-09-15T10:54:36.841412+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-09-01 – 2025-09-30"
 ---
@@ -24,8 +24,6 @@ Hodiaŭ, la tutmondaj defioj rilate al paco, disvolviĝo, sekureco kaj administr
 
 Redaktoro: Xie Ruifeng
 
-<span style="font-family: "times new roman"; font-size: 20px;">"Dead To Rights": Por la herooj en 1937 - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -46,8 +44,6 @@ Xi Jinping faris la rimarkojn en bonveniga bankedo por internaciaj gastoj, kiuj 
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Floroj ornamas Pekinon por 80-a datreveno de la venko kontraŭ faŝismo - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -104,8 +100,6 @@ La sukcesa rakonto de Suizhou kaj s-ino Xia vivece ilustras la ĉinan strategion
 
 La "riĉiga fungo" de Suizhou estas ne nur ekonomia sukcesa rakonto, sed ankaŭ modelo pri kampara transformado en la cifereca erao, portante esperon kaj inspiron al aliaj kamparaj regionoj tra Ĉinio kaj la mondo. Aliaj landoj, precipe evoluantaj landoj, povas lerni de ĉi tiu politiko kaj la ĉina aliro al malriĉecoredukto kaj kampara evoluigo.
 
-<span style="font-family: "times new roman"; font-size: 20px;">Xi Jinping: ŜKO surŝultrigas pli grandajn respondecojn por protekti pacon kaj akceli disvolviĝon - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -126,8 +120,6 @@ Li diris, ke en la jaro 1937, kiam komenciĝis la agresado de Japanio, multaj ek
 Li diris, ke oni havas multajn taskojn por ĝuste koni la kontribuojn de Ĉinio en la dua mondmilito. La okcidentaj landoj ankoraŭ ne sufiĉe scias pri la klopodoj, dediĉoj kaj vera graveco de Ĉinio. Kvankam nun estas iuj koncernaj verkoj, tamen oni bezonas pli da. Li kredas, ke tiu milito estas unu el la plej detrupovaj fenomenoj en la homara historio, "ni devas, tra la historio, lerni kiel krei pacon daŭripove, juste kaj dece".
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Enketo de CGTN: Defendi estas plej bona memorigo - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -160,8 +152,6 @@ Dum Tang-dinastio (618-907) imperiestro Xuanzong en malsano sonĝis, ke eta
 
 Redaktoro: Liu Zijia
 
-<span style="font-family: "times new roman"; font-size: 20px;">Floroj ornamas Pekinon por 80-a datreveno de la venko kontraŭ faŝismo - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -185,8 +175,6 @@ Xi Jinping diris: "La Ĉina Popola Rezistmilito Kontraŭ Japana Agreso estis gra
 
 Redaktoro: Xie Ruifeng
 
-<span style="font-family: "times new roman"; font-size: 20px;">Rana Mitter: Ĉina Kontraŭjapana Rezistmilito estas grava parto de Monda Kontraŭfaŝisma Milito - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -207,8 +195,6 @@ Staranta en Hongqi-veturilo, Xi Jinping, ankaŭ ĝenerala sekretario de la Cent
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Rana Mitter: Ĉina Kontraŭjapana Rezistmilito estas grava parto de Monda Kontraŭfaŝisma Milito - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -243,7 +229,9 @@ Ni subtenas la Tutmondan Registaran Iniciaton iniciatitan de prezidanto Xi Jinpi
 
 Ni esperas, ke la internacia komunumo lernos el la historio, tiel ke diversaj landoj kunlaboros por pli justa kaj egaleca tutmonda administrada sistemo kaj antaŭeniros al homara komunumo de komuna estonteco por la tuta homaro.
 
-<span style="font-family: "times new roman"; font-size: 20px;">Rana Mitter: Ĉina Kontraŭjapana Rezistmilito estas grava parto de Monda Kontraŭfaŝisma Milito - esperanto.china.org.cn</span>
+Esperantigita de Pietro Fiocchi
+
+Projektita de Chen Ji
 
 El Popola Chinio
 
@@ -275,8 +263,6 @@ Inter la 10-a kaj la 13-a jarcentoj, Luxian iom post iom perdis sian funkcion ki
 Tombo el brikoj kun ligna strukturo, datita de inter la 10-a kaj la 12-a jarcento
 
 Raportis kaj fotis: Rafael Henrique Zerbetto
-
-<span style="font-family: "times new roman"; font-size: 20px;">Floroj ornamas Pekinon por 80-a datreveno de la venko kontraŭ faŝismo - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -310,8 +296,6 @@ Overy diris, ke la rezistmilito de la ĉina popolo kontraŭ japana agreso (1931-
 Li montris, ke dekomence la milito estis lukto kontraŭ agreso, kiu ekspansiis siajn batalfrontojn tra Azio kaj Eŭropo.
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;"><em>Nigra Mito: Zhongkui</em> anoncita - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -372,8 +356,6 @@ La 80-jara vojaĝo de ambaŭ landoj estas profunde markita de la bataloj por nac
 
 Rigardi reen al la pasinteco por kune iri al pli hela estonteco -- jen la informo, kiun ambaŭ Vjetnamio kaj Ĉinio volas transdoni per tiuj solenaj festoj. Surbaze de la komuna konservado kaj disvolvado de la historiaj lecionoj, la najbareca amikeco inter la du landoj daŭre fortiĝos kaj disvolviĝos por la bono de la du popoloj, kaj por paco kaj stabileco en la regiono kaj en la tuta mondo.
 
-<span style="font-family: "times new roman"; font-size: 20px;">Rana Mitter: Ĉina Kontraŭjapana Rezistmilito estas grava parto de Monda Kontraŭfaŝisma Milito - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -403,8 +385,6 @@ Tiu ĉi parado montris la gravecon por ŝtato havi potencan kaj modernan armeon 
 
 *Igor Shestakov, direktoro de la Centro por Fakaj Iniciatoj "Oy Ordo" (Centro de Penso) kaj politika sciencisto en Kirgizio
 
-<span style="font-family: "times new roman"; font-size: 20px;">De Hanojo al Pekino: Vojaĝo de 80 jaroj por memori historion kaj rigardi estontecon - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -432,7 +412,9 @@ Nun, kiam multipolusismo enradikiĝas kaj la tutmonda sudo postulas la lokon, ki
 
 Aliflanke, tamen, ni ne povas fari ian iluzion, ke la imperiismaj potencoj magie retropaŝos. Tial ni estas tre impresitaj de la propono de prezidanto Xi pri tutmonda regada iniciato, ĝi estas la unua paŝo por pli justa monda ordo.
 
-<span style="font-family: "times new roman"; font-size: 20px;">De Hanojo al Pekino: Vojaĝo de 80 jaroj por memori historion kaj rigardi estontecon - esperanto.china.org.cn</span>
+Esperantigita de Pietro Fiocchi
+
+Projektita de Chen Ji
 
 El Popola Chinio
 
@@ -467,7 +449,9 @@ Mi ŝatus emfazi la fakton, ke Hiroŝimo kaj Nagasako estis bombitaj de la usona
 
 En Azio, Ĉinio batalis kontraŭ la brutala kaj sangavida satelito de Hitler, militisma Japanio. Rusio kaj Ĉinio batalis por paco kontraŭ faŝismo, kaj bedaŭrinde, ĉi tiu fakto devas esti pruvita al la internacia komunumo hodiaŭ citante la heroajn farojn de la sovetia kaj ĉina popoloj. La ĉefa mesaĝo de kamarado Xi Jinping estas, ke ĝi diras la veron pri la milito.
 
-<span style="font-family: "times new roman"; font-size: 20px;">De Hanojo al Pekino: Vojaĝo de 80 jaroj por memori historion kaj rigardi estontecon - esperanto.china.org.cn</span>
+Esperantigita de Pietro Fiocchi
+
+Projektita de Chen Ji
 
 El Popola Chinio
 
@@ -497,8 +481,6 @@ En ĉi tiu tre signifa momento en la historio de la popoloj de la mondo, mi espr
 ---
 
 *Fabio Massimo Parenti, profesoro pri Tutmondaj Studoj en la Itala Internacia Instituto Lorenzo de Medici, kun aparta atento al la rolo de Ĉinio en la multpolusa mondo. Li estas membro de italaj kaj eksterlandaj organizoj pri la internaciaj rilatoj, kiel EARTH CHARTER INTERNATIONAL CHINA, esplorinstituto akreditita ĉe la Unuiĝintaj Nacioj. Prof-ro Parenti estas la aŭtoro de pluraj libroj kaj eseoj pri internaciaj aferoj kaj gepolitiko eldonitaj en la itala kaj en la angla.
-
-<span style="font-family: "times new roman"; font-size: 20px;">De Hanojo al Pekino: Vojaĝo de 80 jaroj por memori historion kaj rigardi estontecon - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -534,8 +516,6 @@ Post jardekoj da protektado, en novembro 2023, Shaanxi-provinco anoncis, ke la 
 Dankon al protektantoj de ruĝaj ibisoj!
 
 Redaktoro: Gao Shuyuan
-
-<span style="font-family: "times new roman"; font-size: 20px;">Muzeo pri Pagoda Kulturo en Xuchang - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -605,8 +585,6 @@ Danjiangkou kaj la projekto ne estas nur akvokonservaj projektoj, sed ankaŭ ate
 De tiu sperto mi pensis pri la mekonga rivero -- longa je pli ol 4 300 km, fluanta tra ses landoj (Ĉinio, Mjanmaro, Laoso, Tajlando, Kamboĝo kaj Vjetnamio). Ĝi provizas vivrimedojn al preskaŭ 70 milionoj da homoj por agrikulturo, hidroenergio, fiŝkaptado kaj transporto. Sed kompare kun la projekto, kiu estas interna projekto sub centra administrado, Mekongo starigas defiojn de translandlima mastrumado, kie la interesoj de diversaj ŝtatoj ofte malsamas. Se la projekto montras la forton de unu nacio koncentri sian volon kaj rimedojn, Mekongo prezentas alian demandon: Kiel pluraj ŝtatoj povas kune administri kaj protekti komunan riveron? La leciono de la ĉina projekto memorigas nin, ke ĉu temas pri giganta interna projekto aŭ pri internacia baseno, la ŝlosilo al sukceso estas la kombino de scienco, longtempa planado kaj ĉefe kunlaboro por la komuna bono de milionoj da homoj dependaj de tiu akvo. La sperto de Ĉinio montras, ke por ke grandega projekto funkciu efike, la kernaj faktoroj ne estas nur tekniko, sed ankaŭ kunlaboro, kontrolado kaj daŭra politika engaĝiĝo. Tio estas ankaŭ sugesto por aliaj landoj: Nur per regiona kunlaboro, travidebla datuma kundivido kaj komuna celo de daŭripova disvolvo oni povas certigi longdaŭran akvosekurecon.
 
 El la koro de Danjiangkou, la akvo ne nur fluas al Pekino aŭ Tianjin, sed ankaŭ eniras en nian mondan konscion: Akvo estas vivo, kaj protekti akvon signifas protekti la estontecon de la homaro.
-
-<span style="font-family: "times new roman"; font-size: 20px;">Miraklo: Nombro de ruĝaj ibisoj kreskis de 7 al 10 mil! - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -689,8 +667,6 @@ La rapida disvolviĝo de la sektoro pri dorlotbestoj en Ĉinio povas alporti val
 
 Verkis: Rafael Henrique Zerbetto
 
-<span style="font-family: "times new roman"; font-size: 20px;"><em>Nigra Mito: Zhongkui</em> anoncita - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -713,8 +689,6 @@ Ekde 2004, la organizaĵo Ĉikaga Ateneo: Muzeo de Arkitekturo kaj Dezajno, kune
 Tradukis: Rafael Henrique Zerbetto
 
 Fonto: Beijing Service
-
-<span style="font-family: "times new roman"; font-size: 20px;">De Hanojo al Pekino: Vojaĝo de 80 jaroj por memori historion kaj rigardi estontecon - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -769,8 +743,6 @@ ne tute fiaskis, sed ĝi eniras fazon de ĝustigo kaj selektado. Nur entreprenoj
 
 La plano transloki produktadon el Ĉinio jam ne estas ununura vojo, sed fariĝis ekvacio plena je nekonataj faktoroj -- kie ĉiu movo devas esti zorge kalkulita. Por ĉinaj entreprenoj, provizora paŭzo de translokado por atendi pli bonan momenton estas sekura elekto -- en situacio, kie tarifoj povas ŝanĝiĝi dum unu nokto, sed reinvestaj kostoj daŭras jarojn.
 
-<span style="font-family: "times new roman"; font-size: 20px;">Pekina Centro por Prezentartoj gajnis internacian premion - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -793,8 +765,6 @@ El Popola Chinio
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Ĉinaj entreprenoj repripensas diversigon de provizĉeno ekster Ĉinio? - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -819,8 +789,6 @@ Parolante pri la perspektivoj de la ĉin-britaj ekonomiaj kaj komercaj rilatoj,
 
 Redaktoro: Xie Ruifeng
 
-<span style="font-family: "times new roman"; font-size: 20px;">Ĉinaj entreprenoj repripensas diversigon de provizĉeno ekster Ĉinio? - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -843,8 +811,6 @@ Xi Jinping emfazis, ke kiel grava kontribuanto kaj ankro de tutmonda ekonomia kr
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Ĉinaj entreprenoj repripensas diversigon de provizĉeno ekster Ĉinio? - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -872,8 +838,6 @@ En la kadro de la Rusia Esperanta Tago, ankaŭ okazis krea programo. La partopre
 En la Rusia Esperanta Tago, oni prezentis la novan programon de la unio. Jevgenij Borjun diris, ke la celo de la unio estas malfermi la mondon al esperantistoj kaj helpi novajn esperantistojn trovi siajn proprajn amikojn kaj partnerojn. Li aldonis, ke la unio havas senpagajn kursojn en multaj rusaj urboj kaj helpas homojn trovi amikojn kaj partnerojn en Rusio kaj eksterlande.
 
 "Ni povas diri, ke la Rusia Esperanta Tago estas sukcesa. Ni sukcesis montri kiel unueca povas esti la esperantista komunumo. Ni esperas, ke venontjare la nombro de partoprenantoj pliiĝos eĉ pli," diris Jevgenij Borjun.
-
-<span style="font-family: "times new roman"; font-size: 20px;">Xi Jinping sendis gratulmesaĝon al 25-a Ĉina Internacia Foiro por Investo kaj Komerco - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -962,8 +926,6 @@ Verkis:
 
 Bui Hai Mung
 
-<span style="font-family: "times new roman"; font-size: 20px;">Xi Jinping sendis gratulmesaĝon al 25-a Ĉina Internacia Foiro por Investo kaj Komerco - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -1035,8 +997,6 @@ Farante tion, Xi indikas la ĝustan vojon por iom post iom malstreĉigi la nunte
 
 Verkis: Rafael Henrique Zerbetto
 
-<span style="font-family: "times new roman"; font-size: 20px;">Esperanta Tago 2025 -- La mondo malfermita por amo kaj vojaĝo - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -1078,8 +1038,6 @@ Vojo al kompleta internacia aviada centro
 
 Per konstanta novigo, de inteligenta dogano ĝis aŭtomata impost-repago kaj moderna transit-sistemo por varoj, la Internacia Flughaveno de Pudong klare staras kiel kompleta tutmonda aviada centro. Ĝi ne nur konektas pasaĝerojn kaj varojn, sed ankaŭ montras la strategion de Ŝanhajo krei travideblan, oportunan kaj allogan komercan medion por la tuta mondo.
 
-<span style="font-family: "times new roman"; font-size: 20px;"><span style="font-family: "times new roman"; font-size: 20px;">Lerni de historio kaj antaŭenigi plurflankismon - esperanto.china.org.cn</span></span>
-
 El Popola Chinio
 
 
@@ -1100,8 +1058,6 @@ La premio, kun granda pando kiel kultura simbolo, estas internacia kultura pre
 La celo de la evento estas konstrui malferman, profesian kaj efikan platformon kun scenaroj kiel ligilo, stimuli kreivan viglecon, kulturi novajn talentulojn en tiu kampo, trovi altkvalitajn materialojn kaj scenaristojn, helpi la pliprofundan integriĝon de kulturaj entreprenoj kaj rilataj industrioj, kaj antaŭenigi la altkvalitan disvolviĝon de la filma industrio.
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Nova teknologio formas estontecon de pudong-a flughaveno en Ŝanhajo - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -1159,8 +1115,6 @@ Manĝoj servataj en C919 estas en skatolo kun la nomo de la aviadilo
 Ankaŭ estas teknikaj kaj komercaj defioj alfrontotaj, kiel la manko de tutmonda reto de postvenda subteno, la natura prefero de eblaj fremdaj klientoj por produktoj jam establitaj en la merkato, kaj la manko de datumoj pri la operaciumaj kostoj de malnovaj C919. Pro ĉi tiu kialo, COMAC unue devos solidiĝi en la ĉina merkato antaŭ ol serĉi pli altajn flugojn.
 
 Verkis kaj fotis: Rafael Henrique Zerbetto
-
-<span style="font-family: "times new roman"; font-size: 20px;">La 2-a Premio de Ora Granda Pando malfermiĝis en Chengdu - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -1247,8 +1201,6 @@ Rigardante reen -- de la unuaj robotoj ĉe teknologiaj ekspozicioj ĝis hodiaŭ,
 
 Tio ne estas nur rakonto pri teknologio, sed ankaŭ pri kunlaboro inter homoj kaj robotoj -- pri kiel ni povas krei pli inteligentan, pli oportunan kaj pli sekuran socion. Kaj laŭ mia propra sperto en Ĉinio, mi kredas, ke en la venontaj jaroj intelektaj robotoj ne nur fariĝos komuna vidaĵo en Ĉinio, sed ankaŭ disvastiĝos tra la tuta mondo.
 
-<span style="font-family: "times new roman"; font-size: 20px;">Mia unua vojaĝo per la ĉina aviadilo C919 - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -1271,8 +1223,6 @@ Laŭ la blanka libro, ili konsistigas kompletan sistemon de teorioj kun solida l
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;"><em>Keenon</em> -- Inteligentaj robotoj en Ĉinio: De estonta vizio al hodiaŭa realo - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -1304,8 +1254,6 @@ Jingzhou-a Muzeo posedas pli ol 180 000 kulturajn antikvaĵojn, ĉefe el arkeolo
 Jingzhou-a Muzeo, fenestro al la historio kaj kulturo de la antikva regno Chu, estas vizitinda de ĉinaj kaj eksterlandaj vizitantoj al Jingzhou. La jara vizit-nombro superas unu milionon, tial la institucio ludas gravan rolon en antaŭenigo de kulturo kaj civilizacia konservado.
 
 Raportis kaj fotis: Rafael Henrique Zerbetto
-
-<span style="font-family: "times new roman"; font-size: 20px;"><em>Keenon</em> -- Inteligentaj robotoj en Ĉinio: De estonta vizio al hodiaŭa realo - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -1380,8 +1328,6 @@ Kiam mi forlasis la parkon posttagmeze, mi retrovis mian rigardon al la bildo de
 
 Verkis kaj fotis Bui Hai Mung
 
-<span style="font-family: "times new roman"; font-size: 20px;"><em>Keenon</em> -- Inteligentaj robotoj en Ĉinio: De estonta vizio al hodiaŭa realo - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -1402,8 +1348,6 @@ En Xinjiang, en la nova epoko, ĉiuj etnoj kunlaboras unuece, antaŭenirante al
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">De Sun Wukong ĝis nubskrapuloj: Kultura vojaĝo en Lego-parko de Ŝanhajo - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -1432,8 +1376,6 @@ Sichuan-a Bambufibra Teknologia Kompanio Jiancen jam komencis sian projekton
 
 Redaktoro: Xie Ruifeng
 
-<span style="font-family: "times new roman"; font-size: 20px;">Xinjiang: 70-jara evoluado favoras ĉiujn etnajn popolamasojn - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -1455,8 +1397,6 @@ Xi Jinping salutis al la reprezentantoj kaj afable interparolis kun ili. Krome, 
 
 Redaktoro: Xie Ruifeng
 
-<span style="font-family: "times new roman"; font-size: 20px;">Xinjiang: 70-jara evoluado favoras ĉiujn etnajn popolamasojn - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -1475,8 +1415,6 @@ Posttagmeze de la 23-a de septembro, Xi Jinping, ĝenerala sekretario de la Cent
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Xinjiang: 70-jara evoluado favoras ĉiujn etnajn popolamasojn - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -1499,8 +1437,6 @@ Xi Jinping diris, ke dum la 70 jaroj ekde la fondiĝo de la Xinjiang-a Ujgura A�
 
 Redaktoro: Xie Ruifeng
 
-<span style="font-family: "times new roman"; font-size: 20px;">Xi Jinping atingis Urumĉion kun delegacio por 70-jariĝo de Xinjiang-a Ujgura Aŭtonoma Regiono - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -1522,8 +1458,6 @@ La ekspozicio panorame montras la brilajn atingojn akiritajn de diversaj etnogru
 
 Redaktoro: Xie Ruifeng
 
-<span style="font-family: "times new roman"; font-size: 20px;">Xi Jinping atingis Urumĉion kun delegacio por 70-jariĝo de Xinjiang-a Ujgura Aŭtonoma Regiono - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -1542,8 +1476,6 @@ Antaŭtagmeze de la 25-a de septembro Xi Jinping, ĝenerala sekretario de la Cen
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Xi Jinping atingis Urumĉion kun delegacio por 70-jariĝo de Xinjiang-a Ujgura Aŭtonoma Regiono - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -1608,8 +1540,6 @@ La evento finiĝis per debato inter la partoprenantoj de la turneo, kelkaj stude
 
 Raportis kaj fotis: Rafael Henrique Zerbetto
 
-<span style="font-family: "times new roman"; font-size: 20px;">Xi Jinping vizitis ekspozicion pri atingoj de Xinjiang dum 70 jaroj - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -1628,8 +1558,6 @@ Chu-regno (1030-223 a.K.) estis potenca kaj kulture distinga regno ĉe la meza k
 Dum vizito al la urbo Jingzhou, iama ĉefurbo de Chu-regno, mi havis la ŝancon sperti tradiciajn vestaĵojn de Chu-regno, kaj elektis unu el la periodo Militantaj Regnoj (475-221 a.K.), la lasta fazo de la ekzisto de Chu-regno, konkerita de Qin-dinastio (221-206 a.K.) nur du jarojn antaŭ la fina unuiĝo de Ĉinio en 221 a.K. La vestaĵoj de Chu-regno montris kulturan distingecon kompare kun tiuj de aliaj regnoj de centra Ĉinio en tiu epoko. La stilo de Chu-vestaĵoj estis pli ornam-riĉa, inspirita de mitologio, kaj emfazis molajn kurbojn kaj movon, kun unikaj trajtoj kiel kompleksaj brodaĵoj.
 
 Raportis: Rafael Henrique Zerbetto
-
-<span style="font-family: "times new roman"; font-size: 20px;">Xi Jinping ĉeestis festan ceremonion por 70-a datreveno de fondiĝo de Xinjiang-a Ujgura Aŭtonoma Regiono - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -1677,8 +1605,6 @@ Esperantigis: Rafael Henrique Zerbetto
 
 Fonto: 人民网
 
-<span style="font-family: "times new roman"; font-size: 20px;">Mi spertis tradician vestaĵon de Chu-regno! - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -1711,8 +1637,6 @@ Vizitantoj konas pri la loka biodiverseco en la naturrezervejo.
 Krom esplorlaboro, li aktive partoprenas en praktikaj agadoj por protekti la jangzian delfenon, inkluzive de organizado de trejnadoj pri biologio kaj konservado, kunordigado de projektado por transloka protektado, gvidado de sciencaj enketoj, kaj partopreno en habitata protektado kaj rezerveja planado. Krome, li servas kiel plenuma vic-ĝenerala sekretario de la Fonduso por Konservado de Jangzia Delfeno (wuhan-a sekcio), membro de la Ĉina Komitato de Profesiaj Akvarioj, kaj membro de la Kunligita Planado por Konservado de Jangzia Delfeno.
 
 Raportis: Rafael Henrique Zerbetto
-
-<span style="font-family: "times new roman"; font-size: 20px;">Tutmonda junularo malkovras jangzian basenon - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -1757,8 +1681,6 @@ Sed tiu oportuneco havas prezon: Risko de monopolo kaj troa dependo de unu aŭ d
 
 Verkis: Bui Hai Mung
 
-<span style="font-family: "times new roman"; font-size: 20px;">Nacia Naturrezervejo por Jangzia Delfeno en Hubei - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -1775,8 +1697,6 @@ El Popola Chinio
 En la Interna Mongolio de Ĉinio, aŭtuno komencis ori herbejon, arbaron kaj sekve la tutan regionon.
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Xi Jinping ĉeestis festan ceremonion por 70-a datreveno de fondiĝo de Xinjiang-a Ujgura Aŭtonoma Regiono - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -1796,8 +1716,6 @@ En la 30-a de septembro sur Tian'anmen-placo de Pekino Xi Jinping kaj aliaj gvid
 La 30-a de septembro estas la Tago de Martiroj de Ĉinio. Ĉi-jaro markas la 80-an datrevenon de la venko en la Ĉina Popolo Rezistmilito kontraŭ Japana Agreso kaj la Monda Kontraŭfaŝisma Milito.
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Senkontanta vivo en Ĉinio: De poŝ-monujoj ĝis financaj super-aplikaĵoj - esperanto.china.org.cn</span>
 
 El Popola Chinio
 

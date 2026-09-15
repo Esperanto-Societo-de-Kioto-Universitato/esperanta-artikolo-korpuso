@@ -1,6 +1,6 @@
 ---
 source: "UEA Facila (uea.facila.org)"
-generated_at: "2026-08-22T16:14:09.726355+00:00"
+generated_at: "2026-09-15T10:54:37.108359+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-04-05 – 2026-04-26"
 ---
@@ -15,10 +15,6 @@ time_range: "2026-04-05 – 2026-04-26"
 **Categories:** Filmetoj
 
 [Embed] https://www.youtube.com/embed/uu_2xK-mhsA?width=100%25&height=86.25
-
-1
-
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
 
 
 ---
@@ -56,10 +52,6 @@ En la 1990-aj jaroj, la postvivintaj fratinoj procesis kontraŭ la registaro de 
 Ĉiuj kvin fratinoj jam mortis. Émilie kaj Marie mortis junaj, je 20 kaj 35 jaroj, pro sanproblemoj. Yvonne mortis en 2001 je 67 jaroj. Cécile mortis la 28-an de julio 2025 je la aĝo de 91 jaroj. Annette, la lasta postvivinta fratino, mortis kvin monatojn poste, la 24-an de decembro 2025, ankaŭ ŝi je la aĝo de 91 jaroj.
 
 Myrtis Smith
-
-2
-
-3
 
 Myrtis Smith estas usona esperantistino, inĝeniera instruisto tage kaj aspiranta artisto nokte. Ŝiaj ŝatokupoj inkluzivas verkadon, dancadon, kudradon, marŝadon kaj, kompreneble, Esperanton. Ŝi estas regula kontribuanto al uea.facila .
 
@@ -114,10 +106,6 @@ sub-skribi: skribi sian nomon fine de dokumento por montri, ke oni mem verkis ĝ
 
 [Embed] https://www.youtube.com/embed/dPCR3xyGonA?width=100%25&height=86.25
 
-1
-
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
-
 
 ---
 
@@ -131,12 +119,6 @@ sub-skribi: skribi sian nomon fine de dokumento por montri, ke oni mem verkis ĝ
 
 [Embed] https://www.youtube.com/embed/qyruwX9-3wY?width=100%25&height=86.25
 
-1
-
-1
-
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
-
 
 ---
 
@@ -149,10 +131,6 @@ sub-skribi: skribi sian nomon fine de dokumento por montri, ke oni mem verkis ĝ
 **Categories:** Filmetoj
 
 [Embed] https://www.youtube.com/embed/1frT317I-Pk?width=100%25&height=86.25
-
-1
-
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
 
 
 ---
@@ -194,10 +172,6 @@ Post la alveno de tiu grandega donaco, la mono el Aŭstralio ne plu devos esti u
 Por vidi bildojn, bonvolu viziti la konton de SchoolKits for Congo ĉe Instagram .
 
 Penny Vos
-
-3
-
-1
 
 Penny Vos estas aŭstralia instruisto. Ŝi estas la verkinto de instruilo por unulingvaj instruistoj de bazlernejoj, Talking to the Whole Wide World . Per tiu instruilo anglalingvaj instruistoj povas samtempe lerni kaj instrui Esperanton. Nun ŝi laboras plentempe pri homhelpado, per Esperanto kaj la angla.
 
@@ -292,10 +266,6 @@ Se vi bezonas pliajn klarigojn, skribu mesaĝon al ĉi tiu adreso .
 
 Katalin Kováts
 
-7
-
-1
-
 Katalin Kováts estas hungarino loĝanta en Nederlando. Ŝi estas profesia lingvoinstruisto kaj trejnisto de instruistoj. Ŝi kreis kaj de 25 jaroj redaktas la retejon www.edukado.net , elpensis la programon Ekparolu! kaj prizorgas la KER-ekzamenojn de UEA . Ŝi verkis kelkajn librojn, kiel ekzemple Poŝamiko kaj Stelsemantoj en la Ora Nordo .
 
 formularo: dokumento, en kiun oni skribas la necesajn detalojn por fari peton aŭ sendi informojn.
@@ -338,8 +308,6 @@ tra-pasi ekzamenon: ekzameniĝi.
 **Categories:** Filmetoj
 
 [Embed] https://www.youtube.com/embed/cJv1nIZRPnY?width=100%25&height=86.25
-
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
 
 
 ---

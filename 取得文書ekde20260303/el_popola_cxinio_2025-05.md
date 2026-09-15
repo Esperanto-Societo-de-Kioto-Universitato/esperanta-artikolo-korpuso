@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-03-03T10:42:50.414553+00:00"
+generated_at: "2026-09-15T10:54:36.789122+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-05-02 – 2025-05-31"
 ---
@@ -66,8 +66,6 @@ Sporto nutras reciprokan admiron inter la du popoloj, estigante kompleksan rilat
 
 Verkis: Rafael Henrique Zerbetto
 
-<span style="font-family: "times new roman"; font-size: 20px;">Ĉinio publikigis projekton de Ekologia Media Kodo - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -88,8 +86,6 @@ Xie Feng diris, ke Usono multe profitis de internacia komerco, ĝuante altkvalit
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Lecionoj lernindaj el la sperto de Ĉinio pri sportoj - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -114,8 +110,6 @@ La estroj de EU diris, ke EU volas profundigi sian partnerecon kun Ĉinio, plif
 
 Redaktoro: Xie Ruifeng
 
-<span style="font-family: "times new roman"; font-size: 20px;">Ĉina ambasadoro en Usono: Usono devas adopti sintenon de egaleco, respekto kaj reciprokeco - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -132,8 +126,6 @@ El Popola Chinio
 Laŭ la anonco de la ĉina Ministerio de Eksterlandaj Aferoj, invitite de rusa prezidento Vladimir Putin, ĉina prezidanto Xi Jinping faros oficialan viziton al Rusio kaj ĉeestos en Moskvo la solenaĵon memore al la 80-a datreveno de la venko de Sovetio en la Granda Patriota Milito. Jen pejzaĝoj de bela Moskvo.
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Ĉina ambasadoro en Usono: Usono devas adopti sintenon de egaleco, respekto kaj reciprokeco - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -153,8 +145,6 @@ El Popola Chinio
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Pejzaĝoj de bela Moskvo - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -231,8 +221,6 @@ Resume, ĉiu homo havas siajn prioritatojn kaj kutimojn, kaj ĉiu kulturo estas 
 
 Verkis kaj fotis: Rafael Henrique Zerbetto
 
-<span style="font-family: "times new roman"; font-size: 20px;">Xi Jinping interŝanĝis gratulmesaĝojn kun eŭropaj gvidantoj - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -256,8 +244,6 @@ Putin diris, ke Rusio kaj Ĉinio ĉiam helpis kaj subtenis unu la alian, kaj la 
 
 Redaktoro: Xie Ruifeng
 
-<span style="font-family: "times new roman"; font-size: 20px;">Kia estas laboro en Ĉinio? - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -280,8 +266,6 @@ Xi Jinping akcentis, ke Ĉinio kaj Rusio devas forte konservi la spiriton de la 
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Kia estas laboro en Ĉinio? - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -312,8 +296,6 @@ Putin diris, ke la rilatoj inter Rusio kaj Ĉinio baziĝas sur reciproka egaleco
 
 Redaktoro: Xie Ruifeng
 
-<span style="font-family: "times new roman"; font-size: 20px;">Kia estas laboro en Ĉinio? - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -341,8 +323,6 @@ Hodiaŭ, kiel antaŭ 50 jaroj, unuiĝinta Eŭropo restas forto de tutmonda bono,
 
 Arancha Gonzalez (eksa ministro pri eksterlandaj aferoj, Eŭropa Unio kaj Kunlaboro de Hispanio)
 
-<span style="font-family: "times new roman"; font-size: 20px;">Xi Jinping kaj Vladimir Putin interparolis - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -364,8 +344,6 @@ Laŭ la deklaro, Usono metos 90-tagan paŭzon sur 24 procentojn de la aldonita i
 
 Ĉinio forigos la modifitajn aldonitajn impostojn sur tiuj varoj truditajn de la anoncoj N-ro 5 kaj N-ro 6 eldonitaj de la Dogana Tarifa Komisiono de la Ŝtata Konsilantaro en la 9-a kaj la 11-a de aprilo respektive. Ĉinio ankaŭ adoptos ĉiujn necesajn administrajn rimedojn por suspendi aŭ forigi la ne-tarifajn kontraŭrimedojn prenitajn kontraŭ Usono ekde la 2-a de aprilo 2025.
 
-<span style="font-family: "times new roman"; font-size: 20px;">Xi Jinping kaj Vladimir Putin interparolis - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -384,8 +362,6 @@ La 13-an de majo ĉina prezidanto Xi Jinping diris en la malferma ceremonio de l
 En la venontaj tri jaroj, Ĉinio invitos 300 ĉefajn oficistojn de politikaj partioj el la membroŝtatoj de la komunumo viziti Ĉinion ĉiujare por interŝanĝi spertojn pri administrado.
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Pasintaj 50 jaroj donas gvidilon por estonteco de la rilatoj inter Ĉinio kaj Eŭropo - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -408,8 +384,6 @@ En la nova epoko, la landa sekureco de Ĉinio subtenas la sekurecan vojon kun ĉ
 
 Redaktoro: Xie Ruifeng
 
-<span style="font-family: "times new roman"; font-size: 20px;">Ĉinio kaj Usono anoncis pri malstreĉigo de doganaj streĉiĝoj - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -428,8 +402,6 @@ Posttagmeze de la 13-a de majo en Pekino ĉina prezidanto Xi Jinping interparo
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Ĉinio publikigis blankan libron pri landa sekureco - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -466,8 +438,6 @@ Krom Ĉinio, BB ankaŭ havas operaciojn en Usono, Paragvajo, Argentino, Kajmana 
 
 Raportis: Rafael Henrique Zerbetto
 
-<span style="font-family: "times new roman"; font-size: 20px;">Ĉina prezidanto kaj brazila prezidento faris interparolon - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -490,8 +460,6 @@ En la lastaj jaroj, la nutraĵ-industrio de Shaanxi-provinco rapide disvolviĝis
 Kiel deirpunkto de la antikva Silka Vojo, Shaanxi, kun malfermeco kaj amplekseco, profunde integriĝas en la kernan areon de komuna konstruado de "La Zono kaj Vojo" kaj havas unikan avantaĝon en eksportado de manĝaĵoj. La ĉin-eŭropa kargotrajno malfermis entute 18 internaciajn ĉefajn liniojn kaj 26 muntoliniojn al la Okcidenta Eŭropo, kovrante la tutan eŭrazian kontinenton. La tria projekto de Xianyang-a Internacia Flughaveno de Xi'an estas ekfunkciigita, kaj la kvanto de kargoj kaj poŝtoj atingis 290 500 tunojn en 2024. La translandlima aŭtovoja linio TIR realigis ter-aeran multrimedan transportadon. La kanalo por eksportado pli kaj pli glatas, kio helpos la nutraĵ-eksportadon de la provinco.
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Banko de Brazilo kaj Ĉina Disvolva Banko plifortigas partnerecon - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -520,8 +488,6 @@ Verkita de Gilbert Morris (ambasadoro kaj akademiulo ĉe la Instituto Bahamas A
 
 Redaktoro: Xie Ruifeng
 
-<span style="font-family: "times new roman"; font-size: 20px;">Shaanxi: Nutraĵ-industrio gvidata al pli alta nivelo - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -549,8 +515,6 @@ Lichtenberg emfazis la ŝlosilan rolon de Ĉinio en mildigo de streĉiĝoj kaj a
 
 Redaktoro: Xie Ruifeng
 
-<span style="font-family: "times new roman"; font-size: 20px;">Shaanxi: Nutraĵ-industrio gvidata al pli alta nivelo - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -576,8 +540,6 @@ El la supro de universitata konstruaĵo oni havas panoraman rigardon de la urbo 
 
 Raportis kaj fotis: Rafael Henrique Zerbetto
 
-<span style="font-family: "times new roman"; font-size: 20px;">Ĉinio aldonas energion al nova multpolusiĝo - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -596,8 +558,6 @@ Lastatempe la Informa Oficejo de la Ŝtata Konsilantaro de Ĉinio senvualigis e
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">La plej bela universitata kampuso en Ĉinio - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -628,8 +588,6 @@ La supraj faktoj kaj donitaĵoj montras, ke Ĉinio estis versence la ĉefa batal
 
 Redaktoro: Liu Zijia
 
-<span style="font-family: "times new roman"; font-size: 20px;">Ĉinio publikigis emblemon memorfestantan 80-an datrevenon de venko en milito kontraŭ japana agreso - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -657,8 +615,6 @@ La artikolo emfazas: "Ni devas ĉerpi saĝon kaj forton el la profundaj lecionoj
 
 Redaktoro: Gao Shuyuan
 
-<span style="font-family: "times new roman"; font-size: 20px;">Ĉinio publikigis emblemon memorfestantan 80-an datrevenon de venko en milito kontraŭ japana agreso - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -683,8 +639,6 @@ Boatoforma bazo kun ostroj por pliforigi ĝian strukturon
 Vizitanto fotas statuon de diino Mazu, protektanto de maristoj kaj ĉiuj homoj, kies vivo rilatas al la maro.
 
 Raportis kaj fotis: Rafael Henrique Zerbetto
-
-<span style="font-family: "times new roman"; font-size: 20px;">Ĉinio publikigis emblemon memorfestantan 80-an datrevenon de venko en milito kontraŭ japana agreso - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -717,8 +671,6 @@ La potencialo por reciproke utila kunlaboro, kiu estas alta, estas disvastigita 
 
 Redaktoro: Xie Ruifeng
 
-<span style="font-family: "times new roman"; font-size: 20px;">Ĉinio publikigis emblemon memorfestantan 80-an datrevenon de venko en milito kontraŭ japana agreso - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -746,8 +698,6 @@ Li emfazis, ke Slovenio estas unu el la EU-landoj, kiuj publike kontraŭstaris l
 
 Redaktoro: Xie Ruifeng
 
-<span style="font-family: "times new roman"; font-size: 20px;">Ĉinio publikigis emblemon memorfestantan 80-an datrevenon de venko en milito kontraŭ japana agreso - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -774,8 +724,6 @@ Deponejo de pu'er-teo en la sidejo de Bama-tekompanio. Tiu teo, plukita el antik
 En aprilo 2018, kiam ĉina prezidanto Xi Jinping kaj barata ĉefministro Narendra Modi renkontiĝis ĉe la orienta lago de la urbo Wuhan en Hubei-provinco, Bama-tekompanio provizis al ili kompletan teceremonian servon. En novembro 2019, dum la unua Ĉina Internacia Importa Ekspozicio en Ŝanhajo, ĉina prezidanto Xi Jinping renkontis francan prezidenton Emmanuel Macron en Yuyuan-ĝardeno kaj tie ili traktis gravajn ŝtatajn aferojn, trinkante teon produktitan de Bama-tekompanio. Ĉu vi ŝatus gustumi Bama-teon?
 
 Verkis kaj fotis: Rafael Henrique Zerbetto
-
-<span style="font-family: "times new roman"; font-size: 20px;">Ĉinio publikigis emblemon memorfestantan 80-an datrevenon de venko en milito kontraŭ japana agreso - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -906,8 +854,6 @@ Verkis: Rafael Henrique Zerbetto
 
 Fotoj: HiShow
 
-<span style="font-family: "times new roman"; font-size: 20px;">Bama-tekompanio, fama marko de Fujian-provinco - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -962,8 +908,6 @@ Nun Ĉinio plie klopodas plibonigi la sistemojn por la elasteco kaj sekureco de 
 
 Redaktoro: Xie Ruifeng
 
-<span style="font-family: "times new roman"; font-size: 20px;">Forpasis sinjoro Wang Chongfang - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -982,8 +926,6 @@ Asit K. Biswas, akademiano kaj vizitanta profesoro ĉe la Universitato de Glasgo
 La obsedo de la usona registaro pri tarifoj jam metis pezan ŝarĝon sur usonajn konsumantojn kaj industriojn, kaj ĝi neniam gajnus en la tarifmilito. Dum la unuaj kvar monatoj post la enoficiĝo de usona prezidento, la nediskriminaciaj tarifoj de la usona registaro kaŭzis interrompojn kaj eroziis la fidon de investantoj en la usona merkato kaj la financa sektoro, kiel reflektite en la fluktuoj en la usona ekonomio.
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Ĉinio ellaboris agadplanon pri ciferecaj kaj inteligentaj provizĉenoj - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -1062,8 +1004,6 @@ La kvartalo estas pli bela kaj ĝia antikva arkitekturo restaŭrita refoje elsta
 
 Verkis kaj fotis: Rafael Henrique Zerbetto
 
-<span style="font-family: "times new roman"; font-size: 20px;">Brita akademiulo: Usonaj tarifoj estas ŝarĝo al ĝi mem - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -1087,8 +1027,6 @@ Por tiuj, kiuj scivolas pri la historio de la kanalo, oni prezentis la verkon --
 
 Redaktoro: Gao Shuyuan
 
-<span style="font-family: "times new roman"; font-size: 20px;">Reveno al Fujian post naŭ jaroj ekde mia unua vizito - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -1109,8 +1047,6 @@ Per la kanalo, oni trairas la mondon, de unu loko al alia. Ĝi faciligas homojn 
 En nuna mondo plena de konfliktoj, plena de malamo. Tio havas tre fortan simbolan signifon, ke ni devas iri al paco, profundigi kunlaborojn kaj amikecon.
 
 Redaktoro: Gao Shuyuan
-
-<span style="font-family: "times new roman"; font-size: 20px;">Reveno al Fujian post naŭ jaroj ekde mia unua vizito - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -1179,8 +1115,6 @@ Se evidentiĝos ekzisto de grava kialo por ke Brazilo ne akceptu senvizan vizito
 
 Verkis: Rafael Henrique Zerbetto
 
-Reveno al Fujian post naŭ jaroj ekde mia unua vizito - esperanto.china.org.cn
-
 El Popola Chinio
 
 
@@ -1199,8 +1133,6 @@ En la Dialogointer Pekino kaj Hangzhou pri la Grandkanala Kulturzono okazinta
 "Pri niaj grandaj kanaloj -- Suez-kanalo, Panama-kanalo, Pekin-Hangzhou-a Kanalo, ne necesa diskuti pri tio, ke kiu estas pli longa, kiu pli aĝa aŭ kiu havas pli grandan transportkapablon. Ili ĉiuj estas kreaĵoj de la homaro, por realigi interkomuniadon kaj  interligon. Ili spegulas la daŭran klopodon kaj saĝecon de homaro trapasi la naturajn limigojn, kaj enkorpigas la grandan spiriton de la homaro."
 
 Redaktoro: Gao Shuyuan
-
-<span style="font-family: "times new roman"; font-size: 20px;">Trezoroj de Shang-dinastio de Ĉinio - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -1314,8 +1246,6 @@ zongzi
 -oj, de generacio al generacio. Ĝi jam fariĝis la komuna spirita riĉaĵo de la homaro, trans la limojn de regiono kaj tempo.
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Senviza vizito al Ĉinio por kvin sudamerikaj landoj - esperanto.china.org.cn</span>
 
 El Popola Chinio
 

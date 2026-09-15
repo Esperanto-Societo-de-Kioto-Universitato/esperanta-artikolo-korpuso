@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-03-03T10:42:50.564155+00:00"
+generated_at: "2026-09-15T10:54:36.880747+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-02-02 – 2026-02-28"
 ---
@@ -945,7 +945,7 @@ legu en la retejo de Literatura Vivo.
 
 Per via partopreno vi ne nur omaĝas la heredaĵon de prof. Vejdo, sed ankaŭ kontribuas al la estonteco de la Esperanta literaturo. Traduku. Kundividu. Konservu la vivon de la lingvo.
 
-La subteno de UEA al la konkurso Vejdo spegulas la strategian planon AKIRI, aparte la celojn pri komunuma reto kaj komunuma reto kaj kultura fortigo de la kampo Kunlaborado. Kadre de tio UEA ampleksigas sian kulturan agadon al diversaj kulturaj kampoj. En la nomo de UEA kaj de la redakcio de
+La subteno de UEA al la konkurso Vejdo spegulas la strategian planon AKIRI, aparte la celojn pri komunuma reto kaj kultura fortigo de la kampo Kunlaborado. Kadre de tio UEA ampleksigas sian kulturan agadon al diversaj kulturaj kampoj. En la nomo de UEA kaj de la redakcio de
 
 Literatura Vivo
 

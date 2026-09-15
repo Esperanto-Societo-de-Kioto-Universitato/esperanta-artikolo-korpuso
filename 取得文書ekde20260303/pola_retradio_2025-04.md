@@ -1,6 +1,6 @@
 ---
 source: "Pola Retradio (pola-retradio.org)"
-generated_at: "2026-03-03T10:42:16.252852+00:00"
+generated_at: "2026-09-15T10:54:36.946865+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-04-05 – 2025-04-30"
 ---
@@ -15,8 +15,6 @@ time_range: "2025-04-05 – 2025-04-30"
 **Categories:** Elsendoj
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/04/RetRadio_05.04.2025_sob_V_1387.mp3
-
-Podkasto: Ludu en nova fenestro | Elŝutu
 
 En la 1387-a E_elsendo el la 05.04.2025 ĉe www.pola-retradio.org:
 
@@ -85,8 +83,6 @@ El la elsendo 05.04.2025. Legas Barbara – 06′ 36″
 **Categories:** Elsendoj
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/04/RetRadio_10.04.2025_czw_M_1388.mp3
-
-Podkasto: Ludu en nova fenestro | Elŝutu
 
 En la 1388-a E_elsendo el la 10.04.2025 ĉe www.pola-retradio.org:
 
@@ -191,8 +187,6 @@ El la elsendo 10.04.2025 – 11′ 56″
 **Categories:** Elsendoj
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/04/RetRadio_15.04.2025_wt_V_1389-2.mp3
-
-Podkasto: Ludu en nova fenestro | Elŝutu
 
 En la 1389-a E_elsendo el la 15.04.2025 ĉe www.pola-retradio.org:
 
@@ -347,8 +341,6 @@ El la elsendo 20.04.2025. Legas Gabi – 01′ 33″
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/04/RetRadio_20.04.2025_nd_V_1390.mp3
 
-Podkasto: Ludu en nova fenestro | Elŝutu
-
 En la 1390-a E_elsendo el la 20.04.2025 ĉe www.pola-retradio.org:
 
 • Antaŭ 20 jaroj, fine de marto 2005, en Bulonjo ĉe Maro disvolviĝis evento Bulonjo 2005 en la 100-a datreveno de la unua kongreso de esperantistoj en ĉi tiu franca urbo. Tiu eksterordinara evento riĉis je multaj eventoj, rememoroj, paroladoj. El ĝia programo ni memorigas la 1-an parton de aparta alparolo de fame konata Claude Piron. • En la komencaj aktualaĵoj ni informas pri eventoj ligitaj kun solenado de la Miljariĝo de la Pola Reĝolando; pri arkitekturaj miniaturoj el Varsovio en la brusela parko Mini-Eŭropo; pri daŭranta en Varsovio ekspozicio „Vojoj al Jerusalemo”. • En la sciencbultena rubriko ni informas pri Copernicus Festival, kiu en majo okazos en Krakovo – https://copernicusfestival.com/ . • Muzike ni prezentas fragmente varsovian folkloran kanton en la plenumo de la ensemblo de la Varsovia Politekniko. La apudanta la programinformon foto rilatas al miniaturo de la monumento de Frederiko Chopin en la brusela parko Mini-Eŭropo. • En unuopaj rubrikoj de nia paĝo eblas konsulti la paralele legeblajn kaj aŭdeblajn tekstojn el niaj elsendoj, kio estas tradicio de nia Redakcio ekde 2003. La elsendo estas aŭdebla en jutubo ĉe la adreso: https://www.youtube.com/results?q=pola+retradio&sp=CAI%253D I.a. pere de jutubo, konforme al individua bezono, eblas rapidigi aŭ malrapidigi la parolritmon de la sondokumentoj, transsalti al iu serĉata fragmento de la elsendo.
@@ -399,8 +391,6 @@ El la elsendo 25.04.2025. Legas Pamela – 02′ 08″
 **Categories:** Elsendoj
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/04/RetRadio_25.04.2025_pt_V_1391.mp3
-
-Podkasto: Ludu en nova fenestro | Elŝutu
 
 En la 1391-a E_elsendo el la 25.04.2025 ĉe www.pola-retradio.org:
 
@@ -486,8 +476,6 @@ El la elsendo 30.04.2025. Legas Maciek – 02′ 23″
 **Categories:** Elsendoj
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/04/RetRadio_30.04.2025_sr_M_1392.mp3
-
-Podkasto: Ludu en nova fenestro | Elŝutu
 
 En la 1392-a E_elsendo el la 30.04.2025 ĉe www.pola-retradio.org:
 

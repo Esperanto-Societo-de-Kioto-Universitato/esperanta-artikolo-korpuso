@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-08-13T10:15:12.655212+00:00"
+generated_at: "2026-09-15T11:04:52.433466+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-07-01 – 2026-07-31"
 ---
@@ -32,8 +32,6 @@ Marapira ankaŭ diris, ke la progreso de Ĉinio de unu kvinjara plano al la sekv
 
 Redaktoro: Xie Ruifeng
 
-Ĉina Fokuso / China Focus - Esperanto
-
 El Popola Chinio
 
 
@@ -57,8 +55,6 @@ Sekve, Xi Jinping faris gravan paroladon ĉe la kunveno.
 
 Redaktoro: Xie Ruifeng
 
-Ĉina Fokuso / China Focus - Esperanto
-
 El Popola Chinio
 
 
@@ -81,8 +77,6 @@ Xi Jinping diris, ke KPĈ restas dediĉita al la serĉado de la vero kaj ĉiam a
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-Ĉina Fokuso / China Focus - Esperanto
 
 El Popola Chinio
 
@@ -109,8 +103,6 @@ Nova Ĉinio konstruis sian unuan fervojon: fervojo inter Chengdu kaj Chongqing. 
 
 Redaktoro: Xie Ruifeng
 
-Ĉina Fokuso / China Focus - Esperanto
-
 El Popola Chinio
 
 
@@ -133,8 +125,6 @@ Post la ekfunkciigo, la projekto liberigos la avantaĝojn de la karbo- kaj noven
 Shaanxi situas ĉe la plej orienta parto de la nordokcidenta elektroreto de la lando, kaj estas grava loko de la okcident-orienta elektrotranssendo. La ekfunkciigo de la projekto antaŭenigos efikan transformiĝon de la altkvalitaj resursoj de Shaanxi, kaj daŭre helpos al la konstruado de moderna industria sistemo kaj la garantio de homviva elektroprovizo en Anhui.
 
 Redaktoro: Xie Ruifeng
-
-Ĉina Fokuso / China Focus - Esperanto
 
 El Popola Chinio
 
@@ -235,8 +225,6 @@ En unu mateno en la parko Luogang la EH216-S kviete alteriĝas. Post kelkaj minu
 
 Verkis kaj fotoj: Bui Hai Mung
 
-Ĉina Fokuso / China Focus - Esperanto
-
 El Popola Chinio
 
 
@@ -266,8 +254,6 @@ Surbaze de strategia reciproka fido, Turkio kaj Ĉinio kune esploru modernigajn 
 
 Redaktoro: Gao Shuyuan
 
-Ĉina Fokuso / China Focus - Esperanto
-
 El Popola Chinio
 
 
@@ -292,8 +278,6 @@ Belorusaj junuloj volas lerni la ĉinan lingvon kaj kulturon, li diris. "Mi esta
 Plurfoje vizitinte Ĉinion, Parkhomchik esprimis profundan admiron pri la rapida disvolviĝo de la lando dum la pasintaj tri jardekoj.
 
 Redaktoro: Xie Ruifeng
-
-Ĉina Fokuso / China Focus - Esperanto
 
 El Popola Chinio
 
@@ -322,8 +306,6 @@ Inter la ĉefaj atingoj de Ĉinio, Mahmmud citis la historian agon de malriĉec-
 
 Redaktoro: Xie Ruifeng
 
-Ĉina Fokuso / China Focus - Esperanto
-
 El Popola Chinio
 
 
@@ -351,8 +333,6 @@ Simile al la projekto por la lignoturo, cifereca teknologio prezentas al vizitan
 
 Redaktoro: Xie Ruifeng
 
-Ĉina Fokuso / China Focus - Esperanto
-
 El Popola Chinio
 
 
@@ -375,8 +355,6 @@ Krom komerco kaj investo, Bornemissza emfazis kreskantajn ŝancojn en kultura ka
 Antaŭrigardante, Bornemissza ankaŭ malkaŝis la planojn antaŭenigi hungarajn produktojn en la ĉinan merkaton por akceli la eksportadon de Hungario.
 
 Redaktoro: Xie Ruifeng
-
-Ĉina Fokuso / China Focus - Esperanto
 
 El Popola Chinio
 
@@ -403,8 +381,6 @@ Samtempe, la somero en Qinling liveras humidan klimaton kaj abundajn manĝaĵojn
 
 Redaktoro: Xie Ruifeng
 
-Ĉina Fokuso / China Focus - Esperanto
-
 El Popola Chinio
 
 
@@ -429,8 +405,6 @@ La libro sisteme klarigas la teorion kaj praktikon de ĉina modernigo, vivece pr
 Legi la libron povas helpi homojn pensi pli profunde pri la rilatoj inter Kirgizio kaj Ĉinio, kaj pri la influoj al la resto de la mondo. La libro helpas instigi praktikan kunlaboron por antaŭenigi reciprokan lernadon inter civilizacioj.
 
 Redaktoro: Xie Ruifeng
-
-Ĉina Fokuso / China Focus - Esperanto
 
 El Popola Chinio
 
@@ -459,8 +433,6 @@ En la malferma ceremonio, oni prezentis la gratul-mesaĝan videon de Ahmad Reza 
 
 La okazigo de la kongreso ne nur provizas altnivelan akademian platformon por esperantistaj instruistoj kaj esploristoj, sed ankaŭ antaŭenigos Esperanto-edukadon kaj transkulturan interŝanĝon, kontribuante lingvan forton al la konstruado de homara komunumo de komuna estonteco. La kongreso daŭris tri tagojn, oni okazigis prelegojn, akademiajn seminariojn, plurnivelajn ekzamenojn, trejnajn kursojn, amuzvesperon kaj projekciadon de Esperantaj filmoj.
 
-Ĉina Fokuso / China Focus - Esperanto
-
 El Popola Chinio
 
 
@@ -479,8 +451,6 @@ La 13-an de julio en Lanzhou-urbo oficiale komenciĝis la Gansu-sekcio de la pro
 Gansu estas grava regiono sur la itinero de la Longa Marŝo. Ĝi estas la sola provinco, tra kiu ĉiuj kvar trupoj de la Longa Marŝo trapasis. Krome, la lokoj Huining kaj Jiangtaipu (nuntempe apartenanta al la Ningxia-a Huja Aŭtonoma Regiono) spertis la sukcesan kunigon de la Unua, la Dua kaj la Kvara Frontaj Armeoj de la Ruĝa Armeo, kio markis la finan venkon de la Longa Marŝo.
 
 Sekve, preskaŭ 40 ĉinaj kaj eksterlandaj fakuloj kaj ĵurnalistoj, kune vizitos la ŝlosilajn lokojn survoje de la Longa Marŝo por dokumenti la grandegajn ŝanĝiĝojn de la  regionoj dum la pasintaj 90 jaroj.
-
-Ĉina Fokuso / China Focus - Esperanto
 
 El Popola Chinio
 
@@ -517,8 +487,6 @@ estas studata per altnivela teknologio. De kvalitkontrolo kaj scienca esplorado 
 
 Antaŭ preskaŭ 90 jaroj, Minxian estis unu el la gravaj lokoj sur la itinero de la Longa Marŝo. Hodiaŭ, la areo fariĝis grava centro por la kurac-herba industrio, kreante laborpostenojn kaj provizante stabilan enspezon por lokanoj. Ĝia disvolvado montras, ke lokoj konataj pro historio povas ankaŭ brakumi sciencon, teknologion kaj novigadon, kreante brilan estontecon.
 
-Ĉina Fokuso / China Focus - Esperanto
-
 El Popola Chinio
 
 
@@ -541,8 +509,6 @@ La partoprenantoj diris, ke la kvina volumo prezentas la plej novajn atingojn de
 Reprezentantoj el pensfabrikoj, entreprenoj kaj universitatoj de la du landoj dividis rakontojn pri kiel praktikaj kunlaboroj profitigis lokajn komunumojn. Oni ankaŭ interŝanĝis opiniojn pri altkvalita kunlaboro kadre de "La Zono kaj Vojo".
 
 Redaktoro: Xie Ruifeng
-
-Ĉina Fokuso / China Focus - Esperanto
 
 El Popola Chinio
 
@@ -567,8 +533,6 @@ Poste ni daŭrigis al Hadapu, kie la Ruĝa Armeo ricevis gravajn informojn, kiuj
 
 Por multaj membroj de la internacia delegacio, la vizito estas ne nur historia leciono, ĝi donis pli bonan komprenon pri la decidemo, kuraĝo kaj eltenemo ligitaj kun la Longa Marŝo — jen la konceptoj de valoroj, kiuj daŭre estas memorigataj kiel parto de la moderna historio de Ĉinio.
 
-Ĉina Fokuso / China Focus - Esperanto
-
 El Popola Chinio
 
 
@@ -589,8 +553,6 @@ Xi Jinping diris, ke post komunaj klopodoj de ĉiuj flankoj, la Monda Organizo p
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-Ĉina Fokuso / China Focus - Esperanto
 
 El Popola Chinio
 
@@ -614,8 +576,6 @@ S-ro Zhang, loĝanta en la kvartalo Chengguoheyuan de Baoji, diris: "Estas tre o
 La praktikado de la kompanio spegulas ĝiajn klopodojn por akceli la konstruadon de "AI + saĝa elektroreto". La Shaanxi-a Elektrokompanio daŭre plifirmigas la fundamenton por sekura funkciado de la elektra reto, permesante al "saĝeco" ludi ŝlosilan rolon en la elektroprovizo dum la someraj pintperiodoj.
 
 Redaktoro: Xie Ruifeng
-
-Ĉina Fokuso / China Focus - Esperanto
 
 El Popola Chinio
 
@@ -643,8 +603,6 @@ La skalo de Novo Nordisk en Ĉinio daŭre vastiĝas kaj la graveco de la merkato
 "Oni ne povas ignori Ĉinion kaj la novigon, kiu okazas," aldonis Doustdar.
 
 Redaktoro: Xie Ruifeng
-
-Ĉina Fokuso / China Focus - Esperanto
 
 El Popola Chinio
 
@@ -709,8 +667,6 @@ En inundita Guigang, la motorizita pramo estis la plej videbla parto de la savop
 
 Verkita de Bui Hai Mung
 
-Ĉina Fokuso / China Focus - Esperanto
-
 El Popola Chinio
 
 
@@ -727,8 +683,6 @@ El Popola Chinio
 De la 6-a ĝis la 9-a de julio, la 8-a Tutlanda Esperanta Legokunsido okazis en Qingdao-a Universitato. Kunvenis 27 esperantistoj (inkluzive de iliaj familianoj) el Pekino, Tianjin, Hubei, Jiangxi, Zhejiang, Jiangsu, Henan, Guangdong, Jilin kaj Qingdao. Retrorigardinte la progreson de la legokunsido dum la pasintaj dek jaroj, ili ankaŭ diskutis pri "Per Esperanto konatiĝi kun Lusin — Omaĝe al la 90-a datreveno de la forpaso de Lusin", kunlegante la esperantigitan verkon "Noveloj de Lusin, Plena kolekto".
 
 Redaktoro: Gao Shuyuan
-
-Ĉina Fokuso / China Focus - Esperanto
 
 El Popola Chinio
 
@@ -748,8 +702,6 @@ La 30-an de junio, okazis lanĉ-ceremonio de la Esperanto-laborgrupo kaj la Eksp
 Zhang Zhaogeng, membro de Linyi-a Esperanto-Asocio, prezentis la eksponitajn 60 poŝtmarkojn de pli ol 20 landoj. Inter tiuj, la plej aĝa estis emisiita en la komenco de la 20-a jarcento. Sinjoro Zhang speciale prezentis la poŝtmarkon pri la portreto de Zamenhof kaj tiujn pri UK. La poŝtmarkoj estas ekzemploj de la valoro de Esperanto por interkultura komunikado.
 
 Redaktoro: Gao Shuyuan
-
-Ĉina Fokuso / China Focus - Esperanto
 
 El Popola Chinio
 
@@ -784,8 +736,6 @@ La kontribuo de ĉinaj markoj en la Futbala Mondpokalo 2026 estas nur la komenco
 
 Redaktoro: Gao Shuyuan
 
-Ĉina Fokuso / China Focus - Esperanto
-
 El Popola Chinio
 
 
@@ -804,8 +754,6 @@ La 25-an de julio UNESKO aldonis la ĉinajn metiajn porcelan-industriajn ejojn d
 La metiaj porcelan-industriaj ejoj de Jingdezhen estas aro da heredaĵejoj, kiuj reprezentas la metian porcelan-industrian sistemon, kiu evoluis en Jingdezhen en la provinco Jiangxi de la 10-a ĝis la 19-a jarcento. La blu-blankaj porcelanaĵoj kaj desegnaĵoj de Jingdezhen en antikveco fariĝis alte taksata tutmonda varo kaj simbolo de ĉina kulturo kaj arto, laŭ UNESKO. Kovrante areon de 7 524.7 hektaroj, la ejo montras la novigan evoluon de la ĉina metio kaj teknologio pri porcelan-farado, porcelana arto kaj porcelana industrio, kaj atestas la profundan efikon de la ĉina metia porcelana industrio sur la evoluon de la monda ceramika industrio kaj la interŝanĝojn kaj reciprokajn lernadojn inter civilizacioj.
 
 Redaktoro: Xie Ruifeng
-
-Ĉina Fokuso / China Focus - Esperanto
 
 El Popola Chinio
 
@@ -859,8 +807,6 @@ Sed tio verŝajne estas nur la komenco. Fan Qiuyun diris, ke pluraj entreprenoj 
 Kiam mi forlasis la Laboratorion Haihe, mi kunportis ne la impreson pri maŝino kapabla legi la homan menson. Pli forte restis alia bildo: kiel la nova teknologio estas preparata por la estonteco. En multaj landoj BKI ankoraŭ estas ĉefe esplora kampo. En Tianjin ni vidis alian aliron. Ĉinio jam traktas ĝin kiel industrion en formiĝado. Ĉu tiuj ambicioj sukcesos, nur la tempo montros. Sed unu afero jam estas klara. Anstataŭ atendi ĝis la teknologio plene maturiĝos, Ĉinio jam konstruas la bazojn: esploradon, entreprenojn, normojn kaj merkaton. Se BKI fariĝos grava teknologio en la estonteco, tiuj preparoj povas doni al la lando gravan avantaĝon.
 
 Verkis kaj fotis: Bui Hai Mung
-
-Ĉina Fokuso / China Focus - Esperanto
 
 El Popola Chinio
 
@@ -937,8 +883,6 @@ Krom industrio, Wenjing antaŭvidas aplikajn scenarojn en nia ĉiutaga vivo: "Pe
 
 Verkis: Rafael Henrique Zerbetto
 
-Ĉina Fokuso / China Focus - Esperanto
-
 El Popola Chinio
 
 
@@ -1009,8 +953,6 @@ Nun la produktado de danggui de la tuta gubernio funkcias laŭ la modelo "Esplor
 La sperto de Minxian estas unu el multaj ekzemploj de la rapida transformiĝo de la kampara pejzaĝo de Ĉinio, kiu kunigas sciencon kaj teknologion kun prapatra saĝeco kaj la naturaj avantaĝoj de ĉiu loko por aldoni valoron al la loka produktado kaj antaŭenigi komunan prosperon.
 
 Verkis kaj fotis: Rafael Henrique Zerbetto
-
-Ĉina Fokuso / China Focus - Esperanto
 
 El Popola Chinio
 
@@ -1086,8 +1028,6 @@ En Minxian – Shen Jianmin revenis, enradikiĝis, kaj vivas kun sia kredo: "est
 Tiam, la Ruĝa Armeo marŝis tiun vojon, montrante sian fidon per ĉiu paŝo. Hodiaŭ, la homoj vivantaj ĉi tie – en siaj ordinaraj, sed fortikaj vivoj – daŭre skribas la rakonton de la Longa Marŝo. Rakonto, kiu apartenas kaj al ili, kaj al nia tempo.
 
 Verkis: Sheng Min
-
-Ĉina Fokuso / China Focus - Esperanto
 
 El Popola Chinio
 
@@ -1250,8 +1190,6 @@ La industriaj parkoj de Gansu estas plenaj je inspiraj ekzemploj de novigado kom
 
 Verkis kaj fotis: Rafael Henrique Zerbetto
 
-Ĉina Fokuso / China Focus - Esperanto
-
 El Popola Chinio
 
 
@@ -1277,8 +1215,6 @@ La industria disvolviĝo de Ĉinio reflektas pozitivajn tendencojn en la tutmond
 
 Redaktoro: Xie Ruifeng
 
-Ĉina Fokuso / China Focus - Esperanto
-
 El Popola Chinio
 
 
@@ -1303,8 +1239,6 @@ Pri la tiel nomata "favora komerca saldo", He Shaojun, direktoro de la fako pri 
 He Shaojun aldonis, ke en la unua duono de 2026, la sumo de vara importado de Ĉinio kreskis je 22.1%, pli rapide ol tiu de eksportado. Ĉinio daŭre estas la monde dua plej granda lando en importado. La granda merkato de Ĉinio donas fortan impulson al la komercaj partneroj.
 
 Redaktoro: Gao Shuyuan
-
-Ĉina Fokuso / China Focus - Esperanto
 
 El Popola Chinio
 

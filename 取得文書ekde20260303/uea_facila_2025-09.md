@@ -1,6 +1,6 @@
 ---
 source: "UEA Facila (uea.facila.org)"
-generated_at: "2026-03-03T10:41:51.167150+00:00"
+generated_at: "2026-09-15T10:54:37.058224+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-09-01 – 2025-09-29"
 ---
@@ -16,8 +16,6 @@ time_range: "2025-09-01 – 2025-09-29"
 
 [Embed] https://www.youtube.com/embed/TiSQm5jtXgA?width=100%25&height=86.25
 
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
-
 
 ---
 
@@ -30,8 +28,6 @@ time_range: "2025-09-01 – 2025-09-29"
 **Categories:** Filmetoj
 
 [Embed] https://www.youtube.com/embed/E6EUmkukOgg?width=100%25&height=86.25
-
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
 
 
 ---
@@ -77,10 +73,6 @@ En sia verko Galois montris, inter multaj brilaj novaj aferoj, ke la tri klasika
 Por finfine atingi tiun komprenon pri laŭŝajne simpla problemo, la homaro bezonis pli ol du mil jarojn kaj la evoluigon de tre progresintaj matematikaj iloj.
 
 Mauri Cunha do Nascimento Angela Faria
-
-8
-
-1
 
 Mauri Cunha do Nascimento , brazila matematika profesoro kaj lernanto de Esperanto per la programo Mia Amiko .
 
@@ -141,8 +133,6 @@ volumeno: interna grandeco de objekto.
 
 [Embed] https://www.youtube.com/embed/LCLcVv2v4Pc?width=100%25&height=86.25
 
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
-
 
 ---
 
@@ -196,10 +186,6 @@ La vastega populariĝo de teo dum jarcentoj montras, ke ĉie en la mondo la homo
 
 Myrtis Smith
 
-4
-
-2
-
 Myrtis Smith estas usona esperantistino, inĝeniera instruisto tage kaj aspiranta artisto nokte. Ŝiaj ŝatokupoj inkluzivas verkadon, dancadon, kudradon, marŝadon kaj, kompreneble, Esperanton. Ŝi estas regula kontribuanto al uea.facila .
 
 aKE: antaŭ Komuna Erao (= antaŭ la jaro nulo laŭ la internacie uzata sistemo).
@@ -251,8 +237,6 @@ semo: parto de planto, el kiu kreskos nova planto.
 
 [Embed] https://www.youtube.com/embed/-KzbJIdbrpQ?width=100%25&height=86.25
 
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
-
 
 ---
 
@@ -291,8 +275,6 @@ La reguloj ne estas tiel rigoraj kiel tiuj de la usona originalo. Necesas nur, k
 Fine de la monato ĉiam naskiĝas pluraj verkoj, kiuj konkursas en Esperantaj literaturaj konkursoj aŭ aperas en diversaj gazetoj aŭ retejoj. Sed la plej grava rezulto estas la persona evoluo de la verkisto.
 
 Stela Besenyei-Merger
-
-7
 
 Stela Besenyei-Merger estas hungar-franca denaskulo, sociologo, artedukisto, kiu loĝas en Budapeŝto. Gajninto de Premio Maertens in 2025. Duono de la Radikala tenero-podkasto . Ŝi verkas en Esperanto en sia blogo Stela havas opinion pri la mondo .
 
@@ -333,8 +315,6 @@ Telegramo: tuj-mesaĝilo per kiu eblas senpage sendi voĉmesaĝojn, bildojn, fil
 
 [Embed] https://www.youtube.com/embed/kqKTbyumHXU?width=100%25&height=86.25
 
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
-
 
 ---
 
@@ -365,8 +345,6 @@ Nu, unu tagon oni vokis min por ke mi iru tuj al la malsanulejo, ĉar mia sesjar
 Jen la plej mallonga tago.
 
 La libro estas aĉetebla ĉe la libroservo de UEA (20,70 eŭroj ), kaj ĉe Mondial ($ 18.75).
-
-6
 
 Jorge Rafael Nogueras (Rafa) estas portorika esperantisto, kies verkoj estis multfoje premiitaj en la Belartaj Konkursoj de UEA kaj en la Interkultura Novelo-Konkurs o (INK), inter aliaj. Li estis parto de la teamo de la Esperanto-kurso en Duolingo, kaj instruas Esperanton de pluraj jaroj; plej lastatempe li instruis la superan nivelon kadre de la Nord-Amerika Somera Kursaro de Esperanto (NASK). De 2025 li estas membro de la Akademio de Esperanto.
 

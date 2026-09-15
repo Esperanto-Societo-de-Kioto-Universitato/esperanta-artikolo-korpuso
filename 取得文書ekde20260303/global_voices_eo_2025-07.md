@@ -1,6 +1,6 @@
 ---
 source: "Global Voices en Esperanto (eo.globalvoices.org)"
-generated_at: "2026-03-03T10:41:30.794333+00:00"
+generated_at: "2026-09-15T10:54:36.893681+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-07-22 – 2025-07-25"
 ---
@@ -28,10 +28,6 @@ Sed, pro la nova baldaŭa tarifo kaj malfacilaj rivaloj enlande kun malalta prof
 
 事 实 上，在所有 东 南 亚 国家中，印尼是最佳 选择 ，因 为 印尼本身就是一个非常有前景的太阳能市 场 。例如，印尼在海上浮 动 太阳能方面 拥 有最大潜力， 这 些太阳能 设 施可以安装在靠近海岸的海域上。此外，印尼幅 员辽阔 ，有足 够 的空 间 建 设 其他太阳能 项 目，如内 陆 太阳能 项 目。
 
-事 实 上，在所有 东 南 亚 国家中，印尼是最佳 选择 ，因 为 印尼本身就是一个非常有前景的太阳能市 场 。例如，印尼在海上浮 动 太阳能方面 拥 有最大潜力， 这 些太阳能 设 施可以安装在靠近海岸的海域上。此外，印尼幅 员辽阔 ，有足 够 的空 间 建 设 其他太阳能 项 目，如内 陆 太阳能 项 目。
-
-Indonezio estas la plej bona elekto inter ĉiuj sudorientaj aziaj landoj ĉar ĝi estas tre potenca sunenergia merkato. Ekzemple, Indonezio havas la plej grandan eblecon rilate al flosanta sunpanelaro sur la maro, kiu estas konstruebla en akvaĵoj apud la plaĝo. Krom tio, Indonezio estas vasta lando kaj havas sufiĉan spacon por konstrui aliajn sunenergiajn projektojn, ekzemple surterajn sunenergiajn projektojn.
-
 Indonezio estas la plej bona elekto inter ĉiuj sudorientaj aziaj landoj ĉar ĝi estas tre potenca sunenergia merkato. Ekzemple, Indonezio havas la plej grandan eblecon rilate al flosanta sunpanelaro sur la maro, kiu estas konstruebla en akvaĵoj apud la plaĝo. Krom tio, Indonezio estas vasta lando kaj havas sufiĉan spacon por konstrui aliajn sunenergiajn projektojn, ekzemple surterajn sunenergiajn projektojn.
 
 Ilustrataĵo de sunpanelaj fabrikoj. Fonto: Pxhere
@@ -52,10 +48,6 @@ Malgraŭ la granda investo, ĉinaj sunenergiaj kompanioj alfrontas multajn defio
 
 中国企业的一些国际竞争对手则利用其低成本和长贷款期的融资优势，在项目竞标时报出很低的价格。中资企业应该借鉴国际同行的经验，充分利用境外国际金融机构、外资银行的资金以加快发展。
 
-中国企业的一些国际竞争对手则利用其低成本和长贷款期的融资优势，在项目竞标时报出很低的价格。中资企业应该借鉴国际同行的经验，充分利用境外国际金融机构、外资银行的资金以加快发展。
-
-Kelkaj internaciaj rivaloj de ĉinaj kompanioj uzas sian malaltan koston kaj longdaŭran financan avantaĝon por oferti tre malmultekostan prezon en projekta aŭkcio. Ĉinaj kompanioj devas lerni de siaj internaciaj samanoj kaj tute utiligi la financojn de eksterlandaj internaciaj financaj institucioj kaj fremdaj bankoj por rapidigi disvolviĝon.
-
 Kelkaj internaciaj rivaloj de ĉinaj kompanioj uzas sian malaltan koston kaj longdaŭran financan avantaĝon por oferti tre malmultekostan prezon en projekta aŭkcio. Ĉinaj kompanioj devas lerni de siaj internaciaj samanoj kaj tute utiligi la financojn de eksterlandaj internaciaj financaj institucioj kaj fremdaj bankoj por rapidigi disvolviĝon.
 
 Renovigebla energia sektoro de Indonezio
@@ -63,10 +55,6 @@ Renovigebla energia sektoro de Indonezio
 Kiel granda karba produktanta lando , Indonezio ankoraŭ forte dependas de karbo kiel sia ĉefa elektra fonto. En Novembro 2024, prezidento de Indonezio Prabowo Subianto diris ke li volas ke Indonezio ĉesu uzi karbon kaj fosilian brulaĵon post 15 jaroj. Li celis krei 75 gigavatojn da renovigebla energio plej malfrue en 2040. Prabowo diris:
 
 Kami memiliki sumber energi terbarukan lainnya dan itulah sebabnya kami sangat optimistis bahwa kami dapat mencapai nol emisi sebelum 2050.
-
-Kami memiliki sumber energi terbarukan lainnya dan itulah sebabnya kami sangat optimistis bahwa kami dapat mencapai nol emisi sebelum 2050.
-
-Ni havas aliajn fontojn de renovigebla energio, kaj tial ni estas optimismaj ke ni povos atingi nul ellasadon antaŭ 2050.
 
 Ni havas aliajn fontojn de renovigebla energio, kaj tial ni estas optimismaj ke ni povos atingi nul ellasadon antaŭ 2050.
 
@@ -170,13 +158,7 @@ Detaloj pri la veturado :
 
 Veturada tempo: Aŭgusto 1-3 Rezervaj datoj kaze de veterado: Aŭgusto 10-12
 
-Rezervaj datoj kaze de veterado: Aŭgusto 10-12
-
 Itineria plano (nuna skizo): FLX Everest Roam (ĉe Komoot) . Gvidaj celoj: Grimpi multajn el la plej belaj kaj ikonecaj vojoj kaj gruzaj montetoj en la areo inter Ithaca NY kaj Watkins Glen , Nov-Jorkio (eo). Minimumigi grimpajn ripetojn
-
-Grimpi multajn el la plej belaj kaj ikonecaj vojoj kaj gruzaj montetoj en la areo inter Ithaca NY kaj Watkins Glen , Nov-Jorkio (eo).
-
-Minimumigi grimpajn ripetojn
 
 Distanco: 400 km, 300 mejloj
 

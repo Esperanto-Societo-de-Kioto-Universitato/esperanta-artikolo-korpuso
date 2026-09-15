@@ -1,6 +1,6 @@
 ---
 source: "Pola Retradio (pola-retradio.org)"
-generated_at: "2026-03-03T10:42:16.478943+00:00"
+generated_at: "2026-09-15T10:54:37.032697+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-01-05 – 2026-01-30"
 ---
@@ -101,8 +101,6 @@ El la elsendo 05.01.2026. Legas Barbara – 11′ 52″
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2026/01/RetRadio_05.01.2026_pn_V_1446.mp3
 
-Podkasto: Ludu en nova fenestro | Elŝutu
-
 En la 1446-a E_elsendo el la 05.01.2026 ĉe www.pola-retradio.org:
 
 • En la unua E-elsendo de la 2026-a jaro la Redakcio deziras al ĉiuj aŭskultantoj kaj radioamikoj pacan, ĉiuspece prosperan kaj sukcesan Novan Jaron. • En la Trarigardo de la E-Gazetaro ni proponas kunfoliumi kun ni la 8/9-an kaj 10-an paperajn numerojn de „La Revuo Orienta”. Ni enrigardas la elektronikan version de la decembra „Novaĵoj Tamtamas” el Jokohamo, Ni citas el la sonversio de la decembra numero de „Tempo” de Kroata E-Ligo kaj fine ni ĵetas la rigardon al la ĵus veninta januara numero 2026 de „Ora Ĵurnalo” el Gotenburgo. • Komence post la Kalendara Folio kun historiaj eventoj, ligitaj kun la 5-a de januaro ni informas pri la komenco de la nova tradicio, ĉiusabata hisado de la Pola Flago super la Prezidenta Palaco en Varsovio kaj pri la morgaŭaj Epifaniaj Paradoj, kiuj moviĝos tra ĉirkaŭ unu mil polaj urboj, urbetoj kaj vilaĝoj. • En la kulturkronika rubriko ni parolas pri la novaranĝita Artgalerio de la Eŭropa Arto en Krakovo, pri ekspozicio kolektinta tolaĵojn de polaj artistoj aktivantaj en la t.n. Munkena Skolo. • En la E-komunuma segmento ni referencas al la Novjaraj Bondeziroj de UEA. Ilia plena teksto estas legebla ĉe https://uea.org/gk/1274a1 . Ni informas pri la gajninto de la Premio Maertens 2026, Alekso Miller. Plena teksto legeblas ĉe: https://uea.org/gk/1275a1 . • Hodiaŭ muzike akompanas nin Anna Osmakowicz en fragmento de la pola kristnaska kanto „Di’ naskiĝas”. La reta foto akompananta la programinformon rilatas al la morgaŭa festo de Tri Reĝoj. • En unuopaj rubrikoj de nia paĝo eblas konsulti la paralele legeblajn kaj aŭdeblajn tekstojn el niaj elsendoj, kio estas tradicio de nia redakcio ekde 2003. La elsendo estas aŭdebla en Jutubo ĉe la adreso: https://www.youtube.com/results?q=pola+retradio&sp=CAI%253D Interalie pere de Jutubo, konforme al individua bezono, eblas rapidigi aŭ malrapidigi la parolritmon de la sondokumentoj; eblas transsalti al ajna serĉata fragmento de la elsendo.
@@ -119,8 +117,6 @@ En la 1446-a E_elsendo el la 05.01.2026 ĉe www.pola-retradio.org:
 **Categories:** Elsendoj
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2026/01/RetRadio_10.01.2026_sob_M_1447.mp3
-
-Podkasto: Ludu en nova fenestro | Elŝutu
 
 En la 1447-a E_elsendo el la 10.01.2026 ĉe www.pola-retradio.org:
 
@@ -241,8 +237,6 @@ El la elsendo 15.01.2026. Legas Barbara – 08′ 37″
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2026/01/RetRadio_15.01.2025_czw_V_1448.mp3
 
-Podkasto: Ludu en nova fenestro | Elŝutu
-
 En la 1448-a E_elsendo el la 15.01.2026 ĉe www.pola-retradio.org:
 
 • Pasintsemajne en la plej granda aglomerejo de vespertoj en Pollando okazis la internacia nombrado de ĉi tiuj bestoj. Tiu evento estas la okazo por nia felietono pri vespertoj en Pollando kaj en la mondo kaj ilia signifo en diversaj kulturoj. • En la komenca kulturkroniko – post la kalendarfolio kun historiaj datoj el la 15-a de januaro – ni informas pri interesa ekspozicio en Katowice pri etnoalternativoj; pri murpentraĵo (muralo) en la hispana Zaragozo dediĉita al la pola romano „Manuskripto retrovita en Saragossa”; pri la japana arto en lako prezentata en Krakovo. • En la E-komunuma segmento ni informas pri la nunjaraj Baltiaj E-Tagoj okazontaj en Rigo, Latvio – – https://www.esperanto.de/eo/bet . • Hodiaŭ por la muzika interludo en nia elsendo ni elektis iun el la plej novaj kantoj el la Brazila Kolekto „Fidinda amiko”, kiun en E-versio kantas Flavio Fonseca. La reta foto akompananta la programinformon rilatas al la prezentata en Krakovo la japana lakoarto. • En unuopaj rubrikoj de nia paĝo eblas konsulti la paralele legeblajn kaj aŭdeblajn tekstojn el niaj elsendoj, kio estas tradicio de nia redakcio ekde 2003. La elsendo estas aŭdebla en Jutubo ĉe la adreso: https://www.youtube.com/results?q=pola+retradio&sp=CAI%253D Interalie pere de Jutubo, konforme al individua bezono, eblas rapidigi aŭ malrapidigi la parolritmon de la sondokumentoj; eblas transsalti al ajna serĉata fragmento de la elsendo.
@@ -345,8 +339,6 @@ El la elsendo 20.01.2026. Legas Barbara – 04′ 02″
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2026/01/RetRadio_20.01.2026_wt_M_1449.mp3
 
-Podkasto: Ludu en nova fenestro | Elŝutu
-
 En la 1449-a E_elsendo el la 20.01.2026 ĉe www.pola-retradio.org:
 
 • Al sukcesoj de Vinilkosmo 2025 kaj frontataj de ĝi defioj en 2026 ni donas hodiaŭ apartan atenton kaj nian felietonan informon akompanas fragmente du muzikpecoj el ĝiaj aŭtune aperigitaj bitalbumetoj: de la tulua-okcitania Vojaĝo (Eĉ unu muron) kaj de la hispana-okcitana Kaj Tiel Plu (Kiel estas tiu glaso). • En la komencaj aktualaĵoj – post la Kalendarfolio kun elektitaj datoj ligitaj kun la 20-a de decembro – ni informas pri la novjara renkontiĝo kun reprezentantoj de eklezioj kaj sociaj malplimultoj, pri Róża Czacka patrono de 2026, pri kreskanta eksporto de pola viskio, pri novaj produktoj el la ceramika fabriko en Bolesławiec, • Nian sciencan rubrikon ni dediĉas al la unua etapo de usonaj-britaj esploroj pri la influo de sociaj retejoj je psika bonfaro de junaj personoj. • La akompana al la programinformo foto prezentas edukatojn de Blindulcentro en Laski, establita de Róża Czacka. • En unuopaj rubrikoj de nia paĝo eblas konsulti la paralele legeblajn kaj aŭdeblajn tekstojn el niaj elsendoj, kio estas tradicio de nia redakcio ekde 2003. La elsendo estas aŭdebla en Jutubo ĉe la adreso: https://www.youtube.com/results?q=pola+retradio&sp=CAI%253D Interalie pere de Jutubo, konforme al individua bezono, eblas rapidigi aŭ malrapidigi la parolritmon de la sondokumentoj; eblas transsalti al ajna serĉata fragmento de la elsendo.
@@ -434,8 +426,6 @@ El la elsendo 25.01.2026 – 10′ 07″
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2026/01/RetRadio_25.01.2026_sob_V_1450.mp3
 
-Podkasto: Ludu en nova fenestro | Elŝutu
-
 En la 1450-a E_elsendo el la 25.01.2026 ĉe www.pola-retradio.org:
 
 • Antaŭ nia mikrofono gastas hodiaŭ Jarosław Parzyszek el Fondumo Zamenhof en Bjalistoko, kun kiu ni interparolas pri la solene lanĉita lastvendrede (23.01.2026) en la bjalistoka Zamenhof-centro reredaktita libro de Roman Dobrzyński „La Zamenhof-strato” en la lingvoj pola kaj angla. • En la komenca kulturkroniko – post la kalendarfolio kun elektitaj historiaj datoj el la 25-a de januaro – ni informas pri la literatura premio de Odette kaj Léon Chertok por la polaj raportistinoj Hanna Krall kaj Anna Bikont; pri la bitigataj objektoj de la Nacia Muzeo en Varsovio; pri ekspoziciata fragmento de la donaco de Basil Alkazzi por la Nacia Muzeo en Gdansko. • En la E-komunuma segmento ni prezentas la mesaĝon de UEA lige kun la Internacia Tago de Edukado ( uea.org/gk/1277a1 ) kaj pri IKU dum la 111-a UK en Graz ( uea.org/gk/1276a1 ). • Hodiaŭ ni proponas aŭskulti kune fragmenton de la kanzono de Feri Floro „Lasu, ke dolor’ estu pardonita”. La reta foto akompananta la programinformon prezentas la aspekton de la  ĵus aperinta, reredaktita libro de Roman Dobrzyński „La Zamenhof-strato”. • En unuopaj rubrikoj de nia paĝo eblas konsulti la paralele legeblajn kaj aŭdeblajn tekstojn el niaj elsendoj, kio estas tradicio de nia redakcio ekde 2003. La elsendo estas aŭdebla en Jutubo ĉe la adreso: https://www.youtube.com/results?q=pola+retradio&sp=CAI%253D Interalie pere de Jutubo, konforme al individua bezono, eblas rapidigi aŭ malrapidigi la parolritmon de la sondokumentoj; eblas transsalti al ajna serĉata fragmento de la elsendo.
@@ -486,8 +476,6 @@ El la elsendo 30.01.2026. Legas Maciek – 03′ 06″
 **Categories:** Elsendoj
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2026/01/RetRadio_30.01.2025_pt_M_1451.mp3
-
-Podkasto: Ludu en nova fenestro | Elŝutu
 
 En la 1451-a E_elsendo el la 30.01.2026 ĉe www.pola-retradio.org:
 

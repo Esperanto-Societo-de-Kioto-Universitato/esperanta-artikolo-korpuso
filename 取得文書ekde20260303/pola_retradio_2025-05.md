@@ -1,6 +1,6 @@
 ---
 source: "Pola Retradio (pola-retradio.org)"
-generated_at: "2026-03-03T10:42:16.291318+00:00"
+generated_at: "2026-09-15T10:54:36.959943+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-05-05 – 2025-05-30"
 ---
@@ -15,8 +15,6 @@ time_range: "2025-05-05 – 2025-05-30"
 **Categories:** Elsendoj
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/05/RetRadio_05.05.2025_pn_V_1393.mp3
-
-Podkasto: Ludu en nova fenestro | Elŝutu
 
 En la 1393-a E_elsendo el la 05.05.2025 ĉe www.pola-retradio.org:
 
@@ -154,8 +152,6 @@ El la elsendo 10.05.2025. Legas Barbara – 02′ 29″
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/05/RetRadio_10.05.2025_sob_M_1394.mp3
 
-Podkasto: Ludu en nova fenestro | Elŝutu
-
 En la 1394-a E_elsendo el la 10.05.2025 ĉe www.pola-retradio.org:
 
 • Hodiaŭ en aparta programero Maciej Jaskot analizas la plej novan Gallup-enketon pri feliĉo 2025. • En la aktualaĵoj ni informas pri la loko de Pollando en la produktado de ovoj kaj ilia eksporto; pri la nova turisma atrakciaĵo en Varsovio; pri la nuna kaj mezepoka produktado de plumba vitro (kristala) en Pollando. • En la sciencbultena rubriko ni traktas interesajn esplorojn de svisaj sciencistoj pri hidroĵeleo densiganta ostojn, kio gravas aparte rilate tiajn malsanojn kiel ostoporozo; la esplorojn de pola sciencisto, kiu okupiĝas pri la demando kiomgrade la alprenado de decidoj dependas de la uzata lingvo – gepatra aŭ fremda. • Muzike akompanas nin  Klarisa kaj Armel Amiot, kies albumojn: Ludu kaj kantu kaj Banĝo Esperanto lanĉis Vinilkosmo. La kantotitoloj estas „Mi ŝatas maron” kaj „La vespera vento”. • La apudanta la programinformon foto prezentas vazojn el plumba vitro produktitaj en iu el la polaj vitrofandejoj. • En unuopaj rubrikoj de nia paĝo eblas konsulti la paralele legeblajn kaj aŭdeblajn tekstojn el niaj elsendoj, kio estas tradicio de nia Redakcio ekde 2003. La elsendo estas aŭdebla en jutubo ĉe la adreso: https://www.youtube.com/results?q=pola+retradio&sp=CAI%253D I.a. pere de jutubo, konforme al individua bezono, eblas rapidigi aŭ malrapidigi la parolritmon de la sondokumentoj, transsalti al iu serĉata fragmento de la elsendo.
@@ -172,8 +168,6 @@ En la 1394-a E_elsendo el la 10.05.2025 ĉe www.pola-retradio.org:
 **Categories:** Elsendoj
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/05/RetRadio_15.05.2025_czw_V_1395.mp3
-
-Podkasto: Ludu en nova fenestro | Elŝutu
 
 En la 1395-a E_elsendo el la 15.05.2025 ĉe www.pola-retradio.org:
 
@@ -260,8 +254,6 @@ El la elsendo 15.05.2025. Legas Barbara – 04′ 58″
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/05/RetRadio_20.05.2025_wt_M_1396.mp3
 
-Podkasto: Ludu en nova fenestro | Elŝutu
-
 En la 1396-a E_elsendo el la 20.05.2025 ĉe www.pola-retradio.org:
 
 • Hodiaŭ ni enrigardas iujn el la venintaj al la Redakcio gazetoj. Temas pri la elektronikaj eldonoj de la aprila numero de la finna „Esperantolehti”, de la majaj numeroj de la jokohama „Novaĵoj Tamtamas” kaj de la gotenburga „Ora Ĵurnalo”. Krome ni retrorigardas al la presitaj – marta numero de „Esperanto”, la 209-a numero de „Informilo” de Espéranto-France Est kaj la „Konstruado”- kajero de TAKE 2025. • Ni proponas krome minifelietonon pri la reaktiviĝantaj en printempo sanminacaj iksodoj. • En la aktualaĵoj ni retrorigardas al la semajnfinaj eventoj, kiel la 1-a raŭndo de la prezidentaj balotoj en Pollando, solena inaŭguro de la Pontifika Oficado de papo Leono la 14-a kaj alvoko de franca, brita kaj kanada politikistoj al Israelo. Ni informas pri la Eŭropa Muzeologia Forumo en Bjalistoko. • En la sciencbultena rubriko ni memorigas pri la daŭranta la tutan semajnon Copernicus Festival – copernicusfestival.com . Ni informas pri esploroj de ĉinaj sciencistoj, ke Antarkto tamen ne degelas. • Muzike akompanas nin Amindaj per kanzono „Lasu la malĝojon flugi” el la KD eldonita de Vinilkosmo. La apudanta la programinformon foto rilatas al esploroj pri nedegelanta Antarkto. • En unuopaj rubrikoj de nia paĝo eblas konsulti la paralele legeblajn kaj aŭdeblajn tekstojn el niaj elsendoj, kio estas tradicio de nia Redakcio ekde 2003. La elsendo estas aŭdebla en jutubo ĉe la adreso: https://www.youtube.com/results?q=pola+retradio&sp=CAI%253D I.a. pere de jutubo, konforme al individua bezono, eblas rapidigi aŭ malrapidigi la parolritmon de la sondokumentoj, transsalti al iu serĉata fragmento de la elsendo.
@@ -346,8 +338,6 @@ El la elsendo 20.05.2025. Legas Barbara – 09′ 02″
 **Categories:** Elsendoj
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/05/RetRadio_24.05.2025_ndz_V_1397.mp3
-
-Podkasto: Ludu en nova fenestro | Elŝutu
 
 En la 1397-a E_elsendo el la 25.05.2025 ĉe www.pola-retradio.org:
 
@@ -486,8 +476,6 @@ El la elsendo 30.05.2025. Legas Barbara – 02′ 45″
 **Categories:** Elsendoj
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/05/RetRadio_30.05.2025_pt_M_1938.mp3
-
-Podkasto: Ludu en nova fenestro | Elŝutu
 
 En la 1398-a E_elsendo el la 30.05.2025 ĉe www.pola-retradio.org:
 

@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-03-03T10:42:50.457378+00:00"
+generated_at: "2026-09-15T10:54:36.831233+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-08-04 – 2025-08-31"
 ---
@@ -673,8 +673,6 @@ En Ĉinio, pagodo iom post iom ligiĝis al la ĉina arkitektura tradicio kaj gaj
 
 Raportis kaj fotis: Rafael Henrique Zerbetto
 
-<span style="font-family: "times new roman"; font-size: 20px;">Kia sekura Ĉinio estas? -- Spertoj de eksterlandanoj loĝantaj en Ĉinio - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -701,8 +699,6 @@ https://www.kzjn80.cn/english/index.html
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Kia sekura Ĉinio estas? -- Spertoj de eksterlandanoj loĝantaj en Ĉinio - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -735,8 +731,6 @@ Laŭ datumoj de la Komerca Oficejo de Tianjin, en 2024 la totala importa kaj eks
 
 Redaktoro: Xie Ruifeng
 
-<span style="font-family: "times new roman"; font-size: 20px;">Kia sekura Ĉinio estas? -- Spertoj de eksterlandanoj loĝantaj en Ĉinio - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -757,8 +751,6 @@ Parolante en regula gazetara konferenco, la proparolanto de la ministerio Guo Ji
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Naskiĝoj de tibetaj antilopoj -- tiom da sekretoj! - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -827,8 +819,6 @@ Forirante el Shouhengcheng, mi kunportis senton de kaj admiro kaj zorgo. La admi
 
 Shouhengcheng montris al mi alian bildon de Ĉinio: Ne nur pri supermodernaj urboj aŭ gigantaj infrastrukturoj, sed ankaŭ pri silenta peno modernigi agrikulturon, sektoro ligita al milionoj da homoj. Kaj eble, ĝuste tio estas la plej valora leciono: Transformi agribazaron en la "cerbon" de la tuta nutra sistemo, kie farmistoj, entreprenoj kaj konsumantoj ĉiuj profitas.
 
-<span style="font-family: "times new roman"; font-size: 20px;">Ĉinio urĝas Japanion rekte alfronti kaj pripensi sian historion de agreso - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -845,8 +835,6 @@ El Popola Chinio
 Frue de aŭtuno, Tianjin, situanta ĉe Bohai-golfo, fariĝis altira. Kiel ŝlosila enirejo al norda Ĉinio, Tianjin gastigos la solenan pintkunvenon de la Ŝanhaja Kunlabora Organizo (ŜKO) en la 31-a de aŭgusto kaj la 1-a de septembro. Gvidantoj el pli ol 20 landoj kaj 10 internaciaj organizoj ĉeestos la eventon. La 600-jaraĝa antikva urbo Tianjin atestos gravan momenton de unueco, interfido kaj interkonsento.
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Kia sekura Ĉinio estas? -- Spertoj de eksterlandanoj loĝantaj en Ĉinio - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -890,8 +878,6 @@ Por marki la 80-an datrevenon de la Venko de Ĉinio en la Kontraŭjapana Rezistm
 Redaktoro: Xie Ruifeng
 
 *La aŭtoro estas analizisto pri internaciaj aferoj, speciale pri la rilatoj inter Ĉinio kaj Usono
-
-<span style="font-family: "times new roman"; font-size: 20px;">Ekfunkciis amaskomunikila centro por eventoj de 80-a datreveno de venko kontraŭ faŝismo - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -970,8 +956,6 @@ En la lastaj jaroj, la malnova sidejo akceptis averaĝe 540 000 vizitantojn jare
 
 Redaktoro: Sheng Min
 
-<span style="font-family: "times new roman"; font-size: 20px;">Flamo kolektita por 15-aj Naciaj Sportludoj de Ĉinio - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -993,8 +977,6 @@ La ekspozicio estas kune organizita de la Artgalerio de la Novaĵagentejo Xinhua
 
 Redaktoro: Xie Ruifeng
 
-<span style="font-family: "times new roman"; font-size: 20px;">Kia sekura Ĉinio estas? -- Spertoj de eksterlandanoj loĝantaj en Ĉinio - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -1015,8 +997,6 @@ Pli ol 100 specojn de plantoj estis aranĝitaj en 10 aroj da florbedoj, kun la t
 La ornamaĵoj restos en la sama loko post la parado kaj daŭros ĝis la Nacia Tago en oktobro.
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Kia sekura Ĉinio estas? -- Spertoj de eksterlandanoj loĝantaj en Ĉinio - esperanto.china.org.cn</span>
 
 El Popola Chinio
 

@@ -1,6 +1,6 @@
 ---
 source: "Global Voices en Esperanto (eo.globalvoices.org)"
-generated_at: "2026-03-03T10:41:30.815211+00:00"
+generated_at: "2026-09-15T10:54:36.898635+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-09-01 – 2025-09-24"
 ---
@@ -26,55 +26,23 @@ Jean Sovon (JS): Kiel edukado pri ciferecaj rajtoj povas kontribui al la disvolv
 
 Winnie Aicha Tchedre (WAT): La cifereca edukado estas potenca levilo por la disvolviĝo kaj la teknologia inkluzivo en Afriko, sed kondiĉe ke ĝi estu konceptata por kaj kun virinoj kaj marĝenularoj. Efektive, genro estas grava aspekto en nia engaĝiĝo, ĉar la cifereca breĉo de la afrikaj landoj, inkluzive de Togolando, havas genran vizaĝon. Virinoj estas plej trafataj de [fr] “ ilektronismo ” [ ndlr. de la franca “illectronisme” (franca neologismo por ‘illetrisme digital’), kiu estas cifereca formo de funkcia analfabeteco) , nome la manko de kapabloj kaj scioj pri la uzo de ciferecaj rimedoj. Ĉi tio rilatas al specifaj soci-ekonomikaj kaj kultur-edukaj baroj, kiuj limigas ilian aliron al teknologioj. Sen inkluziva cifereca edukado kiu vere konsideras genron, ni pligravigos la malegalecojn kiuj jam ekzistas. Tial ni spronas la fortan ĉeeston de knabinoj ene de nia instruado: sukcesa cifereca edukado permesas al virinoj ekonomie aŭtonomiĝi [eo] por aliri informon, retan merkaton, retan administrado, telelaboron [eo], telemedicinon [eo] kiu gajnas popularecon.
 
-Winnie Aicha Tchedre (WAT): La cifereca edukado estas potenca levilo por la disvolviĝo kaj la teknologia inkluzivo en Afriko, sed kondiĉe ke ĝi estu konceptata por kaj kun virinoj kaj marĝenularoj.
-
-Efektive, genro estas grava aspekto en nia engaĝiĝo, ĉar la cifereca breĉo de la afrikaj landoj, inkluzive de Togolando, havas genran vizaĝon. Virinoj estas plej trafataj de [fr] “ ilektronismo ” [ ndlr. de la franca “illectronisme” (franca neologismo por ‘illetrisme digital’), kiu estas cifereca formo de funkcia analfabeteco) , nome la manko de kapabloj kaj scioj pri la uzo de ciferecaj rimedoj. Ĉi tio rilatas al specifaj soci-ekonomikaj kaj kultur-edukaj baroj, kiuj limigas ilian aliron al teknologioj.
-
-Sen inkluziva cifereca edukado kiu vere konsideras genron, ni pligravigos la malegalecojn kiuj jam ekzistas. Tial ni spronas la fortan ĉeeston de knabinoj ene de nia instruado: sukcesa cifereca edukado permesas al virinoj ekonomie aŭtonomiĝi [eo] por aliri informon, retan merkaton, retan administrado, telelaboron [eo], telemedicinon [eo] kiu gajnas popularecon.
-
 Foto de Winnie Aicha Tchedre, uzata kun permeso..
 
 JS: Kiel integriĝi genran dimension en la projektoj rilataj al ciferecaj rajtoj ?
 
 Seksa inkluzivo postulas bone strukturitan aliron kiu implikas genrobazitajn analizojn. Jam dum la ekkonceptado de projekto necesas analizi la verajn bezonojn, la barojn, la efikojn kiuj influas virinojn kaj virojn. Ekzemplo de tia projekto estas la Okcident-Afrika Regiona Komunikada Infrastruktura Programo (WARCIP), kiu integras aspektojn por la aliro de virinoj al bezonata trejnado. Oni devas ankaŭ komenci el inkluziva perspektivo, ĉar estas esence, ke virinoj partoprenu ekde la koncepta fazo de la ilaro, platformoj kaj trejnadprogramoj. Oni devas pensi kiel krei interfacojn kiuj permesas al virinoj facilan aliron al didaktikan enhavon en lokaj lingvoj, kaj ankaŭ konsideri la scio-nivelojn de virinoj. En niaj landoj, la plej multaj virinoj malofte sukcesas iri al lernejo. Eĉ se ili parolas la francan lingvon, ili ne kapablas facile legi en tiu lingvo, do estas ankoraŭ pli malfacile kiam temas pri ciferecaj interfacoj. Ni do devas inkluzivi virinojn dekomence, por ke ili ekkonu kio estas farata por ili kaj finfine ke ili majtru ĝin. Komunikkanaloj kaj templinioj devas esti adaptataj.  Virinaj asocioj povas servi kiel informcentroj por klarigi retan ĉikanadon, seksismon kaj la riskojn, kiuj ekzistas en la cifereca ekosistemo. Plie oni devas konsciigi programistojn eviti genrajn antaŭjuĝojn.
 
-Seksa inkluzivo postulas bone strukturitan aliron kiu implikas genrobazitajn analizojn. Jam dum la ekkonceptado de projekto necesas analizi la verajn bezonojn, la barojn, la efikojn kiuj influas virinojn kaj virojn. Ekzemplo de tia projekto estas la Okcident-Afrika Regiona Komunikada Infrastruktura Programo (WARCIP), kiu integras aspektojn por la aliro de virinoj al bezonata trejnado.
-
-Oni devas ankaŭ komenci el inkluziva perspektivo, ĉar estas esence, ke virinoj partoprenu ekde la koncepta fazo de la ilaro, platformoj kaj trejnadprogramoj. Oni devas pensi kiel krei interfacojn kiuj permesas al virinoj facilan aliron al didaktikan enhavon en lokaj lingvoj, kaj ankaŭ konsideri la scio-nivelojn de virinoj.
-
-En niaj landoj, la plej multaj virinoj malofte sukcesas iri al lernejo. Eĉ se ili parolas la francan lingvon, ili ne kapablas facile legi en tiu lingvo, do estas ankoraŭ pli malfacile kiam temas pri ciferecaj interfacoj. Ni do devas inkluzivi virinojn dekomence, por ke ili ekkonu kio estas farata por ili kaj finfine ke ili majtru ĝin. Komunikkanaloj kaj templinioj devas esti adaptataj.  Virinaj asocioj povas servi kiel informcentroj por klarigi retan ĉikanadon, seksismon kaj la riskojn, kiuj ekzistas en la cifereca ekosistemo. Plie oni devas konsciigi programistojn eviti genrajn antaŭjuĝojn.
-
 JS: Kiuj estas la ĉefaj baroj kiujn virinoj alfrontas kiam ili aliras ciferecajn teknologiojn?
 
 WAT: Virinoj alfrontas la plej multajn barojn rilate al aliro al ciferecaj teknologioj. En la togolanda kunteksto, socikulturaj baroj daŭre kondukas al la ekskludo de virinoj.  Asertoj kiel “virinoj ne estis faritaj por cifereca mondo” kondukas al situacioj kie la telefono de virino estas sub la kontrolo de ŝia edzo.  Ankaŭ estas malscio pri la uzo de la ciferecaj rimedoj ekster sociaj retejoj. Kaj ni ne forgesu la koston de reta konekto, kiu ne ĉiam estas pagebla por la plejparto de virinoj, speciale por tiuj kiuj loĝas en malproksimaj regionoj. Pri sekureco, la timo de retaj agresoj estas ankaŭ rimarkinda. En sociaj retejoj kaj ciferecaj platformoj kreskas agresoj, ĉikanadoj, insultoj, fraŭdoj pro kiuj ili povas facile viktimiĝi.
-
-WAT: Virinoj alfrontas la plej multajn barojn rilate al aliro al ciferecaj teknologioj. En la togolanda kunteksto, socikulturaj baroj daŭre kondukas al la ekskludo de virinoj.  Asertoj kiel “virinoj ne estis faritaj por cifereca mondo” kondukas al situacioj kie la telefono de virino estas sub la kontrolo de ŝia edzo.  Ankaŭ estas malscio pri la uzo de la ciferecaj rimedoj ekster sociaj retejoj. Kaj ni ne forgesu la koston de reta konekto, kiu ne ĉiam estas pagebla por la plejparto de virinoj, speciale por tiuj kiuj loĝas en malproksimaj regionoj.
-
-Pri sekureco, la timo de retaj agresoj estas ankaŭ rimarkinda. En sociaj retejoj kaj ciferecaj platformoj kreskas agresoj, ĉikanadoj, insultoj, fraŭdoj pro kiuj ili povas facile viktimiĝi.
 
 JS: Kiel vi taksas la efikon de genraj stereotipoj en ciferecaj enhavoj ? Ĉu ekzistas mekanismoj por raporti kaj trakti genrobazitan diskriminaciojn kaj interretajn agresojn?
 
 WAT: Oni devas ĉi tie rimarki ke kliŝaĵoj plifortigas malegalecojn. La portretado de virinoj kiel objektoj, limigataj en hejma rolo, dum la viroj estas familiestroj, plifortigas antaŭjuĝemojn. Plie, fakulinoj ofte malvideblas: en Togolando [eo], rolmodelinoj tre malmultas, plifortigante algoritmajn antaŭjuĝajn mekanismojn kiuj marĝenigas ilin, ĉar datumoj reproduktiĝas malfavore al virinoj en enketaj rezultoj: de serĉrezultaj ĝis laborŝancoj aŭ por merkatumaj celoj. La enhavoj kiuj oni vidas en sociaj retejoj estas plejparte seksismaj kaj profundigas la virinan timon profiti plene de cifereca teknologio. En Facebook, Twitter, Instagram, oni nun vidas rimarkojn tiel seksismajn ke ni pensas: “Fi, kie ni nun estas?” Ĉiu sin permesas diri ion ajn al iu ajn sen ajna riproĉo, speciale en Afriko. Ĉio ĉi havas realan efikon sur la aliro de vrinoj al cifereca enhavo. En Togolando ekzistas speciala altranga polica unuo kaj centroj por protektado de personaj datumoj kiujn oni povas kontakti en kazo de kontraŭleĝa kolektado de personaj datumoj. Plie en grandaj ciferecaj platformoj kiel Facebook, Instagram, TikTok, estas butonoj por raporti seksismajn kaj mizoginajn enhavojn, malamon aŭ ĉikanadon. Oni do povas raporti kriman agon aŭ situacion kiu ĝenas nin, kiel virinojn aŭ kiel virojn.  La defio estas ke tre malmultaj personoj scias ke ili havas rajtojn, kiujn ili povas postuli en tiaj situacioj.
 
-WAT: Oni devas ĉi tie rimarki ke kliŝaĵoj plifortigas malegalecojn. La portretado de virinoj kiel objektoj, limigataj en hejma rolo, dum la viroj estas familiestroj, plifortigas antaŭjuĝemojn. Plie, fakulinoj ofte malvideblas: en Togolando [eo], rolmodelinoj tre malmultas, plifortigante algoritmajn antaŭjuĝajn mekanismojn kiuj marĝenigas ilin, ĉar datumoj reproduktiĝas malfavore al virinoj en enketaj rezultoj: de serĉrezultaj ĝis laborŝancoj aŭ por merkatumaj celoj.
-
-La enhavoj kiuj oni vidas en sociaj retejoj estas plejparte seksismaj kaj profundigas la virinan timon profiti plene de cifereca teknologio. En Facebook, Twitter, Instagram, oni nun vidas rimarkojn tiel seksismajn ke ni pensas: “Fi, kie ni nun estas?” Ĉiu sin permesas diri ion ajn al iu ajn sen ajna riproĉo, speciale en Afriko. Ĉio ĉi havas realan efikon sur la aliro de vrinoj al cifereca enhavo.
-
-En Togolando ekzistas speciala altranga polica unuo kaj centroj por protektado de personaj datumoj kiujn oni povas kontakti en kazo de kontraŭleĝa kolektado de personaj datumoj. Plie en grandaj ciferecaj platformoj kiel Facebook, Instagram, TikTok, estas butonoj por raporti seksismajn kaj mizoginajn enhavojn, malamon aŭ ĉikanadon. Oni do povas raporti kriman agon aŭ situacion kiu ĝenas nin, kiel virinojn aŭ kiel virojn.  La defio estas ke tre malmultaj personoj scias ke ili havas rajtojn, kiujn ili povas postuli en tiaj situacioj.
-
 JS: Ĉu ekzistas leĝoj, kiuj garantias genran egalecon en la cifereca spaco?
 
 WAT: Apliki specifajn leĝojn aŭ regularojn por certigi genran egalecon restas defio en Afriko.  Tamen estas regionaj iniciatoj, kiel la Protokolo de Maputo [fr], la Agendo 2063 de la Afrika Unio [fr], la Politiko pri genro de la Afrika Unio [fr], kiuj celas krei pli inkluzivan ciferecan ĉirkaŭaĵon. Pri la rajtoj de la afrikaj virinoj, la Afrika Ĉarto pri Homaj kaj Popolaj Rajtoj [fr] atentigas en ĝiaj artikoloj 1-a, 3-a kaj 9-a pri la graveco garantii protekton de virinoj kiel unu de ĝiaj fundamentaj principoj. Ankaŭ la Rezolucio pri Protekto de Virinoj Kontraŭ Cifereca Perforto en Afriko [fr], nomata la CADHP/RES de 2022, spronas ŝtatojn alpreni leĝaron por kontraŭbatali formojn de cifereca agreso kaj plilarĝigi la difinon de genro-rilata agreso. Hodiaŭ, la difino de genra agreso ankaŭ inkluzivas vortan agreson, precipe enrete. Juraj kadroj devas rekoni ĉiujn tiujn dimensiojn por redifini genrobazitajn malobservojn. Multaj landoj alprenis leĝojn kiuj inspiriĝis de la Konvencio de Maroko, de la Afrika Unio, pri cifereca sekureco kaj protekto de datumoj, kaj ankaŭ de la Ekonomia Komunumo de Okcidentafrikaj Ŝtatoj [fr] (fr: CEDEAO, en: ECOWAS). Kelkaj leĝoj specife krimigas genrorilatajn agresojn, kiel la reta ĉikanado, kalumnio de seksa naturo, kaj la malkonsentita disvastigo de intimaj bildoj; tia estas la kazo en Eburbordo, Senegalio kaj Benino. Sed malmultaj da tiuj leĝoj estas iniciatemaj, kio ne specife kaj plene garantias egalan aliron. Devigaj leĝoj pri cifereca inkluzivo kaj la plifortigo de reguloj kontraŭ diskriminaciaj algoritmaj antaŭjuĝoj estas gravegaj antentopunktoj por la estonteco. Egaleco cifereca ne estas lukso, sed vere esenca kondiĉo por justa kaj daŭripova disvolviĝo en Afriko.
-
-WAT: Apliki specifajn leĝojn aŭ regularojn por certigi genran egalecon restas defio en Afriko.  Tamen estas regionaj iniciatoj, kiel la Protokolo de Maputo [fr], la Agendo 2063 de la Afrika Unio [fr], la Politiko pri genro de la Afrika Unio [fr], kiuj celas krei pli inkluzivan ciferecan ĉirkaŭaĵon.
-
-Pri la rajtoj de la afrikaj virinoj, la Afrika Ĉarto pri Homaj kaj Popolaj Rajtoj [fr] atentigas en ĝiaj artikoloj 1-a, 3-a kaj 9-a pri la graveco garantii protekton de virinoj kiel unu de ĝiaj fundamentaj principoj. Ankaŭ la Rezolucio pri Protekto de Virinoj Kontraŭ Cifereca Perforto en Afriko [fr], nomata la CADHP/RES de 2022, spronas ŝtatojn alpreni leĝaron por kontraŭbatali formojn de cifereca agreso kaj plilarĝigi la difinon de genro-rilata agreso.
-
-Hodiaŭ, la difino de genra agreso ankaŭ inkluzivas vortan agreson, precipe enrete. Juraj kadroj devas rekoni ĉiujn tiujn dimensiojn por redifini genrobazitajn malobservojn.
-
-Multaj landoj alprenis leĝojn kiuj inspiriĝis de la Konvencio de Maroko, de la Afrika Unio, pri cifereca sekureco kaj protekto de datumoj, kaj ankaŭ de la Ekonomia Komunumo de Okcidentafrikaj Ŝtatoj [fr] (fr: CEDEAO, en: ECOWAS). Kelkaj leĝoj specife krimigas genrorilatajn agresojn, kiel la reta ĉikanado, kalumnio de seksa naturo, kaj la malkonsentita disvastigo de intimaj bildoj; tia estas la kazo en Eburbordo, Senegalio kaj Benino. Sed malmultaj da tiuj leĝoj estas iniciatemaj, kio ne specife kaj plene garantias egalan aliron.
-
-Devigaj leĝoj pri cifereca inkluzivo kaj la plifortigo de reguloj kontraŭ diskriminaciaj algoritmaj antaŭjuĝoj estas gravegaj antentopunktoj por la estonteco. Egaleco cifereca ne estas lukso, sed vere esenca kondiĉo por justa kaj daŭripova disvolviĝo en Afriko.
 
 
 ---
@@ -180,10 +148,6 @@ Kiel unu industria analiza raporto de la Ĉina Raporta Reto (中国报告网) no
 
 省水、省工、增产、节能、灌溉效果最佳、地形适应力强.
 
-省水、省工、增产、节能、灌溉效果最佳、地形适应力强.
-
-Ĝi ŝparas akvon, ŝparas laboron, pliigas rendimenton, ŝparas energion, havas la plej bonan irigacian efikon, kaj havas fortan adaptiĝemon al tereno
-
 Ĝi ŝparas akvon, ŝparas laboron, pliigas rendimenton, ŝparas energion, havas la plej bonan irigacian efikon, kaj havas fortan adaptiĝemon al tereno
 
 La kosto de la “blanka oro”
@@ -212,10 +176,6 @@ Chen Xi, direktoro de la Esplorcentro por Ekologio kaj Mediprotektado de Centra 
 
 棉花种植的高耗水量可以通过推广节水技术增加用水效率来解决，高效节水技术可使乌兹别克斯坦每年节约80-100亿立方米的水资源，可用于产业发展和咸海生态修复。
 
-棉花种植的高耗水量可以通过推广节水技术增加用水效率来解决，高效节水技术可使乌兹别克斯坦每年节约80-100亿立方米的水资源，可用于产业发展和咸海生态修复。
-
-La alta akvokonsumo de kotonkultivado povas esti solvita per antaŭenigo de akvoŝparaj teknologioj por pliigo de la efikeco de akvouzo. Alt-efikaj akvoŝparaj teknologioj povas ebligi al Uzbekio ŝpari 8-10 miliardojn da kubaj metroj da akvo ĉiujare, kiuj povos esti uzataj por industria disvolviĝo kaj ekologia restarigo de la Arala Maro.
-
 La alta akvokonsumo de kotonkultivado povas esti solvita per antaŭenigo de akvoŝparaj teknologioj por pliigo de la efikeco de akvouzo. Alt-efikaj akvoŝparaj teknologioj povas ebligi al Uzbekio ŝpari 8-10 miliardojn da kubaj metroj da akvo ĉiujare, kiuj povos esti uzataj por industria disvolviĝo kaj ekologia restarigo de la Arala Maro.
 
 Tio ĉi estus grandega pozitiva evoluo, ĉar neniom da akvo nutras la uzbekan parton de la lago, kaj la kazaĥa flanko ricevis nur 2,6 milionojn da kubaj metroj [en] en 2024.
@@ -227,10 +187,6 @@ Paralele al la antaŭenigo de efikaj irigaciaj sistemoj, Ĉinio estas laboranta 
 Tion ĉi sekvis io en multe pli granda skalo. En 2025, Abdiraŝit Mirzambetov, estro de la laboratorio pri bioteknologio kaj plantfiziologio de la Internacia Noviga Centro de la Arala regiono, komentis [ru]:
 
 Мы привезли из Китая свыше двухсот видов солеустойчивых и засухоустойчивых растений. Их семена будут выращиваться в регионах Приаралья с последующим их выращиванием на осушенном дне Аральского моря.
-
-Мы привезли из Китая свыше двухсот видов солеустойчивых и засухоустойчивых растений. Их семена будут выращиваться в регионах Приаралья с последующим их выращиванием на осушенном дне Аральского моря.
-
-Ni alportis pli ol ducent speciojn de salo- kaj sekeco-rezistaj plantoj el Ĉinio. Iliaj semoj estos kreskigataj en la Arala regiono kaj poste kultivataj sur la reakirita Arala marfundo.
 
 Ni alportis pli ol ducent speciojn de salo- kaj sekeco-rezistaj plantoj el Ĉinio. Iliaj semoj estos kreskigataj en la Arala regiono kaj poste kultivataj sur la reakirita Arala marfundo.
 
@@ -287,11 +243,7 @@ Maminirina , studentino je sia dua studjaro pri la malagasa en la universitato d
 
 Mi ĉiam volis verki en la malagasa, sed mi ne sciis kie komenci. Danke al tiu ateliero, mi malkovris Wikipedia kiel liberan kaj alireblan spacon por kundividi niajn sciojn. Ja motivigas scii ke tion, kion mi verkas povas utili al aliaj homoj.
 
-Mi ĉiam volis verki en la malagasa, sed mi ne sciis kie komenci. Danke al tiu ateliero, mi malkovris Wikipedia kiel liberan kaj alireblan spacon por kundividi niajn sciojn. Ja motivigas scii ke tion, kion mi verkas povas utili al aliaj homoj.
-
 Unu el la gestudentoj, Ny Avotiana Gael , asertas kun entuziasmo pri sa partopreno :
-
-Mi estas tre kontenta pri tiu ateliero. Mi ne sciis ke kontribui interrete per mia lingvo eblis kaj ankaŭ utilis. Nun mi volas verki pli por montri la riĉecon de nia kulturo.
 
 Mi estas tre kontenta pri tiu ateliero. Mi ne sciis ke kontribui interrete per mia lingvo eblis kaj ankaŭ utilis. Nun mi volas verki pli por montri la riĉecon de nia kulturo.
 

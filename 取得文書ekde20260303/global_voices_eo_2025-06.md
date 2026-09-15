@@ -1,6 +1,6 @@
 ---
 source: "Global Voices en Esperanto (eo.globalvoices.org)"
-generated_at: "2026-03-03T10:41:30.783860+00:00"
+generated_at: "2026-09-15T10:54:36.891596+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-06-08 – 2025-06-21"
 ---
@@ -115,8 +115,6 @@ Dume, arthistoriistino Guljuzum Gadelsina el Baŝkirio defendis la kantistinon. 
 
 Jes, la akĉento ekfunkciigis debaton, sed ĉu ne estas pli grave, ke tiuj voĉoj estu aŭdataj? Pureco de la lingvo gravas, sed eĉ pli grava estas la volemo uzi ĝin. Anstataŭ kritiki “neperfektan” prononcon, ni kreu medion, kie ĉiu provo paroli la baŝkiran lingvon estas renkontita kun respekto.
 
-Jes, la akĉento ekfunkciigis debaton, sed ĉu ne estas pli grave, ke tiuj voĉoj estu aŭdataj? Pureco de la lingvo gravas, sed eĉ pli grava estas la volemo uzi ĝin. Anstataŭ kritiki “neperfektan” prononcon, ni kreu medion, kie ĉiu provo paroli la baŝkiran lingvon estas renkontita kun respekto.
-
 Plej multaj uzantoj de sociaj retejoj konsentis kun ŝi. Esprimante sian subtenon por Shaikhitdinova, ili argumentis, ke negativaj komentoj “mortigas ĉian deziron lerni kaj paroli la gepatran lingvon”. Kelkaj eĉ atentigis, ke kazaĥoj, uzbekoj kaj aliaj centraziaj nacioj bonvenigis la kanton, kaj instigis lokulojn esti pli toleremaj al propra artistino.
 
 Efektive, en Kazaĥio, “ Homay ” iĝis furoraĵo en sole unu tago. Sub filmetoj prezentantaj la kanton, kazaĥaj uzantoj verkis komentojn kiel “Ĉi tiu kanto estas mirinda! Mi ĝojas, ke tjurkaj popoloj [eo] kantas en siaj gepatraj lingvoj,” kaj “Iru, tjurkoj, iru!”. La portalo vAktau.ru notis , ke la sukceso de la kanto radikas en komuna kultura memoro, mitologio kaj lingvo, kiuj unuigas tjurkajn naciojn.
@@ -125,15 +123,11 @@ Shaikhitdinova poste diris al ĵurnalistoj , ke ŝi trankvile akceptis la kritik
 
 Mi estas duone baŝkirino kaj duone rusino. Ne estas denaskaj parolantoj en nia familio. Sed tio ne malhelpas min interesiĝi pri la kulturo kaj kanti en la denaska lingvo. Mi tute akceptas la komentojn pri mia akĉento — kelkaj aŭskultantoj eĉ trovis ĝin ĉarma.
 
-Mi estas duone baŝkirino kaj duone rusino. Ne estas denaskaj parolantoj en nia familio. Sed tio ne malhelpas min interesiĝi pri la kulturo kaj kanti en la denaska lingvo. Mi tute akceptas la komentojn pri mia akĉento — kelkaj aŭskultantoj eĉ trovis ĝin ĉarma.
-
 La kanto ankaŭ inspiris multajn baŝkirojn rekonektiĝi kun sia identeco. En sociaj retejoj, homoj komencis kundividi rakontojn pri siaj heredaĵo kaj kulturo, ofte vestiĝante per tradiciaj vestoj dum ludado de la kanto.
 
 Sufiĉe nova bando, Ay Yola estis formita en Ufa en 2024 de tri muzikistoj el malsamaj fonoj. Ilia debuta kanto “ Batyr “, ankaŭ en la baŝkira lingvo, estis produktita en februaro 2025, dum “ Homay ” aperis la 14-an de marto. La duopo patro/filino Ruslan kaj Adel Shaikhitdinov antaŭe kantis en la bando MUSUME .
 
 Rinat Ramazanov , gvidanto de la baŝkira etno-roka bando “ Argymak “, kunfondis Ay Yola. Dum ok jaroj, ĝis decembro 2024, li ankaŭ estris la Tutrusian Kongreson de Baŝkira Junularo . Li diras, ke la muziko de la bando baziĝas sur la valoroj en antikvaj baŝkiraj epopeoj:
-
-“Ay Yola” (Aj Jola) en la baŝkira lingvo signifas “universalaj leĝoj, kodo de la universo” – eternaj valoroj kiel ne mortigi, ne ŝteli, respekti maljunulojn, protekti junulojn. Jen la kernaj principoj de nia projekto. Ni ne nur eldonas albumon, sed prezentas plenkreskan muzikan spektaklon kaj interretan projekton inspiritan de unu el la plej malnovaj kaj misteraj epopeoj de la mondo – “Ural-Batir”.
 
 “Ay Yola” (Aj Jola) en la baŝkira lingvo signifas “universalaj leĝoj, kodo de la universo” – eternaj valoroj kiel ne mortigi, ne ŝteli, respekti maljunulojn, protekti junulojn. Jen la kernaj principoj de nia projekto. Ni ne nur eldonas albumon, sed prezentas plenkreskan muzikan spektaklon kaj interretan projekton inspiritan de unu el la plej malnovaj kaj misteraj epopeoj de la mondo – “Ural-Batir”.
 
@@ -217,8 +211,6 @@ La kazo de Septia altiris multan amaskomunikilan atenton en Indonezio kaj ekster
 
 Ni forte denuncas la senbazan akuzon kontraŭ Septia Dwi Pertiwi. Ŝia persekuto substrekas la malfacilaĵojn de defendantoj de laborrajtoj en Indonezio, kiuj alfrontas krimuligon simple pro uzo de esprimlibereco por atingi justecon.
 
-Ni forte denuncas la senbazan akuzon kontraŭ Septia Dwi Pertiwi. Ŝia persekuto substrekas la malfacilaĵojn de defendantoj de laborrajtoj en Indonezio, kiuj alfrontas krimuligon simple pro uzo de esprimlibereco por atingi justecon.
-
 Dum la lasta jaro, persekutoj rilataj al UU ITE kaŭzis krimigadon de homoj kiel homrajtaj defendantoj, Haris Azhar kaj Fatia Maulidiyanti , ankaŭ aktivisto de naturprotektaj rajtoj en Karimunjavo, Daniel Frits Maurits Tangkilisan .
 
 La instituto por krimjura reformo en Ĝakarto ( Institute for Criminal Justice Reform , malonge ICJR) kritikis la perrsekutiston ke li elektis la krimajn artikolojn por akuzi Septia, rimarkante ke la lasta amendo al la UU ITE en 2024 enhavas pli mildajn akuzojn kaj efektive aboliciis ĉi tiujn artikolojn, kaj ke la indoneziaj krimaj proceduroj postulas, ke la plej malsevera regulo estu aplikata al la akuzito en kazo de amendo en la krima juro. Specife, Art. 27[3] de la 2016-a versio de la UU ITE estas delonge elstarigita de homrajtaj organizaĵoj en Indonezio kiel unu el la plej subpremaj leĝiloj disponeblaj por la persekutado. En alia interveno proponita al la tribunalo, la Asocio por homaj rajtoj kaj jura helpo de Indonezio (PBHI) ankaŭ argumentis ke la agoj de Septia estis laŭrajta “formo de kritiko kaj opinio kiel iama dungito, kies dungitaj aspiroj estis neniam aŭskultitaj” kaj ke la akuzo estis klopodo por silentigi Septia kaj kontraŭi bazajn principojn de homaj rajtoj.
@@ -226,8 +218,6 @@ La instituto por krimjura reformo en Ĝakarto ( Institute for Criminal Justice R
 La unika trajto de la kazo de Septia estis ŝia akuzo, kiu devenas de plendo farita de privata partio, dum aliaj akuzoj estis komencitaj de registaraj agantoj, kaj la kazo ankaŭ estis rigardita el pli granda kadro de daŭranta malboniĝo de laboristaj rajtoj en Indonezio. La pasinta administracio de Joko Widodo, subtenita de preskaŭ ĉiuj politikaj partioj reprezentitaj en la Nacia Parlamento, oficialigis la polemikan leĝon pri kreado de laborpostenoj en 2020, kiu malstriktigis multajn laborprotektilojn kaj malfortigis la potencon de la jam ĥaose organizitaj laboristoj. Tio kaŭzis amasajn protestojn, jurajn defiojn , nuligon kaj refaron de tiu leĝo en 2023 . Lia posteulo, Prabowo Subianto, promesis batali por laboristaj rajtoj, sed li ankaŭ venkis la pasintjaran prezidentan balotadon per kampanjo surbaze de plano por daŭrigi plejparte la politikon de la administracio de Widodo .
 
 Nuntempe, la malkondamno de Septia estis bonvena freŝa novaĵo en pli kaj pli mallibera medio por esprimlibereco kaj subprema diĝita scenejo en la lando . Nenden Sekar Arum de la Grupo por esprimlibereco en sud-orienta Azio [eo] ( Southeast Asia Freedom of Expression Network aŭ SAFEnet) diris:
-
-La decido de la juĝisto senkulpigi Septia estas certe bona novaĵo, sed tio ne devus esti okazinta kiam la leĝo povas esti uzata tiel facile por krimigi homojn, kiuj postulas siajn rajtojn.
 
 La decido de la juĝisto senkulpigi Septia estas certe bona novaĵo, sed tio ne devus esti okazinta kiam la leĝo povas esti uzata tiel facile por krimigi homojn, kiuj postulas siajn rajtojn.
 

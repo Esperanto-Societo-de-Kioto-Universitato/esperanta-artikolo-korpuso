@@ -1,6 +1,6 @@
 ---
 source: "Pola Retradio (pola-retradio.org)"
-generated_at: "2026-03-03T10:42:16.214423+00:00"
+generated_at: "2026-09-15T10:54:36.939103+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-03-05 – 2025-03-30"
 ---
@@ -67,8 +67,6 @@ El la elsendo 05.03.2025. Legas Maciek – 01′ 16″
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/03/RetRadio_05.03.2025_sr_V_1381.mp3
 
-Podkasto: Ludu en nova fenestro | Elŝutu
-
 En la 1381-a E_elsendo el la 05.03.2025 ĉe www.pola-retradio.org:
 
 • Hodiaŭ en nia felietono pri koninda Pollando ni direktiĝas al la vilaĝo Staniątki apud Krakovo, en kiu troviĝas la plej malnova en Pollando, 800-jara Benediktanina Abatejo. Antaŭ kvin jaroj ĝi estis registrita kiel plia Historimonumento de Pollando. • En la hodiaŭa kulturkroniko ni informas pri iuj rekonstruotaj historiaj objektoj en Pollando en 2025; pri la nova traduko de Roland-kanto en la pola lingvo; pri plia filmo realigota baze de sciencfikcia verko de Stanisław Lem. • En la E-komunuma segmento ni informas pri E-staĝoj kun lingvokursoj en Francio en marto kaj aprilo. Ili okazos kadre de Meditereanea E-Semajno en Les Issambres, kadre de Printempas en la Kastelo Greziljono. • Fine ni renkontiĝas en la leterkesta programero. • Muzike akompanas nin Martin Wiese per sia kanto „Anstataŭ letero”, Daimi per la kanzono „La Feliĉo”, Suno AI per kanzono „La Lumturo” (kun kantoteksto de Erika Godó (Belulino)). La programinformon akompanas interreta foto de J. Włodek prezentanta fratulinon el Staniątki ĉe ordigado de dokumentoj. • En unuopaj rubrikoj de nia paĝo eblas konsulti la paralele legeblajn kaj aŭdeblajn tekstojn el niaj elsendoj, kio estas tradicio de nia Redakcio ekde 2003. La elsendo estas aŭdebla en jutubo ĉe la adreso: https://www.youtube.com/results?q=pola+retradio&sp=CAI%253D I.a. pere de jutubo, konforme al individua bezono, eblas rapidigi aŭ malrapidigi la parolritmon de la sondokumentoj, transsalti al iu serĉata fragmento de la elsendo.
@@ -122,8 +120,6 @@ El la elsendo 10.03.2025 – 10′ 48″
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/03/RetRadio_10.03.2025_pn_M_1382.mp3
 
-Podkasto: Ludu en nova fenestro | Elŝutu
-
 En la 1382-a E_elsendo el la 10.03.2025 ĉe www.pola-retradio.org:
 
 • Hodiaŭ antaŭ nia mikrofono gastas profesoro Christopher Gledhill, lekcianto kaj esploristo en la Universitato Paris Cité. La temo de nia interparolo estas lia aparta intereso kaj okupiĝo pri ludoj, tabulaj ludoj laŭ tre interesaj konsideroj. • En la aktualaĵoj ni informas pri la 100-jariĝo de la servo de polinoj en policstrukturoj; pri stipendiitoj de Fulbright Senior Award 2025; pri la komenciĝinta en Varsovio 14-a bicikla sezono kun luebla Veturilo. • La scienbultena rubriko koncernas la kreon de super malmola diamanto kun heksagona strukturo; la novan kurachelpan terapion, kiu estas muzeoterapio. • Muzike akompanas nin Kaj Tiel Plu per fragmento de la kanto „Edziniĝu al mi Roseta” el la KD „Surplacen venu vi”. La foto el interreto prezentas la nunjaran aspekton de la varsoviaj lueblaj bicikloj „Veturilo” – la teksto en la pola signifas “Ekkonu novan Veturilo-n”. • En unuopaj rubrikoj de nia paĝo eblas konsulti la paralele legeblajn kaj aŭdeblajn tekstojn el niaj elsendoj, kio estas tradicio de nia Redakcio ekde 2003. La elsendo estas aŭdebla en jutubo ĉe la adreso: https://www.youtube.com/results?q=pola+retradio&sp=CAI%253D I.a. pere de jutubo, konforme al individua bezono, eblas rapidigi aŭ malrapidigi la parolritmon de la sondokumentoj, transsalti al iu serĉata fragmento de la elsendo.
@@ -140,8 +136,6 @@ En la 1382-a E_elsendo el la 10.03.2025 ĉe www.pola-retradio.org:
 **Categories:** Elsendoj
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/03/RetRadio_15.03.2025_sob_V_1383-2.mp3
-
-Podkasto: Ludu en nova fenestro | Elŝutu
 
 En la 1383-a E_elsendo el la 15.03.2025 ĉe www.pola-retradio.org:
 
@@ -247,8 +241,6 @@ El la elsendo 20.03.2025 – 09′ 45″
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/03/RetRadio_20.03.2025_czw_M_1384.mp3
 
-Podkasto: Ludu en nova fenestro | Elŝutu
-
 En la 1384-a E_elsendo el la 20.03.2025 ĉe www.pola-retradio.org:
 
 • Omaĝe al la forpasinta en februaro iama prezidanto de Sarlanda E-Ligo, Oliver Walz, siatempe nia aktiva aŭskultanto, ni memorigas arkivan interparolon, faritan dum la UK-2006 i.a. pri tio kiel esperantistoj el Sarlando preparas sin por partopreno en la Jokohama UK la sekvan jaron. • En la aktualaĵoj ni informas pri la rolo de duvalvuloj en la polaj akvopurigaj centroj; pri la Eŭropa Arbo 2025, pola fago venkinta en la reta plebiscito de Gaja; pri Eŭropa premio por la varsovia parko Burza (Tempesto). • La scienbultenan rubrikon ni dediĉas al la plej novaj esploroj pri plasto en la homa organismo, unuavice cerbo. • Muzike ni bonvenigas la Printempon – pri ĝi kantas Miŝo Zdravev kaj Feri Floro. La interreta foto prezentas la polan 300-jaran fagon, kiu gajnis la titolon de la Eŭropa Arbo 2025. • En unuopaj rubrikoj de nia paĝo eblas konsulti la paralele legeblajn kaj aŭdeblajn tekstojn el niaj elsendoj, kio estas tradicio de nia Redakcio ekde 2003. La elsendo estas aŭdebla en jutubo ĉe la adreso: https://www.youtube.com/results?q=pola+retradio&sp=CAI%253D I.a. pere de jutubo, konforme al individua bezono, eblas rapidigi aŭ malrapidigi la parolritmon de la sondokumentoj, transsalti al iu serĉata fragmento de la elsendo.
@@ -282,8 +274,6 @@ El la elsendo 25.03.2025. Legas Barbara – 01′ 42″
 **Categories:** Elsendoj
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/03/RetRadi_25.03.2025_wt_1385.mp3
-
-Podkasto: Ludu en nova fenestro | Elŝutu
 
 En la 1385-a E_elsendo el la 25.03.2025 ĉe www.pola-retradio.org:
 
@@ -420,8 +410,6 @@ El la elsendo 30.03.2025. Legas Barbara – 03′ 37″
 **Categories:** Elsendoj
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/03/RetRadio_30.03.2025_ndz_M_1386-1.mp3
-
-Podkasto: Ludu en nova fenestro | Elŝutu
 
 En la 1386-a E_elsendo el la 30.03.2025 ĉe www.pola-retradio.org:
 

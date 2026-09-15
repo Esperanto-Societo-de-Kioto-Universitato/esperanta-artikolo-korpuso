@@ -1,6 +1,6 @@
 ---
 source: "Global Voices en Esperanto (eo.globalvoices.org)"
-generated_at: "2026-08-13T10:14:29.968950+00:00"
+generated_at: "2026-09-15T10:54:37.086335+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-05-07 – 2026-05-14"
 ---
@@ -121,17 +121,9 @@ Por kompreni tiajn kontraŭdirojn kaj por orientiĝi en la diversaj diskutoj kaj
 
 Global Voices is proud to publish writing, translation, and illustrations created by people, for people, and we expect our contributors to uphold that standard.
 
-Global Voices is proud to publish writing, translation, and illustrations created by people, for people, and we expect our contributors to uphold that standard.
-
-Global Voices (Tutmondaj Voĉoj) fieras publikigi tekstojn, tradukojn kaj ilustraĵojn kreitajn de homoj por homoj, kaj ni atendas ke niaj kontribuantoj plenumu tiun normon.
-
 Global Voices (Tutmondaj Voĉoj) fieras publikigi tekstojn, tradukojn kaj ilustraĵojn kreitajn de homoj por homoj, kaj ni atendas ke niaj kontribuantoj plenumu tiun normon.
 
 As a diverse and grounded community, APC values content that has been produced as the result of a creative human process, which is nurtured by the lived experiences, human interactions, expertise and diversity of the people and organisations that make up the network.
-
-As a diverse and grounded community, APC values content that has been produced as the result of a creative human process, which is nurtured by the lived experiences, human interactions, expertise and diversity of the people and organisations that make up the network.
-
-Kiel diversa kaj radikita komunumo, APC valorigas enhavon produktitan kiel rezulto de kreema homa procezo, nutrata de la reale travivitaj spertoj, homaj interagoj, spertoscioj kaj diverseco de la homoj kaj organizaĵoj kiuj konsistigas la reton.
 
 Kiel diversa kaj radikita komunumo, APC valorigas enhavon produktitan kiel rezulto de kreema homa procezo, nutrata de la reale travivitaj spertoj, homaj interagoj, spertoscioj kaj diverseco de la homoj kaj organizaĵoj kiuj konsistigas la reton.
 

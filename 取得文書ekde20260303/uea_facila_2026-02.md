@@ -1,6 +1,6 @@
 ---
 source: "UEA Facila (uea.facila.org)"
-generated_at: "2026-03-03T10:41:51.194967+00:00"
+generated_at: "2026-09-15T10:54:37.070296+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-02-07 – 2026-02-27"
 ---
@@ -15,8 +15,6 @@ time_range: "2026-02-07 – 2026-02-27"
 **Categories:** Filmetoj
 
 [Embed] https://www.youtube.com/embed/1fp-0LWa2cc?width=100%25&height=86.25
-
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
 
 
 ---
@@ -50,10 +48,6 @@ La petskribon iniciatis la artisto, poligloto kaj esperantisto Shabi Fiumei. UEA
 UEA atentigas, ke – senkonsidere al la fina rezulto de la renomiga propono – la iniciato jam konkrete kontribuas al pli vasta publika atento pri Esperanto, pri ĝiaj valoroj, kaj pri ĝia historia kaj kultura heredaĵo .
 
 Fonto: Gazetara Komuniko de UEA n-ro 1281 (2026-02-03)
-
-7
-
-2
 
 direktoro: ĉefo de oficejo, laborejo, komerca organizaĵo, asocio aŭ simile.
 
@@ -94,8 +88,6 @@ sub-teni: helpi homon, asocion, projekton, politikon aŭ simile, por ke ĝi sukc
 
 [Embed] https://www.youtube.com/embed/6rk647p2hJs?width=100%25&height=86.25
 
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
-
 
 ---
 
@@ -132,10 +124,6 @@ En 1997 aperis libro titolita Monumente pri Esperanto , kun kompleta listo de la
 ZEO-j povas esti gravaj por la Esperanto- komunumo . Ili videbligas la lingvon al la ekstera publiko. Sed ili ankaŭ efikas interne, ĉar ili kreas senton de identeco inter la parolantoj. Multaj esperantistoj ŝatas viziti la konatajn ZEO-jn aŭ fotiĝi apud monumento de Zamenhof. Tiel, kvankam mankas al ni propra teritorio, ili ja trovas ian “fizikan Esperantujon”.
 
 Toño del Barrio
-
-6
-
-1
 
 Toño del Barrio estas hispana esperantisto. Li estis prezidanto de Hispana Esperanto-Federacio de 2011 ĝis 2020. Nun li estas direktoro de Fondaĵo Esperanto (Zaragozo) kaj komitatano de UEA. Li esploris pri historio de la Esperanto-movado en Hispanujo kaj kontribuis al libroj, gazetoj kaj blogoj, per tradukoj, artikoloj kaj originalaj eseoj. Persona retejo: https://www.delbarrio.eu/ .
 
@@ -193,12 +181,6 @@ tombo: fosaĵo en la tero aŭ fermita dometo, en kiun oni metas mortinton; memor
 **Categories:** Filmetoj
 
 [Embed] https://www.youtube.com/embed/QsQIOmWGDLY?width=100%25&height=86.25
-
-2
-
-1
-
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
 
 
 ---

@@ -1,6 +1,6 @@
 ---
 source: "Pola Retradio (pola-retradio.org)"
-generated_at: "2026-03-03T10:42:16.421566+00:00"
+generated_at: "2026-09-15T10:54:37.008771+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-10-05 – 2025-10-30"
 ---
@@ -15,8 +15,6 @@ time_range: "2025-10-05 – 2025-10-30"
 **Categories:** Elsendoj
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/10/RetRadio_05.10.2025_ndz_V_1429.mp3
-
-Podkasto: Ludu en nova fenestro | Elŝutu
 
 En la 1429-a E_elsendo el la 05.10.2025 ĉe www.pola-retradio.org:
 
@@ -123,8 +121,6 @@ El la elsendo 05.10.2025 – 08′ 38″
 **Categories:** Elsendoj
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/10/RetRadio_10.10.2025_pt_M_1430.mp3
-
-Podkasto: Ludu en nova fenestro | Elŝutu
 
 En la 1430-a E_elsendo el la 10.10.2025 ĉe www.pola-retradio.org:
 
@@ -289,8 +285,6 @@ El la elsendo 15.10.2025. Legas Barbara – 05′ 12″
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/10/RetRadio_15.10.2025_sr_V_1431.mp3
 
-Podkasto: Ludu en nova fenestro | Elŝutu
-
 En la 1431-a E_elsendo el la 15.10.2025 ĉe www.pola-retradio.org:
 
 • En nia felietono pri la koninda Pollando ni parolas pri la ĵus finiĝinta plebiscito de National Geographic Traveler pri Mirlokoj de Pollando 2025. Aparte ni donas la atenton al la mirloko  „Subakvigita Arbaro”, kiu sekve de ŝtormo en 2016 aperis sur pola plaĝo ĉe Baltiko. • En la kultura kroniko ni informas pri la Semajno de la Latinamerika Kinoarto baldaŭ okazonta en Varsovio; pri interesa ekspozicio en la ĉefurba Reĝa Kastelo pri vesto kiel komunikilo; pri retrospekta ekspozicio dediĉita al arto de Sara Lipska en Francio. • En la E-komunuma segmento ni informas pri profesoro Geoffrey Greatrex, nova membro de la Akademio de Eŭropo; pri la forpaso de la kroata esperantistino, verkistino Zora Heide. Ĉi-lastan informon akompanas la poeziaĵo „Nia junaĝa brilo” de Visnja Stahuljak en la traduko de Zora Heide. • Muzike ni komune aŭskultas la brazilan kanton „La muzikistaro”, kiun plenumas Franca Fenati. Ĝi gajnis la 55-an Kantoparadon. La interreta foto de Paweł Lenart ĉe nia programinformo prezentas arbotrunkojn de la Subakvigita Arbaro, kiun la naturo malkaŝis en 2016. • En unuopaj rubrikoj de nia paĝo eblas konsulti la paralele legeblajn kaj aŭdeblajn tekstojn el niaj elsendoj, kio estas tradicio de nia redakcio ekde 2003. La elsendo estas aŭdebla en Jutubo ĉe la adreso: https://www.youtube.com/results?q=pola+retradio&sp=CAI%253D Interalie pere de Jutubo, konforme al individua bezono, eblas rapidigi aŭ malrapidigi la parolritmon de la sondokumentoj, transsalti al ajna serĉata fragmento de la elsendo.
@@ -395,8 +389,6 @@ El la elsendo 20.10.2025 – 13′ 38″
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/10/RetRadio_20.10.2025_pn_M_1432-1.mp3
 
-Podkasto: Ludu en nova fenestro | Elŝutu
-
 En la 1432-a E_elsendo el la 20.10.2025 ĉe www.pola-retradio.org:
 
 • Hodiaŭ nia antaŭmikrofona gasto estas So Jinsu, sed ĉi-foje en la rolo de la prezidanto de Korea E-Asocio. Kaj ĝuste atingaĵoj, problemoj kaj planoj, kiuj staras antaŭ la korea asocio, estas la temo de nia intervjuo. • Por la hodiaŭa kalendarfolio ni elektis diversajn historiajn eventojn ligitajn kun la 20-a de oktobro. Krome en novaĵbulteno ni informas pri Pollando la plej granda eŭropa produktanto kaj eksportanto de ĉampinjonoj; pri pola lingvo aldonita al informaj lingvoj de Vatikano; pri ekspozicio dediĉita al Janusz Korczak en la biblioteko de la Universitato Cantoblanco en Madrido. • En la scienca rubriko ni informas pri la nunjara laŭreato de Lem-premio, kiu fariĝis renoma pola fizikisto, kunkreinto de la t.n. Gdanska Skolo de la kvantuma fiziko, prof. Ryszard Horodecki. • Hodiaŭ muzike akompanas nin Kris Fresi per la kanzono Monda Paco el lia albumeto eldonita en la ĵusaj tagoj de Vinilkosmo. La reta foto ornamanta la programinformon rilatas evidente al ĉampinjonoj, pri kies produktado kaj eksportado Pollando gvidas en Eŭropo. • En unuopaj rubrikoj de nia paĝo eblas konsulti la paralele legeblajn kaj aŭdeblajn tekstojn el niaj elsendoj, kio estas tradicio de nia Redakcio ekde 2003. La elsendo estas aŭdebla en jutubo ĉe la adreso: https://www.youtube.com/results?q=pola+retradio&sp=CAI%253D I.a. pere de jutubo, konforme al individua bezono, eblas rapidigi aŭ malrapidigi la parolritmon de la sondokumentoj, transsalti al iu serĉata fragmento de la elsendo.
@@ -465,8 +457,6 @@ El la elsendo 25.10.2025. Legas Gabi – 02′ 23″
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/10/RetRadio_25.10.2025_sob_V_1433.mp3
 
-Podkasto: Ludu en nova fenestro | Elŝutu
-
 En la 1433-a E_elsendo el la 25.10.2025 ĉe www.pola-retradio.org:
 
 • En nia felietono pri la koninda polo ni prezentas la figuron de renoma  bakteriologo kaj mikrobiologo, Helena Sparrow. Pro sia ĉarmo difinata kiel „la belle Polonaise” ŝi unuavice restas en la memoro kiel pionirino de publika sano. Ŝiaj esploroj kaj laboroj ne limiĝis al Pollando, aparte gravan kontribuon ĉi-rilatan ŝi alportis en Tunizio. • En la kultura kroniko – post la kalendarfoliaj informoj ligitaj kun la 25.10 – vi ekscias pri la Conrad-festivalo en Krakovo; pri ciferecigata, la unusola en Pollando,ekzemplero de Stradivarius-violono; pri sociologia fotoregistro rilate la polan socion en londona ekspozicio, • En la E-komunuma segmento ni informas pri la nunjara, 6-a Virtuala Kongreso de Esperanto, okazonta komence de decembro: uea.org/gk/1257a1 . • Muzike ni proponas fragmenton de la originala E-kanzono „Per fido” kiun komponis, la tekston verkis kaj kantas Simmon Keith Barney. La reta foto ĉe nia programinformo prezentas elstaran polan violoniston, Janusz Wawrowski kun unusola pola Stradivarius-violono dum la solenaĵo de nomatribuo „Polonia”. • En unuopaj rubrikoj de nia paĝo eblas konsulti la paralele legeblajn kaj aŭdeblajn tekstojn el niaj elsendoj, kio estas tradicio de nia redakcio ekde 2003. La elsendo estas aŭdebla en Jutubo ĉe la adreso: https://www.youtube.com/results?q=pola+retradio&sp=CAI%253D Interalie pere de Jutubo, konforme al individua bezono, eblas rapidigi aŭ malrapidigi la parolritmon de la sondokumentoj; eblas transsalti al ajna serĉata fragmento de la elsendo.
@@ -483,8 +473,6 @@ En la 1433-a E_elsendo el la 25.10.2025 ĉe www.pola-retradio.org:
 **Categories:** Elsendoj
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/10/RetRadio_30.10.2025_czw_M_1434.mp3
-
-Podkasto: Ludu en nova fenestro | Elŝutu
 
 En la 1434-a E_elsendo el la 30.10.2025 ĉe www.pola-retradio.org :
 

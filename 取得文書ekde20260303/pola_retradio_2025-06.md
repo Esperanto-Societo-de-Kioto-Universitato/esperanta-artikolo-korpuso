@@ -1,6 +1,6 @@
 ---
 source: "Pola Retradio (pola-retradio.org)"
-generated_at: "2026-03-03T10:42:16.325519+00:00"
+generated_at: "2026-09-15T10:54:36.971127+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-06-05 – 2025-06-30"
 ---
@@ -68,8 +68,6 @@ El la elsendo 05.06.2025 – 06′  10″
 **Categories:** Elsendoj
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/06/RetRadio_05.06.2025_czw_V_1399.mp3
-
-Podkasto: Ludu en nova fenestro | Elŝutu
 
 En la 1399-a E_elsendo el la 05.06.2025 ĉe www.pola-retradio.org:
 
@@ -156,8 +154,6 @@ El la elsendo 10.06.2025. Legas Barbara – 04′ 14″
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/06/RetRadio_10.06.2025_wt_M_1400.mp3
 
-Podkasto: Ludu en nova fenestro | Elŝutu
-
 En la 1400-a E_elsendo el la 10.06.2025 ĉe www.pola-retradio.org:
 
 • En la enkonduka parto de la elsendo ni lakone kaj retrorigarde informas pri kelkaj historiaj eventoj el Pollando kaj la mondo ligitaj kun la 10-a de junio. • Aktualaĵoj rilatas al la Internacia Tago/Semajno de Arkivoj; al la tria oficperiodo de Witold Bańka kiel la prezidanto de la Monda Antidopa Agentejo; al kreskanta interesiĝo pri la alzacaj vinoj en Pollando. • En la scienca bulteno ni spuras laboron de usonaj sciencistoj el Vaŝingtono, kiuj malkovris la recepton de la egipta bluo. • Al la okazintaj semajnfine Esperanto-Tagoj en Krakovo ni referencas per raporta informo kaj ĉeokaze informas kaj citas tri limerikojn de Lidia Ligęza, kiuj aperis okaze de la Tagoj en…. 1999 en la kolekto “Limerikoj”. La fina referenco al la vivo de la E-komunumo denove okazas en la rondo de E-infanoj, ĉi-foje partoprenintaj la UK-on 1987 en Varsovio. • Muzike akompanas nin Feri Floro, kies kanzonon „Lernantino” ni prezentas fragmente. La apudanta la programinformon foto bildigas la fascinan koloron de la egipta bluo, kiun oni aplikadis jam antaŭ pli ol tri mil jaroj antaŭ Kristo. • En unuopaj rubrikoj de nia paĝo eblas konsulti la paralele legeblajn kaj aŭdeblajn tekstojn el niaj elsendoj, kio estas tradicio de nia Redakcio ekde 2003. La elsendo estas aŭdebla en jutubo ĉe la adreso: https://www.youtube.com/results?q=pola+retradio&sp=CAI%253D I.a. pere de jutubo, konforme al individua bezono, eblas rapidigi aŭ malrapidigi la parolritmon de la sondokumentoj, transsalti al iu serĉata fragmento de la elsendo.
@@ -174,8 +170,6 @@ En la 1400-a E_elsendo el la 10.06.2025 ĉe www.pola-retradio.org:
 **Categories:** Elsendoj
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/06/RetRadio_15.06.2025_ndz_V_1401.mp3
-
-Podkasto: Ludu en nova fenestro | Elŝutu
 
 En la 1401-a E_elsendo el la 15.06.2025 ĉe www.pola-retradio.org:
 
@@ -296,8 +290,6 @@ El la elsendo 20.06.2025. Legas Barbara – 03′ 23″
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/06/RetRadio_20.06.2025_pt_M_1402-1.mp3
 
-Podkasto: Ludu en nova fenestro | Elŝutu
-
 En la 1402-a E_elsendo el la 20.06.2025 ĉe www.pola-retradio.org:
 
 • En la enkonduka parto de la elsendo ni lakone kaj retrorigarde informas pri kelkaj historiaj eventoj el Pollando kaj la mondo ligitaj kun la 20-a de junio. Ni referencas al la hieraŭaj religiaj procesioj okaze de la festo de Dia Korpo, inter kiuj kelkaj troviĝas en la Pola Listo de Nemateria Kulturheredaĵo. La interreta foto prezentas la procesion en la loko Myszyniec, kiu estis registrita en la listo en la nunjara majo. • Aktualaĵoj rilatas al raporto de Eurostat pri materia nesufiĉo en la uniaj landoj; al kampanjo dediĉita al promociado de la pola lingvo kiel lingvo fremda; al jubileo de la plej malnova en Pollando kalvinisma paroĥo. • En la scienca bulteno ni dediĉas la atenton al finnaj esploroj pri sanfavora kontraŭbatalado de obezeco en meza aĝo. • Ni rememoras konatajn en la 70-aj kaj 80-aj jaroj Pupteatrajn Internaciajn Festivalojn en Zagrebo, en kiuj Esperanto rolis kiel scenlingvo. Ilin partoprenis ankaŭ polaj pupteatroj kun kiuj kunlaboris nia kolego Andrzej Pettyn. Ni prezentas iujn kantojn en lia traduko el la spektaklo pri „Zvirtanto Muzikanto” , montarano el Podlahe, kiu postmorte muzikis en la ĉielo… • Hodiaŭ en la elsendo ni prezentas la originalan kanton de NOBUKUNI Hirosi „La plej bona amo” – kiun la aŭtoro kantas kun Amira CHUN. • En unuopaj rubrikoj de nia paĝo eblas konsulti la paralele legeblajn kaj aŭdeblajn tekstojn el niaj elsendoj, kio estas tradicio de nia Redakcio ekde 2003. La elsendo estas aŭdebla en jutubo ĉe la adreso: https://www.youtube.com/results?q=pola+retradio&sp=CAI%253D I.a. pere de jutubo, konforme al individua bezono, eblas rapidigi aŭ malrapidigi la parolritmon de la sondokumentoj, transsalti al iu serĉata fragmento de la elsendo.
@@ -314,8 +306,6 @@ En la 1402-a E_elsendo el la 20.06.2025 ĉe www.pola-retradio.org:
 **Categories:** Elsendoj
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/06/RetRadio_25.06.2025_sr_V_1403.mp3
-
-Podkasto: Ludu en nova fenestro | Elŝutu
 
 En la 1403-a E_elsendo el la 25.06.2025 ĉe www.pola-retradio.org:
 
@@ -422,8 +412,6 @@ El la elsendo 30.06.2025 – 01’ 33″
 **Categories:** Elsendoj
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/06/RetRadio_30.06.2025_pn_M_1404.mp3
-
-Podkasto: Ludu en nova fenestro | Elŝutu
 
 En la 1404-a E_elsendo el la 30.06.2025 ĉe www.pola-retradio.org:
 

@@ -1,6 +1,6 @@
 ---
 source: "UEA Facila (uea.facila.org)"
-generated_at: "2026-03-03T10:41:51.161842+00:00"
+generated_at: "2026-09-15T10:54:37.056180+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-08-03 – 2025-08-26"
 ---
@@ -16,8 +16,6 @@ time_range: "2025-08-03 – 2025-08-26"
 
 [Embed] https://www.youtube.com/embed/uVYuCdStcWw?width=100%25&height=86.25
 
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
-
 
 ---
 
@@ -30,8 +28,6 @@ time_range: "2025-08-03 – 2025-08-26"
 **Categories:** Filmetoj
 
 [Embed] https://www.youtube.com/embed/ZJ4CXLAr5d0?width=100%25&height=86.25
-
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
 
 
 ---
@@ -67,10 +63,6 @@ Dum la lasta vespero, mi vespermanĝis kun kelkaj homoj, kiujn mi jam ekkonis du
 Estis mirinde, kiel ni ĉiuj interkompreniĝis per lingvo inventita antaŭ ne tre longa tempo de inteligenta, saĝa kaj socie sentema persono. Artefarita lingvo, tamen vigle viva — kiel ĉi tiu kongreso klare montris.
 
 Rianne Sanders
-
-7
-
-1
 
 Rianne Sanders estas nederlanda esperantisto, kiu studis lingvajn kaj kulturajn sciencojn. Ŝi vojaĝas tra Eŭropo, laborante en diversaj landoj. Tiel ŝi malkovris Esperanton, kiun ŝi eklernis en 2024 per reta kurso kaj Duolingo. Ŝi ofte laboras kiel kuiristo en centro por memdisvolviĝo, kaj interesiĝas pri longdistanca marŝado, tablo-ludado, kuna kantado, meditado kaj piedpilkado.
 
@@ -113,8 +105,6 @@ trans-genrulo: persono, kiu sentas, ke li aŭ ŝi ne apartenas al la sekso en ki
 
 [Embed] https://www.youtube.com/embed/6sEQnOOVBNA?width=100%25&height=86.25
 
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
-
 
 ---
 
@@ -147,10 +137,6 @@ Ankaŭ interrilatado kun aliaj studentoj estas grava parto de lernado, kaj eblas
 La kursoj estas oficialaj, kaj necesas registriĝi same kiel por aliaj lingvoj. La prezo estas sama, la instruistoj estas pagataj profesiuloj, kaj la sukcesintaj studentoj ricevas diplomon post ekzameno. Eblas ankaŭ ekzameniĝi kaj ricevi diplomon, eĉ se oni ne partoprenis la kursojn. Por ricevi pliajn informojn, kontaktu la kunordiganton Félix Lobo .
 
 Rubeno Fernández
-
-5
-
-3
 
 Rubeno Fernández Asensio eklernis Esperanton en 1998 kaj ekinstruis ĝin en Iksan (Koreujo) en 2000. Loĝinte ankaŭ en Osaka (Japanujo) kaj Honoluluo (Havajo), en sia lando li instruis la katalunan en mezlernejoj, kaj de 2018 instruas Esperanton en la universitato UNED. En 2020 li studis arĥivadon kaj nun laboras kiel arĥivisto en privata entrepreno.
 
@@ -248,10 +234,6 @@ respekto por lokaj kulturoj portataj de lokaj lingvoj tiel plifortiĝas, kaj for
 tiel la novaj komunik-rimedoj helpos konstrui pontojn inter la popoloj, kaj la bariloj kaj dividoj inter ili malfortiĝos.
 
 Burno, 2025-08-01 La originala teksto de la rezolucio estas legebla en la Gazetara Komuniko de UEA n-ro 1247.
-
-3
-
-1
 
 abundo: tre granda kvanto, sufiĉa por ĉiuj bezonoj. akademio: asocio de verkistoj, artistoj, sciencistoj aŭ simile, kiuj renkontiĝas por interŝanĝi ideojn. aliĝi: aldoniĝi, almetiĝi, membriĝi, aparteniĝi al, iĝi partoprenanto en io. al-voki: fari peton, kvazaŭ laŭte vokante, por ke oni atentu. cifereca: en formo legebla per komputilo. en-konduki : enporti ion novan, kaj disvastigi ties uzon. etoso: ĝenerala sento, kiun la ĉirkaŭaĵo prezentas al la ĉeestantoj. instigo: aktiva premado al iu homo, por ke tiu faru ion. komunumo: malgranda regiono, kies centro estas urbo aŭ vilaĝo; societo bazita sur komuneco de vivo kaj interesoj; grupo de homoj kune vivantaj kaj kun komunaj interesoj. konfido: certeco pri la boneco, ĝusteco, praveco, valoro de iu aŭ io. konstati: ekscii, eltrovi, aŭ rimarki ion kiel fakton aŭ kiel gravan informon. najbara: loĝanta aŭ troviĝanta apude aŭ tre proksime. n-ro: numero. parto-preni: esti unu el la homoj, kiuj ĉe-estas kaj kune aktivas en iu komuna agado. provincismo: fermita menso pro manko de scioj kaj kompreno pri la mondo, kiel okazas al homoj loĝantaj en foraj lokoj, kie novaj ideoj malfacile alvenas. reciproka: de la unua flanko al la dua, kaj tute same, de la dua flanko al la unua. registaro: grupo de homoj, kiuj regas ŝtaton. rezolucio: anonco, kiun faras asocio aŭ kunveno, pri sia pozicio aŭ opinio pri iu demando. statuso: leĝa situacio de persono, organizaĵo aŭ simile. sub-teni: helpi homon, asocion, projekton, politikon aŭ simile, por ke ĝi sukcesu. teknologio: la utiligo de sciencaj scioj por praktikaj kaj teknikaj celoj, precipe por la evoluigo de novaj maŝinoj, komunikiloj, kaj industriaj metodoj.
 

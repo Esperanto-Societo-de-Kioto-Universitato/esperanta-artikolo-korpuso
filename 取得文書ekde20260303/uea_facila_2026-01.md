@@ -1,6 +1,6 @@
 ---
 source: "UEA Facila (uea.facila.org)"
-generated_at: "2026-03-03T10:41:51.189380+00:00"
+generated_at: "2026-09-15T10:54:37.067962+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-01-05 – 2026-01-31"
 ---
@@ -39,10 +39,6 @@ Se vi deziras subteni la projekton, kaj por ricevi pliajn informojn, bonvolu kon
 GBADAMASSI Latifou BP 302 Lokossa (Mono) Respubliko Benino Retadresoj: latifougbadamassi[ĉe]yahoo.fr kaj infanojcxirkauxafriko[ĉe]gmail.com
 
 Latifou Gbadamassi
-
-1
-
-1
 
 Latifou Gbadamassi estas prezidanto de Asocio de Beninaj Esperantistoj. Li esperantistiĝis en 1989 kaj instruas Esperanton delonge en lerneja kaj universitata medioj. Latifou ĉeestis diversajn internaciajn Esperanto-aranĝojn ekster Afriko, kaj membras en la Komitato de UEA de multaj jaroj.
 
@@ -95,12 +91,6 @@ trejnado: instruado kaj ekzercado por konduki al dezirata nivelo de kapablo.
 
 [Embed] https://www.youtube.com/embed/8IKMhmTuUf0?width=100%25&height=86.25
 
-1
-
-1
-
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
-
 
 ---
 
@@ -113,10 +103,6 @@ trejnado: instruado kaj ekzercado por konduki al dezirata nivelo de kapablo.
 **Categories:** Filmetoj
 
 [Embed] https://www.youtube.com/embed/2m5Yr_YvvE4?width=100%25&height=86.25
-
-1
-
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
 
 
 ---
@@ -180,10 +166,6 @@ Oni esploras ankaŭ la virusojn nomatajn bakteriofagoj : virusoj kiuj atakas bak
 Estas tre grave, ke ni ne uzu antibiotikojn sennecese, kaj ĉiam finu la kuracadon. Nur per limigo de la kvanto de antibiotikoj ellasataj en la akvon, aeron kaj teron oni povas esperi, ke ne tro da bakterioj fariĝos rezistaj al antibiotikoj.
 
 Luigi Fraccaroli Debora Rossetti
-
-3
-
-1
 
 Luigi Fraccaroli estas italo, esperantisto ekde la 1980-aj jaroj. Kiel biologo, li okupiĝas profesie pri produktado de kemiaĵoj por la farado de kosmetikaĵoj. Debora Rossetti estas italino, esperantistino ekde la 2010-aj jaroj. Ŝi estas biologo, kiu okupiĝas profesie pri informado kaj konsilado al kuracistoj pri kuraciloj.
 
@@ -292,10 +274,6 @@ La virino, kiun vi konis kiel Diana
 
 Myrtis Smith
 
-4
-
-4
-
 Myrtis Smith estas usona esperantistino, inĝeniera instruisto tage kaj aspiranta artisto nokte. Ŝiaj ŝatokupoj inkluzivas verkadon, dancadon, kudradon, marŝadon kaj, kompreneble, Esperanton. Ŝi estas regula kontribuanto al uea.facila .
 
 adiaŭ: saluto kiam oni foriras por tre longa tempo aŭ por ĉiam.
@@ -341,10 +319,6 @@ venĝo: sufero intence kaŭzata al alia(j) homo(j), por repagi suferon kaŭzitan
 
 [Embed] https://www.youtube.com/embed/AwqjiuTot0k?width=100%25&height=86.25
 
-1
-
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
-
 
 ---
 
@@ -377,8 +351,6 @@ La dua aliĝ-periodo de la UK daŭros ĝis la 31-a de marto 2026. Se vi ankoraŭ
 UEA, nome de la monda esperantistaro, kore dankas al la sindonemaj volontuloj kaj al la malavaraj donacantoj al la Fondaĵo Partoprenu UK-on .
 
 Fonto: Gazetara Komuniko de UEA n-ro 1278 (2026-01-21)
-
-2
 
 aliĝi: aldoniĝi, almetiĝi, membriĝi, aparteniĝi al, iĝi partoprenanto en io.
 
@@ -435,8 +407,6 @@ Jen rakonto pri Bai: Finverkinte poemon, li ofte voĉ-legis ĝin al infanoj kaj 
 
 Alexander Shenghao Hu
 
-5
-
 Alexander Shenghao Hu estas ĉina esperantisto loĝanta en Britujo, kiu faras sian doktoran studadon pri kompara literaturo ĉe la Universitato Reĝino Mary en Londono. Li eklernis Esperanton en 2012 kaj estas komitatano de Londona Esperanto-Klubo.
 
 ĉaro: veturilo kun du aŭ kvar radoj tirata de besto(j).
@@ -483,10 +453,6 @@ strukturo: la maniero, en kiu estas aranĝitaj kaj kunmetitaj la diversaj partoj
 **Categories:** Filmetoj
 
 [Embed] https://www.youtube.com/embed/_UUhu1SNUyc?width=100%25&height=86.25
-
-1
-
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
 
 
 ---

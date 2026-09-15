@@ -1,6 +1,6 @@
 ---
 source: "UEA Facila (uea.facila.org)"
-generated_at: "2026-03-03T10:41:51.143545+00:00"
+generated_at: "2026-09-15T10:54:37.048510+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-05-02 – 2025-05-31"
 ---
@@ -35,8 +35,6 @@ La ĉefa problemo pri la nova Esperanta nomo de Brno estas, ke Burno ne estas tu
 Bonan vojaĝon al Burno (Brno)!
 
 Ruth Kevess-Cohen
-
-5
 
 Ruth Kevess-Cohen , konata ankaŭ kiel Margo en Esperantujo, estas emerita kuracisto loĝanta en Usono. Dum pluraj jaroj ŝi gvidis la teamon de volontuloj, kiuj kreis la Esperanto-kursojn ĉe Duolingo. Ŝi estas membro de la Akademio de Esperanto kaj aktiva redaktanto de PIV ( Plena Ilustrita Vortaro ).
 
@@ -79,10 +77,6 @@ vokalo: la vokaloj de Esperanto estas A, E, I, O, U.
 
 [Embed] https://www.youtube.com/embed/FV7s-h_OqzI?width=100%25&height=86.25
 
-1
-
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
-
 
 ---
 
@@ -95,10 +89,6 @@ vokalo: la vokaloj de Esperanto estas A, E, I, O, U.
 **Categories:** Filmetoj
 
 [Embed] https://www.youtube.com/embed/Sx9a8prECto?width=100%25&height=86.25
-
-1
-
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
 
 
 ---
@@ -136,12 +126,6 @@ Nuntempe la brazila ŝtato edukas infanojn en novaj lernejoj, kaj Bona Espero ne
 La Internacia Lingvo en Bona Espero ne estis lern-objekto, sed nepra ilo por komunikado inter laborantoj el diversaj nacioj, dum ili okupiĝis pri edukado kaj agrikulturaj laboroj.
 
 Ursula Grattapaglia
-
-3
-
-3
-
-1
 
 Ursula Grattapaglia naskiĝis en la urbo Berlino, Germanujo, kaj tie travivis la 2-an Mondmiliton. 24-jara ŝi edziniĝis al itala esperantisto, Giuseppe Grattapaglia ,  kaj ili loĝis dum 17 jaroj en Torino, Italujo, kie ŝi laboris kiel samtempa interpretisto en internaciaj kongresoj. En 1974 kune kun siaj du filoj, ili akceptis inviton kunlabori en la bieno-lernejo Bona Espero en Brazilo, kie Ursula ankoraŭ nuntempe vivas kaj kunlaboras.
 
@@ -237,10 +221,6 @@ Mondaj registaroj devas aŭskulti la popolojn de la mondo per tutmonda interparo
 
 Per Esperanto ni transdonas, ene de niaj familioj kaj inter malsamaj familioj, la valorojn de solidareco , kompreno kaj estimo por aliaj popoloj. En pluraj renkontiĝoj tra la mondo, ĉiutage parolantoj de la Internacia Lingvo Esperanto kultivas toleremon kaj respekton. Ni unuiĝu por konstrui tiun pli bonan mondon por ĉiuj.
 
-3
-
-1
-
 civitano: persono apartenanta al ŝtato, regiono aŭ urbo, kun politikaj rajtoj pro tiu aparteno.
 
 daŭri-pova: kapabla daŭri dum longa periodo; kapabla daŭri ĉar ĝi ne kaŭzas problemojn al la vivmedio.
@@ -294,8 +274,6 @@ UEA: Universala Esperanto-Asocio
 
 [Embed] https://www.youtube.com/embed/quBRy9_LeWw?width=100%25&height=86.25
 
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
-
 
 ---
 
@@ -328,10 +306,6 @@ Kiel monto povas esprimi sian volon? Same kiel aliaj juraj organizaĵoj, ekzempl
 Tradicie la maorioj ne supreniris sur la sankta monto Taranaki . Malgraŭ sia nova jura situacio, la bela dormanta vulkano plu restas vizitebla. Pro ĝia simileco al la japana monto Fuji , multaj turistoj vizitas ĝin. Pro la sama kialo oni filmis tie la filmon La lasta samurajo . Ĉu amasa turismo povas kunekzisti kun protektado de la natura medio estas demando, kiun respondos la estonteco. Estas rimarkinde, ke la apuda lando, Aŭstralio, decidis en 2019 malpermesi la supreniradon de la ŝtonego Uluru , konsiderata sankta de la lokaj indiĝenoj.
 
 Laurent Ramette
-
-6
-
-2
 
 Laurent Ramette estas franca esperantisto, iama tradukisto kaj aktuale juristo. Li loĝas en Luksemburgo, kie li laboras en la Tribunalo de la Eŭropa Unio. Krom pri sia fako li aparte interesiĝas pri literaturo, kinarto, politiko kaj internaciaj rilatoj.
 
@@ -448,10 +422,6 @@ Maurizio 'Rico' Giacometto
 
 La 8-a kaj la 9-a libroj en la serio Esperanto por mi estas aĉeteblaj ĉe la libroservo de UEA , tiu de FEL (retbutiko) Oni povas mendi ilin ankaŭ de la eldonisto Horizonto , kaj rekte de la portretistino .
 
-4
-
-2
-
 Maurizio Giacometto ('Rico') estas redaktoro de la rubriko “Libroservo” en uea.facila.
 
 admiri: opinii, ke io aŭ iu estas pli ol normale bona aŭ bela.
@@ -492,12 +462,6 @@ titolo: nomo de libro, poemo, teatraĵo, aŭ simila verko.
 **Categories:** Filmetoj
 
 [Embed] https://www.youtube.com/embed/fbWldQKlfrA?width=100%25&height=86.25
-
-2
-
-1
-
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
 
 
 ---

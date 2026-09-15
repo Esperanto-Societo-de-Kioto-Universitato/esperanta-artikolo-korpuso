@@ -1,6 +1,6 @@
 ---
 source: "UEA Facila (uea.facila.org)"
-generated_at: "2026-03-03T10:41:51.137676+00:00"
+generated_at: "2026-09-15T10:54:37.045982+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-04-05 – 2025-04-26"
 ---
@@ -35,10 +35,6 @@ UEA varme gratulas al Anny Joanice Nizigiyimana pro la meritoplene ricevita prem
 Por subteni la programojn de UEA donacu al la diversaj fondaĵoj de la Asocio . Aparte gravaj por la laboroj de Joanice estas la fondaĵoj Afriko , Informado kaj Eduko .
 
 Gazetaraj Komunikoj de UEA N-ro 1222 2025-03-21
-
-3
-
-1
 
 al-done: donate kiel plia afero al tio, kio jam ekzistas.
 
@@ -92,8 +88,6 @@ trejni: instrui kaj ekzerci por konduki al dezirata nivelo de kapablo.
 **Categories:** Filmetoj
 
 [Embed] https://www.youtube.com/embed/W1ERVYQtdFk?width=100%25&height=86.25
-
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
 
 
 ---
@@ -151,8 +145,6 @@ trejni: instrui kaj ekzerci por konduki al dezirata nivelo de kapablo.
 
 [Embed] https://www.youtube.com/embed/ZNVKkgPWE-w?width=100%25&height=86.25
 
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
-
 
 ---
 
@@ -196,12 +188,6 @@ Se vi neniam partoprenis Esperanto-eventon, mi esperas, ke inter tiuj multaj pro
 
 Lulu Testudo
 
-9
-
-4
-
-1
-
 Lulu Testudo estas juna, franca kaj plentempa esperantistino. Ŝi estas ĉefo de la vendejo Esperanto World (Esperantaj varoj por ĉiuj), en kiu oni povas aĉeti Esperanto-varojn. Ŝi ankaŭ kreas enhavon en aŭ pri Esperanto por la sociaj retejoj, kaj ŝi helpas kiel komunikisto por eventoj kiel JES kaj FESTO.
 
 evento: aparta, sufiĉe grava okazaĵo.
@@ -234,10 +220,6 @@ unika: sola de sia speco, unu-nura; ne havanta alian egalan aŭ similan.
 **Categories:** Filmetoj
 
 [Embed] https://www.youtube.com/embed/QK9qis5TQl8?width=100%25&height=86.25
-
-2
-
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
 
 
 ---
@@ -279,10 +261,6 @@ Angiloj estas dezirata manĝaĵo en la landoj ĉirkaŭ Mediteraneo kaj precipe e
 Per la progreso de la scienco kaj obseda studado, la homaro scias pli kaj pli pri angiloj. Nun, scienco estas bezonata por savi la angilojn.
 
 Carolyn Thomas-Nedzelsky
-
-3
-
-2
 
 Carolyn Thomas estas usona esperantistino. Ŝi eklernis Esperanton en 2018. Ŝi ĝuas legi kaj lerni pri multaj aferoj, inkluzive de lingvoj, historio, kaj ĉio ajn pri bestoj kaj la naturo.
 
@@ -336,8 +314,6 @@ vosto: la malantaŭa korpo-parto, kiun havas multaj bestoj, sed ne homoj.
 **Categories:** Filmetoj
 
 [Embed] https://www.youtube.com/embed/tx7pQoyVzgg?width=100%25&height=86.25
-
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
 
 
 ---

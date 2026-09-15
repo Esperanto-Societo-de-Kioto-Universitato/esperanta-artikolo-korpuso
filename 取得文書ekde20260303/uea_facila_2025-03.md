@@ -1,6 +1,6 @@
 ---
 source: "UEA Facila (uea.facila.org)"
-generated_at: "2026-03-03T10:41:51.131175+00:00"
+generated_at: "2026-09-15T10:54:37.043863+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-03-09 – 2025-03-29"
 ---
@@ -15,10 +15,6 @@ time_range: "2025-03-09 – 2025-03-29"
 **Categories:** Filmetoj
 
 [Embed] https://www.youtube.com/embed/2z0IeazZGLo?width=100%25&height=86.25
-
-1
-
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
 
 
 ---
@@ -52,10 +48,6 @@ Ni ĝojos, se ni povos subteni vin!
 Biciklu kun BEMI: Biciklista Esperantista Movado Internacia.
 
 Christine Brücker Lars Sözüer
-
-6
-
-1
 
 Christine Brücker kaj Lars Sözüer estas paro de germanaj esperantistoj kiuj loĝas en Duisburg, Germanujo, kaj gepatroj de du plenkreskaj denaskuloj. Ili estis aktivaj en diversaj partoj de la movado, lastatempe interalie kiel estraranoj de BEMI, la faka sekcio de TEJO pri biciklado.
 
@@ -108,8 +100,6 @@ UK: Universala Kongreso.
 
 [Embed] https://www.youtube.com/embed/hB5egitf-20?width=100%25&height=86.25
 
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
-
 
 ---
 
@@ -139,8 +129,6 @@ UEA-kodo: hnel-r Vacapo (WhatsApp): +243 974956659
 **Categories:** Filmetoj
 
 [Embed] https://www.youtube.com/embed/Z_fFY5QLyHs?width=100%25&height=86.25
-
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
 
 
 ---
@@ -176,8 +164,6 @@ Se iu volis transdoni mesaĝon al malproksima vilaĝo, oni sendis mesaĝiston, k
 Tiel vivis la afrikanoj, en mondo plena je lumo de rakontoj kaj voĉoj, kiuj neniam malaperis, eĉ kiam la teknologio komencis aperi.
 
 Marcelin Luheka
-
-6
 
 Marcelin Luheka estas fervora esperantisto, kiu loĝas en DR Kongo. Li eklernis Esperanton en 2018. Li ŝatas legi kaj lerni pri multaj aferoj. Li estas amanto de la naturo.
 
@@ -219,8 +205,6 @@ trezoro: amaso da oro, mono kaj aliaj valoraĵoj; penso, ideo aŭ homo tre valor
 **Categories:** Filmetoj
 
 [Embed] https://www.youtube.com/embed/02v0qcLqzYI?width=100%25&height=86.25
-
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
 
 
 ---

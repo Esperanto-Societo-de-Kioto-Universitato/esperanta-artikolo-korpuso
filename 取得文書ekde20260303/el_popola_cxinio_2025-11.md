@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-03-03T10:42:50.526911+00:00"
+generated_at: "2026-09-15T10:54:36.866224+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-11-03 – 2025-11-28"
 ---
@@ -70,8 +70,6 @@ La 15-a Kvinjara Plano ludos ŝlosilan rolon por la sukceso de la plenumo de la 
 
 Verkis: Rafael Henrique Zerbetto
 
-<span style="font-family: "times new roman"; font-size: 20px;">Mia vizito al Korea Popol-Demokratia Respubliko - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -96,8 +94,6 @@ Plie, la centro celas evoluigi altnivelajn industriajn produktojn, novigajn medi
 Per la kunfando de ekspozicio, komerco, loĝistiko kaj trejnado, la centro fariĝis modelo de moderna internacia komerco, ludante gravan rolon en la konstruado de Ŝanhajo kiel tutmonda komerca centro kaj kontribuante al pli profunda ekonomia kunlaboro pere de la iniciato e-komerco laŭ la Silka Vojo.
 
 Teksto kaj fotoj: Bui Hai Mung
-
-<span style="font-family: "times new roman"; font-size: 20px;">Xi Jinping sendis gratulmesaĝon al 25-a Ĉina Internacia Foiro por Investo kaj Komerco - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -202,8 +198,6 @@ Mia vizito al KPDR plifortigis mian kredon je dialogo kiel maniero solvi konflik
 
 Verkis: Rafael Henrique Zerbetto
 
-<span style="font-family: "times new roman"; font-size: 20px;">Nova kvinjara plano estos esenca por revigligo de Ĉinio - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -259,8 +253,6 @@ kaj
 
 . La ekspozicio prezentis elstarajn publikaĵojn en la kampoj de politiko, ekonomiko, scienco kaj teknologio, kaj tradicia ĉina kulturo. La ekspozicio profunde impresis vizitantojn.
 
-<span style="font-family: "times new roman"; font-size: 20px;">Disvolviĝo de KPDR - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -281,8 +273,6 @@ Malferma ceremonio
 Oni eksponis preskaŭ cent librojn en la ĉina, angla, dulingvaj (ĉina kaj angla), kaj Esperante. La libroj ne nur sisteme klarigas la evoluajn konceptojn kaj ideojn de Ĉinio, sed ankaŭ prezentas tradician ĉinan kulturon en Esperantaj klasikaĵoj, kiuj rakontas la historion de la evoluo de nuntempa Ĉinio. La ekspozicio samtempe liveras al esperantistoj kaj rilataj tradukistoj valorajn rimedojn de traduka teorio, praktika gvido kaj kreiva studado.
 
 Vizitantoj diris, ke la ekspozicio ne nur estas libra festeno, sed ankaŭ provizas al ni profundan spiritan nutraĵon. Kiel grava ponto por internacia interŝanĝo kaj interkultura komunikado, esperantistoj portas specialan mision. Nur per esperantigo de "ĉinaj temoj" kaj profunda ĉina kulturo, ni povas pli efike plenumi nian mision kaj respondeci pri disvastigado de la ĉina kulturo, ĉinaj rakontoj kaj amikeco inter Ĉinio kaj aliaj landoj.
-
-<span style="font-family: "times new roman"; font-size: 20px;">Inaŭguriĝis en Shanxi la 15-a Ĉina Kongreso de Esperanto - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -310,8 +300,6 @@ EL) kaj prezidanto de Azi-Oceania Komisiono de UEA (KAOEM), la unua dividis siaj
 Sekve, kelkaj fakuloj dividis siajn spertojn kun ĉeestantoj pri Esperantigo, tradukado kaj eldonado. La fakuloj estas Sun Mingxiao, konstanta komitatano de ĈEL kaj fakulo pri Esperanta Muzeo ĉe la Universitato Zaozhuang, Zhou Tianhao, iama ĉefredaktoro kaj vicprezidanto de la Ŝanhaja Eldonejo pri Fremdlingva Videaĵo kaj vicprezidanto de ĈEL, Zhao Jianping, iama ĉefa radioparolisto ĉe la Ĉina Radio Internacia, kaj Rafael Zelrbertto, ricevinto de Ĉina Registara Amikeca Premio kaj brazila esperantisto laboranta en El Popola Ĉinio.
 
 La seminario estas fruktodona, partoprenantoj estis tre kuraĝigitaj kaj inspiritaj. Ĝi kiel subforumo de la 15-a Ĉina Kongreso de Esperanto, estis kune organizita de ĈEL kaj Fremdlingva Eldonejo, celante kolekti spertojn de tradukado en Esperantigo por antaŭenigi la altkvalitan disvolviĝon de tradukado kaj eldonado de libroj pri Ĉinio.
-
-<span style="font-family: "times new roman"; font-size: 20px;">Ekspozicio de E-libroj okazis en Taiyuan - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -342,8 +330,6 @@ Redaktis: Rafael Henrique Zerbetto
 
 Fonto: Xinmin Evening News
 
-<span style="font-family: "times new roman"; font-size: 20px;">Ĉinaj brodaĵoj admirataj de Xi Jinping - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -367,8 +353,6 @@ La 8-a ĈIIE daŭras en Ŝanhajo de la 5-a ĝis la 10-a de novembro. La ekspozic
 
 Redaktoro: Xie Ruifeng
 
-<span style="font-family: "times new roman"; font-size: 20px;">Seminario pri tradukado okazis en Taiyuan - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -388,8 +372,6 @@ La 5-an de novembro malfermiĝis la 8-a Ĉina Internacia Importa Ekspozicio (ĈI
 
 Redaktoro: Xie Ruifeng
 
-<span style="font-family: "times new roman"; font-size: 20px;">Rusa Ministerio pri Eksterlandaj Aferoj: ĈIIE alportas novajn ŝancojn por rusaj entreprenistoj - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -406,8 +388,6 @@ El Popola Chinio
 La 8-a Ĉina Internacia Importa Ekspozicio (ĈIIE) malfermiĝis la 5-an de novembro en Ŝanhajo. En ĉi-jara ĈIIE partoprenas homoj el 155 landoj, regionoj kaj internaciaj organizoj, kaj eksponadas 4 108 eksterlandaj kompanioj. Entute alvenos 43 komercaj delegacioj kaj proksimume 450 mil registritaj vizitantoj. La ekspozicia areo superas 430 mil kvadratajn metrojn. La 8-a ĈIIE starigis novajn rekordojn kaj por ekspozicia areo kaj por nombro de partoprenantaj kompanioj.
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Malfermiĝis la 8-a Ĉina Internacia Importa Ekspozicio - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -426,8 +406,6 @@ Dum la 8-a Ĉina Internacia Importa Ekspozicio (ĈIIE), kiu malfermiĝis en Ŝan
 
 Redaktoro: Xie Ruifeng
 
-<span style="font-family: "times new roman"; font-size: 20px;">Malfermiĝis la 8-a Ĉina Internacia Importa Ekspozicio - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -444,8 +422,6 @@ El Popola Chinio
 La 8-a Ĉina Internacia Importa Ekspozicio (ĈIIE) unuafoje starigis eksponejon por la produktoj el malplej evoluintaj landoj, alvenis 163 kompanioj el tiuj landoj, la nombro pliiĝis je 23.5% kompare kun la pasinta jaro. Ĉi-jara ĈIIE ankaŭ novige kreis eksponejon de ĝemelaj urboj, kun partopreno de entute 67 landoj kaj internaciaj organizoj. Kaj la nove establitaj "translandlima e-komerca platformo de bonkvalitaj produktoj" kaj "translandlima e-komerca servo-areo" utiligas la ciferecan forton de ĈIIE por helpi produktojn precize konektiĝi kun la ĉina merkato.
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Malfermiĝis la 8-a Ĉina Internacia Importa Ekspozicio - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -469,8 +445,6 @@ En la ekspoziciejo pri medicinaj aparatoj kaj sanservoj, la alt-rapida spektra a
 En la zono de konsumaj varoj, dungito de Uniqlo montris novteknikan ŝtofon al vizitantoj: "Jen 3D-centromalplena fibro. Ĝi dikas nur kvinonon de tiu de homa haro kaj havas bonegan reziston al humideco." Tia teknologio iros en la ĉiutagan vivon, montrante, kiel ĈIIE antaŭenigas industrian novigon.
 
 Redaktoroj: Gao Shuyuan kaj Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Malfermiĝis la 8-a Ĉina Internacia Importa Ekspozicio - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -513,8 +487,6 @@ Fonto:
 
 https://portuguese.shanghai.gov.cn/po-UpcomingExpos/20251105/ae493b89b79b497da2c8c42b255f41d9.html
 
-<span style="font-family: "times new roman"; font-size: 20px;">Novaj lanĉoj okazos en la 8-a ĈIIE - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -541,8 +513,6 @@ Krome, la Brazila Agentejo por Antaŭenigo de Eksportoj kaj Investoj (ApexBrasil
 Redaktis: Rafael Henrique Zerbetto
 
 Fonto: https://portuguese.shanghai.gov.cn/po-UpcomingExpos/20251104/127bf853f05548dda54eed9fae756a76.html
-
-<span style="font-family: "times new roman"; font-size: 20px;">Novaj lanĉoj okazos en la 8-a ĈIIE - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -605,8 +575,6 @@ En la historio de la mondo, neniu lando iam sukcesis samtempe konservi rapidan e
 
 Verkita de Bui Hai Mung
 
-<span style="font-family: "times new roman"; font-size: 20px;">Malfermiĝis la 8-a Ĉina Internacia Importa Ekspozicio - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -663,8 +631,6 @@ Fine, s-ro Zhu emfazis: "ĈIIE estas la plej altnivela nacia platformo de Ĉini
 Por Mitsubishi Electric, la ok-jara akompano kun ĈIIE ne estas nur vojaĝo de teknologia ekspozicio, sed ankaŭ atesto pri la longdaŭra engaĝiĝo de la japana grupo al la plej rapide kreskanta ekonomio en la mondo.
 
 Raportita de Bui Hai Mung
-
-<span style="font-family: "times new roman"; font-size: 20px;">Verda Granda Muro en Ĉinio - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -733,8 +699,6 @@ Kun la ĉiam pli firma fundamento de la ĉin-vjetnama kunlaboro, kune kun la kom
 
 Raportita de Bui Hai Mung
 
-<span style="font-family: "times new roman"; font-size: 20px;">Verda Granda Muro en Ĉinio - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -764,8 +728,6 @@ Tradukis: Rafael Henrique Zerbetto
 
 Fonto: 上海日报
 
-Verda Granda Muro en Ĉinio - esperanto.china.org.cn
-
 El Popola Chinio
 
 
@@ -784,8 +746,6 @@ Vespere de la 9-a de novembro en la Guangdong-a Olimpika Sport-Centro malfermiĝ
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Verda Granda Muro en Ĉinio - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -816,10 +776,6 @@ Tiu ĉi ne estas la unua fojo, ke Tulipa Ruiz turneas en Ĉinio. Ŝi jam estis e
 
 Raportis kaj fotis: Rafael Henrique Zerbetto
 
-<span style="font-family: "times new roman"; font-size: 20px;">Malfermiĝis en Kantono la 15-a Nacia Sportkunveno de Ĉinio - esperanto.china.org.cn</span>
-
-<span style="font-family: "times new roman"; font-size: 20px;">Flugtaksio preta por ekflugi en Ŝanhajo - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -840,8 +796,6 @@ La 9-an de novembro okazis en Kantono la solena malferma ceremonio de la 15-a N
 Coventry diris, ke al la sportkunveno venis dek miloj da sportistoj en diversaj aĝoj el la tuta lando, kaj la unika ĉarmo de la sportludoj forĝas unuecon. Ŝi laŭdis: "Ĉinio sendube estas vera mondpotenco en sportoj."
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Malfermiĝis en Kantono la 15-a Nacia Sportkunveno de Ĉinio - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -888,8 +842,6 @@ Invitas kore,
 
 Maria Majerczak (Gvidantino de la Esperanto-instruado en la Jagelona Universitato)
 
-<span style="font-family: "times new roman"; font-size: 20px;">Kirsty Coventry: Ĉinio sendube estas vera mondpotenco en sportoj - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -924,8 +876,6 @@ Kun tradicia ĉarmo, historia heredaĵo kaj ekzempla gastamo, Yangzhou firmiĝas
 Tradukis: Rafael Henrique Zerbetto
 
 Fonto: Brasil247
-
-<span style="font-family: "times new roman"; font-size: 20px;">Esperanto-kurso ĉe Jagelona Universitato en Krakovo, Pollando - esperanto.china.org.cn</span>
 
 El Popola Chinio
 

@@ -1,6 +1,6 @@
 ---
 source: "UEA Facila (uea.facila.org)"
-generated_at: "2026-08-13T10:14:40.959659+00:00"
+generated_at: "2026-09-15T10:54:37.112167+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-06-06 – 2026-06-27"
 ---
@@ -16,8 +16,6 @@ time_range: "2026-06-06 – 2026-06-27"
 
 [Embed] https://www.youtube.com/embed/eCv7vtAdxYE?width=100%25&height=86.25
 
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
-
 
 ---
 
@@ -30,8 +28,6 @@ time_range: "2026-06-06 – 2026-06-27"
 **Categories:** Filmetoj
 
 [Embed] https://www.youtube.com/embed/s5pOM7OO_Mk?width=100%25&height=86.25
-
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
 
 
 ---
@@ -67,10 +63,6 @@ Je ĉiu tria jaro estas renovigita la estraro , konsistanta el prezidanto, du vi
 En ĉiuj universalaj kongresoj de Esperanto, la ĉeestantaj akademianoj sin prezentas al la publiko kaj respondas al ĝiaj demandoj. Venu ankaŭ vi!
 
 Carlo Minnaja
-
-3
-
-1
 
 Carlo Minnaja (1940) estas denaska itala esperantisto, kaj la plej longe servanta membro de la Akademio de Esperanto. Li estas emeritiĝinta universitata profesoro pri matematikaj fakoj, magistro pri historio, kaj premiito pri kulturo de la itala ĉefministro. Krome li estas verkinto de Historio de la Akademio de Esperanto , verkinto de granda vortaro itala-esperanto, kaj aŭtoro de multaj eseoj kaj tradukoj el la itala kaj aliaj literaturoj. Interalie li estas tradukinto de la du libroj de Leonardo Sciascia jam prezentitaj en uea.facila .
 
@@ -123,8 +115,6 @@ titolo: nomo de libro, poemo, teatraĵo, aŭ simila verko.
 
 [Embed] https://www.youtube.com/embed/A1ZaievXxrE?width=100%25&height=86.25
 
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
-
 
 ---
 
@@ -157,10 +147,6 @@ Probal kontribuis plurmaniere dum sia longa agado en la Esperanto-movado. Li est
 Pro siaj diversspecaj kontribuoj Probal ricevis plurajn gravajn premiojn. Inter ili estis la ŝtata premio Vidyasagar-Dinamoyee en 2021, kiu estis unuafoje aljuĝita al esperantisto. Malgraŭ tiuj gravaj atingoj, Probal restis sufiĉe modesta . En la universitato, li estis tre amikema kun studentoj. Multaj memoras longajn kaj amuzajn babiladojn kun li. Ĉar li legis tiom multe, la temoj de tiuj babiladoj estis diversaj. Instruistoj kaj studentoj de pluraj fakoj amikiĝis kun li. Li mankos al multaj kaj ene de Esperantujo , kaj ekster ĝi.
 
 A. Giridhar Rao
-
-2
-
-1
 
 A. Giridhar Rao estas barata esperantisto. Lia fako estas lingva edukado. Li esperantistiĝis en 1994, danke al Probal Dasgupta. Li estas membro de la Akademio de Esperanto. Li tradukis en 2024 la membiografion de Mohandas Gandhi, Eksperimentoj kun la Vero . Tiu verko estas legebla en la reto .
 
@@ -201,8 +187,6 @@ volontulo: homo, kiu proponas sin por plenumi taskon aŭ fari laboron, plej ofte
 
 [Embed] https://www.youtube.com/embed/ozZLE0m0Bl8?width=100%25&height=86.25
 
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
-
 
 ---
 
@@ -237,12 +221,6 @@ Verŝajnas, ke Zamenhof konis (aŭ eĉ mem lernis) Volapukon kaj sciis pri ties 
 Volapük havas tamen gravan signifon en la historio de planlingvoj , kaj danke al interreto ĝi denove kresketas pro intereso de lingvo-entuziasmuloj.
 
 Martin Ptasiński
-
-5
-
-1
-
-1
 
 Martin Ptasiński estas germana-pola-soraba esperantisto, slavisto kaj tradukisto, kiu loĝas en Frankfurto-ĉe-Majno. Li eklernis Esperanton en 2004 kaj hodiaŭ estas Esperanto-instruisto kaj instruisto de slavaj lingvoj (la soraba, pola kaj ĉeĥa). Lia pasio estas interlingvistiko kaj precipe la historio de planlingvoj. Li regule proponas retkursojn pri Volapük en la popola alternejo de Berlino kaj prelegas pri diversaj, ofte jam tute forgesitaj, planlingvoj ĉe la Verda Stelo en Antverpeno.
 
@@ -333,10 +311,6 @@ Por pliaj informoj vizitu nian retejon . Tie vi trovas novaĵojn kaj detalojn pr
 
 Alessandra Madella Ahmad Mamduhi
 
-1
-
-1
-
 Alessandra Madella estas italino, nun loĝanta en Ĉinujo. Ŝi instruas Interkulturan Komunikadon kaj Esperanton ĉe la Universitato de Zaozhuang. Ŝi estas vic-prezidanto de ILEI (Internacia Ligo de Esperantistaj Instruistoj).
 
 Ahmad Mamduhi estas irana arkitekto, urb-fasonisto kaj esperantisto. Ekde 2021, li estas prezidanto de ILEI (Internacia Ligo de Esperantistaj Instruistoj) kaj, ekde 2022, membro de la Akademio de Esperanto.
@@ -387,8 +361,6 @@ TEJO: Tutmonda Esperantista Junulara Organizo.
 **Categories:** Filmetoj
 
 [Embed] https://www.youtube.com/embed/SX8-E1N-K5Q?width=100%25&height=86.25
-
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
 
 
 ---

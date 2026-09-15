@@ -1,6 +1,6 @@
 ---
 source: "Pola Retradio (pola-retradio.org)"
-generated_at: "2026-03-03T10:42:16.497009+00:00"
+generated_at: "2026-09-15T10:54:37.039233+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-02-05 – 2026-02-25"
 ---
@@ -66,8 +66,6 @@ El la elsendo 05.02.2026 – 10′ 28″
 **Categories:** Elsendoj
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2026/02/RetRadio_05.02.2026_czw_V_1452.mp3
-
-Podkasto: Ludu en nova fenestro | Elŝutu
 
 En la 1452-a E_elsendo el la 05.02.2026 ĉe www.pola-retradio.org:
 
@@ -171,8 +169,6 @@ El la elsendo 10.02.2026. Legas Barbara – 09′ 10″
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2026/02/RetRadio_10.02.2026_wt_M_1453.mp3
 
-Podkasto: Ludu en nova fenestro | Elŝutu
-
 En la 1453-a E_elsendo el la 10.02.2026 ĉe www.pola-retradio.org:
 
 • Hodiaŭ denove ni proponas enrigardi iujn el la lastatempe venintaj al la redakcio E-gazetoj. Temas pri la 1-a, februara numero de Esperantolehti; pri la lasta numero de „La Informilo Esperanto” de la Orient-Franca E-Asocio; pri la 11-a numero 2025 de „La Revuo Orienta”. • En la komencaj aktualaĵoj – post la Kalendarfolio kun elektitaj datoj ligitaj kun la 10.02 – ni informas pri la plej bonaj eksterlandaj studentoj en Pollando 2026; pri novaj studoj rilate robotikon kaj mekatronikon en Vroclavo. • Nia scienctema rubriko estas dediĉita al la esplorrezultoj pri dormo kiel universala, biologia fenomeno karakterizanta ne sole cerbohavulojn; al promesoplenaj esploroj de sciencistoj el Poznano pri ebleco kultivi japanan zingibron en Pollando. Tiun informon akompanas reta foto pri la realigitaj kultivaĵoj. • Muzike ni proponas fragmenton de la kanto „Espero brilas en la mallumo” por la vortoj de Andreo Rygielski aperinta en oficiala kanalo de @WaveSculptor. • En unuopaj rubrikoj de nia paĝo eblas konsulti la paralele legeblajn kaj aŭdeblajn tekstojn el niaj elsendoj, kio estas tradicio de nia redakcio ekde 2003. ­ La elsendo estas aŭdebla en Jutubo ĉe la adreso: https://www.youtube.com/results?q=pola+retradio&sp=CAI%253D Interalie pere de Jutubo, konforme al individua bezono, eblas rapidigi aŭ malrapidigi la parolritmon de la sondokumentoj; eblas transsalti al ajna serĉata fragmento de la elsendo.
@@ -257,8 +253,6 @@ El la elsendo 15.02.2026. Legas Barbara – 05′ 18″
 **Categories:** Elsendoj
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2026/02/RetRadio_15.02.026_ndz_V_1454.mp3
-
-Podkasto: Ludu en nova fenestro | Elŝutu
 
 En la 1454-a E_elsendo el la 15.02.2026 ĉe www.pola-retradio.org:
 
@@ -362,8 +356,6 @@ El la elsendo 20.02.2026 – 06′ 48″
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2026/02/RetRadio_20.02.2026_pt_M_1456-1.mp3
 
-Podkasto: Ludu en nova fenestro | Elŝutu
-
 En la 1455-a E_elsendo el la 20.02.2026 ĉe www.pola-retradio.org:
 
 • Hodiaŭ en la komencaj aktualaĵoj – post la Kalendarfolio kun elektitaj datoj ligitaj kun la 10.02 – ni informas pri pola partopreno en  la Internacia Foiro de Nutraĵoj en Dubajo, kio okazis sub la devizo „Pollando gustas bone”; pri la novaĵo sur la pola nutromerkato – la neceso flagornami eksterlandajn fruktojn kaj legomojn loze prezentatajn al klientoj. • Nia scienctema rubriko referencas al esplorrezutoj pri la parola, lingva evoluo de beboj, kio estas ligita kun la movrega kapablo. Ni informas pri decido, ke nomoj de  elstaraj sciencistinoj estu gravurotaj ĉe Eiffel-turo apud la sciencistaj. • En la kunteksto de la ĵus menciitaj du lastaj temoj aŭdiĝas nia interparolo kun nia aŭskultantino, sciencistino Claire – kiu taksas nian sciencbultenan rubrikon, sed ankaŭ atentigas pri nesufiĉa atento pri feminismaj problemoj. • Muzike aŭdiĝas fragmente la kanto „Rememoru min” el la kanalo Wayne’s Music World. • En unuopaj rubrikoj de nia paĝo eblas konsulti la paralele legeblajn kaj aŭdeblajn tekstojn el niaj elsendoj, kio estas tradicio de nia redakcio ekde 2003. La elsendo estas aŭdebla en Jutubo ĉe la adreso: https://www.youtube.com/results?q=pola+retradio&sp=CAI%253D Interalie pere de Jutubo, konforme al individua bezono, eblas rapidigi aŭ malrapidigi la parolritmon de la sondokumentoj; eblas transsalti al ajna serĉata fragmento de la elsendo.
@@ -380,8 +372,6 @@ En la 1455-a E_elsendo el la 20.02.2026 ĉe www.pola-retradio.org:
 **Categories:** Elsendoj
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2026/02/RetRadio_25.02.20026_sr_V_1456.mp3
-
-Podkasto: Ludu en nova fenestro | Elŝutu
 
 En la 1456-a E_elsendo el la 25.02.2026 ĉe www.pola-retradio.org:
 

@@ -1,6 +1,6 @@
 ---
 source: "UEA Facila (uea.facila.org)"
-generated_at: "2026-08-13T13:21:39.125667+00:00"
+generated_at: "2026-09-15T10:54:37.106790+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-03-11 – 2026-03-28"
 ---
@@ -37,10 +37,6 @@ Karto-tenilo por unu-manuloj: Post la Unua Mondmilito estis multaj milit- invali
 Sylvain Lelarge
 
 La supraj fotoj aperis en la nederlandlingva verko Wat is dat de Sylvain Lelarge. Fotis ilin Peter Kollányi.
-
-4
-
-2
 
 Sylvain Lelarge estas franca esperantisto loĝanta en Nederlando. Li instruas la francan lingvon al nederlandanoj, kiuj planas loĝi en Francio. Dum la Universalaj Kongresoj de Esperanto jam de 25 jaroj li instruas ankaŭ Esperanton kun sia edzino Katalin Kováts (la fondinto kaj direktorino de www.edukado.net ).
 
@@ -79,8 +75,6 @@ vertikala: iranta de la supro ĝis la malsupro, sed ne al la du flankoj.
 
 [Embed] https://www.youtube.com/embed/Vow3a5lHGIE?width=100%25&height=86.25
 
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
-
 
 ---
 
@@ -93,10 +87,6 @@ vertikala: iranta de la supro ĝis la malsupro, sed ne al la du flankoj.
 **Categories:** Filmetoj
 
 [Embed] https://www.youtube.com/embed/e5B-SB7G7nI?width=100%25&height=86.25
-
-1
-
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
 
 
 ---
@@ -130,10 +120,6 @@ Estas interese, kion oni faris, por ne ĉesigi la produktadon de ŝtalo dum long
 La lasta fandeja altforno en Supra Silezio estas nun konsiderata kiel ŝtata historia monumento . Ĝi estas nun renovigata, kun la celo baldaŭ starigi en ĝi grandan kulturan centron. Eblos viziti tiun altfornon, iri supren, kaj de la supro admiri tutan urban kvartalon , kiu dum jaroj kreskis ĉirkaŭ la fandejo.
 
 Ewa Caban
-
-3
-
-1
 
 Ewa Caban estas pola esperantistino. Ŝi estas arkitekto, kiu okupiĝas pri malnovaj konstruaĵoj, artaĵoj kaj tradicioj el Supra Silezio. En sia libera tempo ŝi verkas artikolojn por la pollingva kaj Esperanta vikipedioj.
 
@@ -214,10 +200,6 @@ Josette Ducloyer
 
 La supra artikolo unue aperis en revuo Esperanto 1409(2) februaro 2026, p. 41. Ĝi estas iom redaktita por la legantoj de uea.facila .
 
-5
-
-1
-
 Josette Ducloyer estas franca esperantistino, kiu loĝas en vilaĝo proksime al Rennes, la ĉefurbo de Bretonio. Ŝi estas membro de la konsilantaro de Federacio Esperanto-Bretonio kaj respondecas pri organizado de rondvojaĝoj de eksterlandaj esperantistoj tra Bretonio.
 
 bon-venigi: akcepti ĵus alvenintan homon aŭ novan aferon en maniero afabla kaj kor-gajiga.
@@ -258,10 +240,6 @@ solena: okazanta laŭ serioza maniero, kiu montras ke la aranĝo estas tre grava
 **Categories:** Filmetoj
 
 [Embed] https://www.youtube.com/embed/Qni-mCmeLfA?width=100%25&height=86.25
-
-1
-
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
 
 
 ---

@@ -1,6 +1,6 @@
 ---
 source: "UEA Facila (uea.facila.org)"
-generated_at: "2026-08-22T16:14:09.828140+00:00"
+generated_at: "2026-09-15T10:54:37.114028+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-07-03 – 2026-07-26"
 ---
@@ -46,12 +46,6 @@ Aŭskultu EsperRadion, la fratecan radion!
 
 Laura Brazzabeni
 
-2
-
-1
-
-1
-
 Laura Brazzabeni estas itala esperantistino kaj la prezidanto de Itala Esperanto-Federacio. Ŝi estas la Ĝenerala Direktoro de Itala Instituto de Esperanto, kie ŝi okupiĝas pri instruado kaj kunordigado de ekzamenoj. Ŝi ankaŭ okupiĝas pri kongresoj por Internacia Ligo de Esperantistaj Instruistoj (ILEI).
 
 astronomio: scienco pri la steloj kaj aliaj ĉielaj objektoj.
@@ -95,12 +89,6 @@ UN: Unuiĝintaj Nacioj.
 
 [Embed] https://www.youtube.com/embed/tgOim_jBbao?width=100%25&height=86.25
 
-1
-
-1
-
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
-
 
 ---
 
@@ -131,8 +119,6 @@ UEA invitas ĉiujn parolantojn de Esperanto, kaj ankaŭ neesperantistajn amikojn
 La konkurso “Vikio Amas ZEO-jn” kongruas kun la strategio AKIRI de UEA, precipe en la kampo Kunlaborado. Se vi deziras subteni la laboron de UEA, la plej bona maniero por fari tion estas per membriĝo aŭ donacado.
 
 Fonto: Gazetara komuniko de UEA n-ro 1311 (2026-07-10)
-
-2
 
 aktuala: nuntempa.
 
@@ -217,8 +203,6 @@ Alessandra Madella Miora Raveloharison
 
 La plena intervjuo kun Miora estas legebla ĉi tie: https://esperanto.cgtn.com/2026/06/17/ARTI1781669002224197 Intervjuis ŝin Alessandra Madella.
 
-2
-
 Alessandra Madella estas italino, nun loĝanta en Ĉinujo. Ŝi instruas Interkulturan Komunikadon kaj Esperanton ĉe la Universitato de Zaozhuang. Ŝi estas vic-prezidanto de ILEI (Internacia Ligo de Esperantistaj Instruistoj).
 
 Miora Raveloharison estas madagaskara esperantistino, estrarano de la Afrika Komisiono kaj la Virina Komisiono de UEA, kunfondinta de Esperantista Virina Asocio en Afriko (EVAA), membro de Internacia Ligo de Esperantistaj Instruistoj (ILEI) en Madagaskaro, honora membro de la landa asocio Unuiĝa Malagasa Esperantisto (UME), honora membro de Kristana Esperantista Ligo Internacia (KELI) en Madagaskaro. Ŝi estas pastorino kaj doktorino, instruista esploristino.
@@ -264,8 +248,6 @@ respondeco: la devo okupiĝi pri plenumado de iu agado kaj respondi al plendoj a
 
 [Embed] https://www.youtube.com/embed/TiOOJuwtaqQ?width=100%25&height=86.25
 
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
-
 
 ---
 
@@ -307,8 +289,6 @@ Por aliĝi kaj ricevi informojn, alklaku la ligilon . Ĝis baldaŭ en la bela It
 
 Laura Brazzabeni
 
-2
-
 Laura Brazzabeni estas itala esperantistino kaj la prezidanto de Itala Esperanto-Federacio. Ŝi estas la Ĝenerala Direktoro de Itala Instituto de Esperanto, kie ŝi okupiĝas pri instruado kaj kunordigado de ekzamenoj. Ŝi ankaŭ okupiĝas pri kongresoj por Internacia Ligo de Esperantistaj Instruistoj (ILEI).
 
 aktuala: nuntempa
@@ -347,10 +327,6 @@ teamo: grupo de kunludantoj en sporto aŭ ludo; grupo de homoj, kiuj agas kune p
 **Categories:** Filmetoj
 
 [Embed] https://www.youtube.com/embed/xYHyIRgtOWs?width=100%25&height=86.25
-
-1
-
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
 
 
 ---

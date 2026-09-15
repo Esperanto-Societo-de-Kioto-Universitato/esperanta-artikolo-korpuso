@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-03-03T10:42:50.395576+00:00"
+generated_at: "2026-09-15T10:54:36.782026+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-04-01 – 2025-04-30"
 ---
@@ -32,8 +32,6 @@ Hodiaŭ, la ekstera komerco de Shaanxi estas efika kaj oportuna, kaj novaj indu
 
 Redaktoro: Xie Ruifeng
 
-<span style="font-family: "times new roman"; font-size: 20px;">Ĉinaj savteamoj savadas en Birmo post tertremo - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -52,8 +50,6 @@ El Popola Chinio
 Je la 12-a horo kaj 15 minutoj de la 31-a de marto laŭ la loka tempo, la unuaj urĝsavaj materialoj donitaj de Ĉinio al Birmo atingis la landon. Ili inkludas 1 200 tendojn, 8 000 lankovrilojn kaj 40 000 pakojn de urĝsavaj objektoj. Sekvaj materialoj atingos Birmon poste.
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Ĉinaj savteamoj savadas en Birmo post tertremo - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -98,8 +94,6 @@ Novaj Perspektivoj por Kampara Revigliĝo — Esploroj kaj Praktikoj en Nujiang
 
 Raportis: Rafael Henrique Zerbetto
 
-<span style="font-family: "times new roman"; font-size: 20px;">Shaanxi: Liberkomerca zono por altnivela pordmalfermo - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -126,8 +120,6 @@ Kunlabore kun registaro, firmaoj kaj sciencaj institucioj, la parko aplikas la s
 Partoprenantoj de ĉijara Nujiang-forumo vizitas la parkon kaj vidas lokajn produktojn.
 
 Raportis kaj fotis: Rafael Henrique Zerbetto
-
-<span style="font-family: "times new roman"; font-size: 20px;">Shaanxi: Liberkomerca zono por altnivela pordmalfermo - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -158,8 +150,6 @@ En la registara servocentro troviĝas manĝejo, kie maljunuloj povas manĝi senp
 
 Verkis kaj fotis: Rafael Henrique Zerbetto
 
-<span style="font-family: "times new roman"; font-size: 20px;">Nujiang-a Industria Parko pri Verdaj Spicaĵoj - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -188,8 +178,6 @@ Montaro rigardata el la vilaĝo
 La domoj en la vilaĝo estis renovigitaj, turismo alportis oportunon al vilaĝanoj entrepreni en malsamaj negocoj kaj donis al lokaj metiistoj ŝancon vendi siajn etnajn manartaĵojn, kio ne nur alportas al ili profiton, sed ankaŭ kontribuas por protekti kaj heredigi tiujn teknikojn. Antaŭe multaj gejunuloj forlasis la vilaĝon por serĉi laboron en aliaj lokoj, pro la manko de ekonomiaj perspektivoj surloke. Kiam la vilaĝo ekprosperis tiurilate, plejparto de tiuj gejunuloj propravole revenis por dungiĝi aŭ estigi propran negocon en la vilaĝo.
 
 Raportis kaj fotis: Rafael Henrique Zerbetto
-
-<span style="font-family: "times new roman"; font-size: 20px;">Translokigitoj kunvivas en harmonio en Yunnan - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -226,8 +214,6 @@ Antaŭ ol mia foriro, mi vizitis komputilejon, kie lernantoj estis praktikantaj 
 
 Raportis: Rafael Henrique Zerbetto
 
-<span style="font-family: "times new roman"; font-size: 20px;">Nujiang-a Industria Parko pri Verdaj Spicaĵoj - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -251,8 +237,6 @@ Homoj pendigas serurojn proksime de la arbo pro la kredo, ke tio alportos al ili
 
 Raportis kaj fotis: Rafael Henrique Zerbetto
 
-<span style="font-family: "times new roman"; font-size: 20px;">Nujiang-a Industria Parko pri Verdaj Spicaĵoj - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -275,8 +259,6 @@ En la ateliero laboras nur virinoj, kaj ili povas kunporti infanojn al la labore
 Por tiuj virinoj, kiuj kreskis en montaro kaj ne havis multajn edukajn oportunojn, tiu laboro estas valora helpo al familia enspezo: Multaj enspezas pli ol 2 000 juanojn monate, kaj kelkaj sukcesas enspezi eĉ pli ol 3 000 juanojn. Pli grave, ke iliaj infanoj havas facilan aliron al edukado kaj havos pli bonajn laboroportunojn en estonteco.
 
 Raportis kaj fotis: Rafael Henrique Zerbetto
-
-<span style="font-family: "times new roman"; font-size: 20px;">Miljara arbo en Yunnan - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -307,8 +289,6 @@ Krome, la kompanio lanĉis serion da mansakoj por virinoj. Laŭ dulong-a tradici
 
 Raportis kaj fotis: Rafael Henrique Zerbetto
 
-<span style="font-family: "times new roman"; font-size: 20px;">Miljara arbo en Yunnan - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -325,8 +305,6 @@ El Popola Chinio
 En la vilaĝo Yangpo de la urbo Lushui en Yunnan-provinco, sudokcidenta Ĉinio, troviĝas bela librejo, kiu famiĝis en ĉinaj sociaj retejoj kaj allogis multajn turistojn al la vilaĝo por fotiĝi tie. La librejo estis desegnita por profiti la deklivon de la monto por doni al vizitantoj privilegian rigardon de la ĉirkaŭa pejzaĝo kaj ankaŭ havas grandegajn fenestrojn por profiti sunlumon kaj eviti konsumadon de elektro.
 
 Raportis kaj fotis: Rafael Henrique Zerbetto
-
-<span style="font-family: "times new roman"; font-size: 20px;">Teksaĵoj de la etno Dulong: Nemateria kultura heredaĵo - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -359,8 +337,6 @@ Pluraj kafoproduktoj, kun malsamaj gustoj kaj aromoj, disvolvitaj surloke
 
 Raportis kaj fotis: Rafael Henrique Zerbetto
 
-<span style="font-family: "times new roman"; font-size: 20px;">Teksaĵoj de la etno Dulong: Nemateria kultura heredaĵo - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -385,8 +361,6 @@ Etnaj muzikistoj koncertas en la loka kafejo.
 Vizitantoj povas gustumi kaj aĉeti lokan alkoholaĵon el rizo.
 
 Raportis kaj fotis: Rafael Henrique Zerbetto
-
-<span style="font-family: "times new roman"; font-size: 20px;">Teksaĵoj de la etno Dulong: Nemateria kultura heredaĵo - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -417,8 +391,6 @@ Laŭ esplorado de la Usona Departemento pri Agrikulturo, la unua komerca milito 
 
 Redaktoro: Xie Ruifeng
 
-<span style="font-family: "times new roman"; font-size: 20px;">Librejo sur montopinto en yunnan-a vilaĝo - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -439,8 +411,6 @@ La ĉina registaro publikigis la dokumenton por klarigi la faktojn pri ĉin-uson
 La blanka libro venis pro kreskanta unuflankismo kaj protektismo de Usono, kio signife malhelpas normalan ekonomian kaj komercan kunlaboron inter la du landoj. La ĉina flanko ĉiam asertis, ke la ĉin-usonaj rilatoj estas reciproke utilaj kaj kungajnaj.
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Librejo sur montopinto en yunnan-a vilaĝo - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -490,8 +460,6 @@ Ni do devas demandi nin, kial oni ĝis nun diradis en la mondo, ke Zamenhof esta
 En la paĝo 55 de la libro Vivo de Zamenhof de Edmond Privat aperas jenaj vortoj: Tiam lia penso jam reﬂugis al Bjalistoko en litva lando, al dolĉa kamparo ĉirkaŭ la urbeto, al la pejzaĝo de la knabaj promenadoj, kiam suno en la vespero ruĝigas la montetojn kaj nigrigas la linion de la arbaroj.
 
 Kaj eble la dua kialo devus esti tio, ke la urbo, kie loĝis Zamenhof, kiam li publikigis Esperanton, ne estis Bjalistoko, sed Varsovio de Pollando. Lia familio translokiĝis de Bjalistoko al Varsovio en 1873, kiam li estis 14-jara. De tiam ĝis sia morto li loĝis ĉefe en tiu urbo. Ni do povas diri ekzakte, ke la naskiĝloko de Zamenhof estas Bjalistoko de Litovio, kaj la naskiĝloko de la internacia helplingvo Esperanto, kiun li inventis, estas Varsovio de Pollando.
-
-<span style="font-family: "times new roman"; font-size: 20px;">Scenoj de ĉiutaga vivo en etna vilaĝo de Yunnan - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -580,8 +548,6 @@ alfrontas pli grandan premon, ĉar la pliigitaj tarif-kostoj povas esti egalaj a
 
 Redaktoro: Xie Ruifeng
 
-<span style="font-family: "times new roman"; font-size: 20px;">Librejo sur montopinto en yunnan-a vilaĝo - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -604,8 +570,6 @@ Freneza pliigo de tarifo ne povas serioze influi sur la ĉinan ekonomion. Kiel a
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Kiu landano estas Zamenhof? - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -666,8 +630,6 @@ La forumo finiĝis per prezento de koruso de ĉinaj kaj alilandaj lernantoj.
 
 Raportis: Rafael Henrique Zerbetto
 
-<span style="font-family: "times new roman"; font-size: 20px;">Ĉinio publikigis blankan libron pri ĉin-usonaj komercaj rilatoj - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -691,8 +653,6 @@ Li faris la rimarkojn en skribita deklaro post sia atingo en la Internacia Flu
 
 Redaktoro: Xie Ruifeng
 
-<span style="font-family: "times new roman"; font-size: 20px;">Kiu landano estas Zamenhof? - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -710,8 +670,6 @@ Hanojo, ĉefurbo de Vjetnamio, estas antikva urbo kun miljara historio. En la ur
 
 Redaktoro: Xie Ruifeng
 
-<span style="font-family: "times new roman"; font-size: 20px;">Xi Jinping atingis Hanojon por ŝtata vizito al Vjetnamio - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -728,8 +686,6 @@ El Popola Chinio
 Pasta modelado estas nemateria kultura heredaĵo populara en tuta Ĉinio, kaj en kelkaj regionoj de la lando ĝi akiris lokajn trajtojn kaj teknikojn. Interalie, en la urbo Heze de Shandong-provinco, tiu arto estas agnoskata ne nur kiel nemateria kultura heredaĵo, sed ankaŭ kiel reprezenta heredaĵo de la popolo de Heze. Jen la laboro de Su Yanjun, heze-a artisto, kiu sin dediĉas al pasta modelado ekde sia infaneco kaj lernis la teknikon el la majstro Shi Zhenshan. Ŝiaj verkoj nun troveblas en pluraj artgalerioj kaj personaj kolektoj. Unu el ŝiaj specialaĵoj estas modeli peoniojn, kiuj estas tradicio de Heze. Kiam peonioj burĝonas kaj allogas multajn homojn al la peonia ĝardeno Caozhou, Su kaptas la ŝancon por diskonigi sian arton.
 
 Raportis kaj fotis: Rafael Henrique Zerbetto
-
-<span style="font-family: "times new roman"; font-size: 20px;">Pejzaĝoj de Hanojo, Vjetnamio - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -800,8 +756,6 @@ Mia vizito al Heze estis rapida, sed mi revenis al Pekino konvinkita, ke egaleca
 
 Verkis kaj fotis: Rafael Henrique Zerbetto
 
-<span style="font-family: "times new roman"; font-size: 20px;">Pejzaĝoj de Hanojo, Vjetnamio - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -827,8 +781,6 @@ Kuraciloj el peonioj. La kuraca povo de peonioj estas delonge konata de tradicia
 
 Raportis kaj fotis: Rafael Henrique Zerbetto
 
-<span style="font-family: "times new roman"; font-size: 20px;">Heze plifortigas rilatojn kun la mondo per "peonia diplomatio" - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -845,8 +797,6 @@ El Popola Chinio
 La urbo Heze de Shandong-provinco, orienta Ĉinio, estas fama pro siaj peonioj, tie kultivataj jam de 1 500 jaroj. Kun klimato aparte favora por kreskado de peonioj, Heze fieras pri la beleco de tiuj floroj kreskantaj tie, kaj nuntempe eksportas peoniajn plantidojn, florojn kaj produktojn faritajn el peonioj al 30 landoj. En printempo, kiam burĝonas peonioj, Heze ricevas multajn turistojn, kiuj iras tien por admiri tiujn belajn florojn. Jen kelkaj belaj peonioj fotitaj en Heze ĉi-jare!
 
 Raportis kaj fotis: Rafael Henrique Zerbetto
-
-<span style="font-family: "times new roman"; font-size: 20px;">Peonioj antaŭenigas ekonomian disvolvon de ĉina urbo - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -877,8 +827,6 @@ En printempo, turistoj ŝatas viziti la ĝardenon por ĝui la belecon de peonioj
 
 Raportis kaj fotis: Rafael Henrique Zerbetto
 
-<span style="font-family: "times new roman"; font-size: 20px;">Peonioj pompas en Heze - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -904,8 +852,6 @@ Tran Thanh Man diris, ke Vjetnamio kaj Ĉinio, ligitaj per montoj kaj riveroj, f
 
 Redaktoro: Xie Ruifeng
 
-<span style="font-family: "times new roman"; font-size: 20px;">La peonia ĝardeno Caozhou en Heze - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -929,8 +875,6 @@ Li alvokis la du flankojn antaŭenigi kunlaboron en modernigaj klopodoj, kune pl
 
 Redaktoro: Xie Ruifeng
 
-<span style="font-family: "times new roman"; font-size: 20px;">La peonia ĝardeno Caozhou en Heze - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -951,8 +895,6 @@ En la sama tago li renkontiĝis kun malajzia ĉefministro Anwar Ibrahim. Xi Jinp
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Xi Jinping atingis Kuala-Lumpuron por ŝtata vizito al Malajzio - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -977,8 +919,6 @@ Li substrekis, ke Ĉinio firme subtenas Kamboĝon en strategia sendependeco kaj
 
 Redaktoro: Xie Ruifeng
 
-<span style="font-family: "times new roman"; font-size: 20px;">Xi Jinping atingis Kuala-Lumpuron por ŝtata vizito al Malajzio - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -1002,8 +942,6 @@ Hun Sen diris, ke Kamboĝo firme sekvas la principon de unu Ĉinio, subtenas ĉi
 
 Redaktoro: Xie Ruifeng
 
-<span style="font-family: "times new roman"; font-size: 20px;">Xi Jinping atingis Pnompenon por ŝtata vizito al Kamboĝo - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -1026,8 +964,6 @@ Hun Manet diris, ke Kamboĝo kaj Ĉinio longtempe respektas unu la alian kaj tra
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Xi Jinping atingis Pnompenon por ŝtata vizito al Kamboĝo - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -1062,8 +998,6 @@ La repertuaro de la koncerto inkludis konatajn kantojn de brazila popolmuziko, v
 
 Raportis: Rafael Henrique Zerbetto
 
-Xi Jinping atingis Pnompenon por ŝtata vizito al Kamboĝo - esperanto.china.org.cn
-
 El Popola Chinio
 
 
@@ -1087,8 +1021,6 @@ La gvidlinio ankaŭ alvokas la aplikadon de ciferecaj fakturoj kaj subskriboj. 
 
 Redaktoro: Xie Ruifeng
 
-<span style="font-family: "times new roman"; font-size: 20px;">Brazila Duo de Lucas koncertis en Ĉinio - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -1105,8 +1037,6 @@ El Popola Chinio
 La 23-an de aprilo la teamo de la tri ĉinaj astronaǔtoj de Shenzhou-20 salutis la publikon. Ili estas Chen Dong (meze), Chen Zhongrui (dekstre) kaj Wang Jie (maldekstre). Ĉinio planas lanĉi Shenzhou-20 je la 17-a horo kaj 17 minutoj de la 24-a aprilo.
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Brazila Duo de Lucas koncertis en Ĉinio - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -1183,8 +1113,6 @@ En tiu ĉi komplika momento, Ĉinio fariĝis insulo de saĝeco. Ĉinoj rimarkas,
 
 Verkis: Rafael Henrique Zerbetto
 
-<span style="font-family: "times new roman"; font-size: 20px;">Brazila Duo de Lucas koncertis en Ĉinio - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -1203,8 +1131,6 @@ La monde unua duonmaratono de homaspektaj robotoj sukcese okazis en Yizhuang de 
 Esperantigis: Rafael Henrique Zerbetto
 
 Fonto: Global Times
-
-<span style="font-family: "times new roman"; font-size: 20px;">Anoncitaj la tri ĉinaj astronaǔtoj de Shenzhou-20 - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -1230,8 +1156,6 @@ Li diris, ke se Usono firme decidas lanĉi tarifan kaj komercan militon, Ĉinio 
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Unuafoje okazis la pekina duonmaratono de homaspektaj robotoj - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -1260,8 +1184,6 @@ Tradukis: Rafael Henrique Zerbetto
 
 Fonto: Brazila Ambasadorejo en Ĉinio
 
-<span style="font-family: "times new roman"; font-size: 20px;">Ĉinio publikigis gvidlinion pri plibonigo de provaj liberkomercaj zonoj - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -1285,8 +1207,6 @@ Redaktis: Rafael Henrique Zerbetto
 
 Fonto: GICExpat
 
-<span style="font-family: "times new roman"; font-size: 20px;">Usono devas dialogi kun Ĉinio surbaze de egaleco, respekto kaj reciproka profito - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -1305,8 +1225,6 @@ La 24-an de aprilo Ĉinio lanĉis la kosmoŝipon Shenzhou-20. Je la 1-a horo
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">"Batu friponon", koktelo servata kun sandalo en kantona drinkejo - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -1329,8 +1247,6 @@ En lastaj jaroj, heredantoj de tiu ĉi nemateria kultura heredaĵo enkondukis no
 
 Redaktoro: Xie Ruifeng
 
-<span style="font-family: "times new roman"; font-size: 20px;">Brazila Duo de Lucas koncertis en Ĉinio - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -1351,8 +1267,6 @@ La kompilo de la Ekologia Media Kodo estis iniciatita en 2023. Ĝi celas, sub l
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Fiŝforma lanterno en Anhui de Ĉinio - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -1381,8 +1295,6 @@ Tradukis: Rafael Henrique Zerbetto
 
 Fonto: Brasil 247
 
-<span style="font-family: "times new roman"; font-size: 20px;">Ĉinio publikigis projekton de Ekologia Media Kodo - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -1405,8 +1317,6 @@ Li poste eniris vendejon de AI-produktoj, kie li detale demandis pri la funkcioj
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Ĉinio publikigis projekton de Ekologia Media Kodo - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -1434,8 +1344,6 @@ Samtempe, la komerco de sci-intensaj servoj kreskis je 2.6% kompare kun la sama 
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Ĉinio publikigis projekton de Ekologia Media Kodo - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -1530,8 +1438,6 @@ Verkis Choi Manwon (profesoro de Esperanta fako ĉe Zaozhuang-a Universitato)
 
 Redaktoro: Sheng Min
 
-<span style="font-family: "times new roman"; font-size: 20px;">Servokomerco de Ĉinio solide kreskis en unua trimestro - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -1592,8 +1498,6 @@ El Popola Ĉinio
 Verkita de Zhang Changsheng
 
 Redaktoro: Sheng Min
-
-<span style="font-family: "times new roman"; font-size: 20px;">Servokomerco de Ĉinio solide kreskis en unua trimestro - esperanto.china.org.cn</span>
 
 El Popola Chinio
 

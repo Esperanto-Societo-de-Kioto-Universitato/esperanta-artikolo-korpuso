@@ -1,6 +1,6 @@
 ---
 source: "UEA Facila (uea.facila.org)"
-generated_at: "2026-03-03T10:41:51.156623+00:00"
+generated_at: "2026-09-15T10:54:37.054210+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-07-11 – 2025-07-27"
 ---
@@ -64,10 +64,6 @@ Trevor Steele Simpligis la artikolon Ahmad Mamduhi
 
 La arto labori kune. Festlibro por Humphrey Tonkin. Red. Detlev Blanke kaj Ulrich Lins. UEA. Rotterdam. 2010. 901 paĝoj. ISBN 978-92-9017-113-3 Prezo: 45.00 € Sed nur fragmento. Trevor Steele. Mondial. Novjorko. 2020 (3a eld). 429 paĝoj. ISBN 978-1595694072 Prezo: 28.50 €
 
-6
-
-2
-
 Trevor Steele estas aŭstralia verkisto, kiu de 55 jaroj instruas Esperanton kaj verkas en ĝi. Preskaŭ 20 verkoj liaj aperis libroforme, kaj li instruis Esperanton en diversaj landoj. Nuntempe li instruas plejparte rete.
 
 Ahmad Mamduhi estas irana arkitekto, urb-fasonisto kaj esperantisto. Ekde 2021, li estas prezidanto de ILEI (Internacia Ligo de Esperantistaj Instruistoj) kaj, ekde 2022, membro de la Akademio de Esperanto.
@@ -105,8 +101,6 @@ rubujo: ujo por teni forĵetitajn kaj nedeziratajn aferojn.
 
 [Embed] https://www.youtube.com/embed/KPRp0hh-11k?width=100%25&height=86.25
 
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
-
 
 ---
 
@@ -119,8 +113,6 @@ rubujo: ujo por teni forĵetitajn kaj nedeziratajn aferojn.
 **Categories:** Filmetoj
 
 [Embed] https://www.youtube.com/embed/5oh87FZUYqE?width=100%25&height=86.25
-
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
 
 
 ---
@@ -154,10 +146,6 @@ Krom siaj intelektaj kontribuoj, la islama mondo grave influis la socian kaj rel
 Nuntempe, tia toleremo estas foje malfacile trovebla ĉe ambaŭ flankoj. Sed estas certe, ke Islamo ne estas religio enportita de enmigrintoj nur ekde la dudeka jarcento. Ĉu ni ne pripensu tion pli ofte? Precipe nun, kiam Islamo foje estas vidata kiel “malamiko de la Okcidento” en la dividita Eŭropo.
 
 Jessie Cecilia
-
-5
-
-1
 
 Jessie Cecilia (1977) estas nederlandano, kiu laboras kiel verkisto por neprofitcelaj organizaĵoj. En sia libertempo ŝi ŝatas legi librojn kaj lerni fremdajn lingvojn. En majo 2022 ŝi eklernis Esperanton. Sekvu Jessie Cecilia per Tvitero (@Cecilialanguage) aŭ Instagramo (@cecilia_language).
 
@@ -244,10 +232,6 @@ Sed la turo Borĝ Ĥalifa sendube ne longe restos la plej alta konstruaĵo en la
 
 Craig Williams
 
-4
-
-1
-
 Craig Williams estas nov-zelanda esperantisto. Li estas emerito kaj nuntempe loĝas en Francio kaj Anglio. Li antaŭe laboris kiel muzikisto, komputikisto kaj administranto
 
 amaralido: speco de floro.
@@ -298,10 +282,6 @@ turo: konstruaĵo tre alta sed ne tre larĝa.
 **Categories:** Filmetoj
 
 [Embed] https://www.youtube.com/embed/E72jru9x8kE?width=100%25&height=86.25
-
-1
-
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
 
 
 ---

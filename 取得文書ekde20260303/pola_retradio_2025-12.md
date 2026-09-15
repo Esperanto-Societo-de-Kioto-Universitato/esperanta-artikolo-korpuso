@@ -1,6 +1,6 @@
 ---
 source: "Pola Retradio (pola-retradio.org)"
-generated_at: "2026-03-03T10:42:16.462047+00:00"
+generated_at: "2026-09-15T10:54:37.026179+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-12-01 – 2025-12-31"
 ---
@@ -15,8 +15,6 @@ time_range: "2025-12-01 – 2025-12-31"
 **Categories:** Elsendoj
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/12/RetRadio_30.11.2025_ndz_M_1440.mp3
-
-Podkasto: Ludu en nova fenestro | Elŝutu
 
 En la 1440-a E_elsendo el la 30.11.2025 ĉe www.pola-retradio.org:
 
@@ -87,8 +85,6 @@ El la elsendo 05.12.2025 – 04′ 21″
 **Categories:** Elsendoj
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/12/RetRadio_05.12.2025_pt_V_1441.mp3
-
-Podkasto: Ludu en nova fenestro | Elŝutu
 
 En la 1441-a E_elsendo el la 05.12.2025 ĉe www.pola-retradio.org:
 
@@ -174,8 +170,6 @@ Vi povas uzi nian UEA-konton vars-t aŭ kontribui uzante tiun ĉi paĝon: https:
 **Categories:** Elsendoj
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/12/RetRadio_10.12.2025_sr_M_1442.mp3
-
-Podkasto: Ludu en nova fenestro | Elŝutu
 
 En la 1442-a E_elsendo el la 10.12.2025 ĉe www.pola-retradio.org:
 
@@ -298,8 +292,6 @@ El la elsendo 20.12.2025 – 06′ 14″
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/12/RetRadio_20.12.2025_sob_M_1443.mp3
 
-Podkasto: Ludu en nova fenestro | Elŝutu
-
 En la 1443-a E_elsendo el la 20.12.2025 ĉe www.pola-retradio.org:
 
 • En la hodiaŭa elsendo kadre de Leterkesto ni interparolas kun Tamara t.e. Haesim PAK el la Suda Koreio pri la uzo de E-elsendoj en ŝia aŭtuna-printempa kurso por koreaj esperantistoj, ĉefe por trejni la kapablon aŭskuli la parolatan lingvon. • En ampleksa kulturtema kroniko – post la kalendarfoliaj informoj ligitaj kun la 20.12 – ni informas pri arĝentaĵoj de la varsoviaj firmaoj nun en konstanta ekspozicio; pri la nunjara eldono de la krakova konkurso por la kristnaskaj kripetoj; pri nova registro el Pollando en la listo de Unesko-heredaĵo; pri arasoj (murtapiŝoj) kaj modernaj figuraj teksaĵoj (abakanoj) en Wawel-kastelo. • En la E-komunuma segmento ni informas pri pliaj progresoj por okazigo de la 113-a UK en Litovio. Ni memorigas, ke ĝis la fino de la kristnaska IKUE-konkurso restas nur tri tagoj. • Muzike akompanas nin fragmente la kanzono „Oceano” el la bita albumeto de Vojaĝo aperinta ĉe Vinilkosmo. La reta foto ĉe la programinformo ilustras la salikbranĉan korboplektadon el Pollando, nun en la listo de Unesko. • En unuopaj rubrikoj de nia paĝo eblas konsulti la paralele legeblajn kaj aŭdeblajn tekstojn el niaj elsendoj, kio estas tradicio de nia redakcio ekde 2003. La elsendo estas aŭdebla en Jutubo ĉe la adreso: https://www.youtube.com/results?q=pola+retradio&sp=CAI%253D Interalie pere de Jutubo, konforme al individua bezono, eblas rapidigi aŭ malrapidigi la parolritmon de la sondokumentoj; eblas transsalti al ajna serĉata fragmento de la elsendo.
@@ -316,8 +308,6 @@ En la 1443-a E_elsendo el la 20.12.2025 ĉe www.pola-retradio.org:
 **Categories:** Elsendoj
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/12/RetRadio_25.12.2025_czw_V_1444.mp3
-
-Podkasto: Ludu en nova fenestro | Elŝutu
 
 En la 1444-a E_elsendo el la 25.12.2025 ĉe www.pola-retradio.org:
 
@@ -475,8 +465,6 @@ El la elsendo 30.12.2025 – 10′ 04″
 **Categories:** Elsendoj
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/12/RetRadio_30.12.2015_sr_M_1445.mp3
-
-Podkasto: Ludu en nova fenestro | Elŝutu
 
 En la 1445-a E_elsendo el la 30.12.2025 ĉe www.pola-retradio.org:
 

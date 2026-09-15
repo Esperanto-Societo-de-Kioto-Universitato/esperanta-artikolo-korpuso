@@ -1,6 +1,6 @@
 ---
 source: "UEA Facila (uea.facila.org)"
-generated_at: "2026-03-03T10:41:51.172732+00:00"
+generated_at: "2026-09-15T10:54:37.060635+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-10-04 – 2025-10-29"
 ---
@@ -15,8 +15,6 @@ time_range: "2025-10-04 – 2025-10-29"
 **Categories:** Filmetoj
 
 [Embed] https://www.youtube.com/embed/JWVs1t1lJkU?width=100%25&height=86.25
-
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
 
 
 ---
@@ -50,12 +48,6 @@ Stead estis unu el la pasaĝeroj sur la fama ŝipego Titanic, kiu pereis en la j
 En januaro de la jaro 2012, cent jarojn post la pereo de Titanic, kunvenis apud la memor-tabulo pri Stead  kelk-deko da nuntempaj gazetistoj. Tie ili publike montris respekton por sia kolego antaŭlonge droninta, kaj poste en trinkejo ili tostis lian memoron. Partoprenis ankaŭ kelkaj invititoj, inter ili tri membroj de Londona Esperanto-Klubo (LEK), kiun Stead kunfondis en la jaro 1903. Li ne nur fondis la klubon, sed vigle kaj malavare subtenis ĝin. En lia oficejo okazis kunsidoj de klubaj oficuloj, kaj tie preparis klubajn dokumentojn lia sekretariino, Eliza Lawrence. Ŝi mem estis konvinkita esperantistino kaj posta honora vicprezidanto de LEK. Stead estis ĝia unua kasisto , kaj per propra mono certigis ĝian kapablon pluvivi. Tial ne nur gazetistoj sed ankaŭ esperantistoj havas kaŭzon lin danki, pro lia “senlaca preteco servi aliajn homojn”.
 
 Terry Page
-
-5
-
-2
-
-1
 
 Terry Page estas angla esperantisto, kaj emerita instruisto pri kemio kaj fiziko. Li entuziasme eklernis Esperanton en la jaro 1956, eĉ ne sciante tiam, ĉu iu alia ankoraŭ uzas la lingvon. Tri jarojn poste li aliĝis al la ĵus-fondita Junularo Esperantista Brita, kaj partoprenis en organizado de Internacia Junulara Kongreso (Wokingham, 1961). Dum jardekoj oficinte kiel komitatano de divers-specaj organizaĵoj esperantismaj, li lastatempe membris en la Konsilantaro (t.e. administra komitato) de Londona Esperanto-Klubo.
 
@@ -116,8 +108,6 @@ Wikipedia / Göteborgs konstmuseum. Foto: Hossein Sehatlou. CC BY 4.0
 
 [Embed] https://www.youtube.com/embed/Mljkczud_c0?width=100%25&height=86.25
 
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
-
 
 ---
 
@@ -146,8 +136,6 @@ De 2021, la Eŭropa Centra Banko (ECB) petis specialistojn esplori tiun temon. E
 Ricevinte proponojn per publika konkurso, grupo de sendependaj fakuloj elektos kvin proponojn por ĉiu temo. Fine de la jaro 2026 la estraro de ECB elektos la gajnintan proponon. La novaj biletoj estos presitaj en 2027, 25 jarojn post la enkonduko de la unuaj.
 
 Laurent Ramette
-
-4
 
 Laurent Ramette estas franca esperantisto, iama tradukisto kaj aktuale juristo. Li loĝas en Luksemburgo, kie li laboras en la Tribunalo de la Eŭropa Unio. Krom pri sia fako li aparte interesiĝas pri literaturo, kinarto, politiko kaj internaciaj rilatoj.
 
@@ -204,8 +192,6 @@ vitralo: fenestro (plej ofte en preĝejo) farita el divers-koloraj pecoj de vitr
 
 [Embed] https://www.youtube.com/embed/Q4ONoaRDkiI?width=100%25&height=86.25
 
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
-
 
 ---
 
@@ -260,8 +246,6 @@ Por pliaj informoj vizitu vk.esperanto.net aŭ skribu al info@vk.esperanto.net .
 
 Fonto: Gazetara Komuniko de UEA n-ro 1257 (2025-10-16)
 
-2
-
 akiri: ekhavi.
 
 aliĝi: aldoniĝi, almetiĝi, membriĝi, aparteniĝi al, iĝi partoprenanto en io.
@@ -313,8 +297,6 @@ trejnado: instruado kaj ekzercado por konduki al dezirata nivelo de kapablo.
 
 [Embed] https://www.youtube.com/embed/E1TIvV5HXe4?width=100%25&height=86.25
 
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
-
 
 ---
 
@@ -345,12 +327,6 @@ Tamen la "teo" en la saketo estis malaltkvalita. Ĝi enhavis rompitajn tigojn ka
 Malgranda saketo fiksita al ŝnuro: tiu baza modelo ne ŝanĝiĝis de pli ol cent jaroj. Ĉu kvadrataj, rondaj, aŭ piramidaj , te-saketoj estis tiel oportunaj , ke ili helpis al teo resti la preferata trinkaĵo de miliardoj da homoj tra la mondo.
 
 Myrtis Smith
-
-5
-
-1
-
-1
 
 Myrtis Smith estas usona esperantistino, inĝeniera instruisto tage kaj aspiranta artisto nokte. Ŝiaj ŝatokupoj inkluzivas verkadon, dancadon, kudradon, marŝadon kaj, kompreneble, Esperanton. Ŝi estas regula kontribuanto al uea.facila . Legu ankaŭ ŝian pli fruan artikolon pri teo: Teo: la plej amata trinkaĵo de la mondo .
 

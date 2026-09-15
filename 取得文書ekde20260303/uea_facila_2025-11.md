@@ -1,6 +1,6 @@
 ---
 source: "UEA Facila (uea.facila.org)"
-generated_at: "2026-03-03T10:41:51.178451+00:00"
+generated_at: "2026-09-15T10:54:37.063081+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-11-02 – 2025-11-29"
 ---
@@ -16,10 +16,6 @@ time_range: "2025-11-02 – 2025-11-29"
 
 [Embed] https://www.youtube.com/embed/SeAj5eMJ6Ls?width=100%25&height=86.25
 
-1
-
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
-
 
 ---
 
@@ -33,8 +29,6 @@ time_range: "2025-11-02 – 2025-11-29"
 
 [Embed] https://www.youtube.com/embed/NC4RjKm5V1w?width=100%25&height=86.25
 
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
-
 
 ---
 
@@ -47,8 +41,6 @@ time_range: "2025-11-02 – 2025-11-29"
 **Categories:** Filmetoj
 
 [Embed] https://www.youtube.com/embed/dT7BJiMNGJ8?width=100%25&height=86.25
-
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
 
 
 ---
@@ -103,8 +95,6 @@ Kelkajn monatojn poste, en februaro 2023, Dany Dattel mortis je la aĝo de 83 ja
 
 Thomas Bormann
 
-10
-
 Thomas Bormann estas germana esperantisto. Laŭprofesie li estas ĵurnalisto. Li laboris ĉe radio-stacio, sed intertempe estas emerito. Li lernis Esperanton en la 70-aj jaroj kaj aktivis en TEJO. Nun li estas ano de la komitato de UEA.
 
 bankroti: ne plu povi redoni la monon, kiun oni devus pagi pro iu jam farita servo aŭ aĉeto.
@@ -146,7 +136,7 @@ trajno: fer-voja veturilo.
 
 **Audio:** https://uea.facila.org/uploads/monthly_2025_11/KaraKatrinared.mp3.cd0be9b763247e3b6437dcc10cf4fa79.mp3
 
-Eblas aŭskulti ĉi tiun artikolon, kiun voĉlegis Maurizio 'Rico' Ĝiacometto.
+Eblas aŭskulti ĉi tiun artikolon, kiun voĉlegis Maurizio 'Rico' Giacometto.
 
 Kara Katrina : Sten Johansson, Seula Esperanto-Kulturcentro , Seulo, 2025. Prezo 5€.
 
@@ -157,8 +147,6 @@ En 2007 oni eldonis la trian libron en la serio, Katrina malfruas . Same kiel la
 Kara Katrina , same kiel la aliaj, ne estas lernolibro, sed legolibro, tre bona helpilo por komencantoj. La aŭtoro uzas simplajn vortojn kaj frazojn, kompreneblajn eĉ por tiuj, kiuj ĵus komencis lerni la lingvon kaj scias nur bazan gramatikon. Temas pri facila rakonto kun klarigoj de la malfacilaj vortoj: bona legaĵo por lernantoj, kiuj jam finis bazan kurson. La malfacileco de la teksto kreskas iom post iom dum la legado.
 
 Ĉiuj kvar Katrina-libretoj nun aperas ankaŭ kiel bit-libroj (en la formoj epub , pdf kaj Kindle ), kiuj estas aĉeteblaj ĉe Flandra Esperanto-Ligo.
-
-6
 
 Maurizio Giacometto ('Rico') estas redaktoro de la rubriko “Libroservo” en uea.facila.
 
@@ -195,8 +183,6 @@ velado : mara vojaĝado, sporto aŭ ŝatokupo per veloj, t.e. grandaj ŝtofaĵoj
 
 [Embed] https://www.youtube.com/embed/1OLUtI6-pts?width=100%25&height=86.25
 
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
-
 
 ---
 
@@ -222,10 +208,6 @@ Mi unue eksciis pri Esperanto antaŭ proksimume 35 jaroj, kiam mi havis proksimu
 **Categories:** Filmetoj
 
 [Embed] https://www.youtube.com/embed/QPKa-rqypnE?width=100%25&height=86.25
-
-1
-
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
 
 
 ---
@@ -263,10 +245,6 @@ En Barato ŝi gastis en pluraj budhismaj monaĥejoj , kaj en unu el ili ŝi renk
 En 1946 ŝi revenis al Francio kun sia adoptita filo, Aphur Yongden, sed en 1955 ankaŭ li mortis tre subite. Alexandra pluvivis kaj daŭrigis sian verkadon dum preskaŭ 14 jaroj, ĝis ŝi mem mortis 100-jara en 1969.
 
 Renée Triolle
-
-5
-
-1
 
 Renée Triolle estas franca esperantistino kaj emerita instruisto de la rusa lingvo. Ŝi malkovris Esperanton en 1957, kiam la Universala Kongreso okazis en Marsejlo. Esperanton ŝi eklernis en 1959 en vesperaj kursoj, kaj de tiam ŝi regule aktivas en la Esperanto-movado. Ŝi estis kunfondinto kaj unua prezidanto de la franca junulara asocio (1969), prezidanto de Unuiĝo Franca por Esperanto (1986-94), kaj vic-prezidanto de UEA. Ŝi verkis la lernolibron Esperanto Express , kaj nuntempe ŝi ĉefe okupiĝas pri instruado, krom multaj aliaj agadoj.
 
@@ -314,8 +292,6 @@ Sanskrito: malnova lingvo de norda Hindujo, sur kiu estas bazitaj multaj nuntemp
 **Categories:** Filmetoj
 
 [Embed] https://www.youtube.com/embed/Fbxg4I4sd18?width=100%25&height=86.25
-
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
 
 
 ---

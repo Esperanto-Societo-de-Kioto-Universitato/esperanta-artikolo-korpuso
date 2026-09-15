@@ -1,6 +1,6 @@
 ---
 source: "Pola Retradio (pola-retradio.org)"
-generated_at: "2026-03-03T10:42:16.379002+00:00"
+generated_at: "2026-09-15T10:54:36.991675+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-08-01 – 2025-08-30"
 ---
@@ -15,8 +15,6 @@ time_range: "2025-08-01 – 2025-08-30"
 **Categories:** Elsendoj
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/08/RetRadio_31.07.2025_czw_BRNO_1415.mp3
-
-Podkasto: Ludu en nova fenestro | Elŝutu
 
 En la 1415-a E_elsendo el la 31.07.2025 ĉe www.pola-retradio.org:
 
@@ -34,8 +32,6 @@ En la 1415-a E_elsendo el la 31.07.2025 ĉe www.pola-retradio.org:
 **Categories:** Elsendoj
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/08/RetRadio_02.08.2025_sob_ndz_pn_BRNO_1417.mp3
-
-Podkasto: Ludu en nova fenestro | Elŝutu
 
 En la 1416-a E_elsendo el la 02.08.2025 ĉe www.pola-retradio.org:
 
@@ -105,8 +101,6 @@ El la elsendo 07.08.2025. Legas Gabi – 01′ 58″
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/08/RetRadio_07.08.2025_czw_V_1417.mp3
 
-Podkasto: Ludu en nova fenestro | Elŝutu
-
 En la 1417-a E_elsendo el la 07.08.2025 ĉe www.pola-retradio.org:
 
 • En nia komenca kulturkroniko ni informas pri Interreta monumento omaĝe al infanaj viktimoj en Hiroŝima kaj Nagasaki; pri konstanta ekspozicio de polaj poŝtmarkoj en la Muzeo de Poŝto kaj Telekomunikado en Vroclavo; pri la nunjara Tago de la Nacia Legado (06.09) dum kiu estas legotaj tekstoj de la pola renesanca poeto Jan Kochanowski. • En la daŭro de la programo ni retrorigardas al la tagoj de la 110-a UK en Brno kaj informas reference al la Gazetaraj Komunikoj de UEA pri la novaj Honoraj Membroj, anoncitaj dum la Solena Inaŭguro kaj pri esperantistoj honoritaj per Diplomoj pro la Elstara Laboro kaj pro Elstara Arta Laboro, kiuj estis anoncitaj dum la Solena Fermo. • Muzike ni ĉerpas el malnova disko „Japanio kantas por paco” en la kunteksto de la datrevenoj de la ĵeto de atombomboj sur Hiroŝimon kaj Nagasaki. Ni prezentas tradukitan el la franca lingvo kanton de Elizabet’ Barbay,  kiun ŝi prezentis dum la Internacia Arta Vespero. Fine ni prezentas la plenan version de la muzikigita kanto de KAJTO speciale registrita por niaj aŭskultantoj. La teksto aŭtorita de Ewa B. Grochocka akiris la 3-an premion dum la BK-2025. • La programinformon akompanas interreta bildo prezentanta la elstaran renesancan polan poeton, kies tekstoj estos publike laŭtlegataj dum la Tago de la Nacia Legado, la 6-an de septembro. • En unuopaj rubrikoj de nia paĝo eblas konsulti la paralele legeblajn kaj aŭdeblajn tekstojn el niaj elsendoj, kio estas tradicio de nia Redakcio ekde 2003. La elsendo estas aŭdebla en jutubo ĉe la adreso: https://www.youtube.com/results?q=pola+retradio&sp=CAI%253D I.a. pere de jutubo, konforme al individua bezono, eblas rapidigi aŭ malrapidigi la parolritmon de la sondokumentoj, transsalti al iu serĉata fragmento de la elsendo.
@@ -123,8 +117,6 @@ En la 1417-a E_elsendo el la 07.08.2025 ĉe www.pola-retradio.org:
 **Categories:** Elsendoj
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/08/RetRadio_10.08.2025_ndz_M_1418.mp3
-
-Podkasto: Ludu en nova fenestro | Elŝutu
 
 En la 1418-a E_elsendo el la 10.08.2025 ĉe www.pola-retradio.org:
 
@@ -211,8 +203,6 @@ El la elsendo 10.08.2025. Legas Barbara – 03′ 36″
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/08/RetRadio_20.08.2025_pt_V_1419.mp3
 
-Podkasto: Ludu en nova fenestro | Elŝutu
-
 En la 1419-a E_elsendo el la 15.08.2025 ĉe www.pola-retradio.org:
 
 • Komence de la elsendo ni informas pri la  hodiaŭ solenataj en Pollando  Festo de la Polaj Armeaj Fortoj kaj la religita Festo de la Ĉielpreno de la Dipatrino. Ni informas pri la alvoko kiun direktis monakinoj, ke la 14-a de aŭgusto nunjare estu tago de fasto kaj preĝo favore al paco. Ni prezentas alvokon de la Kataluna E-Asocio pri situacio en Gazao. • En la kulturkronika bulteno ni parolas pri la 133-a Historimonumento, kiu fariĝis la Kastela-parka komplekso Książ en la sudokcidenta Pollando; pri 500 matematikaj maŝinoj per kiuj riĉiĝis la Muzeo de la Jagelona Universitato. • Sekve ni prezentas sonscenon el la 110-a UK en Brno, en kiu Aleks Kadar, ĝenerala sekretario informas pri la projekto Almanako anstataŭonta Jarlibron. Ni informas pri la divido de la estraranaj taskoj en la nova, 9-kapa estraro de UEA. • En la hodiaŭa elsendo akompanas nin Kajto per la fragmento de la kanto Frateco el la albumo Sen timo. La programinformon akompanas interreta foto pri unu el la kolekto de historiaj matematikaj maŝinoj, kiu riĉigis la Muzeon de la Jagelona Universitato en Krakovo. • En unuopaj rubrikoj de nia paĝo eblas konsulti la paralele legeblajn kaj aŭdeblajn tekstojn el niaj elsendoj, kio estas tradicio de nia Redakcio ekde 2003. La elsendo estas aŭdebla en jutubo ĉe la adreso: https://www.youtube.com/results?q=pola+retradio&sp=CAI%253D I.a. pere de jutubo, konforme al individua bezono, eblas rapidigi aŭ malrapidigi la parolritmon de la sondokumentoj, transsalti al iu serĉata fragmento de la elsendo.
@@ -298,8 +288,6 @@ El la elsendo 20.08.2025 – 12’56”
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/08/RetRadio_20.08.2025_sr_M_1419.mp3
 
-Podkasto: Ludu en nova fenestro | Elŝutu
-
 En la 1420-a E_elsendo el la 20.08.2025 ĉe www.pola-retradio.org:
 
 • Hodiaŭ en la redakcia interparolo Barbara kaj Gabi fokusiĝas pri la dorlotbestoj en Pollando, al ŝanĝoj en la ĝenerala sinteno al la bestoj, unuavice hundoj. La temon spronis la E-libro el HH-kolekto pri biografio de hundo „Bela Joe” de Margaret Marshall Saunders. • En la komencaj aktualaĵoj ni informas pri socirilataj projektoj de la pola konstrufirmao Budimex, pri la negativa sinteno de poloj reklami alkoholaĵojn. • En la scienctema rubriko ni informas pri la retrovo de la plej malnovaj spuroj de vertebruloj de antaŭ 400 milionoj da jaroj en la Sanktakruca Montaro (la suda Pollando). • Por komunaj muzikaj momentoj ni elektis fragmenton el la E-versio de la paragvaja kanzono „Indianino”, kiun kantas Neide Barros. La programinformon akompanas reta foto el la loko, en kiu en Sanktakruca Montaro estis malkovritaj la plej malnovaj spuroj de vertebruloj. • En unuopaj rubrikoj de nia paĝo eblas konsulti la paralele legeblajn kaj aŭdeblajn tekstojn el niaj elsendoj, kio estas tradicio de nia Redakcio ekde 2003. La elsendo estas aŭdebla en jutubo ĉe la adreso: https://www.youtube.com/results?q=pola+retradio&sp=CAI%253D I.a. pere de jutubo, konforme al individua bezono, eblas rapidigi aŭ malrapidigi la parolritmon de la sondokumentoj, transsalti al iu serĉata fragmento de la elsendo.
@@ -367,8 +355,6 @@ El la elsendo 25.08.2025. Legas Barbara – 01′ 32″
 **Categories:** Elsendoj
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/08/RetRadio_25.08.2025_pn_V_1421.mp3
-
-Podkasto: Ludu en nova fenestro | Elŝutu
 
 En la 1421-a E_elsendo el la 25.08.2025 ĉe www.pola-retradio.org:
 
@@ -456,8 +442,6 @@ El la elsendo 30.08.2025 -14′ 18″
 **Categories:** Elsendoj
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/08/RetRadio_30.08.2025_sob_M_1422.mp3
-
-Podkasto: Ludu en nova fenestro | Elŝutu
 
 En la 1422-a E_elsendo el la 30.08.2025 ĉe www.pola-retradio.org:
 

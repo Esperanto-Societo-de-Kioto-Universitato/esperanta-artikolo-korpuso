@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-03-03T10:42:50.375248+00:00"
+generated_at: "2026-09-15T10:54:36.775881+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-03-03 – 2025-03-31"
 ---
@@ -42,8 +42,6 @@ Tradukis: Rafael Henrique Zerbetto
 
 Fonto: 上海日报
 
-<span style="font-family: "times new roman"; font-size: 20px;">Tradicia kajtofarado estas diskonigata en bazlernejoj de Hebei - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -72,8 +70,6 @@ Indikita por esti prezidanto de ĉi-jara konferenco COP30 okazonta en Brazilo en
 Tradukis: Rafael Henrique Zerbetto
 
 Fonte: Brasil 247
-
-<span style="font-family: "times new roman"; font-size: 20px;">Lu Lihua: Nemateria kultura heredaĵo kontribuos al kampara revigligo - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -122,8 +118,6 @@ Tradukis: Rafael Henrique Zerbetto
 
 Fonto: China Daily
 
-<span style="font-family: "times new roman"; font-size: 20px;">Prezidanto de COP30: Ĉinio havas esencan rolon en klimatŝanĝiĝo - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -141,8 +135,6 @@ Posttagmeze de la 4a de marto en la Granda Popola Halo, Pekino, inaŭguriĝis la
 
 Redaktoro: Liu Zijia
 
-<span style="font-family: "times new roman"; font-size: 20px;">Ĉinstila ludado de videoludoj: Gravas konstruado - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -159,8 +151,6 @@ El Popola Chinio
 Antaǔtagmeze de la 5a de marto en la Granda Popola Halo de Pekino inaǔguriĝis la tria sesio de la 14a Tutlanda Popola Kongreso (TPK). Xi Jinping kaj aliaj gvidantoj de Ĉinio ĉeestis la malferman kunvenon.
 
 Redaktoro: Liu Zijia
-
-<span style="font-family: "times new roman"; font-size: 20px;">La mondo priatentas Ĉinion pro du sesioj - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -185,8 +175,6 @@ La raporto ankaŭ skizas aron da aliaj ĉefaj disvolvaj celoj, inkluzive de enke
 
 Redaktoro: Xie Ruifeng
 
-<span style="font-family: "times new roman"; font-size: 20px;">Ĉinio publikigis blankan libron pri fentanil-rilataj substancoj - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -203,8 +191,6 @@ El Popola Chinio
 Posttagmeze de la 5-a de marto Xi Jinping, ĉina prezidanto, ĝenerala sekretario de la Centra Komitato de la Komunista Partio de Ĉinio (KPĈ) kaj prezidanto de la Centra Milita Komisiono, aliĝis al grupa diskuto kun reprezentantoj el Jiangsu-provinco en la tria sesio de la 14-a Tutlanda Popola Kongreso (TPK). Xi urĝis la ekonomian potencon Jiangsu-provinco ludi gravan rolon en la ĝenerala disvolviĝo de Ĉinio.
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Ĉinio celas ekonomian kreskon de 5% en 2025 - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -283,8 +269,6 @@ Alilandaj dungitoj, kiuj laboras en ĉinaj amaskomunikiloj, ludos esencan rolon 
 
 Verkis: Rafael Henrique Zerbetto
 
-<span style="font-family: "times new roman"; font-size: 20px;">Lu Lihua: Nemateria kultura heredaĵo kontribuos al kampara revigligo - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -305,8 +289,6 @@ En 2023 Li Li estis elektita kiel reprezentanto de la 14-a Tutlanda Popola Kongr
 Li Li planas uzi retkomercajn platformojn por diskonigi kaj vendi kulturajn produktojn. Utiligante ĉiun platformon, ŝi klopodas, por ke ĉi tiuj unikaj kulturaj kaj kreivaj produktoj estu viditaj de pliaj konsumantoj kaj alportu realajn enspezojn al la brodistoj, tiel ke nova vigleco povos esti aldonita al etnaj kulturoj.
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Ĉinio publikigis blankan libron pri fentanil-rilataj substancoj - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -355,8 +337,6 @@ Verkis: Rafael Henrique Zerbetto
 
 Fonto: China Daily
 
-Reprezentanto de TPK: Buji-a kostumo povas kunfandiĝi kun ĉiutaga vivo - esperanto.china.org.cn
-
 El Popola Chinio
 
 
@@ -379,8 +359,6 @@ Laŭ la donitaĵoj, eksportado kreskis je 3.4% kompare kun la sama periodo de la
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Kiuj estis la ĉefaj atingoj de la du sesioj en 2025? - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -415,8 +393,6 @@ Tradukis: Rafael Henrique Zerbetto
 
 Fonto: OneTubeDaily
 
-Reprezentanto de TPK: Buji-a kostumo povas kunfandiĝi kun ĉiutaga vivo - esperanto.china.org.cn
-
 El Popola Chinio
 
 
@@ -446,8 +422,6 @@ Kazaĥa Industria Ĵurnalo
 
 Redaktoro: Xie Ruifeng
 
-<span style="font-family: "times new roman"; font-size: 20px;">Pekino plifaciligos komunikadon kaj pagon por eksterlandanoj - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -470,8 +444,6 @@ Post taksado de juĝistoj, rezulto aperis surbaze de la deklama lerteco, voĉo
 La konkurso altiris multajn lertajn deklamantojn, inkluzive de junaj komencantoj kaj veteranoj pli-ol-70-jaraj. Ili estas lernemaj, aktivaj kaj novigemaj. Iliaj deklamadoj montras tre bonan nivelon.
 
 Redaktoroj: Sheng Min kaj Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Pekino plifaciligos komunikadon kaj pagon por eksterlandanoj - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -499,8 +471,6 @@ La kurso estas forte subtenata kaj helpata de Liu Dawei, prezidanto de ĈEL,
 La malfermo de la kurso estas grava frukto de la trejnprojekto de ĈEL. Oni esperas utiligi la kurson kiel ŝancon por baki junajn esperantistojn.
 
 Redaktoroj: Gao Shuyuan kaj Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Modernigo de Ĉinio provizas al centraziaj landoj gravan referencon - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -537,8 +507,6 @@ Pli bonaj vivkondiĉoj ankaŭ kontribuas por konservado de kulturaj heredaĵoj k
 
 Verkis kaj fotis: Rafael Henrique Zerbetto
 
-<span style="font-family: "times new roman"; font-size: 20px;">Modernigo de Ĉinio provizas al centraziaj landoj gravan referencon - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -561,8 +529,6 @@ La totala areo kovrita de forstoj atingis 773 milionojn da hektaroj, kio igas �
 Ni kune verdigu la mondon!
 
 Redaktoro: Gao Shuyuan
-
-<span style="font-family: "times new roman"; font-size: 20px;">Disvolvado de Xinjiang - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -596,8 +562,6 @@ Beecher laŭdis la laboristojn pro ilia pacienco kaj helpemo, kaj ankaŭ pro ili
 Esperantigis: Rafael Henrique Zerbetto
 
 Fonto: https://english.shanghai.gov.cn/
-
-<span style="font-family: "times new roman"; font-size: 20px;">Disvolvado de Xinjiang - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -692,8 +656,6 @@ Interŝanĝoj kun Ĉinio povas instrui al Brazilo valorajn lecionojn kiel konser
 
 Verkis: Rafael Henrique Zerbetto
 
-<span style="font-family: "times new roman"; font-size: 20px;">Ŝanhaja porinfana hospitalo kontraŭbatalas lingvajn barilojn - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -710,8 +672,6 @@ El Popola Chinio
 Posttagmeze de la 17-a de marto Xi Jinping, prezidanto de Ĉinio kaj ĝenerala sekretario de la Centra Komitato de la Komunista Partio de Ĉinio (KPĈ), inspektis la gubernion Liping en qiandongnan-a mjaǔ-a kaj dong-a aǔtonoma subprovinco de la provinco Guizhou, sudokcidenta Ĉinio. Li informiĝis pri lokaj organizoj de KPĈ, socia administrado, heredado de etnaj kulturoj kaj kampara reprosperigo.
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Ŝanhaja porinfana hospitalo kontraŭbatalas lingvajn barilojn - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -735,8 +695,6 @@ Sekve, sep ĉinaj Esperanto-instruistoj prezentis sin al siaj polaj kolegoj. Amb
 Raportita de Zhang Hui
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Ŝanhaja porinfana hospitalo kontraŭbatalas lingvajn barilojn - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -762,8 +720,6 @@ Kiel grava parto de aktivadoj por la 60-a datreveno de la starigo de diplomatiaj
 La verko "Skywalker" de Wei Wanli havas profundan artkoncepton kaj avangardan videsprimon. Ĝi generas unikajn dinamikajn bildojn per AI-algoritmoj, kombinante la emocian streĉforton de abstrakta ekspresionismo kun la estetiko de futureca stilo por prezenti artan forton, kiu superas tempon kaj spacon.
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Ŝanhaja porinfana hospitalo kontraŭbatalas lingvajn barilojn - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -812,8 +768,6 @@ Verkis: Choi Manwon
 
 (Profesoro de Esperanto-fako de Zaozhaung-a Universitato)
 
-<span style="font-family: "times new roman"; font-size: 20px;">Xi Jinping inspektis Guizhou, sudokcidenta Ĉinio - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -832,8 +786,6 @@ Lastatempe en la urbo Xi'an de la provinco Shaanxi, nordokcidenta Ĉinio, pompas
 Redaktis: Rafael Henrique Zerbetto
 
 Fonto: Xinhua
-
-<span style="font-family: "times new roman"; font-size: 20px;">La monto Jiuhua, simbolo de kulturinterŝanĝo de antikva Ĉinio kaj Koreio - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -854,8 +806,6 @@ Esperantigis: Rafael Henrique Zerbetto
 
 Fonto: Global Times
 
-<span style="font-family: "times new roman"; font-size: 20px;">La monto Jiuhua, simbolo de kulturinterŝanĝo de antikva Ĉinio kaj Koreio - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -872,8 +822,6 @@ El Popola Chinio
 Posttagmeze de la 19-a de marto Xi Jinping, prezidanto de Ĉinio kaj ĝenerala sekretario de la Centra Komitato de la Komunista Partio de Ĉinio, inspektis la urbon Lijiang en la provinco Yunnan, sudokcidenta Ĉinio. Li informiĝis pri industri-ĝardeno de freŝaj floroj, antikva urb-regiono de Lijiang, aparta loka agrikulturo kaj kiel oni protektas kulturajn heredaĵojn kaj firmigas la koncepton de etna komunumo de la ĉina nacio.
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">La monto Jiuhua, simbolo de kulturinterŝanĝo de antikva Ĉinio kaj Koreio - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -892,8 +840,6 @@ Por kelkaj jaroj, la urbeto Pengzhou de Chengdu, ĉefurbo de la provinco Sichuan
 
 Redaktoro: Xie Ruifeng
 
-<span style="font-family: "times new roman"; font-size: 20px;">La monto Jiuhua, simbolo de kulturinterŝanĝo de antikva Ĉinio kaj Koreio - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -910,8 +856,6 @@ El Popola Chinio
 Printempe en la arbaro sur la montoj de la urbo Lüliang en la provinco Shanxi, granda nombro da migrantaj grizaj ardeoj konstruas nestojn, kreante unikan ekologian pejzaĝon.
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">La monto Jiuhua, simbolo de kulturinterŝanĝo de antikva Ĉinio kaj Koreio - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -943,8 +887,6 @@ La Ĉina Disvolva Forumo 2025 okazas de la 23-a ĝis la 24-a de marto. La temo d
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Industrio de legomaj semoj estas starigita en Chengdu - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -1077,8 +1019,6 @@ Tial, ni elektu bone, legu saĝe, kaj plivastigu nian vidkampon tra la riĉa pej
 
 Verkita de Wei Yubin (Jado)
 
-<span style="font-family: "times new roman"; font-size: 20px;">Grizaj ardeoj konstruas nestojn en Shanxi-provinco - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -1095,8 +1035,6 @@ El Popola Chinio
 En la lastaj jaroj She-gubernio de Anhui-provinco, Ĉinio, uzas la oportunon kreitan de populariĝo de nokta turismado. La loko aranĝis programojn de prezentadoj en la antikva urbo, kiel provo por kunfandi turismadon kaj tradician lokan kulturon.
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Grizaj ardeoj konstruas nestojn en Shanxi-provinco - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -1117,8 +1055,6 @@ Tradukis: Rafael Henrique Zerbetto
 
 Fonto: Global Times
 
-<span style="font-family: "times new roman"; font-size: 20px;">Nokta turismoprogramo en Huizhou - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -1135,8 +1071,6 @@ El Popola Chinio
 Kiam la temperaturo altiĝas en Xinghua-urbo de Jiangsu-provinco, Ĉinio, kolzofloroj ekpompis sinsekve. La ora koloro ornamas riverojn kaj vastajn kampojn, kaj el tio rezultas pejzaĝoj, kiuj allogas amasojn da turistoj.
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Nokta turismoprogramo en Huizhou - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -1163,8 +1097,6 @@ Nun, la familio de Yudron ĝuas gajan vivon. Ŝia nepo havas tibetan dolĉ-tean 
 
 Redaktoro: Xie Ruifeng
 
-<span style="font-family: "times new roman"; font-size: 20px;">Tradicia ceremonio por printempa ekvinokso en Pekino - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -1188,8 +1120,6 @@ Guo Jiakun diris, ke kiel grava membro de la azia familio kaj la gastiganta land
 
 Redaktoro: Xie Ruifeng
 
-<span style="font-family: "times new roman"; font-size: 22px;">Tradicia ceremonio por printempa ekvinokso en Pekino - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -1206,8 +1136,6 @@ El Popola Chinio
 Lastatempe ekfunkciis la model-zono de nul-karbonellaso en Boao, Hainan-provinco de Ĉinio. La model-zono starigis sistemojn de energia cirkulado, konstrua verdigo, trafika verd-optimumigo, novigita centralo, materia cirkulado, akva cirkulado, ĝardena mediamika rearanĝo, saĝigitaj entreprenoj kaj aliaj por realigi la veran nuligon de karbona ellasado. Sekve, la zono provos trovi pli da spertoj pri administrado de nul-karbonellasa urbo kaj disvastigos la spertojn al tropikaj lokoj.
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Kolzofloroj pompas en Xinghua - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -1231,8 +1159,6 @@ Nyima kaj lia patrino ricevis 23 mu-ojn (ĉirkaŭ 1.53 hektaroj) da tero, kune 
 Nun, la kvin infanoj de Nyima havas siajn proprajn familiojn kaj karierojn. Kvankam la 6.8-grada tertremo okazinta la 7-an de januaro 2025 igis la domon de Nyima neloĝebla kaj li nun devas loĝi en provizora loĝejo, tamen li ne estas maltrankvila pri la estonta vivo. "Danke al la subteno de la registaro, ni havis komfortan kaj varman vintron kun sufiĉe da manĝaĵoj. La registaro nun planas konstrui novajn domojn por ni. Niaj vivoj plu pliboniĝos," diris Nyima.
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Tradicia ceremonio por printempa ekvinokso en Pekino - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -1289,8 +1215,6 @@ Laŭ antaŭvido de la Administrejo de Civila Aviado de Ĉinio, la malaltaltituda
 
 Verkis: Rafael Henrique Zerbetto
 
-<span style="font-family: "times new roman"; font-size: 20px;">Kamparano Nyima: Nia vivo nur pliboniĝos - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -1310,8 +1234,6 @@ La libro emfazas, ke en la nova epoko kaj sur la vojaĝo de antaŭenigo al la gr
 
 Redaktoro: Xie Ruifeng
 
-<span style="font-family: "times new roman"; font-size: 20px;">Malaltaltituda ekonomio ekflugas en Ĉinio - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -1328,8 +1250,6 @@ El Popola Chinio
 Printempe floroj pompas en la kampoj de turismejo en Jinhua-urbo de Zhejiang-provinco. La turismejo okazigis programon de florfesto por ke vizitantoj povu spekti florojn, ĝui artfajraĵojn kaj sperti faradon de nemateriaj kulturaj heredaĵoj. La loka florkampo ne nur kreis multe da belaj pejzaĝoj, sed ankaŭ helpas lokanojn dungiĝi kaj enspezi.
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Tradicia ceremonio por printempa ekvinokso en Pekino - esperanto.china.org.cn</span>
 
 El Popola Chinio
 
@@ -1360,8 +1280,6 @@ Tradukis: Rafael Henrique Zerbetto
 
 Fonto: portuguese.shanghai.gov.cn
 
-Tradicia ceremonio por printempa ekvinokso en Pekino - esperanto.china.org.cn
-
 El Popola Chinio
 
 
@@ -1385,8 +1303,6 @@ Samtage ankaŭ ĉina ĉefministro Li Qiang kaj ĉina ministro pri eksterlandaj a
 
 Redaktoro: Xie Ruifeng
 
-<span style="font-family: "times new roman"; font-size: 20px;">Florfesto en Jinhua-urbo de Zhejiang-provinco - esperanto.china.org.cn</span>
-
 El Popola Chinio
 
 
@@ -1409,8 +1325,6 @@ La Blua Ĉiela Savteamo el Ĉinio komencis taksan laboron tuj post sia atingo e
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-<span style="font-family: "times new roman"; font-size: 20px;">Ŝanhajo klopodas fariĝi pli konvena por internaciaj turistoj - esperanto.china.org.cn</span>
 
 El Popola Chinio
 

@@ -1,6 +1,6 @@
 ---
 source: "Libera Folio (liberafolio.org)"
-generated_at: "2026-08-13T10:14:32.161867+00:00"
+generated_at: "2026-09-15T10:54:37.099871+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-08-02 – 2026-08-08"
 ---
@@ -329,7 +329,7 @@ Tiuj tri vortoj pri multlingvismo ne troviĝis en la versio, kiun la rezolucia l
 
 Ankaŭ tiuj, kiuj ne subtenis la akceptitan version, ĝenerale ne kontraŭis multlingvismon, sed opiniis ke la tri vortoj ne troviĝas en konvena loko. Fine la rezolucio estis akceptita preskaŭ unuanime, kun nur unu sindeteno.
 
-Inter la ceteraj aferoj estis traktita ankaŭ la detala propono de Guy Matte, kiu taskigas la estraron ĝis la fino de la jaro prepari multjaran financan planon kaj taksi la sekvojn de la proponata altigo de la membrokotizoj. Krome la estraro ĝis la fino de 2026
+Inter la ceteraj aferoj estis traktita ankaŭ la detala propono de Guy Matte, kiu taskas al la estraro ĝis la fino de la jaro prepari multjaran financan planon kaj taksi la sekvojn de la proponata altigo de la membrokotizoj. Krome la estraro ĝis la fino de 2026
 
 Prezentu la enspezojn kaj detalajn elspezojn de ĉiu fondaĵo kaj fonduso por la jaro 2025.
 
