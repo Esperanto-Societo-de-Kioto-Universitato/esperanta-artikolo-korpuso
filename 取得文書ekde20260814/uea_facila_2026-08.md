@@ -1,6 +1,6 @@
 ---
 source: "UEA Facila (uea.facila.org)"
-generated_at: "2026-09-15T10:54:37.139819+00:00"
+generated_at: "2026-09-15T16:17:07.238963+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-08-15 – 2026-08-31"
 ---
@@ -50,13 +50,13 @@ Eblas aŭskulti ĉi tiun artikolon, kiun voĉlegis Rafa Nogueras.
 
 De la 10-a ĝis la 13-a de julio 2026, esperantistoj renkontiĝis en Ĉinio. Tie okazis la 59-a Kongreso de ILEI (Internacia Ligo de Esperantistaj Instruistoj). Gastigis la kongreson la Universitato de Zaozhuang, en la provinco Ŝandongo.
 
-Preskaŭ 200 instruistoj, studentoj kaj fakuloj el 20 landoj kunvenis. Ni parolis pri gravega temo: kiel instrui Esperanton profesie, kaj kiel protekti nian kulturon. La kongreso estis hibrida . Tio signifas, ke multaj homoj sekvis la prelegojn el sia hejmo per interreto. La kongreso estis facile alirebla kaj malfermita al ĉiuj.
+Preskaŭ 200 instruistoj, studentoj kaj fakuloj el 20 landoj kunvenis. Ni parolis pri gravega temo: kiel instrui Esperanton profesie, kaj kiel protekti nian kulturon. La kongreso estis hibrida. Tio signifas, ke multaj homoj sekvis la prelegojn el sia hejmo per interreto. La kongreso estis facile alirebla kaj malfermita al ĉiuj.
 
 La programo komenciĝis per vizito al Pekino. Ni vidis la historian Grandan Muron kaj la Malpermesitan Urbon. Aparte trafis nin la fakto, ke ĉiuj uzas poŝtelefonon por pagi ĉion kaj traduki vortojn. Tio estas tute alia vivmaniero ol en Eŭropo: tre interesa sperto por ni eŭropanoj!
 
 En Zaozhuang, la universitato bonvenigis nin tre varme. Ĝia tereno estas tre moderna kaj granda. Ni vizitis la Esperanto-Muzeon de Zaozhuang: tiu muzeo estas grava loko por nia movado, kie ni povis vidi nian komunan historion. Ni aŭskultis multajn sciencajn prelegojn kaj prezentis niajn spertojn. Ankaŭ la manĝaĵoj estis tre bonaj kaj malsamaj ol en Eŭropo. La lokaj ĉinaj volontuloj helpis nin ĉiam kun rideto.
 
-Post la kongreso, ni vizitis la regionon Ŝandongo. Ni vidis la hejmon de la filozofo Konfuceo en Qufu. Ni ankaŭ vizitis la lagon Weishan, kie ni vidis milojn da lotus -floroj. Kvankam la vetero estis varmega, la sperto estis mirinda.
+Post la kongreso, ni vizitis la regionon Ŝandongo. Ni vidis la hejmon de la filozofo Konfuceo en Qufu. Ni ankaŭ vizitis la lagon Weishan, kie ni vidis milojn da lotus-floroj. Kvankam la vetero estis varmega, la sperto estis mirinda.
 
 Ni revenis hejmen kun novaj amikoj kaj multaj ideoj. La 59-a ILEI-Kongreso estis granda sukceso. Nun ni rigardas al la estonteco. En 2027, la 60-a ILEI-Kongreso okazos en Pollando, en la bela urbo Jelenia Góra. Ni ĝoje antaŭvidas renkonti vin tie por daŭrigi nian vojaĝon per Esperanto!
 
@@ -78,7 +78,7 @@ Konfuceo: ĉina pensisto, politikulo kaj edukisto (551−479 a.K.E.) [a.K.E. = 
 
 lotuso: akvo-planto kun granda bela floro, trovebla precipe en aziaj landoj.
 
-T.Voekler, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, pere de Wikimedia Commons
+T.Voekler, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, pere de Wikimedia Commons
 
 protekti: defendi kontraŭ danĝeroj.
 
@@ -109,11 +109,11 @@ Kio faras nin homaj: Victor D. O. Santos, trad. P.S. Viana. UEA, Rotterdam / Une
 
 Jen infanlibro por homoj de ĉiuj aĝoj. En mallonga sed pensiga teksto, ĝi klarigas la econ, kiu faras nin homaj: lingvo.
 
-La libro estas prezentita en formo de enigmo . Ĝia teksto iom post iom solvas la enigmon kaj donas respondon al la demando en la titolo .
+La libro estas prezentita en formo de enigmo. Ĝia teksto iom post iom solvas la enigmon kaj donas respondon al la demando en la titolo.
 
-La originalan tekston verkis lingvisto Victor Dias de Oliveira Santos en 2023, kunlabore kun Anna Forlati. Forlati kontribuis per ĉarmaj desegnaĵoj substrekantaj la mesaĝojn de la teksto: ne nur la riĉecon de plurlingva mondo, sed ankaŭ ĝian malstabilecon .
+La originalan tekston verkis lingvisto Victor Dias de Oliveira Santos en 2023, kunlabore kun Anna Forlati. Forlati kontribuis per ĉarmaj desegnaĵoj substrekantaj la mesaĝojn de la teksto: ne nur la riĉecon de plurlingva mondo, sed ankaŭ ĝian malstabilecon.
 
-La libro estis eldonita de Universala Esperanto-Asocio (UEA) kune kun Unesko . Ekde la komenco Unesko kunlaboris kun eldonistoj el la tuta mondo por certigi, ke la libro estu legebla en kiel eble plej multaj lingvoj. Nun, al tiuj lingvoj aldoniĝas ankaŭ Esperanto.
+La libro estis eldonita de Universala Esperanto-Asocio (UEA) kune kun Unesko. Ekde la komenco Unesko kunlaboris kun eldonistoj el la tuta mondo por certigi, ke la libro estu legebla en kiel eble plej multaj lingvoj. Nun, al tiuj lingvoj aldoniĝas ankaŭ Esperanto.
 
 Lige kun la Internacia Jardeko de Indiĝenaj Lingvoj lanĉita de Unuiĝintaj Nacioj en 2019, Santos kaj Forlati volas montri la belecon de diversa kaj plurlingva mondo. Laŭ ili la multlingvecon de la mondo necesas defendi. Oni precipe defendu tiujn lingvojn, kiuj estas en grava danĝero malaperi ene de kelkaj jardekoj, aŭ eble eĉ ene de kelkaj jaroj.
 
@@ -121,15 +121,15 @@ En la fino de la libro aperas du paĝoj, kiuj klarigas pli pri ĝia temo. Tie eb
 
 Ankaŭ la Esperanta traduko de la libro estis vera ekzemplo de “kunlaborado” (kiu cetere estas unu el la kvin kampoj de AKIRI, la strategia laborplano de UEA). Ĝin tradukis en Esperanton Paulo Sérgio Viana, reviziis Edmund Grimley Evans, José Antonio Del Barrio, Tim Owen kaj Fernando Maia. La libron enpaĝigis Tim Owen kaj la tutan projekton kunordigis Fernando Maia.
 
-Lingve, tiu ĉi bele ilustrita libro, kun ne tro longa teksto, bone taŭgas por diversaj cel-grupoj: infanoj ĝuos la rakonton kaj desegnaĵojn; komencantoj trovos imitindan lingvo-uzon kaj riĉan vort-provizon . Ankaŭ pli spertaj esperantistoj volos pripensi la mesaĝon kaj konsideri la valoron de Esperanto en la defendo de ĉiuj homaj lingvoj.
+Lingve, tiu ĉi bele ilustrita libro, kun ne tro longa teksto, bone taŭgas por diversaj cel-grupoj: infanoj ĝuos la rakonton kaj desegnaĵojn; komencantoj trovos imitindan lingvo-uzon kaj riĉan vort-provizon. Ankaŭ pli spertaj esperantistoj volos pripensi la mesaĝon kaj konsideri la valoron de Esperanto en la defendo de ĉiuj homaj lingvoj.
 
 Aĉetu la libron por subteni la celojn de la Jardeko de Indiĝenaj Lingvoj, kaj ankaŭ la celojn de Unesko kaj Universala Esperanto-Asocio. Sed, eĉ pli grave, simple aĉetu ĝin por ĝui la ĉarmajn ilustraĵojn kaj la bele binditan libron mem, kiu certe estas montrinda ankaŭ al viaj ne-esperantistaj geamikoj.
 
-Maurizio  'Rico'  Giacometto
+Maurizio 'Rico' Giacometto
 
-Kio faras nin homaj? estis lanĉita dum la 111-a Universala Kongreso de Esperanto en Graco. Centoj da ekzempleroj vendiĝis tie kontraŭ speciala prezo de 12€. Dum la somero de 2026 la libro daŭre estas trovebla je tiu malpli alta prezo ĉe la retejo de UEA . Esploru ĉe via landa asocio aŭ ĉe aliaj libroservoj por ekscii pri aliaj ebloj aĉeti la libron.
+Kio faras nin homaj? estis lanĉita dum la 111-a Universala Kongreso de Esperanto en Graco. Centoj da ekzempleroj vendiĝis tie kontraŭ speciala prezo de 12€. Dum la somero de 2026 la libro daŭre estas trovebla je tiu malpli alta prezo ĉe la retejo de UEA. Esploru ĉe via landa asocio aŭ ĉe aliaj libroservoj por ekscii pri aliaj ebloj aĉeti la libron.
 
-Maurizio Giacometto ('Rico') estas redaktoro de la rubriko “Libroservo” en uea.facila .
+Maurizio Giacometto ('Rico') estas redaktoro de la rubriko “Libroservo” en uea.facila.
 
 al-doniĝi: esti metita kiel io plia al tio, kio jam troviĝas en grupo, loko, aŭ situacio.
 
@@ -184,7 +184,7 @@ Kial lernado de Esperanto ne allogas afrikajn virinojn? Estas pluraj malhelpoj: 
 
 1. Soci-edukaj kaj ekonomiaj baroj
 
-Malegala aliro al edukado: En kelkaj partoj de Afriko, aliro al edukado estas neegala inter la seksoj, kaj virinoj povas ricevi malpli da lerneblecoj, precipe por fremdaj lingvoj. En tia situacio, Esperanto ne estas prioritato .
+Malegala aliro al edukado: En kelkaj partoj de Afriko, aliro al edukado estas neegala inter la seksoj, kaj virinoj povas ricevi malpli da lerneblecoj, precipe por fremdaj lingvoj. En tia situacio, Esperanto ne estas prioritato.
 
 Prioritato al koloniaj lingvoj: La edukajn kaj komunikajn sistemojn regas la angla, franca, araba kaj aliaj koloniaj lingvoj. Por sukcesi en la profesia mondo, afrikaj virinoj estas instigataj studi tiujn lingvojn anstataŭ turni sin al lingvo kiel Esperanto. Tio okazas precipe en franclingvaj kaj anglalingvaj landoj.
 
@@ -192,7 +192,7 @@ Prioritato al koloniaj lingvoj: La edukajn kaj komunikajn sistemojn regas la ang
 
 Tradiciaj roloj: En multaj afrikaj kulturoj, la tradiciaj roloj povas limigi la aliron de virinoj al edukaj aŭ profesiaj ŝancoj. Virinoj en tia situacio estas ligitaj ĉefe al siaj hejmaj kaj komunumaj agadoj.
 
-Manko de familia kaj komunuma subteno : En iuj afrikaj socioj, oni ne kuraĝigas virinojn lerni fremdajn lingvojn, precipe se temas pri eksterlokaj lingvoj. La manko de familia aŭ komunuma subteno por lerni Esperanton povas esti grava malhelpo.
+Manko de familia kaj komunuma subteno: En iuj afrikaj socioj, oni ne kuraĝigas virinojn lerni fremdajn lingvojn, precipe se temas pri eksterlokaj lingvoj. La manko de familia aŭ komunuma subteno por lerni Esperanton povas esti grava malhelpo.
 
 3. Manko de modeloj
 
@@ -216,7 +216,7 @@ Afrikaj virinoj ne ofte lernas Esperanton pro pluraj interligitaj kialoj: socied
 
 Honoré Sebuhoro
 
-Honoré Sebuhoro loĝas en DR Kongo. Li estas fondinto de la klubo Verda Stelano-Klubo, kaj instruas Esperanton en mezlernejo. Legu pli pri li en la rubriko Niaj legantoj .
+Honoré Sebuhoro loĝas en DR Kongo. Li estas fondinto de la klubo Verda Stelano-Klubo, kaj instruas Esperanton en mezlernejo. Legu pli pri li en la rubriko Niaj legantoj.
 
 adapti: ŝanĝita por ke ĝi pli bone taŭgu por iu speciala celo aŭ kondiĉo.
 

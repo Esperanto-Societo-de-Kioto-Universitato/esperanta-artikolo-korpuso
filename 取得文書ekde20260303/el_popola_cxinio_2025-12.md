@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-09-15T13:49:03.038662+00:00"
+generated_at: "2026-09-15T16:12:44.431110+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-12-01 – 2025-12-31"
 ---
@@ -466,6 +466,8 @@ Redaktoroj: Gao Shuyuan kaj Xie Ruifeng
 **Published:** 2025-12-15
 
 **URL:** http://esperanto.china.org.cn/2025-12/15/content_118225458.htm
+
+**Author:** Rafael Henrique Zerbetto
 
 **Categories:** Plej Freŝaj
 

@@ -1,6 +1,6 @@
 ---
 source: "Libera Folio (liberafolio.org)"
-generated_at: "2026-09-15T10:54:36.913355+00:00"
+generated_at: "2026-09-15T16:17:07.926608+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-07-01 – 2025-07-27"
 ---
@@ -16,6 +16,8 @@ time_range: "2025-07-01 – 2025-07-27"
 
 La decido pri la venontjara Universala Kongreso estis farita lastmomente, sen ajna publika diskuto aŭ eĉ anticipa informado al la komitato de UEA. Neniam antaŭe du sinsekvaj kongresoj okazis geografie tiel proksime unu al la alia, kaj neniam post Hamburgo 1974 oni tiel malfrue anoncis la kongresurbon.
 
+La distanco inter la kongresurboj de 2025 kaj 2026 estas rekorde mallonga. Mapo: Google Earth.
+
 Dum multaj jaroj validis praktiko, laŭ kiu la kongresurboj de venontaj Universalaj Kongresoj estu anoncitaj almenaŭ du jarojn anticipe. Laŭ la kongresa regularo tiun anoncon la estraro principe faru eĉ tri jarojn antaŭe, kvankam tio ne ĉiam okazis.
 
 La loko kaj dato de la ĉi-jara kongreso en Ĉeĥio estis anoncitaj iom malfrue, en marto 2024, do malpli ol unu kaj duonan jaron antaŭ la kongreso. Poste krome la dato de la kongreso estis ŝanĝita en novembro 2024, do ok monatojn antaŭ la kongreso mem.
@@ -24,7 +26,7 @@ Pri la venontjara kongreso longe mankis ajna informo, kaj la 7-an de junio komit
 
 Vicprezidanto Fernando Maia trovis la demandon grava kaj promesis respondi “en la venontaj tagoj”. Intertempe jam finiĝis junio, sed respondo ne venis. En la 29-a de junio tamen ja aperis informo pri la sekva kongresurbo: la Universala Kongreso en 2026 okazos en Graz, Aŭstrio.
 
-– Preskaŭ la sama loko kiel ĉi-jare, ŝajne belorusa anonimulo tuj komentis en la Telegram-kanalo de TEJO .
+– Preskaŭ la sama loko kiel ĉi-jare, ŝajne belorusa anonimulo tuj komentis en la Telegram-kanalo de TEJO.
 
 Efektive Aŭstrio estas najbaro de la ĉi-jara kongreslando Ĉeĥio, kaj la distanco inter la du kongresurboj estas nur 250 kilometroj. Ŝajne neniam en la historio de Esperantujo du sinsekvaj Universalaj Kongresoj estis aranĝitaj tiel proksime unu al la alia – se ne konsideri la jarojn 1939 kaj 1947, kiam la lasta antaŭmilita kaj unua postmilita kongresoj okazis en la sama urbo, Berno en Svisio.
 
@@ -75,6 +77,8 @@ Same povas esti, ke oni efektive elektis la kongresurbon inter pluraj alternativ
 
 Ĉu Esperanto estas lingvo sen historio kaj kulturo? Ĉu Esperanto fiaskis, aŭ ĉu male ĝi jam sukcesis? En vidpunkta artikolo Liu Xiaozhe pripensas, kion povas fari la Esperantista komunumo por adaptiĝi al la aktuala mondo.
 
+Liu Xiaozhe (Solis).
+
 En certa amplekso kaj grado, Esperanto sukcesis. Tamen ĝi ne fariĝos ĉies dua lingvo por ĉiuj homoj, kiel revis la iniciatinto Zamenhof. Plej multaj homoj en la mondo tute ne zorgas pri lingvaj problemoj. Sufiĉas por ili nur la denaska lingvo. Sub la premo de potencaj lingvoj, Esperanto restos kiel minoritata lingvo kaj hobio de malmultaj homoj. Sed kiel komunikilo, Esperanto ludos neanstataŭeblan rolon en internacia ne-registara kontaktado dum longa historia epoko estontece, pro la vasta dissemiĝo de esperantistoj en la tuta mondo.
 
 Realiĝas ne ĉiuj belaj idealoj. Pasis jam pli ol 130 jaroj post la apero de Esperanto, dume okazis en la mondo grandegaj ŝanĝiĝoj en socio, politiko, ekonomio, scienco, tekniko kaj aliaj flankoj, pro kio Esperanto jam ne plu havas ŝancon fariĝi ĉies dua lingvo. Esperantistoj devas akcepti la realon, forlasante nerealisman iluzion, kaj denove ekzameni Esperanton, revizii la celon kaj strategion de la Esperanto-movado, adaptiĝante al la aktuala situacio.
@@ -89,9 +93,9 @@ Propagando de Esperanto certe estas necesa. Propagando donas al la homoj ŝancon
 
 En la aplikado de Esperanto, esperantistoj pli atentu kaj zorgu la praktikan efikecon de tiu lingvo, kaj efektive montru la utilecon de Esperanto en la internacia komunikado. La speciala interna idealo de lingvo Esperanto estas ligilo de sento inter esperantistoj, kiu proksimigas la rilaton inter esperantistoj, ĉu samlandaj ĉu diverslandaj. Sed multaj esperantistoj preferas enlandajn kontaktojn al la internaciaj, kaj iuj eĉ kontaktas esperantistojn nur en siaj propraj landoj, neniam uzas Esperanton por internacia kontakto pro tio, ke enlanda kontaktado estas pli facila kaj pli malmultekosta.
 
-Hodiaŭ Interreto jam estas vaste uzata, kaj kontakta kosto per la reto tendencas al nulo, dume multaj esperantistoj ankoraŭ interkomunikiĝas nur kun samideanoj en sia lando. Lerninte Esperanton, ili ne uzas tiun lingvon per kompreni popolojn en aliaj landoj, ne observas la sociojn de aliaj landoj, ne lernas modernajn sciencon kaj teknikon, ne perceptas modernajn konceptojn, sed komunikiĝas nur kun samlandaj samideanoj, legas nur Esperantajn literaturojn tradukitajn el siaj naciaj lingvoj, foliumas novaĵojn en Esperanto nur  tradukitajn el siaj propraj landoj. Tio estas senefika socia agado, se konsideri la komencan celon de Esperanto, la internacia helpa lingvo, kaj estas senutila malŝpareco, konsidere al la tempo kaj energio elspezitaj por la lernado.
+Hodiaŭ Interreto jam estas vaste uzata, kaj kontakta kosto per la reto tendencas al nulo, dume multaj esperantistoj ankoraŭ interkomunikiĝas nur kun samideanoj en sia lando. Lerninte Esperanton, ili ne uzas tiun lingvon per kompreni popolojn en aliaj landoj, ne observas la sociojn de aliaj landoj, ne lernas modernajn sciencon kaj teknikon, ne perceptas modernajn konceptojn, sed komunikiĝas nur kun samlandaj samideanoj, legas nur Esperantajn literaturojn tradukitajn el siaj naciaj lingvoj, foliumas novaĵojn en Esperanto nur tradukitajn el siaj propraj landoj. Tio estas senefika socia agado, se konsideri la komencan celon de Esperanto, la internacia helpa lingvo, kaj estas senutila malŝpareco, konsidere al la tempo kaj energio elspezitaj por la lernado.
 
-Esperantistoj devas aktivi en internaciaj agadoj, plene utiligante la lernitan lingvon, vaste kontakti kaj komunikiĝi kun  popoloj el diversaj landoj per Esperanto. Tio maksimumigas la valoron de la lingvo Esperanto. Laste, sed plej grave, esperantistoj devas eliri el sia fermita rondo, malfermi la pordon al neesperantistoj, kaj aktive integriĝi en la ekstera socio. Esperantistoj helpu aliajn homojn kaj organizaĵojn transpaŝi la lingvan baron por trans-landlimaj internaciaj interŝanĝoj ĉe diversaj flankoj.
+Esperantistoj devas aktivi en internaciaj agadoj, plene utiligante la lernitan lingvon, vaste kontakti kaj komunikiĝi kun popoloj el diversaj landoj per Esperanto. Tio maksimumigas la valoron de la lingvo Esperanto. Laste, sed plej grave, esperantistoj devas eliri el sia fermita rondo, malfermi la pordon al neesperantistoj, kaj aktive integriĝi en la ekstera socio. Esperantistoj helpu aliajn homojn kaj organizaĵojn transpaŝi la lingvan baron por trans-landlimaj internaciaj interŝanĝoj ĉe diversaj flankoj.
 
 Esperantistoj ĉiam fervoras por propagandi la lingvon, sed kiam ili parolas la lingvon por internacia kontakto, kio estas bona ŝanco montri la utilecon de Esperanto, ili preskaŭ neniam invitas la eksteran publikon partopreni en siaj aranĝoj, kaj ili mem malofte partoprenas neesperantajn aranĝojn kun personeco de esperantisto. La esperantistaro ŝajnas esti fermita grupo de idealistoj, kiuj volas nur amuzi kaj ĝojigi sin mem.
 
@@ -113,7 +117,7 @@ Sed sur tiu ĉi ponto, transiru ne nur Esperanto-parolantoj, sed ankaŭ aliaj, p
 
 Liu Xiaozhe (Solis)
 
-La konata ĉina esperantisto Liu Xiaozhe (Solis) pli amplekse prezentis siajn vidpunktojn en la longa artikolo Esperanto: Historio kaj Kulturo, Fiasko kaj Atingo, Realo kaj Estonteco . Ĉi tiu teksto estas la konkluda, lasta parto de tiu artikolo.
+La konata ĉina esperantisto Liu Xiaozhe (Solis) pli amplekse prezentis siajn vidpunktojn en la longa artikolo Esperanto: Historio kaj Kulturo, Fiasko kaj Atingo, Realo kaj Estonteco. Ĉi tiu teksto estas la konkluda, lasta parto de tiu artikolo.
 
 
 ---
@@ -126,7 +130,9 @@ La konata ĉina esperantisto Liu Xiaozhe (Solis) pli amplekse prezentis siajn vi
 
 **Categories:** UEA, movado
 
-La nuna estraro de UEA estas la plej nerespondema dum la pli ol 20-jara historio de Libera Folio – nur en esceptaj okazoj ni ricevis ajnan reagon al niaj demandoj. La sekva estraro ankoraŭ ne estas elektita, sed la kandidatoj jam sekvas la saman praktikon. El la naŭ kandidatoj nur unu respondis al demandoj senditaj de Libera Folio .
+La nuna estraro de UEA estas la plej nerespondema dum la pli ol 20-jara historio de Libera Folio – nur en esceptaj okazoj ni ricevis ajnan reagon al niaj demandoj. La sekva estraro ankoraŭ ne estas elektita, sed la kandidatoj jam sekvas la saman praktikon. El la naŭ kandidatoj nur unu respondis al demandoj senditaj de Libera Folio.
+
+La estonteco de la libroservo estas unu el la demandoj, pri kiuj Libera Folio petis komenton de la estraranaj kandidatoj. Pri tio neniu respondis.
 
 La 6-an de julio ni sendis mesaĝon al ĉiuj naŭ personoj, kiuj estas proponataj de la elekta komisiono de UEA kiel anoj de la sekva estraro de UEA. Formale la elekto okazos dum la Universala Kongreso en Brno, Ĉeĥio, sed kredeble ili ĉiuj eniros la novan estraron. Por la posteno de prezidanto estas nur unu kandidato: la nuna vicprezidanto Fernando Maia.
 
@@ -140,7 +146,7 @@ Li listigis siajn tri ĉefajn prioritatojn tiukampe. La unua el tiuj estas insti
 
 – Kiel vi scias, Pollando (2014) kaj Kroatio (2019) jam sukcesis fari tion, kaj pro tio la sinteno de la Eŭropa Komisiono al Esperanto jam ŝanĝiĝis pozitive, li komentas.
 
-Lia dua prioritato estas instigi landajn asociojn kaj lokajn grupojn proponi al lernejoj mallongajn kursojn de Esperanto laŭ la plano Multlingva akcelilo , por rapidigi lernadon de aliaj lingvoj kaj fortigi plurlingvecon. Trie, li volus instigi esperantistojn proponi la Eŭropan himnon en Esperanto al neesperantistaj korusoj por tiel diskonigi Esperanton.
+Lia dua prioritato estas instigi landajn asociojn kaj lokajn grupojn proponi al lernejoj mallongajn kursojn de Esperanto laŭ la plano Multlingva akcelilo, por rapidigi lernadon de aliaj lingvoj kaj fortigi plurlingvecon. Trie, li volus instigi esperantistojn proponi la Eŭropan himnon en Esperanto al neesperantistaj korusoj por tiel diskonigi Esperanton.
 
 Krome reagis al nia demando Jérémie Sabiyumva kaj Zdravka Boytcheva (Bojĉeva), kiuj tamen ne deziris respondi al demandoj.
 
@@ -152,7 +158,7 @@ Libera Folio: Ĉu ne tamen estus bone diri ion pri viaj planoj nun, por ke la ko
 
 – Por mi estas vere tro frue. Ĉio por la momento estas nur propono, kaj la kandidatiĝo kaj la laborkampoj.
 
-Jérémie Sabiyumva estis la sola el la nunaj estraranoj, kiuj entute reagis al la mesaĝo de Libera Folio . Samkiel Zdravka Boytcheva, ankaŭ li tamen ne volis respondi al niaj demandoj.
+Jérémie Sabiyumva estis la sola el la nunaj estraranoj, kiuj entute reagis al la mesaĝo de Libera Folio. Samkiel Zdravka Boytcheva, ankaŭ li tamen ne volis respondi al niaj demandoj.
 
 – Mi bedaŭrinde ne povas nun respondi, mi certe respondos al vi post la elektiĝo.
 
@@ -160,15 +166,15 @@ Libera Folio: Ĉu ne estus pli bone respondi nun, por ke la komitatanoj sciu, po
 
 – Mi komprenas, sed mi nun estas tre okupita kun mia vojaĝo al Kanado, kaj mi ne certas ĉu dum la Dulanda kongreso mi havos tempon.
 
-La ceteraj ses kandidatoj rekomendataj de la elekta komisiono neniel respondis al la demandoj de Libera Folio . Du el ili tamen elpaŝis en la komitata diskutejo: Fernando Maia, kiun la elekta komisiono rekomendas por la posteno de prezidanto, kaj Amri Wandel, kies reelekton la elekta komisiono ne rekomendas, sed kiu evidente pretus akcepti la postenon de prezidanto.
+La ceteraj ses kandidatoj rekomendataj de la elekta komisiono neniel respondis al la demandoj de Libera Folio. Du el ili tamen elpaŝis en la komitata diskutejo: Fernando Maia, kiun la elekta komisiono rekomendas por la posteno de prezidanto, kaj Amri Wandel, kies reelekton la elekta komisiono ne rekomendas, sed kiu evidente pretus akcepti la postenon de prezidanto.
 
 Fernando Maia dankis pro la fido de la elekta komisiono, sed atentigis, ke pri lia elekto kiel prezidanto decidos la komitato:
 
-–  Plej grave estas konscii, ke nenio estas antaŭdifinita. La afero difiniĝos en nia sabata kunsido en Brno kaj nur difiniĝos per la voĉo de la komitatanoj – kiuj estas plenliberaj voĉdoni, memstare kaj sendepende. La raporto de la EK estas laŭ niaj regularoj konsilo – valorega, ĉar veninta de sperta teamo – sed ĝi ne estas definitiva decido, kompreneble.
+– Plej grave estas konscii, ke nenio estas antaŭdifinita. La afero difiniĝos en nia sabata kunsido en Brno kaj nur difiniĝos per la voĉo de la komitatanoj – kiuj estas plenliberaj voĉdoni, memstare kaj sendepende. La raporto de la EK estas laŭ niaj regularoj konsilo – valorega, ĉar veninta de sperta teamo – sed ĝi ne estas definitiva decido, kompreneble.
 
-Amri Wandel siavice atentigis , ke li estas disponebla por la posteno de prezidanto:
+Amri Wandel siavice atentigis, ke li estas disponebla por la posteno de prezidanto:
 
-–  Mi ne konas la konsiderojn de la Elekta Komisiono por ne proponi duan kandidaton, des pli ke en mia sinprezento en la raporto mi skribis ke principe mi povos laŭbezone plenumi tiun rolon.
+– Mi ne konas la konsiderojn de la Elekta Komisiono por ne proponi duan kandidaton, des pli ke en mia sinprezento en la raporto mi skribis ke principe mi povos laŭbezone plenumi tiun rolon.
 
 Krom tiuj deklaroj, neniu diskuto pri la elekto de nova estraro okazis en la komitata retpoŝta listo.
 
@@ -185,7 +191,9 @@ Krom tiuj deklaroj, neniu diskuto pri la elekto de nova estraro okazis en la kom
 
 Amri Wandel kaj François Lo Jacomo rekandidatas por la nova estraro de UEA, sed ne eniris la proponon de la elekta komisiono. Ambaŭ tamen en retmesaĝoj petis subtenon de la komitatanoj. La elekto do ne estos senalternativa, ĉar jam estas 11 aktivaj kandidatoj por maksimume 9 lokoj. Tamen estas preskaŭ certe, ke Fernando Maia estos la sekva prezidanto.
 
-Nova estraro de UEA laŭplane estos elektita la 26-an de julio, en la unua tago de la UK en Ĉeĥio. Unu monaton pli frue UEA publikigis la raporton de la elekta komisiono , kiu listigas 11 validajn kandidatojn kaj rekomendas 9 el la kandidatoj por postenoj en la nova estraro.
+François Lo Jacomo kaj Amri Wandel argumentas, ke ili nun kiel emeritoj havas multe da tempo por dediĉi al la laboro en la estraro de UEA. Foto: Robin van der Vliet (CC BY-SA 4.0 ), Hebrea universitato de Jerusalemo.
+
+Nova estraro de UEA laŭplane estos elektita la 26-an de julio, en la unua tago de la UK en Ĉeĥio. Unu monaton pli frue UEA publikigis la raporton de la elekta komisiono, kiu listigas 11 validajn kandidatojn kaj rekomendas 9 el la kandidatoj por postenoj en la nova estraro.
 
 La elekta komisiono ne rekomendis la reelekton de du nunaj estraranoj, kiuj valide kandidatiĝis por nova mandatperiodo. Temis pri vicprezidanto Amri Wandel kaj estrarano François Lo Jacomo.
 
@@ -193,7 +201,7 @@ La statuto difinas, ke la estraranoj estu elektitaj inter komitatanoj. Devigaj p
 
 La maksimuma permesita kvanto de estraranoj laŭ la statuto de UEA do estas naŭ, kaj tiun maksimuman kvanton la elekta komisiono proponas, ke la komitato elektu. La elekta komisiono ne klarigas, kial ĝi opinias, ke estas bezonata la maksimuma kvanto de estraranoj. La finan decidon pri la kvanto de estraranoj faros la komitato, kiu tamen kutime sekvas la rekomendon de la elekta komisiono.
 
-Post la publikigo de la raporto de la elekta komisiono Amri Wandel en mesaĝo al la komitato atentigis , ke li restas disponebla por estrara posteno, ankaŭ kiel prezidanto. Post kelkaj tagoj reagis en simila maniero ankaŭ François Lo Jacomo.
+Post la publikigo de la raporto de la elekta komisiono Amri Wandel en mesaĝo al la komitato atentigis, ke li restas disponebla por estrara posteno, ankaŭ kiel prezidanto. Post kelkaj tagoj reagis en simila maniero ankaŭ François Lo Jacomo.
 
 Li diris, ke li pretas kandidati ankaŭ por la prezidanta posteno, sed nur kondiĉe ke li sciu anticipe pri la aliaj estraraj kandidatoj: laŭ li oni elektu la tutan estraron kiel teamon. Ĉar la kandidatecoj tamen restis sekretaj, li ne povis tiam kandidatiĝi por la prezidanteco, li diras.
 
@@ -213,7 +221,7 @@ Libera Folio turnis sin al François Lo Jacomo por ekscii, pri kiuj tri lokoj po
 
 Amri Wandel aliflanke rapide respondis al niaj demandoj kaj klarigis, ke laŭ li Fernando Maia en la nuna situacio estus la plej taŭga prezidanto.
 
-”Mi tamen prezentis ankaŭ mian kandidatecon por la prezidanteco, por ne limigi la elektojn al sola alternativo, kiu foje estis kritikata en antaŭaj elektoj”, li skribas al Libera Folio . Grava prioritato, kiun li volus plu antaŭenigi en la estraro de UEA, estas la plua okazigo de Universalaj Kongresoj en diversaj ekstereŭropaj mondopartoj, eĉ kiam ekzistas financa risko:
+”Mi tamen prezentis ankaŭ mian kandidatecon por la prezidanteco, por ne limigi la elektojn al sola alternativo, kiu foje estis kritikata en antaŭaj elektoj”, li skribas al Libera Folio. Grava prioritato, kiun li volus plu antaŭenigi en la estraro de UEA, estas la plua okazigo de Universalaj Kongresoj en diversaj ekstereŭropaj mondopartoj, eĉ kiam ekzistas financa risko:
 
 ”Universaligo de Esperanto kaj subteno de E-komunumoj kiuj estas for de la tradicia centro per okazigo de la UK estas laŭ mi unu el la gravaj celoj de UEA. Alia grava aspekto kiun mi plenumus kiel Prezidanto, sed efektive plenumis ankaŭ kiel Vicprezidanto kaj povus plu plenumi helpe al la elektota prezidanto, estas subteno de Landaj Asocioj per fizika partopreno en iliaj Kongresoj.”
 
@@ -221,13 +229,13 @@ Krome Amri Wandel substrekas sian kontribuon al la scienca agado de UEA kaj la I
 
 Lige kun la rekomendo de la elekta komisiono ne reelekti Amri Wandel aperis en diskutoj en Libera Folio la suspekto, ke li estis maljuste preterpasita ĉar li estas israelano, sed ankaŭ la postulo, ke li devus publike distanciĝi de la agado de la israela registaro en Gazao por esti elektebla kiel estrarano. Ni petis lin komenti la temon.
 
-”Publike mi vidis tiun kritikon nur en unu loko, nome la komentoj post la artikolo en Libera Folio , kaj nur de unu reaginto, kiu kaŝas sin malantaŭ la pseŭdonimo ’duonfidela’. Feliĉe, kiam oni atentigis min pri tiu ĉi komento, aliaj legintoj de LF jam estis reagintaj.”
+”Publike mi vidis tiun kritikon nur en unu loko, nome la komentoj post la artikolo en Libera Folio, kaj nur de unu reaginto, kiu kaŝas sin malantaŭ la pseŭdonimo ’duonfidela’. Feliĉe, kiam oni atentigis min pri tiu ĉi komento, aliaj legintoj de LF jam estis reagintaj.”
 
 Li laŭde mencias la reagon de Cyril Brosch, kiu skribis: ”Amri miascie ne estas iel politike aktiva en Israelo. Mi ne vidas kialon postuli de li esprimi iun ajn starpunkton pri sia registaro aŭ lando.”
 
-Kiel indiko pri aktiva subteno de Amri Wandel al la agado de la israela registaro estis en la diskuto menciita lia artikolo pri okazaĵoj en Israelo, aperinta en la revuo Kontakto . Tiun kritikon Amri Wandel trovas nevalida:
+Kiel indiko pri aktiva subteno de Amri Wandel al la agado de la israela registaro estis en la diskuto menciita lia artikolo pri okazaĵoj en Israelo, aperinta en la revuo Kontakto. Tiun kritikon Amri Wandel trovas nevalida:
 
-”Tiu artikolo estis verkita laŭ la peto de la redaktoro de Kontakto , mallongan tempon post la atako de 7.10, kiam ankoraŭ ne ekzistis ’agado de la israela registaro’. Ĝi priskribas la etoson en Israelo reage al la tiam tute freŝa traŭmo de la kruela masakro farita de Hamas, kaj certe ne rilatas al la registaro aŭ al kio estis okazonta monatojn aŭ jarojn poste. Laŭ mi, la plej taŭga respondo al tiu kaj similaj politikaj provokoj estas la jam menciita citaĵo de Cyril Brosch.”
+”Tiu artikolo estis verkita laŭ la peto de la redaktoro de Kontakto, mallongan tempon post la atako de 7.10, kiam ankoraŭ ne ekzistis ’agado de la israela registaro’. Ĝi priskribas la etoson en Israelo reage al la tiam tute freŝa traŭmo de la kruela masakro farita de Hamas, kaj certe ne rilatas al la registaro aŭ al kio estis okazonta monatojn aŭ jarojn poste. Laŭ mi, la plej taŭga respondo al tiu kaj similaj politikaj provokoj estas la jam menciita citaĵo de Cyril Brosch.”
 
 La finan decidon pri la kvanto de estraranoj kaj la konsisto de la nova estraro faros la komitato de UEA en Brno. Eĉ inter la komitatanoj ŝajnas regi konfuzo pri la elekta proceduro, kvankam ĝi estas klare difinita en la elekta regularo de la asocio.
 
@@ -256,11 +264,13 @@ Krome devus esti elektita komisiono pri financo, sed ĝi tute ne estas menciita 
 
 TEJO elektis novajn prezidanton kaj estraron, dum la eksigita prezidanto denove kaj ripete postulis demision de ĉiuj estraranoj. Tiuj laŭ li malhelpas al la komitato fari sian laboron.
 
+Dum la reta komitata kunsido la eksa prezidanto Michal Matúšov denove postulis demision de la tuta estraro dum estis elektata nova estraro.
+
 En la 20-a de julio la komitato de TEJO kunvenis rete por elekti novan estraron. Nur en la antaŭa tago ili ricevis la liston de kandidatoj de la Elekta Komisiono. Entute estis nur 7 kandidatoj el 4 kontinentoj, el kiuj 4 estas virinoj kaj 3 viroj. 5 el la kandidatoj estas nunaj estraranoj, sed la prezidanto, Lucía Montserrat Fernández Barrera, ne rekandidatiĝis.
 
-En sia raporto, la Elekta Komisiono (Tyron Surmon kaj Òscar Hernández Rodríguez) atentigis pri la graveco allogi pli da kandidatoj kaj ke la manko de la tradicia jarfina komitatkunsido kaj la ” ĝenerala kvieteco de la komitatlisto” eble malhelpis allogi kandidatojn.
+En sia raporto, la Elekta Komisiono (Tyron Surmon kaj Òscar Hernández Rodríguez) atentigis pri la graveco allogi pli da kandidatoj kaj ke la manko de la tradicia jarfina komitatkunsido kaj la ”ĝenerala kvieteco de la komitatlisto” eble malhelpis allogi kandidatojn.
 
-La sola kandidato por la prezidanteco estas Ana Ribeiro el Brazilo. En sia motiva letero, ŝi skribis ke ŝiaj prioritatoj estas la revuo Kontakto , subteno al la movado ekster Eŭropo kaj plibonigado de instruado de Esperanto al junuloj.
+La sola kandidato por la prezidanteco estas Ana Ribeiro el Brazilo. En sia motiva letero, ŝi skribis ke ŝiaj prioritatoj estas la revuo Kontakto, subteno al la movado ekster Eŭropo kaj plibonigado de instruado de Esperanto al junuloj.
 
 La nuna kasisto Mihary Andrianirina, kaj la nuna ĝenerala sekretario, Snehaĝa Venkateŝ (Snehaja Venkatesh), ambaŭ rekandidatiĝas por siaj ĝisnunaj roloj. Ankaŭ la nuna vicprezidanto, Igor ”Ikvero” Almeida, estas la sola kandidato por tiu posteno.
 
@@ -298,6 +308,8 @@ Robert Nielsen
 **Categories:** UEA, movado
 
 Fernando Maia estas la nova prezidanto de UEA. La komitato de la asocio dum sia unua kunsido en Brno elektis novan estraron. La komitato sekvis la rekomendon de la elekta komisiono, krom ke anstataŭ István Szabolcs post du voĉdonadoj estis elektita François Lo Jacomo. Amri Wandel ne ricevis sufiĉe da voĉoj por denove eniri la estraron.
+
+La komitato kunsidas en Brno. Foto: Paweł Fischer-Kotowski.
 
 La komitato de UEA kolektiĝis por sia unua kunveno dum la UK en Brno en sabato, la 26-a de julio. La origina plano estis, ke la kunveno okazu hibride – samtempe rete kaj ĉeeste. Tri tagojn antaŭ la kunveno la estraro de UEA tamen anoncis, ke pro manko de la necesaj teknikaĵoj en la salono, hibrida kunsido ne eblos, kaj instigis ĉiujn komitatanojn kiuj ne povos ĉeesti, nomumi anstataŭantojn.
 
@@ -350,17 +362,21 @@ Jukka Pietiläinen
 
 Laŭ la kongresa regularo de UEA, la komitato estu regule informata kaj konsultata pri la elekto de kongresurboj. Laŭ la nova prezidanto de UEA, Fernando Maia, tio tamen ne eblas, ĉar la kandidata urbo ne sciu, ĉu ĝi estas la sola kandidato. Tial la regularo laŭ li devas esti ŝanĝita.
 
+Salono Zamenhof dum la solena inaŭguro estis verde lumigita, krom la podio, kie la reprezentantoj de UEA konservis sian naturan aspekton.
+
 La 110-a universala kongreso de Esperanto estis oficiale malfermita en dimanĉo antaŭtagmeze. La inaŭguro ne komenciĝis ĝustatempe, kvankam la reprezentantoj de UEA sidis sur siaj lokoj sur la scenejo, kaj nenia kialo de la malfruo estis anoncita.
 
 Post 20-minuta malfruo la publiko komencis montri sian malkontenton per aplaŭdetoj. Fine je 10.24 la silenton rompis la eliranta prezidanto Duncan Charters, iom surprize en la ĉeĥa, dirante “Dobrý den, Brno!” (Bonan tagon, Brno!)
 
-Krom la ĉeĥa kaj Esperanto, dum la inaŭguro oni aŭdis ankaŭ la polan, kiun parolis reprezentanton de Pola Instituto en Prago, kaj la armenan, ĉar la kongreson alparolis la ambasadoro de Armenio. Ĉeestis la inaŭguron ankaŭ la ambasadoro de Ĉinio.  Ankaŭ tiu ĉi UK tamen ne ricevis salutmesaĝojn de la ĝenerala sekretario de UN kaj ĝenerala direktoro de Unesko, kiel estis kutimo en la pasinteco.
+Krom la ĉeĥa kaj Esperanto, dum la inaŭguro oni aŭdis ankaŭ la polan, kiun parolis reprezentanton de Pola Instituto en Prago, kaj la armenan, ĉar la kongreson alparolis la ambasadoro de Armenio. Ĉeestis la inaŭguron ankaŭ la ambasadoro de Ĉinio. Ankaŭ tiu ĉi UK tamen ne ricevis salutmesaĝojn de la ĝenerala sekretario de UN kaj ĝenerala direktoro de Unesko, kiel estis kutimo en la pasinteco.
 
 En la solena inaŭguro estis diskonigitaj la nomoj de novaj honoraj membroj, pri kiuj decidis la komitato. Ĉi-jare ili estis nekutime multaj, kaj krome du el la novaj honoraj membroj jam forpasis. Antaŭe ŝajne nur unufoje forpasinto iĝis honora membro – en 2013 Hallgrímur Sæmundsson mortis unu tagon antaŭ la decido, kaj oni jam ne rezignis pri la elekto.
 
 Mankas oficiala komuniko de UEA, sed la novaj honoraj membroj laŭ raportoj de ĉeestintoj estas Mireille Grosjean, Zsófia Kóródy, Stefan MacGill, Miroslav Malovec, Trevor Steele, Lee Jungkee, Michela Lipari, Paulo Sérgio Viana, kaj la du forpasintoj Wang Chongfang kaj Wei Yida (Vejdo).
 
 Samkiel pri la honoraj membroj, ankaŭ pri la elekto de nova estraro cetere ĝis nun ne aperis oficiala komuniko de UEA.
+
+La forpasintaj novaj honoraj membroj estis prezentitaj kun la latina aldono “in memoriam”.
 
 Sume estas do dek novaj honoraj membroj, se kalkuli ankaŭ la forpasintojn, kio ŝajnas esti rekordo. En 1995 kaj 2001 estis elektitaj po naŭ novaj honoraj membroj kaj en 2001 ok. En la jaroj inter ili temis pri 4-7 honoritoj jare.
 
@@ -371,6 +387,8 @@ Vivantaj honoraj membroj estas financa ŝarĝo al UEA, ĉar ili ricevas senpagan
 Iom surprize tute ne estis menciita dum la solena inaŭguro la nomo de Renato Corsetti, kiu forpasis pli frue ĉi-jare. Li estis honora prezidanto de UEA, prezidanto de la asocio 2001–2007, kaj unu el la tutmonde plej aktivaj esperantistoj dum la lastaj jardekoj. Propran salonon en la kongresejo li tamen ja ricevis.
 
 La vetero en dimanĉo montriĝis iom tro pluva komence por la komuna fotado en botanika ĝardeno, kie ĝi estis planita. Anstataŭe la fotado okazis rekte en la salono Zamenhof. La temperaturoj en la kongresurbo estas iom malpli altaj ol dum la pasintaj semajnoj en meza Eŭropo, kio sendube estas preferinda.
+
+Dum la solena inaŭguro muzikis la grupo Kajto.
 
 En dimanĉo okazis ankaŭ la dua kunsido de la komitato, la supera decidorgano de UEA. La ĉefa punkto de la tagordo estis la aprobo de la jara raporto. La plej grandan parton el la kunsido prenis la diskuto pri kongresoj, aparte pro tio, ke la informo pri la venontjara kongreso venis malkutime malfrue.
 
@@ -388,7 +406,7 @@ Dum diskuto pri la financa raporto ĝenerala direktoro Martin Schaeffer rakontis
 
 Se UEA sekvus la salajromodelon kiun ĝi havis antaŭe, la pasintjara sumo por salajroj laŭ li estus 430 000 eŭroj, sed efektive la salajroj egalis al proksimume 127 000 eŭroj. Se aldoni la koston de eksteraj laborfortoj kaj sociajn asekurojn, la pasintjaraj salajrokostoj sumiĝas je proksimume 170 000 eŭroj.
 
-Ankoraŭ mankas finaj financaj raportoj pri la kongresoj de Montrealo (2022) kaj Torino (2023), kio kaŭzis plendojn inter la komitatanoj. Pri tio atentigis la komitataj reviziantoj Guy Matte kaj Michael Boris Mandirola en sia raporto .
+Ankoraŭ mankas finaj financaj raportoj pri la kongresoj de Montrealo (2022) kaj Torino (2023), kio kaŭzis plendojn inter la komitatanoj. Pri tio atentigis la komitataj reviziantoj Guy Matte kaj Michael Boris Mandirola en sia raporto.
 
 Guy Matte dum la kunsido denove memorigis, ke necesas ke kontrolu la financojn de UEA ekstera revizoro, ĉar la komitataj reviziantoj ne estas fakuloj pri la afero. En sia raporto la komitataj reviziantoj rekomendas, ke profesia revizorado de la kontoj por la jaroj 2020–2023 estu preta kaj prezentita al la Komitato en la venontjara Universala Kongreso.
 

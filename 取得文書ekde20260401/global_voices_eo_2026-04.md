@@ -1,6 +1,6 @@
 ---
 source: "Global Voices en Esperanto (eo.globalvoices.org)"
-generated_at: "2026-08-13T10:14:29.962274+00:00"
+generated_at: "2026-09-15T22:51:26.381039+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-04-01 – 2026-04-01"
 ---
@@ -14,21 +14,21 @@ time_range: "2026-04-01 – 2026-04-01"
 
 **Categories:** Angla, Civitanaj komunikiloj, Freŝa Novaĵo, Homaj rajtoj, Internaciaj rilatoj, Irano, Israelo, Libano, Medio, Mezoriento kaj Nordafriko, Milito kaj konflikto, Palestino, Politiko, Ĉefaĵo
 
-Bildoj de spavo ( senpilota aviadilo) [eo] montras vicojn da freŝaj tomboj en Minab, Irano [eo], kie usona aeratako mortigis pli ol 150 lernantinojn. Ekrankopio de filmeto publikigita en Fejsbuko [eo] fare de Reuters . Justa uzo.
+Bildoj de spavo (senpilota aviadilo) [eo] montras vicojn da freŝaj tomboj en Minab, Irano [eo], kie usona aeratako mortigis pli ol 150 lernantinojn. Ekrankopio de filmeto publikigita en Fejsbuko [eo] fare de Reuters. Justa uzo.
 
 Gazao kiel precedenco
 
-La genocida milito de Israelo [eo] kontraŭ Gazao neniam estis izolita okazaĵo. Ĝi estis la ekstrema ripeto de doktrino kiu disvolviĝis kaj faciliĝis dum jardekoj da senpuneco. La “ Dahiya doktrino ” kiun Israelo ekigis kontraŭ la libana ĉefurbo dum la milito de 2006, eksplicite celis la detruon de civila infrastrukturo aŭ “ domicidio ” por premi la registarojn per kolektiva puno de la civila loĝantaro. Ĉi tiu doktrino, nomita laŭ la suda antaŭurbo de Bejruto [eo] konata kiel “ Dahija ” (laŭvorte “antaŭurbo”), starigis danĝeran precedencon: la kolektiva puno de la civila loĝantaro povus esti prezentata publike kiel legitima milita strategio sen konsekvencoj.
+La genocida milito de Israelo [eo] kontraŭ Gazao neniam estis izolita okazaĵo. Ĝi estis la ekstrema ripeto de doktrino kiu disvolviĝis kaj faciliĝis dum jardekoj da senpuneco. La “Dahiya doktrino” kiun Israelo ekigis kontraŭ la libana ĉefurbo dum la milito de 2006, eksplicite celis la detruon de civila infrastrukturo aŭ “domicidio” por premi la registarojn per kolektiva puno de la civila loĝantaro. Ĉi tiu doktrino, nomita laŭ la suda antaŭurbo de Bejruto [eo] konata kiel “Dahija” (laŭvorte “antaŭurbo”), starigis danĝeran precedencon: la kolektiva puno de la civila loĝantaro povus esti prezentata publike kiel legitima milita strategio sen konsekvencoj.
 
-Gazao reprezentis la ekstreman version de ĉi tiu aliro . Nun, kun la militoj de Israelo kaj Usono [eo] en Libano kaj Irano, ni vidas la saman ŝablonon. La taktikoj estas konataj, la retoriko estas kohera, kaj la internacia respondo —aŭ la manko de ĝi— estas antaŭvideble distordita.
+Gazao reprezentis la ekstreman version de ĉi tiu aliro. Nun, kun la militoj de Israelo kaj Usono [eo] en Libano kaj Irano, ni vidas la saman ŝablonon. La taktikoj estas konataj, la retoriko estas kohera, kaj la internacia respondo —aŭ la manko de ĝi— estas antaŭvideble distordita.
 
 Danĝera ŝablono
 
-Libano fariĝis la dua grava scenejo en 2024 kaj nun denove en 2026, spegulbildo de la Gazaa taktika manlibro sed kun regionaj adaptiĝoj. La delokiĝo de la loĝantaro el Dahiya , la Beekaa Valo [eo] kaj Suda Libano [eo], preskaŭ unu miliono da homoj , sekvas la saman strategion de demografia inĝenierado observitan en Gazao: devigi la civilan loĝantaron, en ĉi tiu kazo plejparte la ŝijaisman [eo] komunumon, forfuĝi, por poste detrui la teritorion, inkluzive de la infrastrukturo kaj loĝejoj, kaj venenigi la grundon tiel ke vivo ne plu eblas.
+Libano fariĝis la dua grava scenejo en 2024 kaj nun denove en 2026, spegulbildo de la Gazaa taktika manlibro sed kun regionaj adaptiĝoj. La delokiĝo de la loĝantaro el Dahiya, la Beekaa Valo [eo] kaj Suda Libano [eo], preskaŭ unu miliono da homoj, sekvas la saman strategion de demografia inĝenierado observitan en Gazao: devigi la civilan loĝantaron, en ĉi tiu kazo plejparte la ŝijaisman [eo] komunumon, forfuĝi, por poste detrui la teritorion, inkluzive de la infrastrukturo kaj loĝejoj, kaj venenigi la grundon tiel ke vivo ne plu eblas.
 
-Sanlaboristoj en Libano alfrontis atakojn konsciajn , ekzistas raportoj pri hospitaloj minacitaj kaj evakuitaj. Ĉi tio rememorigas la sisteman agreson kontraŭ la sansistemo en Gazao, kie malsanulejoj, ambulancoj kaj medicina personaro fariĝis oftaj celoj. La israelaj atakoj kontraŭ pactrupoj de Unuiĝintaj Nacioj [eo] en Suda Libano prezentas alian danĝeran eskaladon, subfosante la internacian humanitaran juron kaj la protektojn garantitajn al pactrupoj, kaj denove, ne estis konsekvencoj por la atakantoj.
+Sanlaboristoj en Libano alfrontis atakojn konsciajn, ekzistas raportoj pri hospitaloj minacitaj kaj evakuitaj. Ĉi tio rememorigas la sisteman agreson kontraŭ la sansistemo en Gazao, kie malsanulejoj, ambulancoj kaj medicina personaro fariĝis oftaj celoj. La israelaj atakoj kontraŭ pactrupoj de Unuiĝintaj Nacioj [eo] en Suda Libano prezentas alian danĝeran eskaladon, subfosante la internacian humanitaran juron kaj la protektojn garantitajn al pactrupoj, kaj denove, ne estis konsekvencoj por la atakantoj.
 
-En Irano, atakoj kontraŭ la civila infrastrukturo kaŭzis vivmediajn katastrofojn de gigantaj proporcioj. La bombado de naftostokejoj en Teherano [eo] kaj aliaj iranaj urboj ekigis vivmediajn krizojn kiuj trafos plurajn generaciojn. Tiuj atakoj kontraŭ la civila infrastrukturo — sensaligaj instalaĵoj , naftodeponejoj, amaskomunikiloj, publikaj servoj, kaj multaj aliaj — konsistigas klaran malobservon de la internacia humanitara juro [eo], kaj ankaŭ ne okazis gravaj sekvoj por la agresintoj.
+En Irano, atakoj kontraŭ la civila infrastrukturo kaŭzis vivmediajn katastrofojn de gigantaj proporcioj. La bombado de naftostokejoj en Teherano [eo] kaj aliaj iranaj urboj ekigis vivmediajn krizojn kiuj trafos plurajn generaciojn. Tiuj atakoj kontraŭ la civila infrastrukturo — sensaligaj instalaĵoj, naftodeponejoj, amaskomunikiloj, publikaj servoj, kaj multaj aliaj — konsistigas klaran malobservon de la internacia humanitara juro [eo], kaj ankaŭ ne okazis gravaj sekvoj por la agresintoj.
 
 La 54-a artikolo de la Aldona Protokolo I de la Ĝenevaj Konvencioj [eo] eksplicite malpermesas atakojn kontraŭ objektoj nemalhaveblaj por la supervivo de la civila loĝantaro, inkluzive de nutraĵoj, grenoj, brutoj, trinkakvaj instalaĵoj kaj irigaciaj konstruaĵoj.
 
@@ -44,7 +44,7 @@ Tio aldoniĝas al sennombraj dokumentitaj deklaroj de israelaj oficialuloj kiuj 
 
 Selektema indigno
 
-Kvankam kondamnoj kontraŭ Irano kaj Hizbulaho [eo] estas publikigitaj kun antaŭvidebla reguleco, oni trudas sankciojn kaj disponigas armeojn, tamen regas surdiga silento pri la agresantoj kiuj ne nur respondecas pri la komenco de la nuna milito, sed ankaŭ faras nemezurable pli grandajn kaj pli mortigajn militkrimojn. Tio inkluzivas la murdon de pli ol 175 irananoj, plejparte lernantinoj, en la unua tago de la usonaj atakoj. La selektema kolero de la internacia komunumo malkaŝas la hipokritecon kiu subtenas la tiel nomatan “ norm-bazitan internacian ordon “, kaj nur konfirmas ke tiuj kiuj sentas sin senprotektaj devas serĉi alternativojn por protekti sin.
+Kvankam kondamnoj kontraŭ Irano kaj Hizbulaho [eo] estas publikigitaj kun antaŭvidebla reguleco, oni trudas sankciojn kaj disponigas armeojn, tamen regas surdiga silento pri la agresantoj kiuj ne nur respondecas pri la komenco de la nuna milito, sed ankaŭ faras nemezurable pli grandajn kaj pli mortigajn militkrimojn. Tio inkluzivas la murdon de pli ol 175 irananoj, plejparte lernantinoj, en la unua tago de la usonaj atakoj. La selektema kolero de la internacia komunumo malkaŝas la hipokritecon kiu subtenas la tiel nomatan “norm-bazitan internacian ordon“, kaj nur konfirmas ke tiuj kiuj sentas sin senprotektaj devas serĉi alternativojn por protekti sin.
 
 Kio faras ĉi tiun duecan normon aparte okulfrapa estas la ekonomiaj kalkuloj malantaŭ la silento. Ŝajnas ke ĉio kio gravas estas teni malfermita la Ormuza markolo [eo], por ke la nafto daŭre fluu kaj la mono daŭre transiru de manoj al manoj. La vivoj de civiluloj en Libano, Irano kaj aliloke en la regiono ŝajnas esti malĉefaj kompare al ekonomiaj interesoj.
 
@@ -54,7 +54,7 @@ Tio kion ni atestas ne estas nur eskalado de la konflikto; ĝi estas la morto de
 
 La malsukceso de la internacia komunumo agi, ĝia selektema kondamno kaj ĝia ekonomia kompliceco kondukas al la sama konkludo.
 
-La prezidantino de la Eŭropa Komisiono , Ursula von der Leyen , kaj la Alta Reprezentanto por la Komuna ekstera kaj sekureca politiko , Kaja Kallas [eoj], makaŝe agnoskis la disfalon de la internacia jura ordo, kiam ili alvokis Eŭropon [eo] adaptiĝi al “kaosa kaj perforta monda ordo” meze de “kreskantaj malobservoj de internacia juro”. En sia parolado de marto 2026, von der Leyen konfesis ke “ni ne povas solvi ĉiujn tutmondajn konfliktojn aŭ perfekte unuigi niajn valorojn kaj interesojn en ĉiu okazo”, efike signalante la akceptadon de la Eŭropa Unio [eo] de la post-internacijura realo.
+La prezidantino de la Eŭropa Komisiono, Ursula von der Leyen, kaj la Alta Reprezentanto por la Komuna ekstera kaj sekureca politiko, Kaja Kallas [eoj], makaŝe agnoskis la disfalon de la internacia jura ordo, kiam ili alvokis Eŭropon [eo] adaptiĝi al “kaosa kaj perforta monda ordo” meze de “kreskantaj malobservoj de internacia juro”. En sia parolado de marto 2026, von der Leyen konfesis ke “ni ne povas solvi ĉiujn tutmondajn konfliktojn aŭ perfekte unuigi niajn valorojn kaj interesojn en ĉiu okazo”, efike signalante la akceptadon de la Eŭropa Unio [eo] de la post-internacijura realo.
 
 Tiu agnosko de senpoveco aperas ĝuste kiam la Eŭropa Unio mem portas grandan respondecon pri la nuna detruo. Post jardekoj da indulgemo rilate al israelaj okupadpolitikoj, kunkulpa silento pri kolektiva puno en Gazao kaj prioritatigo de energia sekureco super homaj rajtoj, la Eŭropa Unio aktive ebligis la normaligon de militkrimoj kiuj nun reproduktiĝas en Libano kaj Irano.
 

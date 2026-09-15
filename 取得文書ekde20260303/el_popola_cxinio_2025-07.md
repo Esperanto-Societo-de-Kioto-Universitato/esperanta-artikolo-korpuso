@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-09-15T13:49:03.010177+00:00"
+generated_at: "2026-09-15T16:12:44.390674+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-07-02 – 2025-07-31"
 ---
@@ -133,6 +133,8 @@ Ni kore dankas la kompanion Food Junc Tomato Products Co., Ltd. kaj sinjoron Jo
 
 **URL:** http://esperanto.china.org.cn/2025-07/04/content_117962008.htm
 
+**Author:** Rafael Henrique Zerbetto
+
 **Categories:** Plej Freŝaj
 
 De la 28-a ĝis la 30-a de junio mi vizitis la urbon Ruian de la provinco Zhejiang, orienta Ĉinio, por sperti la ĉinan kulturan heredaĵon kune kun japanaj premiitoj de la evento Panda Pokalo, kiuj gajnis vojaĝon al Ĉinio por sperti la kulturan heredaĵon de Ruian.
@@ -250,6 +252,8 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-07/09/content_117969897.htm
 
+**Author:** Rafael Henrique Zerbetto
+
 **Categories:** Plej Freŝaj
 
 La Pagodo Wenfeng estas konata vidindejo de la urbo Xuchang de la provinco Henan, centra Ĉinio. Ĝi havas okangulan bazon, samkiel plejparto de la pagodoj de la dinastioj Ming kaj Qing, sed ĝiaj proporcioj igas ĝin pli maldika kaj eleganta ol aliaj pagodoj de tiu epoko, kio igas ĝin unika en la ĉina arkitektura tradicio. Kun 13 etaĝoj kaj alteco de ĉirkaŭ 52 metroj, la pagodo estis konstruita dum Ming-dinastio el brikoj kaj ŝtonoj.
@@ -268,6 +272,8 @@ Raportis kaj fotis: Rafael Henrique Zerbetto
 **Published:** 2025-07-10
 
 **URL:** http://esperanto.china.org.cn/2025-07/10/content_117971462.htm
+
+**Author:** Rafael Henrique Zerbetto
 
 **Categories:** Plej Freŝaj
 
@@ -421,6 +427,8 @@ Redaktoro: Xie Ruifeng
 **Published:** 2025-07-17
 
 **URL:** http://esperanto.china.org.cn/2025-07/17/content_117979487.htm
+
+**Author:** Rafael Henrique Zerbetto
 
 **Categories:** Plej Freŝaj
 
@@ -784,6 +792,8 @@ Se vi ne sukcesis partopreni la merkredan ekskurson al Svitavy kaj Litomyšl, v
 
 **URL:** http://esperanto.china.org.cn/2025-07/23/content_117992403.htm
 
+**Author:** Rafael Henrique Zerbetto
+
 **Categories:** Plej Freŝaj
 
 La 23-an de julio en la urbo Tianjin, Ĉinio, okazis ĉijara Transcivilizacia Dialogo de Ŝanhaja Kunlabora Organizo (ŜKO), kun partopreno de pli ol 300 homoj. La membrolandoj de ŜKO estas Ĉinio, Barato, Kazaĥio,  Kirgizio, Rusio, Pakistano, Taĝikio, Uzbekio, Irano kaj Belarusio.
@@ -880,6 +890,8 @@ En tiu Tago de Esperanto (26 julio), feliĉe proksima de la Internacia Tago de E
 **Published:** 2025-07-28
 
 **URL:** http://esperanto.china.org.cn/2025-07/28/content_117995914.htm
+
+**Author:** Rafael Henrique Zerbetto
 
 **Categories:** Plej Freŝaj
 

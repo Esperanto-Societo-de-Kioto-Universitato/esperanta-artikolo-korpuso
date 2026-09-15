@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-09-15T13:49:03.266253+00:00"
+generated_at: "2026-09-15T16:12:44.640316+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-09-01 – 2026-09-14"
 ---
@@ -474,6 +474,8 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-09/08/content_118685863.htm
 
+**Author:** Rafael Henrique Zerbetto
+
 **Categories:** Plej Freŝaj
 
 La Nacia Akrobata Trupo de la Korea Popol-Demokratia Respubliko estas prestiĝa arta trupo kun pli ol 70-jara historio, mondkonata pro sia teknika rafiniteco kaj kapablo en multnombraj tipoj de akrobataĵoj.
@@ -490,6 +492,8 @@ Raportis kaj fotis: Rafael Henrique Zerbetto
 **Published:** 2026-09-09
 
 **URL:** http://esperanto.china.org.cn/2026-09/09/content_118687587.htm
+
+**Author:** Rafael Henrique Zerbetto
 
 **Categories:** Plej Freŝaj
 
@@ -587,6 +591,8 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-09/10/content_118689258.htm
 
+**Author:** Bui Hai Mung
+
 **Categories:** Plej Freŝaj
 
 En Pekino okazas la Ĉina Internacia Foiro por Komerco de Servoj 2026. Ĉi-jare nova ekspozicia sekcio altiris la atenton de multaj vizitantoj. Ĝia nomo estas "ĉinaj servoj". Estas la unua fojo, ke tia sekcio troviĝas en la centra parto de la ekspozicio. Ĝi prezentas pli ol 140 ekzemplajn kazojn el diversaj regionoj, entreprenoj kaj organizoj de Ĉinio. La kazoj kovras 12 kampojn de la komerco de servoj. Ili temas pri spac-tempa informado, translima loĝistiko, farmacia esplorado, inteligenta produktado, kulturo, turismo kaj servoj por la ĉiutaga vivo. Teknologio ludas gravan rolon. Preskaŭ 40% de la kazoj uzas artefaritan intelekton, grandajn lingvomodelojn aŭ inteligentajn agentojn kiel kernajn teknologiojn. Sed novaj teknologioj ne estas la sola interesaĵo. Pli grava estas alia demando: kiel transformi teknologion kaj profesian scion en servojn uzeblajn en la reala vivo? Kelkaj el tiuj servoj jam celas internaciajn merkatojn.
@@ -678,6 +684,8 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-09/11/content_118691504.htm
 
+**Author:** Rafael Henrique Zerbetto
+
 **Categories:** Plej Freŝaj
 
 La 7-an de septembro la brazila ambasadorejo en Pekino okazigis akcepton por invititoj, kun ĉeesto de reprezentantoj de la ĉina registaro, de diversaj diplomatiaj misioj en Ĉinio kaj de reprezentantoj de la civila socio, por festi la 204-an datrevenon de la sendependiĝo de Brazilo.
@@ -720,6 +728,8 @@ Raportis: Rafael Henrique Zerbetto
 **Published:** 2026-09-14
 
 **URL:** http://esperanto.china.org.cn/2026-09/14/content_118691404.htm
+
+**Author:** Rafael Henrique Zerbetto
 
 **Categories:** Plej Freŝaj
 

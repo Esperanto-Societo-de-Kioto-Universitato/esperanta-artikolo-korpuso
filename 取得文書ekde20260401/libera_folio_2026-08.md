@@ -1,6 +1,6 @@
 ---
 source: "Libera Folio (liberafolio.org)"
-generated_at: "2026-09-15T10:54:37.099871+00:00"
+generated_at: "2026-09-15T16:17:07.965153+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-08-02 – 2026-08-08"
 ---
@@ -16,7 +16,9 @@ time_range: "2026-08-02 – 2026-08-08"
 
 1 128 personoj el 62 landoj aliĝis al la 111-a Universala Kongreso de Esperanto, kiu estis inaŭgurita en Graco en Aŭstrio en dimanĉo la 2-a de aŭgusto. La komitato de UEA kunsidis dimanĉe posttagmeze, sed ne sukcesis decidi pri la kotizoj por la venonta jaro.
 
-La kvanto de la aliĝintoj al la ĉi-jara Universala Kongreso laŭ la lastaj informoj en dimanĉo estis 1 128. En la retejo de UEA tiu informo – aŭ ajnaj informoj pri la kongreso – ne estis facile trovebla, ĉar la retejo dum la lastaj tagoj ne funkcias fidinde kaj ofte tute ne estas atingebla. Tamen troviĝas kopio de la informoj ĉe esperanto.net .
+La inaŭguro de la ĉi-jara Universala Kongreso okazis en nekutime luksa salono. Foto: István Ertl
+
+La kvanto de la aliĝintoj al la ĉi-jara Universala Kongreso laŭ la lastaj informoj en dimanĉo estis 1 128. En la retejo de UEA tiu informo – aŭ ajnaj informoj pri la kongreso – ne estis facile trovebla, ĉar la retejo dum la lastaj tagoj ne funkcias fidinde kaj ofte tute ne estas atingebla. Tamen troviĝas kopio de la informoj ĉe esperanto.net.
 
 Iom da kongresanoj ĉiam aliĝas surloke, sed tamen la suma kvanto de aliĝintoj ĉi-jare estas relative malalta, se konsideri, ke la kongreso okazas en centra Eŭropo, regiono facile atingebla por multaj esperantistoj. En Lisbono en 2018 estis 1 567 aliĝintoj, en Lillo 2015 ili estis 2 698 kaj en Vilno 2005 aliĝis 2 344 homoj.
 
@@ -26,6 +28,8 @@ La kongresejo mem estas unu el la plej imponaj konstruaĵoj kie lastatempe okazi
 
 En la dimanĉa inaŭguro parolis membro de urba deputitaro Elke Heinrichs. Ŝi portis saluton de la urbestro Elke Kahr, kiu nun ferias post la elektokampanjo. La lokaj elektoj fine de junio donis novan periodon por komunista estrado de Graco, eĉ kun kreskanta subteno.
 
+Vico ekster la akceptejo en sabato. Foto: Jukka Pietiläinen
+
 Ĉefa temo en la inaŭguro estis, ke Aŭstrio iĝis la tria lando en la mondo, kiu akceptis Esperanton kiel sian nematerian kulturan heredaĵon. En la inaŭguro parolis la ĝenerala sekretario de Aŭstria Unesko-komisiono Martin Fritz.
 
 Krome en la inaŭguro germane parolis la ĉefo de Esperanto-muzeo kaj kolekto de planlingvoj de Aŭstria nacia biblioteko, kiun interpretis la esperanta oficisto de la biblioteko Bernhard Tuider.
@@ -34,11 +38,13 @@ Multe da gravuloj parolis dum la inaŭguro, sed malmulte da diplomatoj, nur ital
 
 La unua ekskurso por konatiĝi kun la kongresurbo laŭ partoprenintoj okazis bone kaj glate, kun profesia ĉiĉeronado kaj lerta interpretado de Bert Schumann.
 
-La unua numero de la kongresa kuriero aperis rete, sed ne haveblis en presita formo en sabato aŭ dimanĉo. Laŭdire la tiucela printilo paneis, kaj ne eblis ripari ĝin aŭ havigi novan pro la semajnfino. Pro la paneo de la retejo de UEA ankaŭ ne eblis ĝin legi tie, sed ĝi troveblas ĉe esperanto.net .
+La unua numero de la kongresa kuriero aperis rete, sed ne haveblis en presita formo en sabato aŭ dimanĉo. Laŭdire la tiucela printilo paneis, kaj ne eblis ripari ĝin aŭ havigi novan pro la semajnfino. Pro la paneo de la retejo de UEA ankaŭ ne eblis ĝin legi tie, sed ĝi troveblas ĉe esperanto.net.
 
 La infana kongreseto estis nuligita, sed aliĝintoj nur lastmomente eksciis pri tio. Anstataŭe estas tri horoj da infana programo tage.
 
 Dimanĉe posttagmeze okazis la kunsido de la komitato de UEA. Ĉeestis 39 komitatanoj el 58, do la kunveno estis kvoruma kaj decidopova, sed malmultaj decidoj estis faritaj.
+
+La komitato kunsidas. Foto: Jukka Pietiläinen
 
 Pri la statutaj ŝanĝoj, kiujn postulas la nederlanda leĝo, la estraro kaj la ĝenerala direktoro povis raporti nenion novan. La afero restas daŭre nefinita, kvankam la leĝo jam postulis ŝanĝon de la statutoj de neprofitcelaj organizoj ĝis la 1-a de julio.
 
@@ -67,13 +73,17 @@ Laŭ informoj de Jukka Pietiläinen kaj aliaj kongresanoj
 
 La nomoj de sep novaj honoraj membroj de UEA estis anoncitaj en Graco. Krome du forpasintoj postmorte ricevis la titolon de honora membro, kaj Probal Dasgupta estis postmorte nomita honora prezidanto de UEA. La kleriga lundo proponis multajn interesajn prelegojn, kaj jam en dimanĉo la Universala Kongreso estis vaste diskonigita ankaŭ en la aŭstria televido.
 
-Multaj loĝantoj de Graco kaj la ĉirkaŭa regiono dimanĉe vespere povis konatiĝi kun la Universala Kongreso de Esperanto, kiam la publika televidkompanio ORF prezentis ĝin kiel la duan novaĵon en la vespera aktualaĵ-elsendo . La unua novaĵo estis arbaraj fajroj en la regiono.
+La regiona novaĵelsendo de la aŭstria publika televidkompanio ORF prezentis la Universalan Kongreson en sia dua novaĵero en dimanĉo.
+
+Multaj loĝantoj de Graco kaj la ĉirkaŭa regiono dimanĉe vespere povis konatiĝi kun la Universala Kongreso de Esperanto, kiam la publika televidkompanio ORF prezentis ĝin kiel la duan novaĵon en la vespera aktualaĵ-elsendo. La unua novaĵo estis arbaraj fajroj en la regiono.
 
 La iom pli ol duminuta ero pri la kongreso estis enkondukita en Esperanto, kaj poste estis intervjuitaj en la germana pluraj kongresanoj, inter ili ankaŭ Seán Ó Riain, vicprezidanto de UEA kaj emerita irlanda diplomato. Reprezentanto de la turisma fako de Graco akcentis la signifon de la kongreso por la ekonomio de la urbo.
 
 Dum la unua tago de la kongreso estis diskonigitaj la nomoj de novaj honoraj membroj de UEA: Ans Bakker-ten Hagen, Maritza Gutiérrez González, Paul Peeraerts, Barbara Pietrzak, Jozef Reinvart, Martin Stuppnig kaj Renée Triolle.
 
 Aldone, jam post ilia forpaso, kiel honoraj membroj estis nomumitaj Hans Michael Maitzen kaj Ivo Osibov. Same postmorte, honora prezidanto de UEA fariĝis Probal Dasgupta. La praktiko honori forpasintojn per tiaj titoloj estis enkondukita nur pasintjare en Brno. Tiam oni uzis la latinan titolon ”in memorian”, nun tiu estis esperantigita kiel ”je lia memoro”.
+
+Fotoj de la novaj honoraj membroj estis projekciitaj en salono Zamenhof dum la inaŭguro.
 
 En pli fruaj jaroj forpasintojn ne eblis kandidatigi, kaj se jam post kandidatiĝo iu forpasis, tiun nomon oni ne konsideris – krom en Rejkaviko en 2013, kie oni post diskuto nomis Hallgrímur Saemundsson honora membro, kvankam li forpasis en la antaŭa tago.
 
@@ -84,6 +94,8 @@ Maciej Wnuk interese prelegis pri koruptado kaj kiel eblas ĝin kontraŭlabori. 
 Gabriel Beecham parolis pri la bezono de senerara komunikado en krizaj situacioj. Li rakontis kiel post evitebla, sed ne evitita, morto de anestezitino, ties vidvo, piloto, ekkonsciis ke ankaŭ la sanserva personaro bezonas trejnadon similan al tia, kian havas pilotoj. Necesas lerni, kiel komuniki pri la esenco, laŭ prioritatoj, per normaj formuloj, en la ordo instrukcio – konfirma ripeto – konfirmo de plenumo.
 
 Li rakontis ankaŭ, kiel oni en aviado en Koreio ekuzis la anglan lingvon, pro la maloportuna kaj eĉ mortiga ceremonieco de la korea lingvouzo. Tiun ekzemplon iuj ĉeestantoj aŭdeble malŝatis.
+
+Marta Ruzza en sia prelego parolis interalie pri specifaj vortoj, kiuj ofte apartenas al la esperantista identeco. Foto: István Ertl
 
 Marta Ruzza en sia kontribuo demandis, kiel esperantistoj difinas sin mem, kaj kiel la esperantisteco ŝanĝas la mempriskribon. En la diskuto leviĝis la demando pri la diferenco inter Esperantisto kaj Esperanto-parolanto. La distingo laŭ iuj ĉeestantoj aktualiĝas pro la perceptata multiĝo de Duolingo-esperantistoj, ĉu laŭvorte, ĉu en la senco ke estas novaj lernintoj, kiuj scipovas la lingvon sed malhavas konon de la kulturo kaj senton de aparteno al la Esperanto-komunumo.
 
@@ -108,7 +120,9 @@ La lundan vesperon finis la tradicia kongresa balo.
 
 Bruno Lehtinen el Finnlando verŝajne estas la plej aĝa kongresano en Graco – venontsemajne li povos festi sian centjariĝon. Sed kiel iĝi centjara? Pri tio Bruno Lehtinen ne scias konsili. ”Vivi estas pli bone ol morti”, li diras.
 
-Venontsemajne la verŝajne plej aĝa kongresano de 111-a Universala Kongreso de Esperanto, Bruno Lehtinen el Finnlando, fariĝos centjara. Mi renkontas lin ĉe la kongresero Belartaj Konkursoj, kaj li pretas respondi al kelkaj demandoj de Libera Folio .
+Bruno Lehtinen. Foto: Jukka Pietiläinen
+
+Venontsemajne la verŝajne plej aĝa kongresano de 111-a Universala Kongreso de Esperanto, Bruno Lehtinen el Finnlando, fariĝos centjara. Mi renkontas lin ĉe la kongresero Belartaj Konkursoj, kaj li pretas respondi al kelkaj demandoj de Libera Folio.
 
 – Mi ne estas grava persono, mi nur fariĝas centjara, li unue reagas al mia peto pri intervjuo.
 
@@ -159,23 +173,25 @@ Jukka Pietiläinen
 
 La rezultoj de la Belartaj Konkursoj de UEA estis diskonigitaj dum la Universala Kongreso en Graco.
 
-Poezio: la unuan premion ricevis Jubert Cabrezos (Filipinoj) pro Praatomo . La duan premion oni aljuĝis al Serĝo Sire (Francio) pro Jen perfekto! kaj Cho Sung Ho (Sud-Koreio) pro Muziko en min . La trian premion ricevas Choe Taesok (Koreio/Litovio) pro Persimono sunas kaj Carmel Mallia (Malto) pro Uragano .
+La diskonigo de la rezultoj de Belartaj Konkursoj. Foto: Tim Owen
 
-Prozo: 1-a premio – Wei Yubin (Ĉinio) pro Pafilo el milia tigo ; 2-a premio – Laimundas Abromas (Litovio) pro Promesita lando kaj 3-a premio – Jens Spillner (Germanio) pro Kiel Diablo detruus la junan generacion .
+Poezio: la unuan premion ricevis Jubert Cabrezos (Filipinoj) pro Praatomo. La duan premion oni aljuĝis al Serĝo Sire (Francio) pro Jen perfekto! kaj Cho Sung Ho (Sud-Koreio) pro Muziko en min. La trian premion ricevas Choe Taesok (Koreio/Litovio) pro Persimono sunas kaj Carmel Mallia (Malto) pro Uragano.
 
-Mikronovelo: la unuan premion ricevis Francisco Javier Moleón (Hispanio) pro Iam , la duan Amri Wandel (Israelo) pro Genezo , kaj la tria estis aljuĝita al du personoj: Jorge Rafael Nogueras (Portoriko/Usono) pro Atendante Panjon kaj Evgenij Georgiev (Kazaĥio) pro La ĝardeno . Ankaŭ honoran mencion li ricevis, pro La Baleno .
+Prozo: 1-a premio – Wei Yubin (Ĉinio) pro Pafilo el milia tigo; 2-a premio – Laimundas Abromas (Litovio) pro Promesita lando kaj 3-a premio – Jens Spillner (Germanio) pro Kiel Diablo detruus la junan generacion.
 
-Teatraĵo: 1-a premio – Evgenij Georgiev pro La leĝo estas la leĝo , kaj la 3-a – Ralph Glomp (Germanio) pro La Kaptito de Neustrelitz (La Terpomoj de la Duko) . La dua premio ne estis aljuĝita.
+Mikronovelo: la unuan premion ricevis Francisco Javier Moleón (Hispanio) pro Iam, la duan Amri Wandel (Israelo) pro Genezo, kaj la tria estis aljuĝita al du personoj: Jorge Rafael Nogueras (Portoriko/Usono) pro Atendante Panjon kaj Evgenij Georgiev (Kazaĥio) pro La ĝardeno. Ankaŭ honoran mencion li ricevis, pro La Baleno.
+
+Teatraĵo: 1-a premio – Evgenij Georgiev pro La leĝo estas la leĝo, kaj la 3-a – Ralph Glomp (Germanio) pro La Kaptito de Neustrelitz (La Terpomoj de la Duko). La dua premio ne estis aljuĝita.
 
 En la branĉo Mallonga Teatraĵo premioj ne estis aljuĝitaj.
 
 La premio Infanlibro de la Jaro estis aljuĝita al Esperanto-Asocio de Britio pro la eldono de Stig de la ŝutloko de Clive King, tradukita de Jack Warren, kun revizia helpo de Edmund Grimley Evans.
 
-Eseo: la unuan kaj ununuran premion ricevis Nicola Ruggiero (Italio) pro Inter silento kaj atesto .
+Eseo: la unuan kaj ununuran premion ricevis Nicola Ruggiero (Italio) pro Inter silento kaj atesto.
 
-Kantoteksto: la unuajn du premiojn gajnis Ewa Barbara Grochowska (Francio) per Gitaristo kaj Valsi por forgesi . La trian premion ricevis Benoît Philippe (Germanio) pro Bona vento , kaj honoran mencion Evgenij Georgiev pro Kanto de plagiatisto .
+Kantoteksto: la unuajn du premiojn gajnis Ewa Barbara Grochowska (Francio) per Gitaristo kaj Valsi por forgesi. La trian premion ricevis Benoît Philippe (Germanio) pro Bona vento, kaj honoran mencion Evgenij Georgiev pro Kanto de plagiatisto.
 
-En la subbranĉo Sciencfikcio kaj Fantasto venkis Evgenij Georgiev pro La kronikoj de Nautilus: Vaganta laboratorio . La duan premion dividis Vladimir Opletajev (Rusio) pro Ĉu forstisto? kaj Debra Hamel (Usono) pro La skribmaŝino . La trian premion ricevis Jorge Rafael Nogueras (Usono/Portoriko) pro Relumigu viajn karajn. Li akiris ankaŭ du honorajn menciojn pro Kial ne edziniĝi kun 64310? kaj En la tunelo 140-A .
+En la subbranĉo Sciencfikcio kaj Fantasto venkis Evgenij Georgiev pro La kronikoj de Nautilus: Vaganta laboratorio. La duan premion dividis Vladimir Opletajev (Rusio) pro Ĉu forstisto? kaj Debra Hamel (Usono) pro La skribmaŝino. La trian premion ricevis Jorge Rafael Nogueras (Usono/Portoriko) pro Relumigu viajn karajn. Li akiris ankaŭ du honorajn menciojn pro Kial ne edziniĝi kun 64310? kaj En la tunelo 140-A.
 
 Laŭ informo en la vendreda numero de la kongresa kuriero
 
@@ -191,6 +207,8 @@ Laŭ informo en la vendreda numero de la kongresa kuriero
 **Categories:** movado
 
 Internacia jaro de volontulado, malsukceso pri la vendo de la oficeja domo, instruado de Esperanto en lernejoj, mankanta dokumentado de eventualaj progresoj. La temoj de la demandoj ĉe la programero ”UEA respondas” en Graco ĵaŭde estis disaj. Respondis ĉefe la prezidanto – multvorte sed ne ĉiam konkrete.
+
+Komuna foto de la UK en salono Zamenhof. En la programero UEA respondas la publiko estis iom malpli grandkvanta. Foto: John Huang
 
 La programero UEA respondas komenciĝis preskaŭ laŭ la horaro, kun nur du minutoj da prokrasto je 11:17, kiam la Prezidanto de UEA, Fernando Maia, Jr., alparolis la spektantojn. Prezentinte siajn kolegojn kaj lastloke sin, li klarigis, ke la programero temas pri ”speciala okazo por vi, por ke vi starigu demandojn”, tial la titolo, UEA respondas. Li ŝercis, ke esperinde ne montriĝus pli bona titolo ”UEA monologas”.
 
@@ -316,6 +334,8 @@ Tim Owen
 **Categories:** UEA, movado
 
 Senproblema kaj senkonflikta komitata kunsido ne decidis pri la kotizo. La jara raporto de la estraro estis akceptita, sed la buĝeton la komitato ne volis pritrakti antaŭ ol la estraro donos pli detalajn informojn pri la ekonomio de UEA.
+
+La komitato kunsidas en vendredo. Foto: Jukka Pietiläinen
 
 La vendreda komitata kunsido estis unu el la plej senproblemaj komitatkunsidoj dum la pasintaj jaroj. Restis multe da tempo por diskuti pri detaloj kaj vortumoj, kaj tamen la kunsido preskaŭ finiĝis antaŭ la planita tempo, io tute ne kutima en UEA-komitato.
 

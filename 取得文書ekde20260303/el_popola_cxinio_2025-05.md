@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-09-15T13:49:02.999793+00:00"
+generated_at: "2026-09-15T16:12:44.376334+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-05-02 – 2025-05-31"
 ---
@@ -146,6 +146,8 @@ Redaktoro: Xie Ruifeng
 **Published:** 2025-05-08
 
 **URL:** http://esperanto.china.org.cn/2025-05/08/content_117864769.htm
+
+**Author:** Rafael Henrique Zerbetto
 
 **Categories:** Plej Freŝaj
 
@@ -384,6 +386,8 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-05/15/content_117876487.htm
 
+**Author:** Rafael Henrique Zerbetto
+
 **Categories:** Plej Freŝaj
 
 Posttagmeze de la 13-a de majo en Pekino, Banko de Brazilo (BB) kaj Ĉina Disvolva Banko (ĈDB) subskribis interkonsenton valoran je une miliardo da usonaj dolaroj por pligrandigi la financan kunlaboron inter la du institucioj kaj plifortigi la ekonomiajn ligojn inter Brazilo kaj Ĉinio. La interkonsento estis subskribita dum vizito de institucia misio de BB al la azia lando, plifortigante la strategian partnerecon inter la du ekonomioj.
@@ -438,6 +442,8 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-05/20/content_117885236.htm
 
+**Author:** Gilbert Morris
+
 **Categories:** Plej Freŝaj
 
 La ideo, ke Ĉinio "malkreskas", eldirita de iuj okcidentaj amaskomunikiloj, havas neniun bazon, tial ĝi devus esti malakceptita senprokraste por pli kompetenta kaj serioza analizo. La averaĝa jara kreskorapideco de Ĉinio de 2001 ĝis 2010 estis je 10.1%. En 2024, post multaj pesimismaj deklaroj, la ĉina ekonomio kreskis pli ol 5%, duoble pli rapide ol tiu de Usono kaj trioble pli rapide ol tiu de la Eŭropa Unio.
@@ -487,6 +493,8 @@ Redaktoro: Xie Ruifeng
 **Published:** 2025-05-21
 
 **URL:** http://esperanto.china.org.cn/2025-05/21/content_117886848.htm
+
+**Author:** Rafael Henrique Zerbetto
 
 **Categories:** Plej Freŝaj
 
@@ -576,6 +584,8 @@ Redaktoro: Gao Shuyuan
 
 **URL:** http://esperanto.china.org.cn/2025-05/22/content_117887862.htm
 
+**Author:** Rafael Henrique Zerbetto
+
 **Categories:** Plej Freŝaj
 
 Luoyang-ponto estas ikona vidindejo de la urbo Quanzhou de Fujian-provinco, sudorienta Ĉinio. Ĝia konstruado komenciĝis en la jaro 1053 kaj finis en la jaro 1059. Ĝi estas la unua granda ponto konstruita en Quanzhou, longa je 731 metroj, kaj alprenis la plej avangardajn konstru-teknikojn de tiu epoko, ekzemple uzo de tajdoj por faciligi la transportadon de la pezaj ŝtonoj uzitaj en la konstruado, kaj kulturado de ostroj sur la bazo de la ponto por fortikigi ĝian strukturon. Pro tio, ĝi estas majstroverko de antikva inĝenierio pri konstruado de longdistancaj pontoj. En antikveco, Luoyang-ponto estis esenca por transportado inter la urboj Quanzhou kaj Fuzhou.
@@ -652,6 +662,8 @@ Redaktoro: Xie Ruifeng
 **Published:** 2025-05-23
 
 **URL:** http://esperanto.china.org.cn/2025-05/23/content_117889899.htm
+
+**Author:** Rafael Henrique Zerbetto
 
 **Categories:** Plej Freŝaj
 
@@ -821,6 +833,8 @@ Redaktoro: Xie Ruifeng
 **Published:** 2025-05-29
 
 **URL:** http://esperanto.china.org.cn/2025-05/29/content_117902183.htm
+
+**Author:** Rafael Henrique Zerbetto
 
 **Categories:** Plej Freŝaj
 

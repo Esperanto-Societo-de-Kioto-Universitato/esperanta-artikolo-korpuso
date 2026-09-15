@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-09-15T13:49:03.015069+00:00"
+generated_at: "2026-09-15T16:12:44.397167+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-08-04 – 2025-08-31"
 ---
@@ -42,6 +42,8 @@ Redaktoro: Xie Ruifeng
 **Published:** 2025-08-05
 
 **URL:** http://esperanto.china.org.cn/2025-08/05/content_118011667.htm
+
+**Author:** Rafael Henrique Zerbetto
 
 **Categories:** Plej Freŝaj
 
@@ -111,6 +113,8 @@ Verkis kaj fotis: Rafael Henrique Zerbetto
 **Published:** 2025-08-06
 
 **URL:** http://esperanto.china.org.cn/2025-08/06/content_118013155.htm
+
+**Author:** Rafael Henrique Zerbetto
 
 **Categories:** Plej Freŝaj
 
@@ -400,6 +404,8 @@ Redaktoro: Gao Shuyuan
 
 **URL:** http://esperanto.china.org.cn/2025-08/21/content_118036365.htm
 
+**Author:** BUI HAI MUNG (Vjetnamio)
+
 **Categories:** Plej Freŝaj
 
 Post loĝado pli ol du jarojn en Ĉinio, mi havis la ŝancon viziti multajn lokojn de la lando. Laŭ mia opinio, la ĉina turismo estas tre bone planita, ĉiuj turismaj lokoj estas puraj kaj la prezoj tre raciaj. Ĉinoj ofte fieras pri la longa historio kaj diras, ke Henan estas la patro, dum Shaanxi estas la patrino, ambaŭ la du lokoj estas simboloj de la origino de Ĉinio.
@@ -536,6 +542,8 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-08/26/content_118038226.htm
 
+**Author:** Bui Hai Mung
+
 **Categories:** Plej Freŝaj
 
 Mi estas vjetnama civitano, kiu vivas kaj laboras en Ĉinio por pli ol du jaroj. Dum ĉi tiu periodo mi loĝis ĉefe en Pekino kaj ankaŭ havis ŝancon viziti multajn aliajn urbojn kiel Ŝanhajo, Hangzhou, Dunhuang, Urumĉio, Zhangjiajie ktp. Miaj spertoj, ĉu en grandaj urboj, ĉu en lokaj regionoj, kondukis min al klara konkludo: Ĉinio estas tre sekura lando.
@@ -610,6 +618,8 @@ Verkita de Bui Hai Mung
 **Published:** 2025-08-27
 
 **URL:** http://esperanto.china.org.cn/2025-08/27/content_118045122.htm
+
+**Author:** Rafael Henrique Zerbetto
 
 **Categories:** Plej Freŝaj
 

@@ -1,6 +1,6 @@
 ---
 source: "UEA Facila (uea.facila.org)"
-generated_at: "2026-09-15T10:54:37.054210+00:00"
+generated_at: "2026-09-15T16:17:07.071972+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-07-11 – 2025-07-27"
 ---
@@ -20,11 +20,11 @@ time_range: "2025-07-11 – 2025-07-27"
 
 Eblas aŭskulti ĉi tiun artikolon, kiun voĉlegis Hanso Becklin.
 
-Unu el la plej produktemaj verkistoj en Esperantujo estas aŭstraliano Trevor Steele , kiu verkis dudekon da originalaj romanoj kaj novelaroj en Esperanto. En La arto labori kune , festlibro por la 70-a datreveno de Humphrey Tonkin , aperas mallonga artikolo de Steele, en kiu li respondas la demandon “Kial vi verkas?” Ahmad Mamduhi simpligis kaj mallongigis tiun artikolon por la legantoj de uea.facila .
+Unu el la plej produktemaj verkistoj en Esperantujo estas aŭstraliano Trevor Steele, kiu verkis dudekon da originalaj romanoj kaj novelaroj en Esperanto. En La arto labori kune, festlibro por la 70-a datreveno de Humphrey Tonkin, aperas mallonga artikolo de Steele, en kiu li respondas la demandon “Kial vi verkas?” Ahmad Mamduhi simpligis kaj mallongigis tiun artikolon por la legantoj de uea.facila.
 
 Kiel mi komencis verki
 
-Kiam mi estis juna, mi skribis poemojn en la mezlernejo. Sed ili estis malbone verkitaj, do mi ĵetis ilin en rubujon .
+Kiam mi estis juna, mi skribis poemojn en la mezlernejo. Sed ili estis malbone verkitaj, do mi ĵetis ilin en rubujon.
 
 Mi sciis, ke mi volas verki librojn. Tamen mi ne faris. Kial? Mi havis du problemojn:
 
@@ -44,11 +44,11 @@ Mia unua libro
 
 Mi studis pri germanaj misiistoj en la granda insulo Nov-Gvineo, norde de Aŭstralio. Mia profesoro volis, ke mi studu tiun temon. Sed la misiistoj ne interesis min. Ili volis ŝanĝi la lokajn homojn en germanojn.
 
-Mi ne finis tiun studon. Sed mi trovis ion pli interesan: ruson kun la nomo Nikolaj Mikluĥo-Maklaj (1846-1888). Li vojaĝis tra Nov-Gvineo, kaj verkis tre legindajn taglibrojn pri siaj aventuroj .
+Mi ne finis tiun studon. Sed mi trovis ion pli interesan: ruson kun la nomo Nikolaj Mikluĥo-Maklaj (1846-1888). Li vojaĝis tra Nov-Gvineo, kaj verkis tre legindajn taglibrojn pri siaj aventuroj.
 
 En Rusio, ĉiuj konas lin. Sed aliloke, preskaŭ neniu aŭdis pri li. Lia rakonto meritas diskoniĝon!
 
-Mi uzis liajn taglibrojn por verki mian unuan romanon Sed nur fragmento . Mi aldonis kelkajn miajn proprajn spertojn al la rakonto.
+Mi uzis liajn taglibrojn por verki mian unuan romanon Sed nur fragmento. Mi aldonis kelkajn miajn proprajn spertojn al la rakonto.
 
 Nuntempa verkado
 
@@ -58,7 +58,7 @@ Mi volas aperigi librojn ankaŭ en la angla lingvo. Tio estas pli malfacila, ĉa
 
 Ĉu mi iĝos anglalingva verkisto aŭ ne, mi dankas Esperanton. Sen Esperanto, mi neniam estus komencinta verki librojn.
 
-Konkludo : Esperanto donis al mi la kuraĝon verki. En malgranda lingvo, oni povas diri novajn aferojn pli facile ol en grandaj lingvoj.
+Konkludo: Esperanto donis al mi la kuraĝon verki. En malgranda lingvo, oni povas diri novajn aferojn pli facile ol en grandaj lingvoj.
 
 Trevor Steele Simpligis la artikolon Ahmad Mamduhi
 
@@ -129,19 +129,19 @@ rubujo: ujo por teni forĵetitajn kaj nedeziratajn aferojn.
 
 **Audio:** https://uea.facila.org/uploads/monthly_2025_07/islamo.mp3.2011d1f1d4edaad2f066d3c270821632.mp3
 
-Islama arkitekturo en Kordovo  Foto: Wikipedia / Richard  Mortel CC BY 2.0
+Islama arkitekturo en Kordovo Foto: Wikipedia / Richard Mortel CC BY 2.0
 
 Eblas aŭskulti ĉi tiun artikolon, kiun voĉlegis Simone Schumacher.
 
 Islamo kaj Eŭropo: komuna, forgesita historio
 
-Eŭropanoj fieras pri multaj aferoj, kiuj ŝajnas al ili pure eŭropaj. Kaj tamen pluraj el tiuj aferoj ne ekzistus sen la influo de la islama mondo. La eŭropa Mez- epoko (kiu daŭris proksimume de la 8-a ĝis la 15-a jarcento) markis periodon de intelekta malprogreso en la okcidento. Tiam Hispanujo estis grandparte islama, kaj la hispana urbo Kordovo estis sendube la plej brila kultura centro de Eŭropo. Oni taksas , ke la biblioteko de Kordovo entenis 400 000 librojn, pli ol ĉiuj bibliotekoj en la cetero de Eŭropo kune. La islama mondo povis krei tiun grandegan bibliotekon, ĉar ĝi lernis la arton de paper-farado el Ĉinujo pli ol 400 jarojn pli frue ol la ne-islama Eŭropo. Sen la scioj konservitaj en la islama Hispanujo, Eŭropo estus eble evoluinta malpli rapide dum la Renesanco . Tiuj scioj enhavis ne nur la heredaĵon de la grekoj kaj romanoj, sed ankaŭ sciencajn kaj kulturajn ideojn el Mez-oriento kaj Norda Afriko. Dum tiu periodo okazis gravaj malkovroj en la islama mondo. En suda Hispanujo la islama arkitekturo estas videbla ankoraŭ nun.
+Eŭropanoj fieras pri multaj aferoj, kiuj ŝajnas al ili pure eŭropaj. Kaj tamen pluraj el tiuj aferoj ne ekzistus sen la influo de la islama mondo. La eŭropa Mez-epoko (kiu daŭris proksimume de la 8-a ĝis la 15-a jarcento) markis periodon de intelekta malprogreso en la okcidento. Tiam Hispanujo estis grandparte islama, kaj la hispana urbo Kordovo estis sendube la plej brila kultura centro de Eŭropo. Oni taksas, ke la biblioteko de Kordovo entenis 400 000 librojn, pli ol ĉiuj bibliotekoj en la cetero de Eŭropo kune. La islama mondo povis krei tiun grandegan bibliotekon, ĉar ĝi lernis la arton de paper-farado el Ĉinujo pli ol 400 jarojn pli frue ol la ne-islama Eŭropo. Sen la scioj konservitaj en la islama Hispanujo, Eŭropo estus eble evoluinta malpli rapide dum la Renesanco. Tiuj scioj enhavis ne nur la heredaĵon de la grekoj kaj romanoj, sed ankaŭ sciencajn kaj kulturajn ideojn el Mez-oriento kaj Norda Afriko. Dum tiu periodo okazis gravaj malkovroj en la islama mondo. En suda Hispanujo la islama arkitekturo estas videbla ankoraŭ nun.
 
-Universitatoj en la islama mondo estis centroj por scienca esplorado. Iliaj sciencistoj faris gravajn kontribuojn al ĉiu ebla kampo: de medicino , astronomio kaj matematiko ĝis juro kaj agrikulturo . Ekzemple, Nikolao Koperniko (1473-1543) deklaris ke la Suno, ne la Tero, troviĝas en la centro de nia sunsistemo. Tiu ideo parte baziĝis sur la matematikaj komprenoj de islamaj kleruloj kiel Al-Tusi kaj Ibn al-Shatir .
+Universitatoj en la islama mondo estis centroj por scienca esplorado. Iliaj sciencistoj faris gravajn kontribuojn al ĉiu ebla kampo: de medicino, astronomio kaj matematiko ĝis juro kaj agrikulturo. Ekzemple, Nikolao Koperniko (1473-1543) deklaris ke la Suno, ne la Tero, troviĝas en la centro de nia sunsistemo. Tiu ideo parte baziĝis sur la matematikaj komprenoj de islamaj kleruloj kiel Al-Tusi kaj Ibn al-Shatir.
 
-La moderna filozofio multon ŝuldas al la islamaj kleruloj. Ili ne nur tradukis la verkojn de grekaj kaj romanaj filozofoj , kiuj tiam estis ankoraŭ troveblaj, sed ankaŭ tekstojn de ĉinaj kaj arabaj pensuloj. Tiel novaj filozofiaj ideoj eniris poste en Eŭropon.
+La moderna filozofio multon ŝuldas al la islamaj kleruloj. Ili ne nur tradukis la verkojn de grekaj kaj romanaj filozofoj, kiuj tiam estis ankoraŭ troveblaj, sed ankaŭ tekstojn de ĉinaj kaj arabaj pensuloj. Tiel novaj filozofiaj ideoj eniris poste en Eŭropon.
 
-Krom siaj intelektaj kontribuoj, la islama mondo grave influis la socian kaj religian vivon de Eŭropo. En periodo kiam la islama mondo ofte estis sufiĉe malfermita kaj tolerema , anoj de aliaj religioj (judoj kaj kristanoj) rajtis plu praktiki siajn kredojn.
+Krom siaj intelektaj kontribuoj, la islama mondo grave influis la socian kaj religian vivon de Eŭropo. En periodo kiam la islama mondo ofte estis sufiĉe malfermita kaj tolerema, anoj de aliaj religioj (judoj kaj kristanoj) rajtis plu praktiki siajn kredojn.
 
 Nuntempe, tia toleremo estas foje malfacile trovebla ĉe ambaŭ flankoj. Sed estas certe, ke Islamo ne estas religio enportita de enmigrintoj nur ekde la dudeka jarcento. Ĉu ni ne pripensu tion pli ofte? Precipe nun, kiam Islamo foje estas vidata kiel “malamiko de la Okcidento” en la dividita Eŭropo.
 
@@ -212,21 +212,21 @@ Eblas aŭskulti ĉi tiun artikolon, kiun voĉlegis Derek Roff.
 
 Burĝ Ĥalifa en Unuiĝintaj Arabaj Emirlandoj estas la plej alta konstruaĵo en la mondo. Tiu fama turo staras en la koro de la urbo Dubajo: vera inĝeniera atingo! Je 828 metroj alta, ĝi al-tiras vizitantojn el la tuta mondo ekde sia malfermo en 2010.
 
-Ĝi havas 163 etaĝojn , 2 957 parkejojn , 304 hotelĉambrojn kaj 900 loĝejojn.
+Ĝi havas 163 etaĝojn, 2 957 parkejojn, 304 hotelĉambrojn kaj 900 loĝejojn.
 
 La plej alta observejo de la mondo troviĝas en la 124-a etaĝo. 54 liftoj kondukas vizitantojn al la supro en ĉirkaŭ du minutoj laŭ rapideco ĝis 60 kilometroj hore.
 
-La eksteron de la turo kovras 26 000 vitraj paneloj , ĉiuj mane tranĉitaj. Purigado de la tuta konstruaĵo daŭras tri monatojn.
+La eksteron de la turo kovras 26 000 vitraj paneloj, ĉiuj mane tranĉitaj. Purigado de la tuta konstruaĵo daŭras tri monatojn.
 
-Imagu la pezon de 100 000 elefantoj . Tio estas la pezo de la tuta kvanto de betono uzita por konstrui Burĝ Ĥalifa.
+Imagu la pezon de 100 000 elefantoj. Tio estas la pezo de la tuta kvanto de betono uzita por konstrui Burĝ Ĥalifa.
 
-Ĝis lastatempe ĝi tenis la mondajn rekordojn por la plej longa lifto -vojaĝo kaj la plej alta restoracio en la mondo.
+Ĝis lastatempe ĝi tenis la mondajn rekordojn por la plej longa lifto-vojaĝo kaj la plej alta restoracio en la mondo.
 
-La formo de la turo baziĝas sur la formo de la amaralido , regiona floro, kiu kreskas en la dezerto de Unuiĝintaj Arabaj Emirlandoj.
+La formo de la turo baziĝas sur la formo de la amaralido, regiona floro, kiu kreskas en la dezerto de Unuiĝintaj Arabaj Emirlandoj.
 
 La Granda Piramido de Gizo en Egiptio estis la plej alta konstruaĵo en la mondo dum pli ol 3 800 jaroj, kun komenca alteco de 147 metroj. Forpreno de la kovrantaj ŝtonoj donas ĝian nunan altecon de 139m. En 1311, oni konstruis la Katedralon de Lincoln, Anglio, kies turo tiutempe atingis 160m. Poste la 142-metra Katedralo de Strasburgo en Francio, finita en 1439, estis la plej alta konstruaĵo de la mondo, de 1647 ĝis 1874.
 
-Novaj konstru-metodoj per ŝtalo kaj betono produktis 42-metran oficejon, la Dom- asekuran Konstruaĵon, kiu estis konstruita en Ĉikago en 1885. Tiutempe 42 metroj estis okul-frapa alteco por oficeja konstruaĵo. Usono restis la hejmo de la plej altaj konstruaĵoj dum la tuta 20-a jarcento ĝis 1998, kiam estis finkonstruitaj la Turoj Petronas en Kualalumpuro, Malajzio. Ekde tiam, gajnis la titolon du aliaj konstruaĵoj: Tajpeo 101 (Tajpeo, Tajvano) en 2004 kaj nun Borĝ Ĥalifa ekde 2009.
+Novaj konstru-metodoj per ŝtalo kaj betono produktis 42-metran oficejon, la Dom-asekuran Konstruaĵon, kiu estis konstruita en Ĉikago en 1885. Tiutempe 42 metroj estis okul-frapa alteco por oficeja konstruaĵo. Usono restis la hejmo de la plej altaj konstruaĵoj dum la tuta 20-a jarcento ĝis 1998, kiam estis finkonstruitaj la Turoj Petronas en Kualalumpuro, Malajzio. Ekde tiam, gajnis la titolon du aliaj konstruaĵoj: Tajpeo 101 (Tajpeo, Tajvano) en 2004 kaj nun Borĝ Ĥalifa ekde 2009.
 
 Sed la turo Borĝ Ĥalifa sendube ne longe restos la plej alta konstruaĵo en la mondo. La plej nova konkursanto por la unua premio jam nun estas konstruata en Ĝido, Sauda Arabio. Tiu konstruaĵo, nomata Borĝ Ĝido, estos pli ol 1000 metrojn alta. La konstruado de la turo en Ĝido finiĝos ĉirkaŭ 2028.
 

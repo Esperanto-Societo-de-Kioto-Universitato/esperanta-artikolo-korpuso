@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-09-15T13:49:03.026627+00:00"
+generated_at: "2026-09-15T16:12:44.414320+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-10-09 – 2025-10-31"
 ---
@@ -353,6 +353,8 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-10/15/content_118125457.htm
 
+**Author:** Bui Hai Mung
+
 **Categories:** Plej Freŝaj
 
 Tra la fluado de historio, la "kvar grandaj inventoj" de Ĉinio -- la kompaso, pulvo, papero kaj presarto -- formis la fundamenton de la homa civilizacio. En la cifereca epoko, la mondo denove atestas la aperon de la "kvar novaj grandaj inventoj" de la lando: altrapida fervojo, poŝtelefona pago, reta aĉetado kaj kunluebla biciklo. Inter ili, la kunluebla biciklo leviĝis kiel tutmonda urba fenomeno, kiu ne nur solvas la problemon de la "lasta kilometro" al la celloko, sed ankaŭ lasas profundajn lecionojn pri novigo kaj socia administrado.
@@ -508,6 +510,8 @@ Xi Jinping postulis: "La gvidaj oficialuloj de diversaj niveloj devas doni bonaj
 
 **URL:** http://esperanto.china.org.cn/2025-10/17/content_118127076.htm
 
+**Author:** Bui Hai Mung
+
 **Categories:** Plej Freŝaj
 
 Ĉu vi scias, ke inter la "kvar novaj grandaj malkovroj" de Ĉinio troviĝas ankaŭ retkomerco? Laŭ datumoj de la Nacia Statistika Oficejo de la lando, en 2024 la totala valoro de ĉinaj retkomercaj transakcioj atingis 46.41 duilionojn da juanoj, kio reprezentas kreskon je 3.9% kompare kun 2023. Kiel eksterlandano loĝanta en Pekino, mi persone spertas la mirindan disvolviĝon de la ĉina retkomerco, kiu ne nur transformis la ekonomion, sed ankaŭ profunde ŝanĝis la konsum-kulturon.
@@ -635,6 +639,8 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-10/20/content_118121409.htm
 
+**Author:** Bui Hai Mung
+
 **Categories:** Plej Freŝaj
 
 Profitante la ok-tagan feriadon de la Nacia Tago de Ĉinio, mi decidis vojaĝi al la legenda diverformfolia poplarbaro (Popular diversifolia) de Ejina en la Interna Mongolio. Por atingi tiun lokon, mi veturis pli ol 1 500 kilometrojn per buso de Pekino ĝis la fora nordokcidento. Kvankam la vojaĝo estis longa kaj lacega, sed la mirinda pejzaĝo, kiu malfermiĝis antaŭ miaj okuloj, igis ĉion tute inda.
@@ -670,6 +676,8 @@ Redaktoro: Xie Ruifeng
 **Published:** 2025-10-21
 
 **URL:** http://esperanto.china.org.cn/2025-10/21/content_118132694.htm
+
+**Author:** Bui Hai Mung
 
 **Categories:** Plej Freŝaj
 
@@ -1016,6 +1024,8 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-10/27/content_118141814.htm
 
+**Author:** Bui Hai Mung
+
 **Categories:** Plej Freŝaj
 
 Mi ankoraŭ klare memoras la unuan fojon, kiam mi eniris la altrapidan trajnon (HSR) Fuxing el Pekino al Ŝanhajo. Ĉio estis tute malsama ol mi imagis pri "trajno": Nenia bruo, nenia skuado, nenia odoro de oleo. Dum kurado de la trajno, la ekrano montris 350 km/h -- la plej alta komerca rapido en la mondo. Tra la fenestro, la pejzaĝo flugas tiel rapide, ke la okuloj ne povis sekvi. Mi rimarkis, ke mi ne nur vojaĝas inter du urboj, sed ankaŭ malkovras la krean potencon de moderna Ĉinio. Tiam mi komprenis, kial ĉinoj nomas altrapidan trajnon kiel unu el siaj "kvar novaj grandaj inventoj".
@@ -1171,6 +1181,8 @@ Verkis: Bui Hai Mung
 
 **URL:** http://esperanto.china.org.cn/2025-10/29/content_118148850.htm
 
+**Author:** Wei Yubin (Jado)
+
 **Categories:** Plej Freŝaj
 
 En 2024 aperis ĉina videoludo Nigra mito: Wukong, kiu ne nur revigligis la intereson pri la tradicia ĉina kulturo, sed ankaŭ kaŭzis grandan alfluon de turistoj en Shanxi-provinco, riĉa je historiaj kaj kulturaj vidindaĵoj. La videoludo, inspirita de la klaskika romano Pilgrimo al la Okcidento de Wu Cheng'en, prezentas multajn realajn historiajn lokojn, el kiuj 27 troviĝas en Shanxi.
@@ -1227,6 +1239,8 @@ Verkis Wei Yubin (Jado)
 
 **URL:** http://esperanto.china.org.cn/2025-10/30/content_118150250.htm
 
+**Author:** Bui Hai Mung
+
 **Categories:** Plej Freŝaj
 
 La Pekina Internacia Fotografia Semajno estas festo de bilda arto, kiu ĉiujare okazas aŭtune en Pekino. Ĝi estas kvazaŭ vasta fenestro, tra kiu la rakontoj de ĉinaj bildoj iras al la mondo, kaj la diversaj kulturoj de la mondo kuniĝas ĉi tie. Ĉi-jare la evento okazas de la 18-a ĝis la 27-a de oktobro 2025 kun la temo "Bildo: Civilizacio kaj nova kvalito", alfrontas la transformon de la bilda industrio kaŭzitan de la novkvalitaj produktfortoj de artefarita intelekto (AI) kaj cifereca teknologio.
@@ -1279,6 +1293,8 @@ Redaktoro: Xie Ruifeng
 **Published:** 2025-10-31
 
 **URL:** http://esperanto.china.org.cn/2025-10/31/content_118152411.htm
+
+**Author:** Rafael Henrique Zerbetto
 
 **Categories:** Plej Freŝaj
 

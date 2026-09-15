@@ -1,6 +1,6 @@
 ---
 source: "UEA Facila (uea.facila.org)"
-generated_at: "2026-09-15T10:54:37.065480+00:00"
+generated_at: "2026-09-15T16:17:07.083400+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-12-02 – 2025-12-28"
 ---
@@ -20,15 +20,15 @@ time_range: "2025-12-02 – 2025-12-28"
 
 Eblas aŭskulti ĉi tiun artikolon, kiun voĉlegis Rafa Nogueras.
 
-La sekva rakonto unue aperis en Short Stories in Esperanto volume 2 . Ĝi estas iom simpligita por uea.facila .
+La sekva rakonto unue aperis en Short Stories in Esperanto volume 2. Ĝi estas iom simpligita por uea.facila.
 
 La riparo
 
-Son’ . Son’. Son’.
+Son’. Son’. Son’.
 
-La sono estas ritma kaj malrapida, je la sama ritmo kiel la likvo , kiu cirkulas en via korpo. Ĉu intence?
+La sono estas ritma kaj malrapida, je la sama ritmo kiel la likvo, kiu cirkulas en via korpo. Ĉu intence?
 
-Ekfunkcias viaj vid- sensiloj . Lumo trafas la plafonon de la ĉambro, kaj pli da lumo eliĝas el travidebla panelo sur la muro. Tiu lumo havas alian fonton. Ĝian nomon vi ne memoras.
+Ekfunkcias viaj vid-sensiloj. Lumo trafas la plafonon de la ĉambro, kaj pli da lumo eliĝas el travidebla panelo sur la muro. Tiu lumo havas alian fonton. Ĝian nomon vi ne memoras.
 
 Vi kuŝas sur io malmola. Vi rimarkas temperaturon malsaman je dek gradoj inter la surfaco kaj viaj tuŝ-sensiloj. Kiam la temperaturo estas malpli alta… kiel oni nomas tion?
 
@@ -42,9 +42,9 @@ Lia vizaĝo alproksimiĝas al viaj vid-sensiloj. La anguloj de lia buŝo turniĝ
 
 Vi malfermas la buŝon. El-iras sonoj miksitaj kaj sen-ordaj. Ili ne similas al la respondo, kiun vi planis doni.
 
-Rikardo kuntiras la brovojn . Li ne povas kompreni vin. Li prenas de ie malgrandan lampon kaj lumigas per ĝi viajn vid-sensilojn. Li krias al iu, kiu staras malantaŭ li: “Io misas, alportu la ilojn por riparo.”
+Rikardo kuntiras la brovojn. Li ne povas kompreni vin. Li prenas de ie malgrandan lampon kaj lumigas per ĝi viajn vid-sensilojn. Li krias al iu, kiu staras malantaŭ li: “Io misas, alportu la ilojn por riparo.”
 
-Tint’ . Tint’. Tint’. Viaj aŭd-sensiloj rimarkas, ke sono fortiĝas kaj malfortiĝas. La malvarma surfaco saltetas. Vi aŭdas la tintadon de metalo. Rikardo premas unu flankon de via kapo. Klakas io. Io sonas kiel alta krio. Frap’. Zum’ . Prem’. Pli da zumado. Pli da premo. De tiam, sonado. Malklara sonado. La lumoj malfortiĝas.
+Tint’. Tint’. Tint’. Viaj aŭd-sensiloj rimarkas, ke sono fortiĝas kaj malfortiĝas. La malvarma surfaco saltetas. Vi aŭdas la tintadon de metalo. Rikardo premas unu flankon de via kapo. Klakas io. Io sonas kiel alta krio. Frap’. Zum’. Prem’. Pli da zumado. Pli da premo. De tiam, sonado. Malklara sonado. La lumoj malfortiĝas.
 
 Vi malfermas viajn okulojn kaj vidas la sunradiojn, kiuj en-venas. Vi kuŝas sur lito sub mola, peza litkovrilo. Kiel vi atingis tiun lokon? La lasta afero, kiun vi memoras, estas la sonado de la kuireja horloĝo. Pensado dolorigas vian kapon. Vi ĝemas iomete.
 
@@ -58,11 +58,11 @@ Vi malfermas viajn okulojn kaj vidas la sunradiojn, kiuj en-venas. Vi kuŝas sur
 
 “Ne, sango ne estis.” Li prenas la skatolon kaj komencas paŝi malantaŭen. “Ĉi tio necesas nur okaze de bezono. Mi formetos ĝin kaj verŝos por vi glason da akvo.”
 
-Li turniĝas por el-iri. Tro rapide. Li trafas la muron kaj faligas la skatolon. Iloj falas sur la plankon… ŝraŭbiloj , marteleto , elektro-mezurilo, kaj divers-specaj ŝraŭboj kaj ŝraŭbingoj.
+Li turniĝas por el-iri. Tro rapide. Li trafas la muron kaj faligas la skatolon. Iloj falas sur la plankon… ŝraŭbiloj, marteleto, elektro-mezurilo, kaj divers-specaj ŝraŭboj kaj ŝraŭbingoj.
 
 Myrtis Smith
 
-Myrtis Smith estas usona esperantistino, inĝeniera instruisto tage kaj aspiranta artisto nokte. Ŝiaj ŝatokupoj inkluzivas verkadon, dancadon, kudradon, marŝadon kaj, kompreneble, Esperanton. Ŝi estas regula kontribuanto al uea.facila .
+Myrtis Smith estas usona esperantistino, inĝeniera instruisto tage kaj aspiranta artisto nokte. Ŝiaj ŝatokupoj inkluzivas verkadon, dancadon, kudradon, marŝadon kaj, kompreneble, Esperanton. Ŝi estas regula kontribuanto al uea.facila.
 
 brovo: linio de haroj super la okulo.
 
@@ -86,13 +86,13 @@ riparo: rebonigo de rompita aŭ nefunkcianta afero.
 
 ritmo: en muziko aŭ poezio, regula interŝanĝo de fortaj kaj malfortaj sonoj.
 
-senso: kapablo vidi, aŭdi, tuŝi, gustumi kaj tiel plu; sensilo: ilo, per kiu eblas ricevi vidon aŭ sonon, aŭ sperti guston, odoron, aŭ tuŝo-senton.
+senso: kapablo vidi, aŭdi, tuŝi, gustumi kaj tiel plu; sensilo: ilo, per kiu eblas ricevi vidon aŭ sonon, aŭ sperti guston, odoron, aŭ tuŝo-senton.
 
 son’ = sono.
 
 surfaco: supraĵo; supra aŭ ekstera flanko de io.
 
-ŝraŭbo: aĵo plej ofte el metalo, sed ankaŭ el ligno aŭ plasto, kiun oni turnas enloke por fiksi aferojn; ŝraŭbilo: ilo por turni kaj fiksi ŝraŭbojn.
+ŝraŭbo: aĵo plej ofte el metalo, sed ankaŭ el ligno aŭ plasto, kiun oni turnas enloke por fiksi aferojn; ŝraŭbilo: ilo por turni kaj fiksi ŝraŭbojn.
 
 temperaturo: kvanto de varmeco.
 
@@ -132,19 +132,19 @@ Sudhispana fajrosalamandro. Benny Trapp, CC BY 3.0 <https://creativecommons.org/
 
 Eblas aŭskulti ĉi tiun artikolon, kiun voĉlegis Luna Silva.
 
-Ĉu vi konas salamandrojn ? Ili estas malgrandaj bestoj kun longaj korpo kaj vosto kaj senhara haŭto, kiuj apartenas al klaso amfibioj .
+Ĉu vi konas salamandrojn? Ili estas malgrandaj bestoj kun longaj korpo kaj vosto kaj senhara haŭto, kiuj apartenas al klaso amfibioj.
 
-Ofta speco de salamandro en Eŭropo estas la fajro-salamandro, kiu vivas en arbaroj. Oni povas renkonti fajro-salamandrojn en montaraj regionoj, proksime al riveretoj. Ili estas bestoj aktivaj ĉefe dum la nokto. Dumtage ili restas kaŝe en ombraj lokoj: sub ŝtonoj aŭ en arbo- trunkoj . Tamen povas okazi, ke dum pluvo ili forlasas siajn kaŝejojn.
+Ofta speco de salamandro en Eŭropo estas la fajro-salamandro, kiu vivas en arbaroj. Oni povas renkonti fajro-salamandrojn en montaraj regionoj, proksime al riveretoj. Ili estas bestoj aktivaj ĉefe dum la nokto. Dumtage ili restas kaŝe en ombraj lokoj: sub ŝtonoj aŭ en arbo-trunkoj. Tamen povas okazi, ke dum pluvo ili forlasas siajn kaŝejojn.
 
-Salamandroj estas tre belaj. Iuj havas nigran haŭton kun flavaj aŭ oranĝ-koloraj makuloj . La koloroj sendas mesaĝon al malamikoj de salamandroj: “Ne manĝu min, mi estas venena ”. Efektive, se salamandro estas atakata, ĝi defendas sin kovrante sian haŭton per veneno.
+Salamandroj estas tre belaj. Iuj havas nigran haŭton kun flavaj aŭ oranĝ-koloraj makuloj. La koloroj sendas mesaĝon al malamikoj de salamandroj: “Ne manĝu min, mi estas venena”. Efektive, se salamandro estas atakata, ĝi defendas sin kovrante sian haŭton per veneno.
 
 En Pollando salamandroj estas leĝe protektataj bestoj.
 
 En la pasinteco, homoj opiniis, ke la flavaj makuloj sur la haŭto de salamandro similas al fajro. En diversaj regionoj de Eŭropo, oni kredis, ke salamandroj naskiĝas kaj vivas en fajro. Kial? Ni imagu preparadon de fajro. Por fari ĝin oni portas arbo-trunkojn el arbaro. Povas okazi, ke interne, inter branĉoj aŭ en truoj, estas kaŝitaj salamandroj, kiujn la homoj ne rimarkis. Kiam ekbrulas la lignaĵoj, salamandroj rapidege elkuras por savi sin. Al observantoj tio povus aspekti, kvazaŭ la bestoj subite ekestus en fajro.
 
-Tial en arto salamandroj iĝis unu el la simboloj de fajro. Sed ne nur de tio. Tiu besto ĉirkaŭata de flamoj ofte simbolas ankaŭ grandajn forton kaj reziston . Kun tia signifo salamandroj aperas en blazonoj . Ekzemple salamandro sub krono , staranta inter flamoj, estis la persona signo de Francisko la 1-a (1494-1547), reĝo de Francio. https://commons.wikimedia.org/wiki/File:Chateau_de_Blois_11.jpg CC BY 2.0
+Tial en arto salamandroj iĝis unu el la simboloj de fajro. Sed ne nur de tio. Tiu besto ĉirkaŭata de flamoj ofte simbolas ankaŭ grandajn forton kaj reziston. Kun tia signifo salamandroj aperas en blazonoj. Ekzemple salamandro sub krono, staranta inter flamoj, estis la persona signo de Francisko la 1-a (1494-1547), reĝo de Francio. https://commons.wikimedia.org/wiki/File:Chateau_de_Blois_11.jpg CC BY 2.0
 
-Ankaŭ sur la blazono de la itala urbo Salsomaggiore Terme aperas salamandro inter flamoj. En la jaro 2025 okazis tie la Itala Kongreso de Esperanto. Partoprenantoj de la kongreso povis vidi salamandrojn ĉiutage – sur la muro de la urbodomo, sur la kongresaj nom-ŝildoj , eĉ sur ĉiu urba rubujo . MostEpic, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, pere de Wikimedia Commons
+Ankaŭ sur la blazono de la itala urbo Salsomaggiore Terme aperas salamandro inter flamoj. En la jaro 2025 okazis tie la Itala Kongreso de Esperanto. Partoprenantoj de la kongreso povis vidi salamandrojn ĉiutage – sur la muro de la urbodomo, sur la kongresaj nom-ŝildoj, eĉ sur ĉiu urba rubujo. MostEpic, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, pere de Wikimedia Commons
 
 Ewa Caban
 
@@ -197,21 +197,21 @@ vosto: la malantaŭa korpo-parto, kiun havas multaj bestoj, sed ne homoj.
 
 **Categories:** Tra la reto
 
-Vinilkosmo estas la plej grava eldonejo de Esperanto-muziko. Kune kun EUROKKA (Esperanto-Universala Rok -Organizo, Kolektiva Komunik-Asocio) ĝi zorgis pri la muzika programo por la Virtuala Kongreso (VK) de Esperanto. Nun ĝi kunlaboras kun UEA (Universala Esperanto-Asocio) por venki seriozan problemon: granda parto de la Esperantaj kantoj povus malaperi de la ĉefaj muzik- platformoj – sed per via helpo ni povos certigi, ke tio ne okazos!
+Vinilkosmo estas la plej grava eldonejo de Esperanto-muziko. Kune kun EUROKKA (Esperanto-Universala Rok-Organizo, Kolektiva Komunik-Asocio) ĝi zorgis pri la muzika programo por la Virtuala Kongreso (VK) de Esperanto. Nun ĝi kunlaboras kun UEA (Universala Esperanto-Asocio) por venki seriozan problemon: granda parto de la Esperantaj kantoj povus malaperi de la ĉefaj muzik-platformoj – sed per via helpo ni povos certigi, ke tio ne okazos!
 
-Post dek tri jaroj da kunlaborado, la interreta distribuanto de Vinilkosmo decidis ne renovigi kontrakton , kiu finiĝos jam en februaro 2026. Se nenio estos farita, Esperantaj kantoj malaperos el Spotify, Deezer, YouTube Music, Apple Music, kaj aliaj servoj. Tio estos serioza bato por nia kulturo kaj por ĉiuj, kiuj malkovras Esperanton per muziko. EUROKKA nun provas fari kontrakton kun alia distribuanto, sed ne eblos al ĝi sola kovri la novajn kostojn por tio.
+Post dek tri jaroj da kunlaborado, la interreta distribuanto de Vinilkosmo decidis ne renovigi kontrakton, kiu finiĝos jam en februaro 2026. Se nenio estos farita, Esperantaj kantoj malaperos el Spotify, Deezer, YouTube Music, Apple Music, kaj aliaj servoj. Tio estos serioza bato por nia kulturo kaj por ĉiuj, kiuj malkovras Esperanton per muziko. EUROKKA nun provas fari kontrakton kun alia distribuanto, sed ne eblos al ĝi sola kovri la novajn kostojn por tio.
 
-Dum la malfermo de la 6-a VK, UEA lanĉis specialan kampanjon – Donac’ al VK – kun la celo kolekti 2 000 € por Vinilkosmo. Tiuj donacoj estos ne nur dank-esprimo de UEA al Vinilkosmo, sed ankaŭ aktiva maniero por certigi, ke Esperanta muziko povu daŭre aŭdiĝi en Interreto. Se vi deziras kontribui al tiu kampanjo, vi povas fari tion per pago al la VK- fonduso .
+Dum la malfermo de la 6-a VK, UEA lanĉis specialan kampanjon – Donac’ al VK – kun la celo kolekti 2 000 € por Vinilkosmo. Tiuj donacoj estos ne nur dank-esprimo de UEA al Vinilkosmo, sed ankaŭ aktiva maniero por certigi, ke Esperanta muziko povu daŭre aŭdiĝi en Interreto. Se vi deziras kontribui al tiu kampanjo, vi povas fari tion per pago al la VK-fonduso.
 
 Nova epoko por Esperanto-muziko!
 
-La Donac’ al VK enkondukas alian gravan novaĵon: Vinilkosmo lanĉis sian tute novan muzikplatformon la 12-an de decembro 2025. Samtempe aperis nova albumeto La nova ĝardeno de la nov- ĵaza bando Vojaĝo! Nepre spektu tiujn filmetojn:
+La Donac’ al VK enkondukas alian gravan novaĵon: Vinilkosmo lanĉis sian tute novan muzikplatformon la 12-an de decembro 2025. Samtempe aperis nova albumeto La nova ĝardeno de la nov-ĵaza bando Vojaĝo! Nepre spektu tiujn filmetojn:
 
-Pri la nova platformo: https://youtu.be/nLAnwM6HuLQ
+Pri la nova platformo: https://youtu.be/nLAnwM6HuLQ
 
-Pri la albumeto La nova ĝardeno : https://youtu.be/zvcTHiuePL8
+Pri la albumeto La nova ĝardeno: https://youtu.be/zvcTHiuePL8
 
-Pri EUROKKA/Vinilkosmo: https://dai.ly/x9ksbu2
+Pri EUROKKA/Vinilkosmo: https://dai.ly/x9ksbu2
 
 Via Donac’ al VK estos donaco ankaŭ al Vinilkosmo okaze de tiu grava atingo!
 
@@ -279,17 +279,17 @@ rok(-muziko): speco de populara muziko, kiu ekestis en Usono dum la 1950-aj kaj 
 
 Eblas aŭskulti ĉi tiun artikolon, kiun voĉlegis Márcia Rego.
 
-La kristnaska vespermanĝo estas tre grava en Pollando. En mia lando, tiu religia kaj familia festo estas plena de kutimoj kaj tradicioj. Kelkaj el ili devenas de antaŭ-kristanaj tempoj. Poste, kristanismo akceptis plurajn malnovajn kredojn kaj donis al ili novajn signifojn. Unu el la ekzemploj de tiaj antaŭ- kristanaj kutimoj estas fojno , kiun laŭ pola tradicio oni metas sub blankan tablotukon antaŭ la kristnaska vespermanĝo. Nuntempe oni diras, ke ni faras tion memore al la fojno sur kiu kuŝis la novnaskita Jesuo, sed iam oni faris tion por certigi riĉan rikolton en la alvenanta jaro.
+La kristnaska vespermanĝo estas tre grava en Pollando. En mia lando, tiu religia kaj familia festo estas plena de kutimoj kaj tradicioj. Kelkaj el ili devenas de antaŭ-kristanaj tempoj. Poste, kristanismo akceptis plurajn malnovajn kredojn kaj donis al ili novajn signifojn. Unu el la ekzemploj de tiaj antaŭ-kristanaj kutimoj estas fojno, kiun laŭ pola tradicio oni metas sub blankan tablotukon antaŭ la kristnaska vespermanĝo. Nuntempe oni diras, ke ni faras tion memore al la fojno sur kiu kuŝis la novnaskita Jesuo, sed iam oni faris tion por certigi riĉan rikolton en la alvenanta jaro.
 
-La tradiciaj kristnaskaj pladoj estas malsamaj en diversaj regionoj de Pollando, sed ĉie sur la kristnaska tablo estas pladoj faritaj el semoj de papavo . En la regiono, kie mi loĝas, en Supra Silezio, ni faras dolĉaĵon el papavaj semoj, mielo , akvo aŭ lakto, kaj seka pano. La plado enhavas multe da sekigitaj vinberoj kaj nuksoj , do ĝi estas tre dolĉa kaj vere bongusta.
+La tradiciaj kristnaskaj pladoj estas malsamaj en diversaj regionoj de Pollando, sed ĉie sur la kristnaska tablo estas pladoj faritaj el semoj de papavo. En la regiono, kie mi loĝas, en Supra Silezio, ni faras dolĉaĵon el papavaj semoj, mielo, akvo aŭ lakto, kaj seka pano. La plado enhavas multe da sekigitaj vinberoj kaj nuksoj, do ĝi estas tre dolĉa kaj vere bongusta.
 
-En aliaj regionoj de Pollando oni faras nudelojn kun papavsemoj, papavseman supon , aŭ simple kukojn kun papavsemoj.
+En aliaj regionoj de Pollando oni faras nudelojn kun papavsemoj, papavseman supon, aŭ simple kukojn kun papavsemoj.
 
 Eble ne ĉiuj scias, kial papavaj semoj ludas gravan rolon dum la speciala kristnaska vespermanĝo. Papavo iam estis tre simbola planto. Pro la multegaj semoj, kiuj troviĝas en la “kapeto” de papavo, ĝi iĝis simbolo de abundeco kaj riĉeco. Oni kredis, ke ĝiaj semoj manĝataj dum la kristnaska vespermanĝo donos al ĉiuj familianoj bonan rikolton kaj riĉecon en la sekva jaro.
 
-Krome, papavsemoj havas apartan efikon. Preparitaj laŭ speciala maniero, ili povas kaŭzi profundan sonĝon aŭ sentojn similajn al tiuj post uzo de drogo . Tial papavo estis konsiderata kiel ligilo inter la mondoj de vivantaj kaj de nevivantaj homoj. Kaj iam oni kredis, ke dum la kristnaska vespero spiritoj vizitas nian mondon. Tial la rolo de papavsemoj estis faciligi al nevivantoj trovi la ĝustan vojon al la postvivejo, por ke ili ne ĝenu homojn surtere.
+Krome, papavsemoj havas apartan efikon. Preparitaj laŭ speciala maniero, ili povas kaŭzi profundan sonĝon aŭ sentojn similajn al tiuj post uzo de drogo. Tial papavo estis konsiderata kiel ligilo inter la mondoj de vivantaj kaj de nevivantaj homoj. Kaj iam oni kredis, ke dum la kristnaska vespero spiritoj vizitas nian mondon. Tial la rolo de papavsemoj estis faciligi al nevivantoj trovi la ĝustan vojon al la postvivejo, por ke ili ne ĝenu homojn surtere.
 
-Kaj fine ankoraŭ unu interesaĵo: pro sia ligo kun profunda, kvazaŭ-morta sonĝo, papavo-semujoj estas prezentataj sur tomboŝtonoj , kiel simbolo de la morto.
+Kaj fine ankoraŭ unu interesaĵo: pro sia ligo kun profunda, kvazaŭ-morta sonĝo, papavo-semujoj estas prezentataj sur tomboŝtonoj, kiel simbolo de la morto.
 
 Ewa Caban
 
@@ -361,33 +361,33 @@ vin-beroj: dolĉaj, molaj fruktetoj, uzataj por fari vinon.
 
 **Author:** Anna Lowenstein
 
-**Categories:** Kongresoj kaj kunvenoj, La 6-a Virtuala Kongreso
+**Categories:** Kongresoj kaj kunvenoj
 
 **Audio:** https://uea.facila.org/uploads/monthly_2025_12/RaportopriVKred.mp3.8c1197b33d22a8315183fad69ab099d3.mp3
 
 Eblas aŭskulti ĉi tiun artikolon, kiun voĉlegis Derek Roff.
 
-La Virtuala Kongreso de UEA okazis la unuan fojon en 2020, la jaro de la pandemio , kaj tuj montris sian valoron. Ne ĉiuj povas vojaĝi al la Universala Kongreso, sed ĉiuj povas partopreni virtuale. La Virtuala Kongreso, aŭ VK, jam fariĝis regula evento en la Esperanto-kalendaro. Ĉi-jare aliĝis 1407 kongresanoj el 90 landoj.
+La Virtuala Kongreso de UEA okazis la unuan fojon en 2020, la jaro de la pandemio, kaj tuj montris sian valoron. Ne ĉiuj povas vojaĝi al la Universala Kongreso, sed ĉiuj povas partopreni virtuale. La Virtuala Kongreso, aŭ VK, jam fariĝis regula evento en la Esperanto-kalendaro. Ĉi-jare aliĝis 1407 kongresanoj el 90 landoj.
 
 Jen komento de Fida Amatullah el Indonezio, kiu ĵus partoprenis en sia unua VK.
 
 Mi partoprenis en VK por plibonigi mian parol-kapablon en Esperanto. Mi dubis komence, ĉu mi ĝuos la eventon, ĉar estas pli malfacile ekhavi rilaton kun alia homo virtuale ol per kunestado en la reala vivo.
 
-En VK, mi povis paroli kun diversaj generacioj . Mi bedaŭras, ke mi ne petis iliajn konsilojn pri la vivo. Tamen interparolado kun pli aĝaj homoj varmigis mian koron. Mi parolis kun alia komencanto, maljunulino el Francujo. Ŝi transdonis al mi siajn Esperantajn lerno-materialojn. Tio estis tre mojosa , ĉar kvankam ŝi jam estas maljuna, ŝi ankoraŭ lernas novan lingvon.
+En VK, mi povis paroli kun diversaj generacioj. Mi bedaŭras, ke mi ne petis iliajn konsilojn pri la vivo. Tamen interparolado kun pli aĝaj homoj varmigis mian koron. Mi parolis kun alia komencanto, maljunulino el Francujo. Ŝi transdonis al mi siajn Esperantajn lerno-materialojn. Tio estis tre mojosa, ĉar kvankam ŝi jam estas maljuna, ŝi ankoraŭ lernas novan lingvon.
 
-Multaj personoj povis paroli plurajn lingvojn, kaj tio estis tre bela afero. Kelkaj kongresanoj volis lerni mian lingvon, la indonezian, kaj kelkaj povis eĉ paroli ĝin bone. Mi volis partopreni en la babilejo por krokodiloj , sed ne multaj homoj ĉeestis , kaj ĉiuj parolis en malsamaj lingvoj, do la situacio estis malfacila. En aliaj okazoj, tre multaj homoj ĉeestis samtempe en la sama vidbabilejo. Do, ne ĉiuj havis la ŝancon paroli.
+Multaj personoj povis paroli plurajn lingvojn, kaj tio estis tre bela afero. Kelkaj kongresanoj volis lerni mian lingvon, la indonezian, kaj kelkaj povis eĉ paroli ĝin bone. Mi volis partopreni en la babilejo por krokodiloj, sed ne multaj homoj ĉeestis, kaj ĉiuj parolis en malsamaj lingvoj, do la situacio estis malfacila. En aliaj okazoj, tre multaj homoj ĉeestis samtempe en la sama vidbabilejo. Do, ne ĉiuj havis la ŝancon paroli.
 
-La VK havas la kutimajn aranĝojn, kiuj okazas ankaŭ dum la ĉeesta Universala Kongreso. En la unua tago okazis la Movada Foiro , kiam Landaj kaj Fakaj Asocioj prezentis sian agadon al la kongresanoj. Estis kompreneble la Malfermo (kaj en la lasta tago la Fermo), kiun vi povas spekti ĉi tie . Estis prelegoj pri la plej diversaj temoj, estis prezentoj de libroj kaj revuoj, koncertoj , kaj ĉio alia, kio kutime okazas dum kongreso. Kvar horoj dum la lasta tago estis dediĉitaj al virina agado, kun serio de aranĝoj de, por, kaj pri virinoj.
+La VK havas la kutimajn aranĝojn, kiuj okazas ankaŭ dum la ĉeesta Universala Kongreso. En la unua tago okazis la Movada Foiro, kiam Landaj kaj Fakaj Asocioj prezentis sian agadon al la kongresanoj. Estis kompreneble la Malfermo (kaj en la lasta tago la Fermo), kiun vi povas spekti ĉi tie. Estis prelegoj pri la plej diversaj temoj, estis prezentoj de libroj kaj revuoj, koncertoj, kaj ĉio alia, kio kutime okazas dum kongreso. Kvar horoj dum la lasta tago estis dediĉitaj al virina agado, kun serio de aranĝoj de, por, kaj pri virinoj.
 
-Grava parto de ĉeesta kongreso, eble la plej grava parto, ne estas la prelegoj kaj organizitaj programeroj, sed la libera babilado kun aliaj esperantistoj el ĉiuj mondopartoj. En VK, tio eblis. Pluraj virtualaj ĉambroj estis rezervitaj kiel babilejoj, kaj kutime oni ankaŭ proponis temon, ekzemple “verkado”, “vojaĝemuloj”, “instruado” kaj simile. Temis pri libera babilado ĉirkaŭ la temo, sen organizanto. Iuj spacoj ricevis la nomojn “kafejo”, “manĝejo” kaj “ koridoro ”, kie oni povis renkonti konatojn kaj resti por babili, same kiel en la reala vivo. Do, eĉ virtuale eblis ĝui ĉiujn belajn spertojn de ĉeesta kongreso.
+Grava parto de ĉeesta kongreso, eble la plej grava parto, ne estas la prelegoj kaj organizitaj programeroj, sed la libera babilado kun aliaj esperantistoj el ĉiuj mondopartoj. En VK, tio eblis. Pluraj virtualaj ĉambroj estis rezervitaj kiel babilejoj, kaj kutime oni ankaŭ proponis temon, ekzemple “verkado”, “vojaĝemuloj”, “instruado” kaj simile. Temis pri libera babilado ĉirkaŭ la temo, sen organizanto. Iuj spacoj ricevis la nomojn “kafejo”, “manĝejo” kaj “koridoro”, kie oni povis renkonti konatojn kaj resti por babili, same kiel en la reala vivo. Do, eĉ virtuale eblis ĝui ĉiujn belajn spertojn de ĉeesta kongreso.
 
 Anna Lowenstein Fida Amatullah
 
-Anna Lowenstein estas brita esperantistino, fondinto kaj ĉefredaktoro de uea.facila . Fida Amatullah estas esperantistino el Indonezio. Ŝi eklernis Esperanton en 2022. Nun ŝi fariĝis estrarano de IEJO (Indonezia Esperantista Junulara Organizo) por 2026.
+Anna Lowenstein estas brita esperantistino, fondinto kaj ĉefredaktoro de uea.facila. Fida Amatullah estas esperantistino el Indonezio. Ŝi eklernis Esperanton en 2022. Nun ŝi fariĝis estrarano de IEJO (Indonezia Esperantista Junulara Organizo) por 2026.
 
 aliĝi: aldoniĝi, almetiĝi, membriĝi, aparteniĝi al, iĝi partoprenanto en io.
 
-ĉe-esti: esti tie en la loko, kie io okazas. ĉe-esta: estanta tie en la loko, kie io okazas; ne virtuala aŭ reta.
+ĉe-esti: esti tie en la loko, kie io okazas. ĉe-esta: estanta tie en la loko, kie io okazas; ne virtuala aŭ reta.
 
 dediĉi: plenkore doni ion aŭ doni sin mem por iu celo aŭ agado.
 

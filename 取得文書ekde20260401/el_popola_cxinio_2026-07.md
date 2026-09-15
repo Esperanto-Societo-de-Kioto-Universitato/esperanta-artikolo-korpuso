@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-09-15T13:49:03.207990+00:00"
+generated_at: "2026-09-15T16:12:44.576943+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-07-01 – 2026-07-31"
 ---
@@ -126,6 +126,8 @@ Redaktoro: Xie Ruifeng
 **Published:** 2026-07-03
 
 **URL:** http://esperanto.china.org.cn/2026-07/03/content_118581220.htm
+
+**Author:** Bui Hai Mung
 
 **Categories:** Plej Freŝaj
 
@@ -545,6 +547,8 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-07/22/content_118611613.htm
 
+**Author:** Bui Hai Mung
+
 **Categories:** Plej Freŝaj
 
 Matene de la 9-a de julio, en la urbo Guigang de Guangxi-a Zhuang-a Aŭtonoma Regiono en suda Ĉinio, motorizita pramo estis deplojita en inundita areo por evakui 6 000 instruistojn kaj studentojn, kiuj restis kaptitaj de la inundo. Samtempe, en aliaj lokoj de Guangxi, flugrobotoj senĉese ekflugis. Iuj portis manĝaĵojn kaj akvon al izolitaj lokoj. Aliaj transportis elektrogeneratorojn al komandocentro. Kelkaj flugis super la katastrofejo por helpi restarigi komunikadon kaj sendi bildojn de la inunditaj regionoj al la komandocentro. Krome, sistemoj de AI prilaboris datumojn pri pluvegoj, inundoj, la elektra reto kaj satelitaj bildoj. Satelitoj urĝe observis la trafitajn regionojn. AI helpis analizi bildojn, identigi inunditajn areojn kaj kunigi informojn por taksi riskojn. La okazaĵoj en Guangxi montras, ke teknologio nun partoprenas en multaj kampoj de la reago al naturaj katastrofoj. AI ne funkcias aparte, sed kune kun satelitoj, flugrobotoj, komunikaj retoj kaj savrimedoj. De datumoj ĝis la katastrofejo, ĉiu teknologio plenumas sian propran taskon.
@@ -686,6 +690,8 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-07/28/content_118620351.htm
 
+**Author:** Bui Hai Mung
+
 **Categories:** Plej Freŝaj
 
 "Mi volas preni tason da akvo."
@@ -809,6 +815,8 @@ Verkis: Rafael Henrique Zerbetto
 **Published:** 2026-07-29
 
 **URL:** http://esperanto.china.org.cn/2026-07/29/content_118621459.htm
+
+**Author:** Rafael Henrique Zerbetto
 
 **Categories:** Plej Freŝaj
 
@@ -943,6 +951,8 @@ Verkis: Sheng Min
 **Published:** 2026-07-29
 
 **URL:** http://esperanto.china.org.cn/2026-07/29/content_118623730.htm
+
+**Author:** Rafael Henrique Zerbetto
 
 **Categories:** Plej Freŝaj
 

@@ -1,6 +1,6 @@
 ---
 source: "Libera Folio (liberafolio.org)"
-generated_at: "2026-09-15T10:54:37.132412+00:00"
+generated_at: "2026-09-15T16:17:07.986164+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-09-01 – 2026-09-08"
 ---
@@ -16,6 +16,8 @@ time_range: "2026-09-01 – 2026-09-08"
 
 Tim Owen dum la Universala Kongreso en Graco gvidis la jam tradician programeron ”La libroj de la jaro”. Certe ne ĉio aperinta dum la jaro estis prezentita, tamen la libroj estis tiel multaj, ke por prezento de unu libro devis sufiĉi du minutoj. Ni petis Tim Owen rakonti, kiujn el la 25 verkoj li trovis plej memorindaj.
 
+Tim Owen, Margaret Zaleski-Zamenhof kaj Fernando Maia kun la freŝa angla traduko de la libro La Zamenhof-strato de Roman Dobrzyński. La tradukon faris Humphrey Tonkin.
+
 Libera Folio: Vi gvidis en Graco la programeron ”La libroj de la jaro”. Tio ja ne estis la unua fojo, ĉu?
 
 Tim Owen: – Ne, tamen temis pri la unua vere oficiala. Kun Stela Besenyei-Merger mi gvidis sesion en Aruŝo en 2024, ĉar ni ricevis peton de la Kongresa Fako mallonge antaŭ la evento. Ĉion ni efektive devis aranĝi surloke, sciante malmulton pri tio. Estis utile por mi, ke EAB lanĉis Matilda en tiu jaro!
@@ -30,9 +32,11 @@ Tim Owen: – Ne, tamen temis pri la unua vere oficiala. Kun Stela Besenyei-Merg
 
 Kia estis la rikolto?
 
-– Tro granda! Mi listigis 25 librojn de 13 diversaj eldonejoj, por sesio unuhora. Do, efektive ĉirkaŭ po 2 minutoj por ĉiu libro. Eblas dedukti, ke ne mankas novaj libroj en Esperantujo, malgraŭ ŝajnoj antaŭ kelkaj monatoj . Parenteze: en la ĵusa numero de la revuo Esperanto troviĝas 19 titoloj en la rubriko Laste aperis.
+– Tro granda! Mi listigis 25 librojn de 13 diversaj eldonejoj, por sesio unuhora. Do, efektive ĉirkaŭ po 2 minutoj por ĉiu libro. Eblas dedukti, ke ne mankas novaj libroj en Esperantujo, malgraŭ ŝajnoj antaŭ kelkaj monatoj. Parenteze: en la ĵusa numero de la revuo Esperanto troviĝas 19 titoloj en la rubriko Laste aperis.
 
-– Mi do faris ion novan por povi helpi al la sepdeko da spektantoj, kiuj devis ekscii tre haste pri multaj libroj: mi kreis retpaĝon , en kiu prezentiĝas ĉiu prezentota libro, kun eblo ”ŝati” la preferatajn. Eblas montri nur la ŝatatajn por pli bone rememori en la libroservo poste.
+Ĉiuj ”libroj de la jaro” estas troveblaj en aparta retejo.
+
+– Mi do faris ion novan por povi helpi al la sepdeko da spektantoj, kiuj devis ekscii tre haste pri multaj libroj: mi kreis retpaĝon, en kiu prezentiĝas ĉiu prezentota libro, kun eblo ”ŝati” la preferatajn. Eblas montri nur la ŝatatajn por pli bone rememori en la libroservo poste.
 
 – Ne pro memcentrismo tri libroj de EAB troviĝas en la unuaj lokoj en la retpaĝo. Ĉar mi sciis, ke mi devos petegi, ke oni prezentu tre mallonge por ne ŝteli tempon de la posteuloj, mi starigis la proprajn kontribuojn unualoke por montri, ke eblas prezenti sian libron eĉ en kelkaj sekundoj. Sed rimarku, ke por ekvilibrigi mi metis la du ceterajn EAB-aĵojn lastaloken en la listo!
 
@@ -40,25 +44,31 @@ Kiuj libroj estis aparte notindaj, laŭ vi?
 
 – Pro tio, ke ĝin eldonis UEA, indas listigi Kio faras nin homaj (Victor Santos; trad. Paulo Sergio Viana), lanĉitan dum la UK. Temas pri infanlibro aŭspiciita de Unesko, kiu prezentas per malmultaj vortoj ĉiutagaĵon, esencan trajton de nia specio.
 
+La verko Kio faras nin homaj (Victor Santos; trad. Paulo Sergio Viana), estis lanĉita dum la UK.
+
 – La unua paĝparo estas bone indika: ”Mi ekzistas de tre longa tempo. De pli longa tempo ol ludiloj, hundoj aŭ iu ajn homo, kiun vi konas.” Tiel daŭras dum dek sep bele ilustritaj paĝparoj, ĝis oni ekscias, pri kio temas. Fine de la libro aperas artikoleto pri lingvo-estingiĝo, kaj noto de Unesko pri la Internacia Jardeko de Indiĝenaj Lingvoj.
 
-– Aŭtuna Foliaro – tra la lingvoj de la mondo (Hungara Esperanto-Asocio) havas interesan aliron: temas pri la samnoma poemo de Julio Baghy prezentita ankaŭ en trideko da lingvoj, plus eseo verkita de Zlatoje Martinov. Elektronikan version eblas elŝuti senpage .
+– Aŭtuna Foliaro – tra la lingvoj de la mondo (Hungara Esperanto-Asocio) havas interesan aliron: temas pri la samnoma poemo de Julio Baghy prezentita ankaŭ en trideko da lingvoj, plus eseo verkita de Zlatoje Martinov. Elektronikan version eblas elŝuti senpage.
 
-– Ĝia iniciatinto, István Szabolcs, nomas la koncepton Literatura Parado , kaj ne limigas al nur esperantistaj verkistoj, ĉar ”la grandaj aŭtoroj de la monda literaturo ne manku en Esperanto.” Tiumotive, li jam esperantigis ”Prière pour aller au Paradis avec les ânes” (Preĝo por iri al la Paradizo kun la azenoj) de la franca verkisto Francis Jammes (1868–1938) kaj kolektas tradukojn: li havas jam sep.
+– Ĝia iniciatinto, István Szabolcs, nomas la koncepton Literatura Parado, kaj ne limigas al nur esperantistaj verkistoj, ĉar ”la grandaj aŭtoroj de la monda literaturo ne manku en Esperanto.” Tiumotive, li jam esperantigis ”Prière pour aller au Paradis avec les ânes” (Preĝo por iri al la Paradizo kun la azenoj) de la franca verkisto Francis Jammes (1868–1938) kaj kolektas tradukojn: li havas jam sep.
 
-– Cetere: se plaĉos al kelkaj legantoj tiu verko, kredeble ili ŝatos ankaŭ alian libron mallonge prezentitan. Temas pri Poezia Postrikolto , kolekto de poemoj verkitaj de Francisko Valdomiro Lorenz (1872–1957), fruepoka esperantisto, kiu laŭdire kapablis uzi centon da lingvoj. Ĝin kompilis Miĥaelo Bento, fondinto de nova eldonejo, Terutero. La volumo enhavas preskaŭ 200 poemojn elesperantigitajn en pluraj lingvoj, plus unu en Idon kaj tri en Volapukon. Aldoniĝis originalaj poemoj: 18 verkitaj en Esperanto, plus plia en Ido. La libron eblas senpage elŝuti .
+– Cetere: se plaĉos al kelkaj legantoj tiu verko, kredeble ili ŝatos ankaŭ alian libron mallonge prezentitan. Temas pri Poezia Postrikolto, kolekto de poemoj verkitaj de Francisko Valdomiro Lorenz (1872–1957), fruepoka esperantisto, kiu laŭdire kapablis uzi centon da lingvoj. Ĝin kompilis Miĥaelo Bento, fondinto de nova eldonejo, Terutero. La volumo enhavas preskaŭ 200 poemojn elesperantigitajn en pluraj lingvoj, plus unu en Idon kaj tri en Volapukon. Aldoniĝis originalaj poemoj: 18 verkitaj en Esperanto, plus plia en Ido. La libron eblas senpage elŝuti.
 
-– Mi ĵonglas, ĉu mencii libron tradukitan en la anglan. Se temus pri alia lingvo, mi preskaŭ certe tion ne enlistigus, sed estas fakto, ke mia denaska lingvo havas apartan kapablon informi pri Esperanto, kiu mankas aliloke. Do, jes, mi aŭdacas: temas pri Zamenhof Street, traduko fare de Humphrey Tonkin de la jam du jardekojn aĝa La Zamenhof-strato .
+– Mi ĵonglas, ĉu mencii libron tradukitan en la anglan. Se temus pri alia lingvo, mi preskaŭ certe tion ne enlistigus, sed estas fakto, ke mia denaska lingvo havas apartan kapablon informi pri Esperanto, kiu mankas aliloke. Do, jes, mi aŭdacas: temas pri Zamenhof Street, traduko fare de Humphrey Tonkin de la jam du jardekojn aĝa La Zamenhof-strato.
+
+”Konversacioj kun Louis-Christophe Zaleski-Zamenhof, nepo de la iniciatinto de Esperanto” estas klariga subtitolo de la verko.
 
 – Mi aldonis klarigan kromtitolon, kiu troviĝas sub la nomo Roman Dobrzyński, kiu ĝin verkis: ”Konversacioj kun Louis-Christophe Zaleski-Zamenhof, nepo de la iniciatinto de Esperanto.” Kaj jen do la forto: temas pri fakto-riĉa libro pri, interalie, la historio de Esperanto.
 
-–Roman Dobrzyński estis parto de la projekto, kaj konsideris la aperon de ”mia Esperanta ĉefverko en la angla lingvo kronado de mia 70-jara esperantisteco”. Bedaŭrinde li mortis, kiam ni alproksimiĝis al fino, sed mi aŭdacas esperi, ke la rezulto tre plaĉus. En frua novembro, kelkajn tagojn antaŭ sia morto, li skribis: ”Mi legis la unuan kaj la kvinan ĉapitrojn, komparante ilin kun la Esperanta originalo, kaj preskaŭ ekploris pro ĝojo.” Simile sin sentis Margaret Zaleski-Zamenhof, ricevinte sian propran ekzempleron en Graco. Do, jes: laŭ mi, ĝi troviĝu en la listo! Specimenan tekston eblas legi ĉi tie .
+–Roman Dobrzyński estis parto de la projekto, kaj konsideris la aperon de ”mia Esperanta ĉefverko en la angla lingvo kronado de mia 70-jara esperantisteco”. Bedaŭrinde li mortis, kiam ni alproksimiĝis al fino, sed mi aŭdacas esperi, ke la rezulto tre plaĉus. En frua novembro, kelkajn tagojn antaŭ sia morto, li skribis: ”Mi legis la unuan kaj la kvinan ĉapitrojn, komparante ilin kun la Esperanta originalo, kaj preskaŭ ekploris pro ĝojo.” Simile sin sentis Margaret Zaleski-Zamenhof, ricevinte sian propran ekzempleron en Graco. Do, jes: laŭ mi, ĝi troviĝu en la listo! Specimenan tekston eblas legi ĉi tie.
 
-– Prezentiĝis en la sesio la dua (kaj pliampleksigita) eldono de poemaro verkita de Jorge Camacho: Palestino strangolata , eldonita de Espero. Senpardone neneŭtrala, Camacho aldonis al la kolekto kelkajn prozaĵojn, inkluzive de La senlima okupacio , en kiu li montras profundajn sciojn pri la studobjekto.
+– Prezentiĝis en la sesio la dua (kaj pliampleksigita) eldono de poemaro verkita de Jorge Camacho: Palestino strangolata, eldonita de Espero. Senpardone neneŭtrala, Camacho aldonis al la kolekto kelkajn prozaĵojn, inkluzive de La senlima okupacio, en kiu li montras profundajn sciojn pri la studobjekto.
 
 – Pri poezio mi ne kapablas vortumi, tial mi arogas uzi la vortojn de mia amiko, Liĉjo Miller, kiu verkis la antaŭparolon: ”Kiam ’objektivo’ estas vualita de politikistoj kaj komercistoj, ĉu ne la ’subjektivo’ de poeto donas pli bonan bildon de la reala mondo? […] Nia mondo meritas larmojn, kaj kelkaj el tiuj ĉi poemoj plorigas.”
 
-– Kaj mi supozas, ke mi devas mencii nian propran Stig de la ŝutloko (Clive King; trad. Jack Warren; reviziis Edmund Grimley Evans), ĉar la sekvan tagon Fernando Maia, Jr. ĝin anoncis ”Infanlibro de la jaro” en la Belartaj Konkursoj. Ĝi estas fantazi-plena rakonto pri Barni, scivolema knabo, kiu dum sia esplorado de kretkavo malkovras misteran loĝanton: Stig, kuriozan kavern-knabon kun strangaj iloj, neklarigeblaj kutimoj kaj granda koro. Specimenan tekston eblas legi ĉi tie .
+Eldonaĵo de EAB estis elektita ”Infanlibro de la jaro”.
+
+– Kaj mi supozas, ke mi devas mencii nian propran Stig de la ŝutloko (Clive King; trad. Jack Warren; reviziis Edmund Grimley Evans), ĉar la sekvan tagon Fernando Maia, Jr. ĝin anoncis ”Infanlibro de la jaro” en la Belartaj Konkursoj. Ĝi estas fantazi-plena rakonto pri Barni, scivolema knabo, kiu dum sia esplorado de kretkavo malkovras misteran loĝanton: Stig, kuriozan kavern-knabon kun strangaj iloj, neklarigeblaj kutimoj kaj granda koro. Specimenan tekston eblas legi ĉi tie.
 
 Ĉu vi ion tamen volos ŝanĝi venontfoje?
 
@@ -79,7 +89,9 @@ Kiuj libroj estis aparte notindaj, laŭ vi?
 
 Forpasis la brita esperantisto Geoffrey Sutton, lastatempe precipa konata kiel la aŭtoro de ampleksa (kvankam laŭnome ”konciza”) anglalingva enciklopedio pri la Esperanta literaturo. Li dum sia vivo loĝis en pluraj landoj kaj ĉie kontaktis kun esperantistoj. Li dum du jaroj redaktis la revuon Esperanto de UEA.
 
-Geoffrey Sutton naskiĝis en 1947 kaj komencis lerni Esperanton en 1962, en la aĝo de dek kvar jaroj. Jam en 1969 li private publikigis en Esperanto la malgrandan studon Konciza Historio pri la Kornvala Lingvo kaj ĝia Literaturo .
+Maldekstre bildo el la revuo El Popola Ĉinio 1982:10. La originala bildoteksto estas: Knabino faras demandon al s-ro Geoffrey Sutton post lia prelego ”Unu Eŭropa Esperantisteco”.
+
+Geoffrey Sutton naskiĝis en 1947 kaj komencis lerni Esperanton en 1962, en la aĝo de dek kvar jaroj. Jam en 1969 li private publikigis en Esperanto la malgrandan studon Konciza Historio pri la Kornvala Lingvo kaj ĝia Literaturo.
 
 Li studis skandinavian literaturon kaj la svedan lingvon ĉe la Universitato de East Anglia (1972–1973), kaj poste diplomiĝis ĉe la Universitato de Upsalo (1973–1980), Svedio, pri finnugraj kaj nordiaj lingvoj.
 
@@ -87,13 +99,15 @@ Li ricevis trijaran stipendion de la Sveda Instituto kaj kompletigis doktorajn s
 
 Dum iom da tempo li loĝis ankaŭ en Finnlando. Ekde oktobro 1981, li laboris dum jaro kiel vicredaktisto kaj konsilisto de la revuo El Popola Ĉinio ĉe la ŝtata fremdlingva eldonejo en Pekino,
 
-Li ankaŭ helpis en la redaktado de libroj, kiel ekzemple Ĉina Antologio 1919–49 . Li poste prelegis en Japanio, Sud-Koreio kaj Kanado pri siaj spertoj en Ĉinio.
+Li ankaŭ helpis en la redaktado de libroj, kiel ekzemple Ĉina Antologio 1919–49. Li poste prelegis en Japanio, Sud-Koreio kaj Kanado pri siaj spertoj en Ĉinio.
 
 En Japanio, li helpis en la preparado de la konkordanco al la verkoj de L. L. Zamenhof, Zamenhofa Ekzemplaro (1987), kompilita de Rihej Nomura.
 
+Foto en El Popola Ĉinio 1982:7.
+
 Geoffrey Sutton estis inter la unuaj homoj, kiuj rajtis prezenti nuntempan kontinentan Ĉinion al aŭskultantaro en Sud-Koreio. La prelegoj en Esperanto, kun lumbildoj, altiris grandajn aŭskultantarojn sur universitataj kampusoj kaj aliloke.
 
-Poste li dum du jaroj estis redaktoro de la revuo Esperanto de UEA, ekde 1984 ĝis 1986. Li krome preparis por eldono ankau la librojn Amo kaj morto en Balio de Vicki Baum kaj Vetero kaj klimato de la mondo , aperintajn en 1986 kaj 1987.
+Poste li dum du jaroj estis redaktoro de la revuo Esperanto de UEA, ekde 1984 ĝis 1986. Li krome preparis por eldono ankau la librojn Amo kaj morto en Balio de Vicki Baum kaj Vetero kaj klimato de la mondo, aperintajn en 1986 kaj 1987.
 
 Demisiinte de tiu posteno en la Centra Oficejo de UEA en Roterdamo, li reiris al Britio, kie li interalie redaktis gvidlibrojn por havenoj tra la mondo kaj gvidlibrojn pri turismaj allogaĵoj en Britio.
 

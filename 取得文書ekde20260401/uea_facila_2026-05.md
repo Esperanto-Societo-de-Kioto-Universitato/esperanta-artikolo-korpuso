@@ -1,6 +1,6 @@
 ---
 source: "UEA Facila (uea.facila.org)"
-generated_at: "2026-09-15T10:54:37.110196+00:00"
+generated_at: "2026-09-15T16:17:07.171049+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-05-02 – 2026-05-31"
 ---
@@ -20,27 +20,27 @@ time_range: "2026-05-02 – 2026-05-31"
 
 Eblas aŭskulti ĉi tiun artikolon, kiun voĉlegis Rafa Nogueras.
 
-Esperanto-USA starigas novan eldonejon , “ Guteto ”, por faciligi la aliron al Esperanta literaturo en kaj ekster Usono.
+Esperanto-USA starigas novan eldonejon, “Guteto”, por faciligi la aliron al Esperanta literaturo en kaj ekster Usono.
 
-Guteto eldonos novajn originalajn verkojn kaj edukmaterialojn por anglalingvaj lernantoj, kaj ankaŭ reeldonos klasikajn verkojn . La nova iniciato rekte subtenas la celojn de Esperanto-USA, kiuj estas progresigi la instruadon kaj diskonigon de Esperanto en Usono. Pli vaste, ĝi volas proponi facile haveblajn verkojn por ĉiuj, de komencantoj ĝis spertuloj.
+Guteto eldonos novajn originalajn verkojn kaj edukmaterialojn por anglalingvaj lernantoj, kaj ankaŭ reeldonos klasikajn verkojn. La nova iniciato rekte subtenas la celojn de Esperanto-USA, kiuj estas progresigi la instruadon kaj diskonigon de Esperanto en Usono. Pli vaste, ĝi volas proponi facile haveblajn verkojn por ĉiuj, de komencantoj ĝis spertuloj.
 
 La projekton evoluigas Esperanto-USA kunlabore kun verkistino Stela Besenyei-Merger. “Multege da aferoj entuziasmigas min rilate al la projekto,” ŝi diris. “Ni volas faciligi la aliron al la klasika Esperanta literaturo. Imagu la novajn diskutojn, sciojn kaj amikecojn, kiuj formiĝos danke al komuna legosperto. Laŭ mia ideo, pro la evoluo de Guteto homoj ekhavos la kutimon regule legi en Esperanto.”
 
-Ŝi parolis ankaŭ pri la inspiro malantaŭ la projekto: “Per la nomo Guteto ni memoras la laboron de Morojo . Morojo – ali-nome Myrtle R. Douglas – estis aktivulino en la usona Esperanto-movado dum la 30-aj jaroj, kaj samtempe en la frua scienc-fikcia kulturo.  Ŝi mem eldonis malgrandajn gazetojn, kiuj invitis al kunlaborado kaj instigis al legado en Esperanto. Tiel ŝi kreeme kuraĝigis la legantojn aktive partopreni . Ŝia plej konata gazeto nomiĝis Guteto . Mi esperas, ke Eldonejo Guteto estos same instiga por ni ĉiuj.”
+Ŝi parolis ankaŭ pri la inspiro malantaŭ la projekto: “Per la nomo Guteto ni memoras la laboron de Morojo. Morojo – ali-nome Myrtle R. Douglas – estis aktivulino en la usona Esperanto-movado dum la 30-aj jaroj, kaj samtempe en la frua scienc-fikcia kulturo. Ŝi mem eldonis malgrandajn gazetojn, kiuj invitis al kunlaborado kaj instigis al legado en Esperanto. Tiel ŝi kreeme kuraĝigis la legantojn aktive partopreni. Ŝia plej konata gazeto nomiĝis Guteto. Mi esperas, ke Eldonejo Guteto estos same instiga por ni ĉiuj.”
 
-“Per Guteto, ni celas alporti la eldonlaboradon de Esperanto-USA en la 21-an jarcenton,” diris Brandon Sowers, la prezidanto de Esperanto-USA. “Ni povas uzi bitlibrojn por pli facile havigi altkvalitan Esperantan literaturon al legantoj tra la mondo, sen malhelpoj kiel sendado, stokado , aŭ doganoj . Ni volas konstrui eldonejon, kiu samtempe konservas nian kulturan heredaĵon kaj subtenas la evoluon de nova literaturo.”
+“Per Guteto, ni celas alporti la eldonlaboradon de Esperanto-USA en la 21-an jarcenton,” diris Brandon Sowers, la prezidanto de Esperanto-USA. “Ni povas uzi bitlibrojn por pli facile havigi altkvalitan Esperantan literaturon al legantoj tra la mondo, sen malhelpoj kiel sendado, stokado, aŭ doganoj. Ni volas konstrui eldonejon, kiu samtempe konservas nian kulturan heredaĵon kaj subtenas la evoluon de nova literaturo.”
 
-Por ekscii pli pri la projekto kaj malkovri novaĵojn kaj venontajn eldonaĵojn, vizitu la retpaĝon de Guteto .
+Por ekscii pli pri la projekto kaj malkovri novaĵojn kaj venontajn eldonaĵojn, vizitu la retpaĝon de Guteto.
 
 Brandon plu klarigas: “Kunlabore kun la jam ekzistantaj eldonejoj de Esperanto-literaturo, ni deziras kontribui al la riĉigo de la Esperanto-kulturo per nia nova eldonprojekto de bitlibroj.
 
 “Ni okupiĝos pri usonaj verkistoj, kiuj verkas originale en Esperanto. Ni eldonos ankaŭ edukajn materialojn por anglalingvaj Esperanto-lernantoj. Per reeldonado de klasikaĵoj, ni certigos, ke denove estos haveblaj la plej gravaj libroj de nia kultura heredaĵo. Jen entuziasmiga nova periodo en la vivo de Esperanto-USA!”
 
-La unua projekto de Eldonejo Guteto estos aperigi kolekton de sciencfikciaj noveloj . Se vi deziras ricevi la plej lastajn informojn pri la evoluado de tiu ĉi eldonprojekto, necesas nur enskribi vian retadreson en la paĝon de Esperanto-USA . Tiel vi ricevos ĉiujn novaĵojn rekte en via leterkesto.
+La unua projekto de Eldonejo Guteto estos aperigi kolekton de sciencfikciaj noveloj. Se vi deziras ricevi la plej lastajn informojn pri la evoluado de tiu ĉi eldonprojekto, necesas nur enskribi vian retadreson en la paĝon de Esperanto-USA. Tiel vi ricevos ĉiujn novaĵojn rekte en via leterkesto.
 
 Brandon Sowers Stela Besenyei-Merger
 
-Brandon Sowers , usonano, lernis Esperanton en 2004. Li estas unu el la tri teamanoj malantaŭ la podkasto Usone Persone , kaj ekde 2023 estas la prezidanto de Esperanto-USA . Stela Besenyei-Merger estas hungar-franca denaskulo, sociologo, art-edukisto, kiu loĝas en Budapeŝto, Hungarujo. Ŝi okupiĝas pri la Radikala tenero-podkasto , kaj verkas en Esperanto en sia blogo Stela havas opinion pri la mondo .
+Brandon Sowers, usonano, lernis Esperanton en 2004. Li estas unu el la tri teamanoj malantaŭ la podkasto Usone Persone, kaj ekde 2023 estas la prezidanto de Esperanto-USA. Stela Besenyei-Merger estas hungar-franca denaskulo, sociologo, art-edukisto, kiu loĝas en Budapeŝto, Hungarujo. Ŝi okupiĝas pri la Radikala tenero-podkasto, kaj verkas en Esperanto en sia blogo Stela havas opinion pri la mondo.
 
 al-iro: ebleco iri al io; rajto viziti ion.
 
@@ -95,17 +95,17 @@ Eblas aŭskulti ĉi tiun artikolon, kiun voĉlegis Maurizio 'Rico' Giacometto.
 
 Bitlibro estas libro, kiun oni legas sur ekrano anstataŭ sur paperaj paĝoj kiel oni legas tradician libron. Oni povas legi bitlibron per speciala legilo, sed ankaŭ en sia telefono aŭ komputilo.
 
-En artikolo ĵus aperinta en uea.facila estis informo pri la agado de la usona landa asocio, Esperanto-USA, kiu starigas novan eldonejon kun la nomo Guteto . Kadre de tiu agado, E-USA samtempe lanĉas esploron pri la uzo de bitlibroj. La celo estas malkovri la lego-kutimojn de esperantistoj, kaj ekscii pli pri ties uzo de bitlibroj. La enketilon pretigis la teamo de Esperanto-USA. La teamo ricevis helpon de la gvidantoj de aliaj eldonejoj de Esperanto-bitlibroj kiel Flandra Esperanto-Ligo (FEL), Esperanto-Asocio de Britio (EAB), kaj Mondial .
+En artikolo ĵus aperinta en uea.facila estis informo pri la agado de la usona landa asocio, Esperanto-USA, kiu starigas novan eldonejon kun la nomo Guteto. Kadre de tiu agado, E-USA samtempe lanĉas esploron pri la uzo de bitlibroj. La celo estas malkovri la lego-kutimojn de esperantistoj, kaj ekscii pli pri ties uzo de bitlibroj. La enketilon pretigis la teamo de Esperanto-USA. La teamo ricevis helpon de la gvidantoj de aliaj eldonejoj de Esperanto-bitlibroj kiel Flandra Esperanto-Ligo (FEL), Esperanto-Asocio de Britio (EAB), kaj Mondial.
 
-La celo estas atingi almenaŭ 1000 personojn el kiel eble plej diversaj lokoj tra la mondo. La demandilo enhavas 16 demandojn, kaj la teamo de Esperanto-USA petas, ke oni plenigu la enketilon , kiun oni trovas en la retpaĝo de la asocio . La respondojn oni sendu ĝis la 31-a de majo 2026 .
+La celo estas atingi almenaŭ 1000 personojn el kiel eble plej diversaj lokoj tra la mondo. La demandilo enhavas 16 demandojn, kaj la teamo de Esperanto-USA petas, ke oni plenigu la enketilon, kiun oni trovas en la retpaĝo de la asocio. La respondojn oni sendu ĝis la 31-a de majo 2026.
 
 La rezultoj espereble donos informplenan alrigardon al la nuna ag- kaj pens-maniero de esperantistoj rilate al bitlibroj. La konkludoj aperos en la formo de artikolo kaj grafikaĵo en la retejo de la nova Eldonejo Guteto en junio.
 
 Krom subteni usonajn verkistojn, la eldonejo celos eldoni klasikaĵojn de la Esperanta kultura heredaĵo el la fruaj jaroj de la dudeka jarcento. Ĝi eldonos ankaŭ edukmaterialojn por lernantoj de la lingvo.
 
-La projekto Guteto kongruas kun la laborplano AKIRI de UEA por la jaroj 2025 ĝis 2030. Tiu laborplano celas inter-alie fortigi la Esperantan kulturon, aktive subtenante la kreadon, disvastigon kaj ĝuadon de altkvalitaj materialoj por riĉigi nian komunumon . Tial UEA alvokas al ĉiuj esperantistoj plenigi la enketilon .
+La projekto Guteto kongruas kun la laborplano AKIRI de UEA por la jaroj 2025 ĝis 2030. Tiu laborplano celas inter-alie fortigi la Esperantan kulturon, aktive subtenante la kreadon, disvastigon kaj ĝuadon de altkvalitaj materialoj por riĉigi nian komunumon. Tial UEA alvokas al ĉiuj esperantistoj plenigi la enketilon.
 
-Fonto: Gazetara Komuniko de UEA n-ro 1292 (2026-04-17)
+Fonto: Gazetara Komuniko de UEA n-ro 1292 (2026-04-17)
 
 al-voki: fari peton, kvazaŭ laŭte vokante, por ke oni atentu.
 
@@ -180,7 +180,7 @@ UEA: Universala Esperanto-Asocio
 
 **Author:** Rubeno Fernández Asensio
 
-**Categories:** Movado, La Deklaracio de Bulonjo
+**Categories:** Movado
 
 **Audio:** https://uea.facila.org/uploads/monthly_2026_05/BulonjaDeklaraciored.mp3.ae62957e9673f0ca2deed8fbfcd2004d.mp3
 
@@ -192,15 +192,15 @@ Eblas aŭskulti ĉi tiun artikolon, kiun voĉlegis Patrick Morando.
 
 En tiu periodo, Zamenhof preparis la lanĉon de Hilelismo. Tiel li nomis sian projekton fondi neŭtralan religion kun “neŭtrala popolo”, kiu parolus “neŭtrale-homan lingvon”. Tiun projekton li private sendis jam en 1901 al multaj judoj en Rusujo. Antaŭ ol publikigi Hilelismon, Zamenhof deziris, ke Esperanto iĝu tute sendependa de sia fondinto, ali-vorte de li mem. Li volis certigi, ke la ideoj kaj agadoj de individuaj esperantistoj, eĉ de Zamenhof mem, ne malhelpos ĝian disvastiĝon.
 
-Tial, por la renkontiĝo en Bulonjo, Zamenhof preparis tekston de publika deklaro , kiu klarigos la esencon de Esperantismo al la mondo. Dum la kongreso, 32-homa komitato diskutis kaj korektis lian tekston. En la lasta tago ili prezentis ĝin al la tuta kongresanaro, kiu akceptis ĝin per granda aplaŭdo . Ankoraŭ nun tiu teksto, nomata Deklaracio pri la esenco de la Esperantismo , estas konsiderata grava kaj valida.
+Tial, por la renkontiĝo en Bulonjo, Zamenhof preparis tekston de publika deklaro, kiu klarigos la esencon de Esperantismo al la mondo. Dum la kongreso, 32-homa komitato diskutis kaj korektis lian tekston. En la lasta tago ili prezentis ĝin al la tuta kongresanaro, kiu akceptis ĝin per granda aplaŭdo. Ankoraŭ nun tiu teksto, nomata Deklaracio pri la esenco de la Esperantismo, estas konsiderata grava kaj valida.
 
 Ĝi ne mencias la deziron pri monda paco, sed klarigas, ke la celo de Esperanto ne estas entrudi sin “en la internan vivon de la popoloj”. Ĝi difinas Esperantismon “penado disvastigi la uzadon de lingvo neŭtrale homa”. Laŭ la Deklaracio: “ĉiu alia ideo aŭ espero, kiun tiu aŭ alia esperantisto ligas kun la Esperantismo, estos lia afero tute privata, por kiu la Esperantismo ne respondas”.
 
-Tamen “neŭtrale-homa” lingvo ne estas simple neŭtrala lingvo, kaj “popolo” aŭ “nacio” ne havas ĉi tie la sencon de “lando” aŭ “ regno ”. Unu el la funkcioj de la lingvo, laŭ la Deklaracio, estis “servi kiel paciga lingvo de publikaj institucioj en tiuj landoj, kie diversaj nacioj batalas inter si pri la lingvo”.
+Tamen “neŭtrale-homa” lingvo ne estas simple neŭtrala lingvo, kaj “popolo” aŭ “nacio” ne havas ĉi tie la sencon de “lando” aŭ “regno”. Unu el la funkcioj de la lingvo, laŭ la Deklaracio, estis “servi kiel paciga lingvo de publikaj institucioj en tiuj landoj, kie diversaj nacioj batalas inter si pri la lingvo”.
 
-Por kompreni kiel poste evoluis la Esperantismo, legu la statuton de Universala Esperanto-Asocio (UEA). Laŭ la statuto, la celo de UEA estas “agadi por la solvo de la lingva problemo en internaciaj rilatoj kaj faciligi la internacian komunikadon”. (Notu, ke ĝi mencias nur internaciajn rilatojn, ne interpersonajn.) Tamen laŭ la teksto de la Deklaracio, esperantistoj ne estas simplaj reprezentantoj de siaj registaroj . Ili ne povas esti indiferentaj al la demando, kiu lingvo estu uzata inter civitanoj de mult-lingvaj regnoj kiel Rusujo aŭ Hispanujo.
+Por kompreni kiel poste evoluis la Esperantismo, legu la statuton de Universala Esperanto-Asocio (UEA). Laŭ la statuto, la celo de UEA estas “agadi por la solvo de la lingva problemo en internaciaj rilatoj kaj faciligi la internacian komunikadon”. (Notu, ke ĝi mencias nur internaciajn rilatojn, ne interpersonajn.) Tamen laŭ la teksto de la Deklaracio, esperantistoj ne estas simplaj reprezentantoj de siaj registaroj. Ili ne povas esti indiferentaj al la demando, kiu lingvo estu uzata inter civitanoj de mult-lingvaj regnoj kiel Rusujo aŭ Hispanujo.
 
-Sekve, la Deklaracio ne tute malplenigas la Esperantismon de ĉia politika enhavo. Ĝi restas ligita al ia ideo pri absoluta justeco inter individuoj preter la limoj de landoj kaj de naciaj identecoj . Tial la angla lingvo ne povus esti la komuna lingvo de eŭropanoj, kaj same la hispana, ekzemple, ne estus vere komuna al ĉiuj hispanujanoj. Eble tiu estas la “interna ideo” de Esperantismo, kiu kaŭzis kritikojn kaj eĉ persekutojn fare de ekstremaj naciistoj. Bedaŭrinde ŝajnas, ke tiuj naciistoj pli bone komprenis la internan ideon ol multaj esperantistoj mem.
+Sekve, la Deklaracio ne tute malplenigas la Esperantismon de ĉia politika enhavo. Ĝi restas ligita al ia ideo pri absoluta justeco inter individuoj preter la limoj de landoj kaj de naciaj identecoj. Tial la angla lingvo ne povus esti la komuna lingvo de eŭropanoj, kaj same la hispana, ekzemple, ne estus vere komuna al ĉiuj hispanujanoj. Eble tiu estas la “interna ideo” de Esperantismo, kiu kaŭzis kritikojn kaj eĉ persekutojn fare de ekstremaj naciistoj. Bedaŭrinde ŝajnas, ke tiuj naciistoj pli bone komprenis la internan ideon ol multaj esperantistoj mem.
 
 Rubeno Fernández
 
@@ -286,17 +286,17 @@ Aŭstrujo agnoskas Esperanton kiel lingvon de kulturo, kaj ankaŭ kiel parton de
 
 Sed kio estas nemateria kultura heredaĵo? Heredaĵo estas tio, kion oni laŭleĝe transdonas al siaj gefiloj aŭ aliaj posteuloj post la morto, aŭ male, kion oni mem ricevis de la propraj gepatroj aŭ antaŭuloj. Heredaĵo kutime estas materia (konkreta) aĵo, ekzemple domo, mono, riĉaĵoj kaj simile.
 
-Unesko, la Organizaĵo de UN por Edukado, Scienco kaj Kulturo, agnoskis multajn materiajn heredaĵojn en la mondo. Inter tiuj estas famaj preĝejoj kaj aliaj konstruaĵoj, historiaj urboj, arĥeologiaj restaĵoj, sed ankaŭ tre belaj naturaj lokoj kaj vidindaĵoj, kiel arbaroj, lagoj kaj tiel plu. Tiaj lokoj venis al ni el la pasinteco, kaj la nuntempaj homoj havas la devon prizorgi ilin kaj konservi ilin por postaj generacioj .
+Unesko, la Organizaĵo de UN por Edukado, Scienco kaj Kulturo, agnoskis multajn materiajn heredaĵojn en la mondo. Inter tiuj estas famaj preĝejoj kaj aliaj konstruaĵoj, historiaj urboj, arĥeologiaj restaĵoj, sed ankaŭ tre belaj naturaj lokoj kaj vidindaĵoj, kiel arbaroj, lagoj kaj tiel plu. Tiaj lokoj venis al ni el la pasinteco, kaj la nuntempaj homoj havas la devon prizorgi ilin kaj konservi ilin por postaj generacioj.
 
-Kaj do, kio estas nemateriaj heredaĵoj? Tiuj estas la praktikoj, esprimoj, scioj kaj kapabloj, kiujn popolo transdonas de unu generacio al la posta tra la jarcentoj. Ili povas temi ekzemple pri parolaj tradicioj, muziko kaj dancado, ritoj kaj festivaloj , tradiciaj scioj kaj metioj .
+Kaj do, kio estas nemateriaj heredaĵoj? Tiuj estas la praktikoj, esprimoj, scioj kaj kapabloj, kiujn popolo transdonas de unu generacio al la posta tra la jarcentoj. Ili povas temi ekzemple pri parolaj tradicioj, muziko kaj dancado, ritoj kaj festivaloj, tradiciaj scioj kaj metioj.
 
-Kiel skribite supre, la Aŭstra Komisiono de Unesko formale agnoskis Esperanton kiel parton de la nemateria kultura heredaĵo de Aŭstrujo. Laŭ la vicprezidanto de UEA , Seán Ó Riain, estrarano pri Eksteraj Rilatoj, tio estas brila novaĵo. Ĝi tute kongruas kun la laborplano AKIRI de UEA por la Esperanto-movado. Post Pollando (2014) kaj Kroatujo (2019), Aŭstrujo estas la tria lando, kiu faris ĉi tiun paŝon, kiu estas tre grava pro pluraj kialoj.
+Kiel skribite supre, la Aŭstra Komisiono de Unesko formale agnoskis Esperanton kiel parton de la nemateria kultura heredaĵo de Aŭstrujo. Laŭ la vicprezidanto de UEA, Seán Ó Riain, estrarano pri Eksteraj Rilatoj, tio estas brila novaĵo. Ĝi tute kongruas kun la laborplano AKIRI de UEA por la Esperanto-movado. Post Pollando (2014) kaj Kroatujo (2019), Aŭstrujo estas la tria lando, kiu faris ĉi tiun paŝon, kiu estas tre grava pro pluraj kialoj.
 
 Laŭ Ó Riain, unu el la ĉefaj antaŭjuĝoj de kontraŭuloj de Esperanto estas, ke (laŭ ili) “ĝi ne havas kulturon”. Ĉi tiu formala agnosko de la kultureco de Esperanto fare de tri landoj montras, ke tiu antaŭjuĝo estas senbaza. La agnosko havas praktikajn sekvojn ankaŭ ĉe Eŭropa Unio. Estonte la Eŭropa Komisiono subtenos Esperanton same kiel ĝi subtenas aliajn neoficialajn lingvojn, kiel ekzemple la katalunan, la eŭskan, la bretonan kaj tiel plu.
 
-UEA dankas ĉiujn aŭstrajn kaj ne-aŭstrajn esperantistojn, kiuj kontribuis al tiu frapa sukceso. La Estraro de UEA esperas, ke esperantistoj en aliaj landoj klopodos atingi similan nacian agnoskon, precipe en najbaraj landoj, sed ankaŭ en aliaj kontinentoj . “Kiu lando donos nian sekvan sukceson? Ek al laboro!” invitas Ó Riain.
+UEA dankas ĉiujn aŭstrajn kaj ne-aŭstrajn esperantistojn, kiuj kontribuis al tiu frapa sukceso. La Estraro de UEA esperas, ke esperantistoj en aliaj landoj klopodos atingi similan nacian agnoskon, precipe en najbaraj landoj, sed ankaŭ en aliaj kontinentoj. “Kiu lando donos nian sekvan sukceson? Ek al laboro!” invitas Ó Riain.
 
-Speciala kunveno pri tiu agnosko okazos dum la 111-a Universala Kongreso en Graco. Ĉu vi jam aliĝis al la kongreso? Se ne, vi povas fari tion ĉe la retejo de UEA !
+Speciala kunveno pri tiu agnosko okazos dum la 111-a Universala Kongreso en Graco. Ĉu vi jam aliĝis al la kongreso? Se ne, vi povas fari tion ĉe la retejo de UEA!
 
 Fonto: Gazetara Komuniko de UEA n-ro 1291 (2026-04-16)
 
@@ -359,21 +359,21 @@ UN: Unuiĝintaj Nacioj.
 
 Eblas aŭskulti ĉi tiun artikolon, kiun voĉlegis Maurizio 'Rico' Giacometto.
 
-La tago de la noktuo Leonardo Sciascia, trad. Carlo Minnaja. Eldonejo FEI, Milano, 2026. 70 paĝoj, 220 mm. ISBN 978-88-96582-32-9. Prezo 15€. Al ĉiu la sia Leonardo Sciascia, trad. Carlo Minnaja. FEI, Milano, 2026. 82 paĝoj, 230 mm. ISBN 978-88-96582-32-9. Prezo 15€.
+La tago de la noktuo Leonardo Sciascia, trad. Carlo Minnaja. Eldonejo FEI, Milano, 2026. 70 paĝoj, 220 mm. ISBN 978-88-96582-32-9. Prezo 15€. Al ĉiu la sia Leonardo Sciascia, trad. Carlo Minnaja. FEI, Milano, 2026. 82 paĝoj, 230 mm. ISBN 978-88-96582-32-9. Prezo 15€.
 
-Ĉu vi ŝatas legi bonajn krim -romanojn kun profunda mesaĝo? Se jes, vi certe ĝuos la verkojn de la fama itala verkisto Leonardo Sciascia (1921-89). Lastatempe du el liaj plej famaj libroj aperis en Esperanto danke al la elstara traduklaboro de Carlo Minnaja.
+Ĉu vi ŝatas legi bonajn krim-romanojn kun profunda mesaĝo? Se jes, vi certe ĝuos la verkojn de la fama itala verkisto Leonardo Sciascia (1921-89). Lastatempe du el liaj plej famaj libroj aperis en Esperanto danke al la elstara traduklaboro de Carlo Minnaja.
 
-La du verkoj estas La tago de la noktuo (Il giorno della civetta) kaj Al ĉiu la sia (A ciascuno il suo) . Ambaŭ libroj estas tre gravaj en la itala literaturo, ĉar ili parolas pri justeco, socio kaj la vero.
+La du verkoj estas La tago de la noktuo (Il giorno della civetta) kaj Al ĉiu la sia (A ciascuno il suo). Ambaŭ libroj estas tre gravaj en la itala literaturo, ĉar ili parolas pri justeco, socio kaj la vero.
 
 Por festi tiun ĉi kulturan atingon, okazis speciala prezentado en Racalmuto, la naskiĝurbo de la verkisto en Sicilio. La renkontiĝo okazis la 27an de marto en la sidejo de Fondazione (Fondaĵo) Sciascia, loko plena de historio kaj literaturo.
 
-La evento estis tre signifa pro la partoprenantoj . Ĉeestis la tradukinto Carlo Minnaja, kaj Laura Brazzabeni, la prezidantino de Itala Esperanto- Federacio (FEI). Tre speciala gasto estis Vito Catalano, la nepo de Leonardo Sciascia, kiu rakontis interesajn detalojn pri sia avo.
+La evento estis tre signifa pro la partoprenantoj. Ĉeestis la tradukinto Carlo Minnaja, kaj Laura Brazzabeni, la prezidantino de Itala Esperanto-Federacio (FEI). Tre speciala gasto estis Vito Catalano, la nepo de Leonardo Sciascia, kiu rakontis interesajn detalojn pri sia avo.
 
-La evento ne estis nur por la homoj ĉeestantaj en la salono. Ĝi okazis hibride , kio signifas, ke multaj homoj povis sekvi la prelegojn per interreto. Bonega novaĵo estas, ke la tuta prezentado estis registrita . Tial eĉ tiuj, kiuj ne povis partopreni tiun tagon, povos spekti la diskuton poste kaj lerni pli pri la tradukado de tiuj gravaj verkoj.
+La evento ne estis nur por la homoj ĉeestantaj en la salono. Ĝi okazis hibride, kio signifas, ke multaj homoj povis sekvi la prelegojn per interreto. Bonega novaĵo estas, ke la tuta prezentado estis registrita. Tial eĉ tiuj, kiuj ne povis partopreni tiun tagon, povos spekti la diskuton poste kaj lerni pli pri la tradukado de tiuj gravaj verkoj.
 
 Matene, antaŭ la oficiala prezento, okazis bela renkontiĝo kun studentoj kaj instruistoj de loka lernejo. La gejunuloj montris grandan intereson pri Esperanto, kaj malkovris kiel ilia sam-urbano, Sciascia, nun povas esti legata en la tuta mondo. Tio estis bela maniero ligi la lokan tradicion kun la internacia kulturo.
 
-Se vi volas malkovri la mondon de Sciascia en nia lingvo, vi povas facile trovi la librojn. Ili estas aĉeteblaj ĉe la reta servo de Itala Esperanto-Federacio .
+Se vi volas malkovri la mondon de Sciascia en nia lingvo, vi povas facile trovi la librojn. Ili estas aĉeteblaj ĉe la reta servo de Itala Esperanto-Federacio.
 
 Legante tiujn librojn, vi ne nur ĝuos bonan literaturon, sed ankaŭ subtenos kulturan interŝanĝon per Esperanto.
 

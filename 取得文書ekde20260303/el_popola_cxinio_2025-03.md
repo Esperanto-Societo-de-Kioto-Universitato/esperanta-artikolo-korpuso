@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-09-15T13:49:02.988182+00:00"
+generated_at: "2026-09-15T16:12:44.360605+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-03-03 – 2025-03-31"
 ---
@@ -441,6 +441,8 @@ Redaktoroj: Gao Shuyuan kaj Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-03/13/content_117760176.htm
 
+**Author:** Rafael Henrique Zerbetto
+
 **Categories:** Socia Vivo
 
 Dum mia unua vizito al Xinjiang-a Ujgura Aŭtonoma Regiono de Ĉinio fine de 2020, mi estis impresita de la kontrasto inter la riĉa kaj prospera vivo de lokanoj en la glora epoko de la antikva Silka Vojo, atestata de antikvaĵoj nun konservataj en muzeoj, kaj la malriĉeco, kiu disiĝis tra la regiono post la fino de komercado tra la Silka Vojo. Nur antaŭ nelonge Xinjiang trovis novan vojon al prospero, kiam ĝi fariĝis ĉefrolulo de la Ekonomia Zono de la Silka Vojo, proponita de prezidanto Xi Jinping en 2013.
@@ -605,6 +607,8 @@ Redaktoro: Xie Ruifeng
 **Published:** 2025-03-19
 
 **URL:** http://esperanto.china.org.cn/2025-03/19/content_117772644.htm
+
+**Author:** Zhang Hui
 
 **Categories:** E
 
@@ -796,6 +800,8 @@ Redaktoro: Xie Ruifeng
 **Published:** 2025-03-24
 
 **URL:** http://esperanto.china.org.cn/2025-03/24/content_117783040.htm
+
+**Author:** Wei Yubin (Jado)
 
 **Categories:** E
 

@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-09-15T13:49:03.234071+00:00"
+generated_at: "2026-09-15T16:12:44.604748+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-08-03 – 2026-08-12"
 ---
@@ -11,6 +11,8 @@ time_range: "2026-08-03 – 2026-08-12"
 **Published:** 2026-08-03
 
 **URL:** http://esperanto.china.org.cn/2026-08/03/content_118628122.htm
+
+**Author:** Rafael Henrique Zerbetto
 
 **Categories:** Plej Freŝaj
 
@@ -197,6 +199,8 @@ Redaktoro: Liu Zijia
 **Published:** 2026-08-05
 
 **URL:** http://esperanto.china.org.cn/2026-08/05/content_118631685.htm
+
+**Author:** Bui Hai Mung
 
 **Categories:** Plej Freŝaj
 

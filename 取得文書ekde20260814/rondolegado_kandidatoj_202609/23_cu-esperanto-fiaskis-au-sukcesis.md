@@ -1,0 +1,45 @@
+Ĉu Esperanto fiaskis aŭ sukcesis?
+
+Ĉu Esperanto estas lingvo sen historio kaj kulturo? Ĉu Esperanto fiaskis, aŭ ĉu male ĝi jam sukcesis? En vidpunkta artikolo Liu Xiaozhe pripensas, kion povas fari la Esperantista komunumo por adaptiĝi al la aktuala mondo.
+
+Liu Xiaozhe (Solis).
+
+En certa amplekso kaj grado, Esperanto sukcesis. Tamen ĝi ne fariĝos ĉies dua lingvo por ĉiuj homoj, kiel revis la iniciatinto Zamenhof. Plej multaj homoj en la mondo tute ne zorgas pri lingvaj problemoj. Sufiĉas por ili nur la denaska lingvo. Sub la premo de potencaj lingvoj, Esperanto restos kiel minoritata lingvo kaj hobio de malmultaj homoj. Sed kiel komunikilo, Esperanto ludos neanstataŭeblan rolon en internacia ne-registara kontaktado dum longa historia epoko estontece, pro la vasta dissemiĝo de esperantistoj en la tuta mondo.
+
+Realiĝas ne ĉiuj belaj idealoj. Pasis jam pli ol 130 jaroj post la apero de Esperanto, dume okazis en la mondo grandegaj ŝanĝiĝoj en socio, politiko, ekonomio, scienco, tekniko kaj aliaj flankoj, pro kio Esperanto jam ne plu havas ŝancon fariĝi ĉies dua lingvo. Esperantistoj devas akcepti la realon, forlasante nerealisman iluzion, kaj denove ekzameni Esperanton, revizii la celon kaj strategion de la Esperanto-movado, adaptiĝante al la aktuala situacio.
+
+Propagandante Esperanton, oni devas forlasi la tro idealisman atendon, ke Esperanto fariĝu la dua lingvo por ĉiu. Prezentante Esperanton al neesperantistoj, apud ĝia interna ideo, pli multe emfazu kaj montru ĝiajn praktikajn valorojn, nome ĝian specialan rolon en internacia komunikado, gravan rolon por protekti diversecojn de lingvo kaj kulturo, rolon doni al ordinaraj homoj kapablon komunikiĝi trans landlimoj kaj forigi la baron de etnaj lingvoj.
+
+Propagandu Esperanton laŭ realo kaj fakto. Kompare kun naciaj lingvoj, Esperanto estas vere simpla kaj facile lernebla. Sed multaj esperantistoj troigas tiun facilecon. Ili ŝatas diri, ke Tolstoj ellernis Esperanton en 2 horoj, kaj iuj ellernis Esperanton en 7 tagoj. Tiuj ekzemploj estas sensencaĵoj por ordinaraj homoj, ĉar plejparto de lernantoj ne ellernas Esperanton eĉ en 70 tagoj! Se esperantistoj daŭre propagandos Esperanton en tia maniero, oni dubos la honestecon de esperantistoj, kaj komencantoj, kiuj ne ellernas Esperanton en mallonga tempo, dubos sian lernan kapablon kaj forlasos Esperanton pro deprimiĝo.
+
+Propagandu Esperanton per agado, sed ne nur lingve. Esperantistoj mem persistu uzi tiun lingvon por montri ĝian rolon en internacia komunikado. Vidante ke Esperanto estas efika ilo por komunikiĝi kun homoj de aliaj etnoj aŭ homoj en aliaj landoj, iuj interesiĝos kaj plue provos tiun lingvon.
+
+Propagando de Esperanto certe estas necesa. Propagando donas al la homoj ŝancon koni Esperanton kaj eblon interesiĝi pri tiu lingvo. Sed ĉesu paroli, se aliaj ne interesiĝas. Ne babilu senĉese, ĉar oni abomenas senĉesan paroladon kaj troan reklamon, kiun ofte faras piaj sed tro entuziasmaj religianoj. Ne seniluziiĝu pro la indiferenteco kaj rifuzo de aliaj. En la mondo estas neniu afero, kiu povas interesi ĉiujn. La plej efika propagando estas lerni kaj uzi Esperanton. Vidinte, ke Esperanto estas utila, latentaj interesatoj probable lernos ĝin. Influu aliajn per niaj agoj, ne nur per buŝa reklamo. Oni ofte konsilas al iuj kredantoj: Ne nur reklamu, ke via religio estas pacema, sed agu pace!
+
+En la aplikado de Esperanto, esperantistoj pli atentu kaj zorgu la praktikan efikecon de tiu lingvo, kaj efektive montru la utilecon de Esperanto en la internacia komunikado. La speciala interna idealo de lingvo Esperanto estas ligilo de sento inter esperantistoj, kiu proksimigas la rilaton inter esperantistoj, ĉu samlandaj ĉu diverslandaj. Sed multaj esperantistoj preferas enlandajn kontaktojn al la internaciaj, kaj iuj eĉ kontaktas esperantistojn nur en siaj propraj landoj, neniam uzas Esperanton por internacia kontakto pro tio, ke enlanda kontaktado estas pli facila kaj pli malmultekosta.
+
+Hodiaŭ Interreto jam estas vaste uzata, kaj kontakta kosto per la reto tendencas al nulo, dume multaj esperantistoj ankoraŭ interkomunikiĝas nur kun samideanoj en sia lando. Lerninte Esperanton, ili ne uzas tiun lingvon per kompreni popolojn en aliaj landoj, ne observas la sociojn de aliaj landoj, ne lernas modernajn sciencon kaj teknikon, ne perceptas modernajn konceptojn, sed komunikiĝas nur kun samlandaj samideanoj, legas nur Esperantajn literaturojn tradukitajn el siaj naciaj lingvoj, foliumas novaĵojn en Esperanto nur tradukitajn el siaj propraj landoj. Tio estas senefika socia agado, se konsideri la komencan celon de Esperanto, la internacia helpa lingvo, kaj estas senutila malŝpareco, konsidere al la tempo kaj energio elspezitaj por la lernado.
+
+Esperantistoj devas aktivi en internaciaj agadoj, plene utiligante la lernitan lingvon, vaste kontakti kaj komunikiĝi kun popoloj el diversaj landoj per Esperanto. Tio maksimumigas la valoron de la lingvo Esperanto. Laste, sed plej grave, esperantistoj devas eliri el sia fermita rondo, malfermi la pordon al neesperantistoj, kaj aktive integriĝi en la ekstera socio. Esperantistoj helpu aliajn homojn kaj organizaĵojn transpaŝi la lingvan baron por trans-landlimaj internaciaj interŝanĝoj ĉe diversaj flankoj.
+
+Esperantistoj ĉiam fervoras por propagandi la lingvon, sed kiam ili parolas la lingvon por internacia kontakto, kio estas bona ŝanco montri la utilecon de Esperanto, ili preskaŭ neniam invitas la eksteran publikon partopreni en siaj aranĝoj, kaj ili mem malofte partoprenas neesperantajn aranĝojn kun personeco de esperantisto. La esperantistaro ŝajnas esti fermita grupo de idealistoj, kiuj volas nur amuzi kaj ĝojigi sin mem.
+
+La Universala Kongreso de Esperanto, kiu okazas ĉiujare somere en diversaj landoj, estas grandioza evento de la internacia Esperanta komunumo. Miloj da esperantistoj el la tuta mondo kunvenas, kaj dum semajno ili ĝuas la kuneston, parolante la saman lingvon, aranĝante diversajn distraĵojn kaj akademiajn konferencojn. Esperantistoj ebriiĝas en tiu Esperanta etoso, fieras pri tio, ke la kongreso estas la sola internacia konferenco sen tradukistoj en la mondo. Sed ili neniam konsideras inviti neesperantistojn partopreni en tiu aranĝo, kio perdigas la ŝancon, ke ordinaraj homoj spertu la rolon kaj magion de tiu lingvo.
+
+Esperantistoj estas dissemitaj ĉe diversaj profesioj kun diversaj interesoj kaj hobioj. Ili fondis multajn organizaĵojn laŭ interesoj por ordigi la agadojn. Nuntempe estas pli ol 60 internaciaj esperantaj asocioj kunlaborantaj kun la Universalaj Esperanto-Asocio. Sed ili ne konsideris akcepti neesperantistajn membrojn.
+
+Esperantistoj devas fokusi la atenton al la granda publiko. Profitu de Esperanto ne nur esperantistoj, sed ankaŭ aliaj homoj. Tio samtempe estas efika vojo propagandi Esperanton al la publiko.
+
+Oni povas aldoni neesperantajn enhavojn al translandaj Esperantaj agadoj kiel la Universala Kongreso de Esperanto, en kiuj oni akceptas neesperantistojn, kun Esperanta traduka servo al la publiko. Tio donos al homoj, kiuj parolas nur la gepatran lingvon, okazon kontakti aliajn homojn kun diversaj pensoj kaj kulturoj. Samtempe tio montros al la publiko la valoron de Esperanto, kaj pligrandigos la influon de Esperanto.
+
+Fakaj asocioj de Esperanto povas aliĝi al aliaj internaciaj fakaj asocioj, kaj membroj de fakaj Esperantaj asocioj povas aliĝi al landaj aŭ lokaj rilataj fakaj asocioj en personeco de esperantisto. En tiuj neesperantaj asocioj esperantistoj povas helpi la asociojn kontakti alilandajn asociojn kun sama intereso per la lingvo Esperanto. Okazigonte Esperantajn aranĝojn, en kiuj estas alilandaj partoprenantoj, Esperantaj asocioj kaj kluboj povas antaŭ-anonci en lokaj retejoj aŭ komunikiloj informojn por altiri kaj bonvenigi lokajn ordinarajn homojn, kiuj ne kapablas paroli fremdajn lingvojn, ke ili povas kontakti eksterlandajn gastojn kun diversaj kulturoj.
+
+Vizitante alilande, esperantistoj kontaktu ne nur lokajn esperantistojn. Ili povas kontakti la lokan socion per interesaj temoj, dum kio lokaj esperantistoj servu pri lingva traduko, por ke la publiko perceptu utilecon de Esperanto.
+
+Malferminte la pordon de la Esperanta rondo, certe esperantistoj trovos ankaŭ aliajn manierojn, per kiuj Esperanto pli logas la publikon, kaj aliajn vojojn, per kiuj Esperanto efike ludos rolon en la nuna mondo. Lingvo estas ponto, kaj plue Esperanto estas ponto de amikeco kaj komunikado. Tiu ponto estas desegnita de doktoro Zamenhof, kaj kune konstruita kaj prizorgita de esperantistoj en la tuta mondo dum pli ol 100 jaroj.
+
+Sed sur tiu ĉi ponto, transiru ne nur Esperanto-parolantoj, sed ankaŭ aliaj, pli multaj homoj. Esperantistoj devas helpi homojn transpasi la lingvan muron, por ke ili povu rigardi kaj iri al la pli vasta mondo!
+
+Liu Xiaozhe (Solis)
+
+La konata ĉina esperantisto Liu Xiaozhe (Solis) pli amplekse prezentis siajn vidpunktojn en la longa artikolo Esperanto: Historio kaj Kulturo, Fiasko kaj Atingo, Realo kaj Estonteco. Ĉi tiu teksto estas la konkluda, lasta parto de tiu artikolo.

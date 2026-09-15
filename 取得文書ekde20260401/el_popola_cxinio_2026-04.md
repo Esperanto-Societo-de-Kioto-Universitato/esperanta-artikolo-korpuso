@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-09-15T13:49:03.096325+00:00"
+generated_at: "2026-09-15T16:12:44.475117+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-04-01 – 2026-04-30"
 ---
@@ -94,6 +94,8 @@ Se vi havas demandojn pri Pasporta Servo, kontaktu nin ĉe saluton@pasportaservo
 
 **URL:** http://esperanto.china.org.cn/2026-04/03/content_118411851.htm
 
+**Author:** Rafael Henrique Zerbetto
+
 **Categories:** Plej Freŝaj
 
 La nokta bazaro Shazhou de la urbo Dunhuang en la provinco Gansu de Ĉinio estas vizitinda loko. Ĝi troviĝas je kelkminuta piedira distanco de la ĉefaj hoteloj de la urbo kaj liveras al vizitanto merĝan sperton de la kulturo de la antikva Silka Vojo per metiartoj kaj manĝaĵoj. La bazaro estis fondita en 1991, kun arkitekturo inspirita de tiu en Tang-dinastio (618-907), kiam la Silka Vojo spertis sian plej viglan momenton.
@@ -183,6 +185,8 @@ Redaktoro: Xie Ruifeng
 **Published:** 2026-04-09
 
 **URL:** http://esperanto.china.org.cn/2026-04/09/content_118425117.htm
+
+**Author:** Rafael Henrique Zerbetto
 
 **Categories:** Plej Freŝaj
 
@@ -476,6 +480,8 @@ Verkis: Bui Hai Mung
 
 **URL:** http://esperanto.china.org.cn/2026-04/13/content_118425210.htm
 
+**Author:** Bui Hai Mung
+
 **Categories:** Plej Freŝaj
 
 Aprilo en Ĉinio havas tre apartan etoson, ne nur pro la florantaj arboj, sed ankaŭ pro "sezono de legado", kiu disvastiĝas tra urboj kaj kamparoj. Dum la Semajno de Tutlanda Legado, publikaj bibliotekoj ricevas pli da vizitantoj, librovendejoj organizas kulturajn eventojn, kaj en metrooj aŭ busoj, homoj kun libroj fariĝis oftaj vidaĵoj. En 2026 ĉi tiu tendenco atingis gravan mejloŝtonon: La Regularo pri Antaŭenigo de Tutlanda Legado oficiale ekvalidis. Por la unua fojo, la instigo al legado ne restas nur socia movado, sed funkcias kiel parto de nacia jura kadro – paŝo malofte vidata en multaj aliaj landoj.
@@ -626,6 +632,8 @@ Redaktoro: Xie Ruifeng
 **Published:** 2026-04-16
 
 **URL:** http://esperanto.china.org.cn/2026-04/16/content_118434688.htm
+
+**Author:** Rafael Henrique Zerbetto
 
 **Categories:** Plej Freŝaj
 
@@ -1007,6 +1015,8 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-04/28/content_118459682.htm
 
+**Author:** Rafael Henrique Zerbetto
+
 **Categories:** Plej Freŝaj
 
 La brazila pianisto Clélia Iruzun, kiu loĝas en Britio, venis al Ĉinio por turneo kun siaj britaj kolegoj Nick Roberts (violonĉelo) kaj Shelley Levy (klarneto). La turneo en Ĉinio prezentis al la ĉina publiko klasikaĵojn de tutmonda muziko, famajn kanzonoj kiuj estis temoj de filmoj, tangojn de Astor Piazzola kaj, kompreneble, ankaŭ brazila muziko, ĉar la koncertoj ankaŭ estis parto de la programo pri la Ĉin-Brazila Kultura Jaro. Muziko, fine, estas mirindaĵo, kiu alproksimigas la popolojn.
@@ -1071,6 +1081,8 @@ Redaktoro: Xie Ruifeng
 **Published:** 2026-04-30
 
 **URL:** http://esperanto.china.org.cn/2026-04/30/content_118467542.htm
+
+**Author:** Rafael Henrique Zerbetto
 
 **Categories:** Plej Freŝaj
 

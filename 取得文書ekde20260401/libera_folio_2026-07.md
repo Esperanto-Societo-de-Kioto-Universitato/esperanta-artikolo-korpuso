@@ -1,6 +1,6 @@
 ---
 source: "Libera Folio (liberafolio.org)"
-generated_at: "2026-09-15T10:54:37.097461+00:00"
+generated_at: "2026-09-15T16:17:07.948273+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-07-01 – 2026-07-28"
 ---
@@ -16,6 +16,8 @@ time_range: "2026-07-01 – 2026-07-28"
 
 Daŭre mankas raporto de profesia revizoro pri la kontoj de UEA. La financaj rezultoj de pluraj kongresoj restas netraktitaj. La multjara kaj multekosta laboro por la reteja renovigo nun ŝajne estos tute forĵetita.
 
+Nekonata monsumo estis uzita por krei la sistemon AKSO, kiun UEA nun ŝajne tamen ne uzis.
+
 Kvin semajnojn antaŭ la ĉi-jara Universala Kongreso en Graco al la komitato de UEA estis liveritaj diversaj raportoj pri la ekonomia kaj cetera stato de la asocio. Tamen multaj esencaj aferoj estas tuŝitaj nur preterpase, kaj grandan parton de la estrara raporto plenigas listigo de evidentaĵoj.
 
 Pri la libroservo oni povas ekscii, ke ĝi ”prizorgis distribuadon de libroj kaj aliaj eldonaĵoj”. Krome ”daŭris laboroj por prepari estontan funkcimodelon”. Tamen nenio konkreta estas dirita pri la progreso de la ”laboroj”, nek pri la ”estonta funkcimodelo”.
@@ -28,7 +30,7 @@ En 2025 la antaŭa estraro klopodis trovi kunlaborantojn por eventuala pluevolui
 
 Ŝajnas do ke la kosta kaj ampleksa projekto AKSO, pri kiu sinsekvaj respondeculoj okupiĝis dum multaj jaroj, nun definitive estas metita flanken. Por la tasko de reteja renovigo en 2013 estis buĝetita la sumo de 100 000 eŭroj, kaj tiu sumo estis uzita sen videbla rezulto.
 
-Krom tio, dum la jaroj kiuj pasis post la decido, ankaŭ aliaj rimedoj estis uzitaj en la laboro por ellabori la sistemon, kiun UEA nun ŝajne ne uzos. Interalie la administra subvencio de EU ŝajne parte estis uzita tiucele .
+Krom tio, dum la jaroj kiuj pasis post la decido, ankaŭ aliaj rimedoj estis uzitaj en la laboro por ellabori la sistemon, kiun UEA nun ŝajne ne uzos. Interalie la administra subvencio de EU ŝajne parte estis uzita tiucele.
 
 La iama estrarano Andrej Grigorjevskij de multaj jaroj prizorgas kaj aktualigadas la nunan retejon de UEA, kiun li mem kreis. Li tamen mem iom surpriziĝas, aŭdante pri la mencio de sia nomo en la estrara raporto.
 
@@ -56,11 +58,11 @@ La domo poste estis vendita, kaj la vendoprezo eniris la kapitalon de la fondaĵ
 
 La komitataj reviziantoj konstatas, ke pluraj el iliaj rekomendoj el pli fruaj jaroj daŭre ne estas plenumitaj. Inter tiuj estis ĝuste revizio de la regularoj pri la diversaj fondaĵoj, sed ankaŭ, eble plej rimarkinde, la kompletigo de la profesia revizorado de la kontoj de UEA.
 
-De multaj jaroj la komitataj reviziantoj insistas, ke necesas raporto de profesia revizoro pri la kontoj de UEA, por certigi ke ĉio pri la monaferoj de la asocio estas en ordo. En 2024 ĝenerala direktoro Martin Schäffer asertis , ke ekstera revizorado ja okazas, kvankam ĝia kosto ne aperis en la spezokonto de la asocio:
+De multaj jaroj la komitataj reviziantoj insistas, ke necesas raporto de profesia revizoro pri la kontoj de UEA, por certigi ke ĉio pri la monaferoj de la asocio estas en ordo. En 2024 ĝenerala direktoro Martin Schäffer asertis, ke ekstera revizorado ja okazas, kvankam ĝia kosto ne aperis en la spezokonto de la asocio:
 
 – La problemo estas, ke la Estraro ankoraŭ ne ricevis iun finan raporton de la kompanio, malgraŭ diversaj petoj de UEA. Ne aperas kosto pri tio, ĉar Institucio Hodler 68 pagas por la ekstera revizorado.
 
-Antaŭ unu jaro la komitataj reviziantoj denove rekomendis , ke ”profesia revizorado de la kontoj por la jaroj 2020–2023 estu preta kaj prezentita al la Komitato en la venontjara Universala Kongreso”.
+Antaŭ unu jaro la komitataj reviziantoj denove rekomendis, ke ”profesia revizorado de la kontoj por la jaroj 2020–2023 estu preta kaj prezentita al la Komitato en la venontjara Universala Kongreso”.
 
 Tamen tia raporto plu mankas. Same mankas en la freŝa spezokonto elspezo por profesia revizorado. Eble ĝin denove pagis Institucio Hodler – tion ne eblas scii, ĉar mankas detalaj raportoj pri ĝi, same kiel ili mankas pri aliaj fondaĵoj de UEA.
 
@@ -84,6 +86,8 @@ En la komitata diskutejo Tonjo del Barrio petis klarigon pri la mankantaj inform
 **Categories:** movado
 
 Neatendite forpasis Przemysław Wierzbowski, la multjara prezidanto de Bjalistoka Esperanto-Societo. Li estis nur 39-jara.
+
+Przemysław Wierzbowski dum prezentado en la Zamenhof-Centro en Bjalistoko en decembro 2021. Foto: Białostocki Ośrodek Kultury
 
 Przemysław Wierzbowski dum multaj jaroj aktivis por Esperanto en Bjalistoko, Pollando kaj internacie. Li estis interalie estrarano de Pola Esperanto-Junularo.
 
@@ -114,13 +118,17 @@ Pola radio raportas: Nie żyje Przemysław Wierzbowski. Promował esperanto i pa
 
 Malklaras la estonteco de la libroservo de UEA, la ĉefa peranto de literaturo en Esperantujo. La oficiala revuo de UEA dum la lastaj jaroj nur sporade kaj sensisteme prezentas novajn atentindajn librojn en Esperanto. Enketo ĉe kelkaj spertuloj tamen montras, ke daŭre kaj regule aperadas valoraj verkoj en plej diversaj ĝenroj, eĉ se ne ĉiam facilas ekscii pri ili.
 
+”Post En barko senpilota de William Auld (Edistudio, 1987) kaj La lingvo serena de Baldur Ragnarsson (Edistudio, 2007), la duvoluma poemkolekto de Marjorie Boulton estas la plej rimarkinda aldono al nia kolekto de originala poezio”, diras Ionel Oneț.
+
 Ĉar la revuo Esperanto lastatempe nur hazarde atentas pri novaj legindaj verkoj en Esperanto, ni petis kelkajn kompetentulojn elekti po tri elstarajn librojn aperintajn en Esperanto dum la lastaj kvin jaroj. Montriĝis ne tute facile limigi la elekton je nuraj tri libroj, do evidente la literatura vivo en Esperantujo plu viglas.
 
-Stela Besenyei-Merger, kiu nun okupiĝas pri la eldonprojekto de Esperanto USA , sukcesis plenumi la peton kaj elekti nur tri librojn por prezento. Kiel la unuan ŝi menciis la verkon Centvorte , kolekton de cent centvortaj mikronoveloj verkitaj de Jorge Rafael Nogueras, aperintan pasintjare ĉe Mondial .
+Stela Besenyei-Merger, kiu nun okupiĝas pri la eldonprojekto de Esperanto USA, sukcesis plenumi la peton kaj elekti nur tri librojn por prezento. Kiel la unuan ŝi menciis la verkon Centvorte, kolekton de cent centvortaj mikronoveloj verkitaj de Jorge Rafael Nogueras, aperintan pasintjare ĉe Mondial.
+
+”Rafa Nogueras klare estas unu el la plej bonaj verkistoj nuntempe. Sprita, volonte ĉerpas ĉion el la lingvo, uzas abundon da vortoj por bildigi siajn scenojn kaj faras ĉion tion koncize”, diras Stela Besenyei-Merger
 
 – Rafa Nogueras klare estas unu el la plej bonaj verkistoj nuntempe. Sprita, volonte ĉerpas ĉion el la lingvo, uzas abundon da vortoj por bildigi siajn scenojn kaj faras ĉion tion koncize. Ne hazarde li gajnas premiojn ofte en literaturaj konkursoj nuntempe, ŝi argumentas.
 
-Kiel duan libron ŝi elektis la tradukon de Matilda , infanlibro verkita de Roald Dahl kaj originale aperinta en la angla en 1988. La Esperanta traduko estas rezulto de konkurso anoncita de Esperanto-Asocio de Britio en 2022. La konkurson gajnis Tobiasz Kubisiowski, kaj lia traduko aperis ĉe EAB en 2024.
+Kiel duan libron ŝi elektis la tradukon de Matilda, infanlibro verkita de Roald Dahl kaj originale aperinta en la angla en 1988. La Esperanta traduko estas rezulto de konkurso anoncita de Esperanto-Asocio de Britio en 2022. La konkurson gajnis Tobiasz Kubisiowski, kaj lia traduko aperis ĉe EAB en 2024.
 
 – Kompreneble jam la originala libro kaj la rakonto mem estas brila, tamen mi pensas, ke la traduko de Tobiasz Kubisiowski aparte legigas ĝin. Li tiom lerte trovis Esperantajn ekvivalentojn al la anglaj esprimoj, situacioj, kaj la traduko tiom bele fluas kvazaŭ ĝi estus verkita originale en Esperanto, Stela Besenyei-Merger opinias.
 
@@ -128,21 +136,23 @@ Sur la trian lokon ŝi metas la jubilean reeldonon de Rimleteroj de William Auld
 
 – Mi ne konis la korespondon de Auld kaj Boulton antaŭ la reaperigo de tiu ĉi libro. Unue, ĝi estas elstare bele redaktita de Tim Owen kun fotoj de la originaloj kaj pri aldonaj bildoj de la amikeco inter la du. Kaj due, ekkoni ilin tiel, ke ili korespondis en rimoj sur poŝtkartoj, mirigas min ilia kreema uzo de la lingvo: la ludemo, la ĝojo, la talento kaj la kapablo fari tion en rondeloj!
 
-Nia dua spertulo estas Ionel Oneț, kiu dum pli ol 23 jaroj laboris en la libroservo de UEA .
+Nia dua spertulo estas Ionel Oneț, kiu dum pli ol 23 jaroj laboris en la libroservo de UEA.
 
 – Ĉiu elekto de ”x plej elstaraj (aŭ inverse) kio ajn” estas riska, ĉar ĝi estas persona elekto. Tamen, de tempo al tempo, necesas fari tiajn enketojn, li diras.
 
 Kiel sian unuan elekton li indikis plian verkon eldonitan de EAB, nome la duvoluman kolekton Unu animo homa de Marjorie Boulton, aperintan en 2022.
 
-– Post En barko senpilota de William Auld (Edistudio, 1987) kaj La lingvo serena de Baldur Ragnarsson (Edistudio, 2007), la duvoluma poemkolekto de Marjorie Boulton estas la plej rimarkinda aldono al nia kolekto de originala poezio, Ionel Oneț diras.
+”Ĝi devus esti deviga legaĵo por tiuj kiuj sopiras je tia socio”, diras Ionel Oneț pri ”Zulejka malfermas la okulojn”.
 
-Due li volas mencii la romanon Zulejka malfermas la okulojn de Guzel Jaĥina, tradukitan el la rusa de Tomasz Chmielik, aperintan ĉe Ars-Libri en 2022.
+– Post En barko senpilota de William Auld (Edistudio, 1987) kaj La lingvo serena de Baldur Ragnarsson (Edistudio, 2007), la duvoluma poemkolekto de Marjorie Boulton estas la plej rimarkinda aldono al nia kolekto de originala poezio, Ionel Oneț diras.
+
+Due li volas mencii la romanon Zulejka malfermas la okulojn de Guzel Jaĥina, tradukitan el la rusa de Tomasz Chmielik, aperintan ĉe Ars-Libri en 2022.
 
 – Ĝi estas brila kaj tuŝa prezento de eventoj en la fruaj jaroj de la tragika eksperimento, kiu nomiĝis la Unio de Sovetaj Socialismaj Respublikoj. Ĝi devus esti deviga legaĵo por tiuj kiuj sopiras je tia socio, Ionel Oneț opinias.
 
 Elekti trian libron tamen estis problemo por li.
 
-– Ĉar mi ne povis fari finan decidon pri tio, kiun el el la jenaj du titoloj elekti, mi menciu ambaŭ. Ili estas tre valora kontribuo al nia esea literaturo. Memoru ĉi praulojn de Humphrey Tonkin (2020) kaj Plia dozo da prozo (2024), ambaŭ aperintaj ĉe Mondial. Ili traktas la Esperantan literaturon kaj povus sproni al plia legado.
+– Ĉar mi ne povis fari finan decidon pri tio, kiun el el la jenaj du titoloj elekti, mi menciu ambaŭ. Ili estas tre valora kontribuo al nia esea literaturo. Memoru ĉi praulojn de Humphrey Tonkin (2020) kaj Plia dozo da prozo (2024), ambaŭ aperintaj ĉe Mondial. Ili traktas la Esperantan literaturon kaj povus sproni al plia legado.
 
 Ĝuste la aŭtoro de la laste menciita verko, Sten Johansson, estas nia tria spertulo. Li unue hezitas.
 
@@ -150,13 +160,15 @@ Elekti trian libron tamen estis problemo por li.
 
 Li elstarigas tri originalajn romanojn, unue La memoraĵoj de Julia Agripina de Anna Löwenstein.
 
+“Ampleksa, atentokapta kaj interesa pro multege da kredindaj detaloj kaj pro la ina vidpunkto pri tre vira epoko”, laŭ Sten Johansson.
+
 – Ĝi estas ŝia tria historia romano kaj eble la plej lerte verkita, pri unu el la plej potencaj virinoj en la historio de la romia imperio. Ampleksa, atentokapta kaj interesa pro multege da kredindaj detaloj kaj pro la ina vidpunkto pri tre vira epoko.
 
 Due li mencias la verkon Simeono de Mikaelo Bronŝtejn. Ĝi estas biografia romano pri Semjon Podkaminer, aperinta en 2022.
 
 – Kiel ĉiuj liaj romanoj ĝi kredinde, interese kaj en tre persona maniero prezentas personojn el la rusa kaj/aŭ sovetia historio de la dudeka jarcento, ĉi-foje fascinan gravulon en la sovetiaj politiko kaj Esperanto-movado, gravan ankaŭ por la aŭtoro mem.
 
-Sur la tria loko Sten Johansson mencias sian propran verkon, la psikologian kaj politikan romanon Secesio , aperintan en 2021.
+Sur la tria loko Sten Johansson mencias sian propran verkon, la psikologian kaj politikan romanon Secesio, aperintan en 2021.
 
 – Jen mia unua provo verki pri epoko, kiun mi mem tute ne spertis. Du virinoj en Vieno dum la jaroj 1925-1935, tempo kiam espero transiris en malesperon, tempo kiu iom tro multe pensigas pri nia nuna epoko pro kreskantaj rasismo kaj alia malamo de dekstruloj.
 
@@ -168,6 +180,8 @@ Krome li laŭ propra konfeso apenaŭ legas originalan fikcion en Esperanto, ĉar
 
 – Kaj mi tre malmulte legis en la lastaj jaroj: mi provis plurfoje en la pasinteco, tamen ne povas forkuri de la penso, ke multo ne estus eldonita, se temus pri etna lingvo. Esceptoj estas Sesdek Ok de Sten Johansson, eldonita de Mondial en 2020, kiun mi treege ŝatis. Mi ne dubas, ke se mi legus liajn fikciaĵojn eldonitajn poste, ili simile plaĉus, kaj verŝajne troviĝus en mia listo.
 
+”Kiel siaj antaŭuloj, ĝi traktas tre profesie gravajn nuntempaĵojn. Ĝin vidi en etna lingvo tute ne estus surprize”, diras Tim Owen.
+
 La unua libro, kiun Tim Owen volus mencii, estas la jam menciita historia romano La memoraĵoj de Julia Agripina de Anna Löwenstein.
 
 – Bele verkita, tamen eldoniĝis en 2021, do antaŭ iomete tro da tempo por ĝin konsideri, li diras.
@@ -176,27 +190,29 @@ Feliĉe do Sten Johansson ne same strikte kalkulis ”la pasintajn kvin jarojn�
 
 La unuan lokon en la listo de Tim Owen anstataŭe okupas la duvoluma kolekto Unu animo homa de Marjorie Boulton, jam menciita de Ionel Oneț. Ni ja citu ankaŭ la argumentojn de Tim Owen por listigi tiun libron, eldonitan de lia propra asocio EAB:
 
-– Temas pri la tuta poemaro de nur la dua homo kandidatigita proj siaj verkoj en Esperanto por la Nobel-premio pri literaturo. Ĝian editoron, Edmund Grimley Evans, juĝpanelo nomumis Esperantisto de la Jaro en 2022, ĝuste pro la aperigo de la duvolumaĵo, kaj kun plezuro mi rimarkis la komenton de Ionel Oneț, en sia jarkomenca intervjuo kun Libera Folio , ke ”oni nepre atentu la imponan (ankaŭ tipografie) kompilaĵon”.
+– Temas pri la tuta poemaro de nur la dua homo kandidatigita proj siaj verkoj en Esperanto por la Nobel-premio pri literaturo. Ĝian editoron, Edmund Grimley Evans, juĝpanelo nomumis Esperantisto de la Jaro en 2022, ĝuste pro la aperigo de la duvolumaĵo, kaj kun plezuro mi rimarkis la komenton de Ionel Oneț, en sia jarkomenca intervjuo kun Libera Folio, ke ”oni nepre atentu la imponan (ankaŭ tipografie) kompilaĵon”.
 
-La duan lokon Tim Owen donas al la verko Lando kiu vekiĝis de Kalle Kniivilä, la redaktoro de Libera Folio .
+La duan lokon Tim Owen donas al la verko Lando kiu vekiĝis de Kalle Kniivilä, la redaktoro de Libera Folio.
 
 – Plia libro verkita de Kalle Kniivilä el pluraj pri post-Sovetio. Kiel siaj antaŭuloj, ĝi traktas tre profesie gravajn nuntempaĵojn. Ĝin vidi en etna lingvo tute ne estus surprize.
 
 Efektive la libro aperis ankaŭ en la sveda kaj en la finna.
 
-La trian lokon Tim Owen donas al plia libro de la propra eldonejo, La aventuroj de Alico en Mirlando , verkita de Lewis Carroll kaj tradukita el la angla de Donald Broadribb kaj Edmund Grimley Evans.
+La trian lokon Tim Owen donas al plia libro de la propra eldonejo, La aventuroj de Alico en Mirlando, verkita de Lewis Carroll kaj tradukita el la angla de Donald Broadribb kaj Edmund Grimley Evans.
 
 – La lingvaĵo estas senriproĉa, kiel oni atendus, tamen ne pro tio mi ĝin listigas. Kun bildoj desegnitaj de renoma ilustristo (multaj plenkoloraj) en preskaŭ ĉiu paĝparo, dika papero kaj orkolora metala reliefigo sur la kovrilo kaj flanko, ĝi estas la plej okulfrapa libro, kiun mi iam ajn vidis en Esperantujo.
 
 Spite sian komencan heziton, Tim Owen fine ne sukcesis halti ĉe tri verkoj, sed elektis plurajn pliajn.
 
-– En la kvara loko oni vidas fikciaĵon, kiun mi konsideras duon-originalaĵo, ĉar la tradukinto, Aitor Arana, eldonigis ĝin tutunue en la eŭska: La okulvitroj de Lidia . La koncernata Lidia estas ĝuste tiu, kiun oni suspektus, kaj la rakonto ĝenerale baziĝas sur veraj okazintaĵoj. Oni sekvas ŝin de la juneco ĝis la fino de la vivo; en alternantaj ĉapitroj ni faras simile kun alia homo, kiu nomiĝas Adolf. Ankaŭ ĉi-kaze temas pri la unua homo, kiu venas en la kapo. Kiel kutime ĉe la verkoj de Ars Libri en Lublino, la prezento estas treege altkvalita.
+”La rakonto ĝenerale baziĝas sur veraj okazintaĵoj. Oni sekvas ŝin de la juneco ĝis la fino de la vivo; en alternantaj ĉapitroj ni faras simile kun alia homo, kiu nomiĝas Adolf”, skribas Tim Owen.
+
+– En la kvara loko oni vidas fikciaĵon, kiun mi konsideras duon-originalaĵo, ĉar la tradukinto, Aitor Arana, eldonigis ĝin tutunue en la eŭska: La okulvitroj de Lidia. La koncernata Lidia estas ĝuste tiu, kiun oni suspektus, kaj la rakonto ĝenerale baziĝas sur veraj okazintaĵoj. Oni sekvas ŝin de la juneco ĝis la fino de la vivo; en alternantaj ĉapitroj ni faras simile kun alia homo, kiu nomiĝas Adolf. Ankaŭ ĉi-kaze temas pri la unua homo, kiu venas en la kapo. Kiel kutime ĉe la verkoj de Ars Libri en Lublino, la prezento estas treege altkvalita.
 
 Sur la kvina loko Tim Owen elektis la jam menciitan Centvorte de Jorge Rafael Nogueras.
 
-– T emas pri cent rakontetoj precize cent vortojn longaj; cento da centvortaĵoj . Aldona limigo estas, ke ĉiuj vortoj devas troviĝi en PIV aŭ ReVo. Plaĉis al mi, ke tiel sin kateninte, la aŭtoro sukcesis verki spritaĵojn. Libron dekmil vortojn longan estus malfacile vendi, do feliĉe aldoniĝis 23 pliaj rakontoj en dua sekcio, ”Pli ol centvorte”, el kiuj unu – La babaŝa preĝkolĉeno – treege kortuŝis min.
+– Temas pri cent rakontetoj precize cent vortojn longaj; cento da centvortaĵoj. Aldona limigo estas, ke ĉiuj vortoj devas troviĝi en PIV aŭ ReVo. Plaĉis al mi, ke tiel sin kateninte, la aŭtoro sukcesis verki spritaĵojn. Libron dekmil vortojn longan estus malfacile vendi, do feliĉe aldoniĝis 23 pliaj rakontoj en dua sekcio, ”Pli ol centvorte”, el kiuj unu – La babaŝa preĝkolĉeno – treege kortuŝis min.
 
-Eĉ tie li tamen ne haltis, sed menciis pliajn tri verkojn, kiujn li konsideris por la kvina loko: la jam menciita Plia dozo da prozo de Sten Johansson, Detala gramatiko de Esperanto de Bertilo Wennergren, kaj La ĉashundo de la Baskerviloj , represo de traduko de William Auld, pli frue aperinta ĉe la eldonejo Sezonoj.
+Eĉ tie li tamen ne haltis, sed menciis pliajn tri verkojn, kiujn li konsideris por la kvina loko: la jam menciita Plia dozo da prozo de Sten Johansson, Detala gramatiko de Esperanto de Bertilo Wennergren, kaj La ĉashundo de la Baskerviloj, represo de traduko de William Auld, pli frue aperinta ĉe la eldonejo Sezonoj.
 
 – Mi volis enlistigi ĝin ne aparte pro la rakonto mem, sed ĉar ĝi finiĝas per du tre interesaj aldonaĵoj: sekcio ”Postpolure”, en kiu Simon Davies klarigas, kion (kaj kial) li ŝanĝis en la teksto; kaj dua sekcio, en kiu li listigas cent geniajn solvojn de Auld al tradukaj tiklaĵoj.
 
@@ -215,7 +231,9 @@ Krome li mencias, ke verŝajne meritus lokon en la listo la trivolumaĵo La libr
 
 **Categories:** movado
 
-Meze de financa krizo TEJO elektos novan estraron. Tamen mankas propono por la plej grava posteno – tiu de kasisto. TEJO nun petas sinproponojn ĝis la fino de julio.  Ĉu iu pretos akcepti la defian taskon savi la asocion el la deficita truo?
+Meze de financa krizo TEJO elektos novan estraron. Tamen mankas propono por la plej grava posteno – tiu de kasisto. TEJO nun petas sinproponojn ĝis la fino de julio. Ĉu iu pretos akcepti la defian taskon savi la asocion el la deficita truo?
+
+La sekva estraro de TEJO estos elektita dum la IJK, kiu okazos en Tiana, Katalunio, de la 9-a ĝis la 16-a de aŭgusto. Foto: Alberg La Conreria, Tiana.
 
 Dum la pasintaj monatoj TEJO alfrontis seriozan financan krizon. La asocio ĉi-jare ne ricevis la administran subvencion, kiu laŭ la buĝeto donus preskaŭ duonon de la planitaj enspezoj. Baldaŭ TEJO elektos novan estraron, kies ĉefa defio estos mastrumi la krizon. Sed laŭ raporto de la elekta komisiono, la grava posteno de kasisto estos vaka.
 
@@ -226,6 +244,8 @@ Sepa persono volis kandidatiĝi, sed la Elekta Komisiono juĝis ke tiu kandidati
 Sed malgraŭ (aŭ eble pro) la financa krizo, la komisiono ne trovis kandidaton por la posteno de kasisto.
 
 Preskaŭ ĉiujare TEJO ekhavas novan prezidanton. Ekde 2013 neniu prezidanto rekandidatiĝis post plena mandatperiodo. La nuna prezidanto, Ana Ribeiro, tamen diras ke ŝi pretas esti prezidanto se ne estas aliaj kandidatoj. Ŝia preferata posteno aliflanke estus tiu de senofica estrarano.
+
+Ana Ribeiro
 
 – Mi jam ne plu sentas min tiom juna, kaj mi ne sentas ke mi estas la plej taŭga homo por esti la ĉefa reprezentanto de junulara organizo, ŝi klarigas.
 
@@ -260,13 +280,15 @@ Robert Nielsen
 
 Nederlandaj profesiaj revizoroj, kiuj devis kontroli la kontojn de UEA, ricevis pagon sed ne finfaras sian laboron. Notario ne respondas telefonon. ”Mi perdas la esperon pri Nederlando”, resumis ĝenerala direktoro Martin Schäffer. Dume financaj kalkuloj de kvar kongresoj restas nefinitaj, eĉ sen la malhelpo de nederlandaj aŭtoritatoj.
 
+Ĉu UEA dronas en nederlanda burokratio?
+
 Dum la reta komitata kunsido sabate la 11-an de julio la gvidantoj de UEA devis aŭdi akran kritikon pro tio, ke la rekomendoj de la komitataj reviziantoj plurajn jarojn restas neplenumitaj. Centra punkto estis la multjara manko de profesia revizora kontrolo de la kontoj de UEA.
 
 Laŭ ĝenerala direktoro Martin Schäffer la problemo kuŝas tamen ne ĉe UEA, sed ĉe la nederlandaj revizoroj, kiuj ne faras sian laboron kvankam ili ricevis pagon.
 
 – Simple la nunaj revizoroj ne reagas, ne finas sian taskon, li klarigis al la Komitato.
 
-Ralph Schmeits, kiu ĝis lastatempe estis la ĉefa respondeculo de la financa fako en la Centra Oficejo, laŭ Martin Schäffer jam respondis al ĉiuj demandoj de la revizoroj, sed ial la afero ne progresas.
+Ralph Schmeits, kiu ĝis lastatempe estis la ĉefa respondeculo de la financa fako en la Centra Oficejo, laŭ Martin Schäffer jam respondis al ĉiuj demandoj de la revizoroj, sed ial la afero ne progresas.
 
 – Oni lasas min ekstere de la tuta afero, ĉar oni diras ke mi kiel direktoro ne povas esti enplektita, ĉar oni ja iel kontrolas min. Sed tio ne funkcias, kaj nun ili ne reagas plu.
 
@@ -275,6 +297,8 @@ La ideo havi eksterajn revizorojn estis bona, sed praktike ne funkcias, laŭ Mar
 – Antaŭe dum tridek jaroj oni havis nur internan revizoradon, estis la samaj homoj, kiuj bone faris… Ni denove havu internan sistemon laŭ mi, do homojn, kiuj estas fakaj homoj kaj povas revizori la financojn de UEA. Oni ne bezonas nederlandan entreprenon. Ekde kiam oni havas tion, oni pagas monon sed ne ricevas la koncernan rezulton.
 
 Simile neakurata laŭ Martin Schäffer estas la nederlanda notario kiu devus kontroli la jam aprobitajn teknikajn ŝanĝojn en la statuto de UEA. La ŝanĝoj postulataj de la nederlandaj leĝoj estis aprobitaj en marto kaj jam devus validi, sed ĝis nun ne okazis la ĝenerala voĉdonado pri ili, ĉar UEA ne sukcesas kontrakti nederlandan notarion kiu unue kontrolu la statuton.
+
+Brandon Sowers
 
 – Mi postkuras tiun notarion de pli ol ses semajnoj kaj ne ricevas eĉ reagon ĉu li transprenas la taskon aŭ ne. Do eĉ tio ne funkcias, oni povas havi kontakton kaj ili ne reagas simple. Oni skribas al la homoj, neniu reago. Oni telefonas, neniu reago. Estas absolute katastrofa… [ridas] Pardonu ke mi… do mi perdas la esperon pri Nederlando.
 
@@ -288,11 +312,13 @@ Brandon Sowers, komitatano A de Usono, esprimis komprenon pri la frustriĝo de l
 
 Alia neplenumita rekomendo de la komitataj reviziantoj estis, ke UEA fine finfaru la financajn kalkulojn pri la kvar pendantaj kongresoj. Temas pri tiuj de Montrealo, Torino, Aruŝa kaj Brno – alivorte ĉiuj, kies finkalkulon devis prizorgi ne UEA mem, sed la ”kongresa fako” ĉe la entrepreno E@I en Slovakio.
 
+Martin Schäffer kun aŭtomata teksto.
+
 Laŭ Martin Schäffer la prokrasto estas kaŭzita de pluraj faktoroj.
 
 – Ni faras multajn diversajn klopodojn por progresi pri tio, sed simple ne estas tempo flanke de… ĉefe de la kongresa fako por progresi. Ankaŭ mi investis tempon por kontroli, ĉar la bazo estas la kongreso en Montrealo, sed pro la kronvirusa tempo, kaj ĉar temis pri du kongresoj, estas eksterordinare komplike.
 
-En 2021 la Komitato de UEA decidis, ke la kongresan administradon estonte prizorgu la organizaĵo Е@I en Slovakio. La tiama vicprezidanto Fernando Maia – la nuna prezidanto de UEA – asertis , ke la ŝanĝo povos ŝparigi al UEA 20 000 eŭrojn jare. La ŝparo ĉefe estiĝis per tio, ke oni maldungis la multjaran konstantan kongresan sekretarion (KKS) Clay Magalhães.
+En 2021 la Komitato de UEA decidis, ke la kongresan administradon estonte prizorgu la organizaĵo Е@I en Slovakio. La tiama vicprezidanto Fernando Maia – la nuna prezidanto de UEA – asertis, ke la ŝanĝo povos ŝparigi al UEA 20 000 eŭrojn jare. La ŝparo ĉefe estiĝis per tio, ke oni maldungis la multjaran konstantan kongresan sekretarion (KKS) Clay Magalhães.
 
 Nun Martin Schäffer tamen klarigas, ke ĝuste tiu maldungo kontribuis al la maleblo fini la financajn kalkulojn de la kvar pasintaj kongresoj.
 
@@ -307,6 +333,8 @@ Tiu respondo ne kontentigis Michela Lipari.
 – Do imagu, post tri jaroj… La bilancoj de UEA ne estas validaj, ĉar se vi ne metas la pozitivan flankon de la kongreso, tio signifas ke la bilanco estas fuŝa. Do mi neniam aprobos bilancon dum ne estos finitaj la kongresoj, ŝi diris.
 
 Prezidanto Fernando Maia diris, ke li plene komprenas la plendojn.
+
+Fernando Maia konfirmis, ke UEA ne plu okupiĝos pri la nova administra sistemo Akso.
 
 – Ankaŭ mi plendas flanke de la Estraro. Mi mem partoprenis kelkajn el la kunsidoj pri la kongresaj raportoj. La afero ne estas forgesita. Tamen la bilanco estas ĝusta. La bilanco antaŭvidas debitorojn, kreditorojn kaj tiel plu, do ĉiuj sumoj estas en la ĝustaj lokoj nuntempe. Ili ne estas en la fina loko, sed tamen en la ĝustaj nuntempaj lokoj, li klarigis.
 
@@ -333,6 +361,8 @@ La estrara raporto, spezokonto kaj bilanco ne estis akceptitaj en la reta kunsid
 
 Antaŭ tridek jaroj aperis en la revuo Esperanto intervjuo de László Polgár, la patro de Judit Polgár, kiu eble iĝos la sekva prezidento de Hungario. La intervjuon faris hungarlingve István Ertl la patro surloke en Budapeŝto, ĝin redaktis kaj publikigis la tiama redaktoro de la revuo, István Ertl la filo, en Roterdamo. Ni republikigas la tekston por igi ĝin pli facile alirebla.
 
+La patro kaj la filinoj Polgár en 1989. Judit, Zsuzsa, Zsófia kaj László Polgár. Foto: Tamás Urbán CC BY-SA 3.0
+
 Zsuzsa Polgár fariĝis en februaro virina mondĉampiono pri ŝako, venke defiinte la ĝisnunan ĉampioninon, la ĉinan Xie Jun. La 26-jara Zsuzsa estas la plej aĝa fratino de Zsófia (21) kaj Judit (19) Polgár, ĉiuj tri inter la plej bonaj ŝakistoj de la mondo — kaj Esperanto-parolantoj. Ni intervjuis ilian patron, László Polgár.
 
 Via libro Nevelj zsenit! (”Eduku genion!”, 1989) elvolvas la ideon ke el kiu ajn bebo oni povas eduki, per taŭga metodo, genion, homon kun escepta kapablo, kiun tiu kapablo — jen la ĉefa celo — igas feliĉa. Vi mem, ŝajne, brile sukcesis en tio.
@@ -347,6 +377,8 @@ Kiam Esperanto aperis en la vivo de la familio Polgár? Ĉu ĝi ludis ian rolon 
 
 Nia kontakto kun Esperanto komenciĝis fine de la 70-aj jaroj. Tiutempe mi estis instruisto, kaj mi varbis multajn el miaj lernantoj por Esperanto: ĉ. 100-150 el ili ekzameniĝis pri ĝi. En mia libro mi dediĉis apartan ĉapitron al la individuaj kaj sociaj avantaĝoj de Esperanto, ĝia valoro pedagogia, precipe kiel lingvo enkonduka al la lernado de pluaj lingvoj.
 
+La kovrilo de la revuo, en kiu aperis la intervjuo en aprilo 1996.
+
 Ĉiuj miaj filinoj parolas, krom hungare, la anglan, rusan kaj Esperanton. Jutka konas krome la hispanan; Zsofia la germanan kaj hebrean; Zsuzsa la germanan, hispanan, iomete la francan, kaj nun ŝi lernas la hebrean.
 
 Kiam ili estis tute etaj, la Polgár-filinoj ankoraŭ partoprenis esperantistajn ŝak-aranĝojn. Ĉu ne plu?
@@ -357,7 +389,7 @@ Ne post la mezo de la 80-aj jaroj. Por diri la veron, ĉi ties nivelo ne plu kon
 
 Jes, ĉar kiam nur eblas, mi ĉiam propagandas Esperanton. Inter la hungaraj ŝakistoj cetere troviĝas esperantistoj: grandmajstro László Barczay, majstro Tibor Filep, kaj certe troviĝas multaj simpatiantoj. Se ekzistus bonaj esperantistaj ŝakturniroj, mi imagas ke pli multaj lernus Esperanton.
 
-( Ĉi tiam aperis s-ino Klára Polgár kaj aldonis: Mi havas superagradan instru-rajtigan diplomon pri Esperanto. Mi ofte uzis Esperanton en ĉiuj partoj de la mondo. Niaj plej agrablaj amikaj rilatoj dankeblas al Esperanto.)
+(Ĉi tiam aperis s-ino Klára Polgár kaj aldonis: Mi havas superagradan instru-rajtigan diplomon pri Esperanto. Mi ofte uzis Esperanton en ĉiuj partoj de la mondo. Niaj plej agrablaj amikaj rilatoj dankeblas al Esperanto.)
 
 Ĉu vi, kiu sukcese plenumas vian vivoplanon, havas ian ”recepton” por la Esperanta movado? Ĉu vi iom sekvas ĝiajn evoluojn?
 
@@ -442,11 +474,13 @@ Legu pli:
 
 La denaska esperantisto kaj mondfama ŝakisto Judit Polgár iĝu la sekva prezidento de Hungario. Tion proponas dek ses elstaraj hungaraj figuroj de scienco, kulturo kaj sporto en letero al la prezidanto de la parlamento.
 
+Ĉu Judit Polgár ekregos en la prezidenta palaco? Foto: Przemysław Jahr, Andrew Bossi CC BY-SA 2.5
+
 La prezidento de Hungario, Tamás Sulyok, ĵus perdis sian postenon post ŝanĝoj faritaj en la konstitucio, kiujn aprobis la nova majoritato en la parlamento. Sulyok estis proksima politika aliancano de la antaŭa ĉefministro Viktor Orbán, kiu malgajnis la parlamentajn elektojn en aprilo.
 
 La novan prezidanton de Hungario nun devos elekti la parlamento, kaj ĵus aperis neatendita propono: la postenon havu Judit Polgár, mondfama ŝakisto kaj denaska esperantisto.
 
-Ŝin proponis dek ses elstaraj reprezentantoj de scienco, kulturo kaj sporto en letero al la prezidanto de la parlamento . Laŭ la subskribintoj, lige kun la fino de la mandato de Sulyok Hungario alvenis al vojkruciĝo, kio donas ”esceptan ŝancon por venigi la ‘transiron’, daŭrantan ekde la reĝimŝanĝo de 1989, al fina, kontentiga konkludo”.
+Ŝin proponis dek ses elstaraj reprezentantoj de scienco, kulturo kaj sporto en letero al la prezidanto de la parlamento. Laŭ la subskribintoj, lige kun la fino de la mandato de Sulyok Hungario alvenis al vojkruciĝo, kio donas ”esceptan ŝancon por venigi la ‘transiron’, daŭrantan ekde la reĝimŝanĝo de 1989, al fina, kontentiga konkludo”.
 
 La proponantoj opinias, ke Hungario post la politikaj ŝtormoj bezonas ŝtatestron, kiu vere esprimas la unuecon de la lando. Tial ĝuste Judit Polgár estas taŭga kandidato, ili opinias.
 
@@ -468,7 +502,7 @@ Judit Polgár estas ano de la nuntempe naŭmembra Honora Patrona Komitato de UEA
 
 Ĉefministro Péter Magyar kelkajn minutojn poste reagis al ŝia afiŝo, dankis pro ĉio, kion ŝi faris por Hungario, kaj aldonis: ”Eble mi povas diri nome de multaj milionoj da hungaroj, ke ni daŭre kalkulos je vi, eĉ se alimaniere, en la estonteco!”
 
-Legu intervjuon kun la patro de Judit Polgár el revuo Esperanto , aprilo 1996.
+Legu intervjuon kun la patro de Judit Polgár el revuo Esperanto, aprilo 1996.
 
 
 ---
@@ -483,9 +517,11 @@ Legu intervjuon kun la patro de Judit Polgár el revuo Esperanto , aprilo 1996.
 
 Ĉu artefarita intelekto baldaŭ forigos la bezonon de lingvolernado? Aŭ ĉu male ĝi helpos al pli da homoj lerni Esperanton pere de sia propra lingvo, eĉ en regionoj, kie tute mankas esperantistoj? La reta kurso de Georg Jähnig proponas lerni Esperanton en nur 12 horoj, kaj li nun uzas AI-servon por disponigi ĝin en ĉiam pli da lingvoj.
 
+La retejo estas jam havebla en 48 lingvoj, sed Georg Jähnig volas aldoni pliajn. La kresko rapidas – kiam ĉi tiu versio en la panĝaba lingvo aperis, estis nur 35 diverslingvaj versioj.
+
 La Zagreba metodo por instrui Esperanton baziĝas sur esploro de Zlatko Tišljar pri la plej oftaj vortoj en Esperanto. Li registris interparolojn de esperantistoj dum la Universala Kongreso en Lucerno en 1979 kaj konkludis ke malpli ol 500 vortoj konsistigas 95 procentojn el la enhavo.
 
-Surbaze de tiu studo estis ellaborita kurso el 12 lecionoj. La lernolibro poste aperis en multaj lingvoj kaj havis grandan sukceson. Reta versio de la Zagreba metodo de multaj jaroj ekzistas ĉe Esperanto12.net , sed nun ĝi komencis rapide kreski per novaj lingvoversioj, kreitaj per artefarita intelekto sed kontrolitaj de veraj parolantoj de la koncernaj lingvoj.
+Surbaze de tiu studo estis ellaborita kurso el 12 lecionoj. La lernolibro poste aperis en multaj lingvoj kaj havis grandan sukceson. Reta versio de la Zagreba metodo de multaj jaroj ekzistas ĉe Esperanto12.net, sed nun ĝi komencis rapide kreski per novaj lingvoversioj, kreitaj per artefarita intelekto sed kontrolitaj de veraj parolantoj de la koncernaj lingvoj.
 
 Pri la programado okupiĝas Georg Jähnig.
 
@@ -497,9 +533,11 @@ Georg Jähnig: – Jes, la retejo havas meze 1 000 vizitantojn tage, dividitajn 
 
 Kiel vi proponas, ke oni diskonigu ĝin?
 
+Georg Jähnig.
+
 – Unuflanke, tiun kurson vi povas ligi kaj priparoli en viaj kanaloj, per kiuj vi atingas ne-esperantistojn. Tio povas esti retejoj, sed ankaŭ Youtube, TikTok aŭ Instagram. Informu homojn, ke Esperanto pro sia strukturo estas multe pli rapide lernebla ol aliaj lingvoj, kaj ke nia formato laŭ la Zagreba metodo tion speciale profitas.
 
-– Krome, la nuna forteco de la kurso estas, ke oni povas per preskaŭ nula peno kaj tempo aldoni iujn ajn lingvojn. La AI estas tie gvidata de tre specifaj instrukcioj . Tiel ni do unuafoje povas krei lernomaterialojn eĉ por lingvoj, en kiuj ankoraŭ tute ne ekzistas esperantistoj.
+– Krome, la nuna forteco de la kurso estas, ke oni povas per preskaŭ nula peno kaj tempo aldoni iujn ajn lingvojn. La AI estas tie gvidata de tre specifaj instrukcioj. Tiel ni do unuafoje povas krei lernomaterialojn eĉ por lingvoj, en kiuj ankoraŭ tute ne ekzistas esperantistoj.
 
 – Ideale ni uzu tion por lingvoj kun multaj parolantoj kaj malmulte da lernomaterialo. Laŭ mia esploro, tio koncernas precipe lingvojn en Barato kaj Afriko. Se iu konas tie homojn, kiuj povus provlegi kaj disvastigi tiujn lingvoversiojn, bonvolu kontakti min. Sed mi estas preta aldoni ankaŭ ĉiun alian lingvon. Cetere, la enhavoj estas uzeblaj ankaŭ senrete, oni devas nur elŝuti ĝin unufoje.
 
@@ -515,7 +553,7 @@ Kiom da homoj fakte finas la kurson?
 
 Kion oni proponas al ili post tio?
 
-– En multaj lingvoversioj ni jam havas la ligilon ”Trovi Esperanto-parolantojn”, kiu specife por tiuj lingvoj listigas lokajn Esperanto-societojn en la koncernaj landoj. Volonte mi aldonos tie pliajn, simple kontaktu min .
+– En multaj lingvoversioj ni jam havas la ligilon ”Trovi Esperanto-parolantojn”, kiu specife por tiuj lingvoj listigas lokajn Esperanto-societojn en la koncernaj landoj. Volonte mi aldonos tie pliajn, simple kontaktu min.
 
 
 ---

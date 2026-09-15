@@ -1,6 +1,6 @@
 ---
 source: "UEA Facila (uea.facila.org)"
-generated_at: "2026-09-15T10:54:37.051564+00:00"
+generated_at: "2026-09-15T16:17:07.069542+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-06-08 – 2025-06-29"
 ---
@@ -27,21 +27,21 @@ time_range: "2025-06-08 – 2025-06-29"
 
 **Categories:** Kongresoj kaj kunvenoj
 
-Restas du monatoj ĝis la 81-a Internacia Junulara Kongreso (IJK) de TEJO , kiu okazos de la 9-a ĝis la 16-a de aŭgusto 2025 en Cisarua (Bogor), Indonezio.
+Restas du monatoj ĝis la 81-a Internacia Junulara Kongreso (IJK) de TEJO, kiu okazos de la 9-a ĝis la 16-a de aŭgusto 2025 en Cisarua (Bogor), Indonezio.
 
-La 81-a IJK estas la unua IJK kiu okazos en Indonezio, granda insularo en Sudorienta Azio konata pro ties kultura, ekologia , kaj lingva diverseco. La kongresa temo estas “Diverseco, solidareco kaj toleremo ”. En multaj programeroj oni esploros la diversecon en Sudorienta Azio, kaj malkovros , kion eblas lerni de tiu diverseco.
+La 81-a IJK estas la unua IJK kiu okazos en Indonezio, granda insularo en Sudorienta Azio konata pro ties kultura, ekologia, kaj lingva diverseco. La kongresa temo estas “Diverseco, solidareco kaj toleremo”. En multaj programeroj oni esploros la diversecon en Sudorienta Azio, kaj malkovros, kion eblas lerni de tiu diverseco.
 
 Dum IJK la kongresanoj kune prifestos tre specialan okazon: la 80-an datrevenon de la Sendependiĝo de Indonezio disde Nederlando en 1945. Estos kulturaj programoj por elmontri la kulturan diversecon de Indonezio per tradiciaj dancoj, teatraĵoj kaj muzikaĵoj.
 
-En la programo, atendas vin amaso da lernigaj, interagaj, sportaj kaj distraj aktivaĵoj, taŭgaj por ĉiuj aĝoj, lingvoniveloj, kaj interesoj. Kongresanoj povas mem proponi programerojn ĝis la 30-a de junio. Krome, eblos trapasi la KER-ekzamenon skribe je la nivelo C1. Individuaj membroj de TEJO, kiuj ekzameniĝos dum IJK, povos ricevi repagon de 20 eŭroj .
+En la programo, atendas vin amaso da lernigaj, interagaj, sportaj kaj distraj aktivaĵoj, taŭgaj por ĉiuj aĝoj, lingvoniveloj, kaj interesoj. Kongresanoj povas mem proponi programerojn ĝis la 30-a de junio. Krome, eblos trapasi la KER-ekzamenon skribe je la nivelo C1. Individuaj membroj de TEJO, kiuj ekzameniĝos dum IJK, povos ricevi repagon de 20 eŭroj.
 
-La Kongresa Komisiono aranĝas transporton por helpi la kongresanojn moviĝi inter la ĉefurbo Ĝakarto kaj la kongresejo, Alfa Resort Hotel & Conference en Cisarua, kaj reen. Krome kongresanoj povas nun aliĝi al antaŭ-, dum- kaj post-kongresaj ekskursoj .
+La Kongresa Komisiono aranĝas transporton por helpi la kongresanojn moviĝi inter la ĉefurbo Ĝakarto kaj la kongresejo, Alfa Resort Hotel & Conference en Cisarua, kaj reen. Krome kongresanoj povas nun aliĝi al antaŭ-, dum- kaj post-kongresaj ekskursoj.
 
 Ĝis nun aliĝis 140 homoj el 33 landoj, el kiuj plej multaj aliĝis el Indonezio, Japanujo, Ĉinujo, kaj Aŭstralio. Aliĝis ankaŭ gejunuloj el aliaj landoj de Sudorienta Azio: Filipinoj, Vjetnamujo, Orienta Timoro, kaj Tajlando. Dum IJK 2025 eblos renkontiĝi kaj amikiĝi kun esperantistoj el Azio kaj Oceanio. Multaj el tiuj partoprenos sian unuan internacian Esperanto-aranĝon.
 
-Ni esperas baldaŭ atingi nian sekvan celon: 150 partoprenantojn. Ĉu vi ankoraŭ ne havas planojn en aŭgusto? Ĉu vi ŝatus sperti ion tute novan kaj mirindan? Venu al Indonezio! Ne maltrafu ĉi tiun tre maloftan ŝancon por ekkoni ĉi tiun mirindan landon, pere de Esperanto, kune kun esperantistoj! Neniam oni estas tro maljuna por partopreni en IJK; ĉiuj estas invitataj amuziĝi! Aliĝu dum la tria aliĝperiodo ĝis la 30-a de junio . Post tiu dato, la aliĝkotizoj altiĝos.
+Ni esperas baldaŭ atingi nian sekvan celon: 150 partoprenantojn. Ĉu vi ankoraŭ ne havas planojn en aŭgusto? Ĉu vi ŝatus sperti ion tute novan kaj mirindan? Venu al Indonezio! Ne maltrafu ĉi tiun tre maloftan ŝancon por ekkoni ĉi tiun mirindan landon, pere de Esperanto, kune kun esperantistoj! Neniam oni estas tro maljuna por partopreni en IJK; ĉiuj estas invitataj amuziĝi! Aliĝu dum la tria aliĝperiodo ĝis la 30-a de junio. Post tiu dato, la aliĝkotizoj altiĝos.
 
-La reta aliĝilo troviĝas ĉe https://ijk2025.tejo.org/alighilo/ .
+La reta aliĝilo troviĝas ĉe https://ijk2025.tejo.org/alighilo/.
 
 TEJO finance subtenas 20 gejunulojn el Azio kaj Oceanio, por ke ili povu partopreni en IJK. Ni elkore dankas ĉiujn, kiuj ĝis nun donacis al la fondaĵo “Partoprenu IJK-n”. Por subteni 20 homojn, ni ankoraŭ bezonas 3000 eŭrojn. Se vi volus helpi nin atingi tiun celon, bonvolu donaci al la fondaĵo.
 
@@ -115,13 +115,13 @@ tra-pasi ekzamenon: ekzameniĝi.
 
 Eblas aŭskulti ĉi tiun artikolon, kiun voĉlegis Arono Chapman.
 
-Radio Verda estas Esperanta projekto, kiu celas prezenti interesajn temojn en klara kaj facila maniero. Ĝi komenciĝis jam en 1998 kiel unu el la unuaj sonaj revuoj en Esperanto, eĉ antaŭ la tempo de podkastoj . Tiutempe oni aperigis mallongajn sonprogramojn kun amika stilo kaj komprenebla lingvaĵo.
+Radio Verda estas Esperanta projekto, kiu celas prezenti interesajn temojn en klara kaj facila maniero. Ĝi komenciĝis jam en 1998 kiel unu el la unuaj sonaj revuoj en Esperanto, eĉ antaŭ la tempo de podkastoj. Tiutempe oni aperigis mallongajn sonprogramojn kun amika stilo kaj komprenebla lingvaĵo.
 
 Post interrompo, la projekto revenis kun nova formo. Nun oni aperigas filmetojn kun sono kaj bildoj, kiuj taŭgas por komencantoj, sed ankaŭ por pli spertaj parolantoj. Alian temon oni prezentas en ĉiu filmeto. Foje temas pri la mondo ĉirkaŭ ni, foje pri scienco, historio, kulturo aŭ io alia interesa. Kelkaj temoj estas seriozaj, aliaj pli amuzaj — sed ĉiam facile kompreneblaj.
 
 La lingvaĵo estas facila kaj natura. Oni parolas ne tro rapide kaj kun klara elparolo. La frazoj estas simplaj, tamen riĉaj kaj utilaj. Tio helpas la spektantojn aŭskulti kun kompreno, kaj samtempe lerni kaj reaŭdi novajn vortojn.
 
-Aperas nova filmeto ĉiujn kelkajn tagojn, kaj nun estas jam pli ol kvindek en la kanalo . Ili havas desegnojn aŭ bildojn por helpi la spektadon, kaj sur la ekrano aperas ankaŭ la skribaj subtekstoj. La stilo estas amika kaj agrabla.
+Aperas nova filmeto ĉiujn kelkajn tagojn, kaj nun estas jam pli ol kvindek en la kanalo. Ili havas desegnojn aŭ bildojn por helpi la spektadon, kaj sur la ekrano aperas ankaŭ la skribaj subtekstoj. La stilo estas amika kaj agrabla.
 
 Radio Verda estas bona ilo por samtempe lerni kaj ĝui la lingvon. Per regula spektado, oni povas uzi Esperanton en la ĉiutaga vivo, resti en kontakto kun la lingvo, kaj malkovri novajn aferojn en simpla kaj interesa maniero.
 
@@ -195,13 +195,13 @@ Pentraĵo de Viktor Vasnetsov (1848-1926)
 
 Eblas aŭskulti ĉi tiun artikolon, kiun voĉlegis Margaret Zaleski-Zamenhof.
 
-La suba artikolo aperis en La Scienc- kanalo de Vicente en 27.3.22. La artikolo estas mallongigita kaj simpligita por la legantoj de uea.facila .
+La suba artikolo aperis en La Scienc-kanalo de Vicente en 27.3.22. La artikolo estas mallongigita kaj simpligita por la legantoj de uea.facila.
 
-Homo sapiens , speciala estaĵo inter la bestoj, aperis antaŭ proksimume tricent mil jaroj. Dum tiuj fruaj jaroj la homoj fariĝis humanaj , do kial oni tamen rimarkas tiom da malhumaneco en nia historio?
+Homo sapiens, speciala estaĵo inter la bestoj, aperis antaŭ proksimume tricent mil jaroj. Dum tiuj fruaj jaroj la homoj fariĝis humanaj, do kial oni tamen rimarkas tiom da malhumaneco en nia historio?
 
-En la naturo, ĉiuj bestoj “batalas” por pluvivi kaj lasi posteulojn. Goriloj , ekzemple, pluvivas per sia forteco. Kvankam ili amas sian propran familion, ili malamas ĉiujn aliajn. Ili manĝas nur vegetaĵojn , tamen ili havas timigajn akrajn dentojn. La viraj goriloj ne toleras la ĉe-eston de aliaj plenkreskaj viroj, kaj forpelas eĉ siajn proprajn filojn. Tiuj filoj, do, serĉas lokon por ekloĝi kaj formi sian propran familion. Kiam ili trovas malfortan familion, ili mortigas la regantan vir-gorilon kaj ties idojn. La gorilinoj senpove naskos la idojn de la alveninta vir-gorilo, kaj tiuj heredos la patran perfortemon .
+En la naturo, ĉiuj bestoj “batalas” por pluvivi kaj lasi posteulojn. Goriloj, ekzemple, pluvivas per sia forteco. Kvankam ili amas sian propran familion, ili malamas ĉiujn aliajn. Ili manĝas nur vegetaĵojn, tamen ili havas timigajn akrajn dentojn. La viraj goriloj ne toleras la ĉe-eston de aliaj plenkreskaj viroj, kaj forpelas eĉ siajn proprajn filojn. Tiuj filoj, do, serĉas lokon por ekloĝi kaj formi sian propran familion. Kiam ili trovas malfortan familion, ili mortigas la regantan vir-gorilon kaj ties idojn. La gorilinoj senpove naskos la idojn de la alveninta vir-gorilo, kaj tiuj heredos la patran perfortemon.
 
-Homoj evoluis alimaniere. Ili heredis toleremon. La timigaj dentoj fariĝis akceptemaj ridetoj. Ne pensante nur pri si mem, homoj kuniĝis en grandaj kunlaboremaj komunumoj , kaj evoluigis la amon, kiu disvastiĝis ekster la familia grupo. Per tiuj kvalitoj – kompato, solidareco , emocia kunsentemo, kaj zorgo pri aliaj homoj – ili atingis la plej sukcesan kapablon postvivi, kaj iliaj nombroj kreskis senĉese. Tial, kiam la rimedoj fariĝis nesufiĉaj, grupoj foriris por serĉi novajn teritoriojn . Tiel la homoj okupadis la tutan planedon .
+Homoj evoluis alimaniere. Ili heredis toleremon. La timigaj dentoj fariĝis akceptemaj ridetoj. Ne pensante nur pri si mem, homoj kuniĝis en grandaj kunlaboremaj komunumoj, kaj evoluigis la amon, kiu disvastiĝis ekster la familia grupo. Per tiuj kvalitoj – kompato, solidareco, emocia kunsentemo, kaj zorgo pri aliaj homoj – ili atingis la plej sukcesan kapablon postvivi, kaj iliaj nombroj kreskis senĉese. Tial, kiam la rimedoj fariĝis nesufiĉaj, grupoj foriris por serĉi novajn teritoriojn. Tiel la homoj okupadis la tutan planedon.
 
 Bedaŭrinde, la kreskanta homa loĝantaro elpuŝis bestojn kaj aliajn prahomojn el ĉiuj lokoj, kiujn ili atingis. Ĉu mankis al tiuj homoj la bonaj kvalitoj, kiuj favoris la formadon de grandaj kunlaboremaj grupoj?
 
@@ -209,7 +209,7 @@ Antaŭ dek du mil jaroj komenciĝis la formado de la unuaj konstantaj loĝ-komun
 
 Antaŭ kvar mil jaroj, jam ekzistis pluraj dense loĝataj regionoj sur la planedo, kies loĝantoj emis militi por gajni pli vastajn teritoriojn. Sekve, tiuj pli militemaj homoj ekstermis tiujn, kiuj estis pli pac-amaj. Tio favoris la sukceson de la pli perfortemaj. Tial iliaj posteuloj fariĝis la ĉefaj agantoj de la historio, kaj tiel komenciĝis la historio de la malhumaneco.
 
-Nuntempe, ni ne scias, ĉu la nuna emo al malamo rezultas de nia gena heredaĵo aŭ de kultura influo , sed ni nepre devas haltigi la malsaĝecon de niaj regantoj. Kiel humanaj homoj ni devas kunlabori por subteni la bonfarton de ĉiuj popoloj, kaj disvastigi solidarecon kaj sciojn. La rajton agi kiel bestoj ni lasu nur al la bestoj.
+Nuntempe, ni ne scias, ĉu la nuna emo al malamo rezultas de nia gena heredaĵo aŭ de kultura influo, sed ni nepre devas haltigi la malsaĝecon de niaj regantoj. Kiel humanaj homoj ni devas kunlabori por subteni la bonfarton de ĉiuj popoloj, kaj disvastigi solidarecon kaj sciojn. La rajton agi kiel bestoj ni lasu nur al la bestoj.
 
 Vicente Sales
 
@@ -276,7 +276,7 @@ Eventualaj kontribuoj ĉiuspecaj por la daŭrigado de la projekto (mondonacoj, p
 
 Por pliaj informoj pri la projekto, bonvolu turni vin al:
 
-GBADAMASSI Latifou BP 302 Lokossa (Mono) République du Bénin (Afrique de l’Ouest) Retadresoj: latifougbadamassi@yahoo.fr kaj infanojcxirkauxafriko@gmail.com
+GBADAMASSI Latifou BP 302 Lokossa (Mono) République du Bénin (Afrique de l’Ouest) Retadresoj: latifougbadamassi@yahoo.fr kaj infanojcxirkauxafriko@gmail.com
 
 
 ---
@@ -295,23 +295,23 @@ GBADAMASSI Latifou BP 302 Lokossa (Mono) République du Bénin (Afrique de l’O
 
 Eblas aŭskulti ĉi tiun artikolon, kiun voĉlegis Maurizio 'Rico' Giacometto.
 
-La Zamenhof-strato : Roman Dobrzyński, VARPAS, Kaunas, 2005 (2-a eldono). 288 paĝoj, 21cm. ISBN 9955-9635-1-4 Prezo 18€.
+La Zamenhof-strato: Roman Dobrzyński, VARPAS, Kaunas, 2005 (2-a eldono). 288 paĝoj, 21cm. ISBN 9955-9635-1-4 Prezo 18€.
 
 La Zamenhof-strato estas tre interesa kaj pensiga verko de la ĵurnalisto kaj fama esperantisto Roman Dobrzyński. Ĝi baziĝas sur interparoloj inter li kaj Louis-Christophe Zaleski-Zamenhof, la sola nepo de la kreinto de Esperanto.
 
-Per tiuj intervjuoj, kiuj fojfoje ŝajnas babiladoj inter amikoj, oni malkovras la tutan vivrakonton de Louis-Christophe. Tiu vivo montriĝas plenplena je aventuroj , suferado, kaj nekredeblaj eskapoj el la morto dum la teruro de la geto en la pola ĉef-urbo Varsovio. Sed tio estas ankaŭ vivo plena je sukcesoj en la profesia vivo, en kaj ekster la Esperanto-movado. Sume: vivo interesega kaj libro vere leginda.
+Per tiuj intervjuoj, kiuj fojfoje ŝajnas babiladoj inter amikoj, oni malkovras la tutan vivrakonton de Louis-Christophe. Tiu vivo montriĝas plenplena je aventuroj, suferado, kaj nekredeblaj eskapoj el la morto dum la teruro de la geto en la pola ĉef-urbo Varsovio. Sed tio estas ankaŭ vivo plena je sukcesoj en la profesia vivo, en kaj ekster la Esperanto-movado. Sume: vivo interesega kaj libro vere leginda.
 
-Dum la babilado, Louis-Christophe rakontas plurajn anekdotojn . Kelkaj el ili estas preskaŭ nekredeblaj. Ĉiuj prezentas al la leganto eksterordinaran homon.
+Dum la babilado, Louis-Christophe rakontas plurajn anekdotojn. Kelkaj el ili estas preskaŭ nekredeblaj. Ĉiuj prezentas al la leganto eksterordinaran homon.
 
-La libro tamen ne estas nur kolekto de interesaj anekdotoj. Pli gravas ideoj. La Zamenhof-strato esprimas ankaŭ metaforan vojon, kiu kondukas la homaron al pliaj toleremo , komprenemo kaj frateco. Pro tiu eduka celo la libro estas multe pli ol simpla viv-rakonto de unu membro de la familio Zamenhof.
+La libro tamen ne estas nur kolekto de interesaj anekdotoj. Pli gravas ideoj. La Zamenhof-strato esprimas ankaŭ metaforan vojon, kiu kondukas la homaron al pliaj toleremo, komprenemo kaj frateco. Pro tiu eduka celo la libro estas multe pli ol simpla viv-rakonto de unu membro de la familio Zamenhof.
 
-La leganto ricevas amason da interesaj informoj pri la vivo de la nepo de L.L. Zamenhof, antaŭ kaj dum la eventoj en la varsovia geto. Tiutempe lia nomo estis Ludwik, honore al lia fama avo. Post sia eskapo el la geto, li ekuzis la kaŝnomon Krzysztof Zaleski. En 1959 li transloĝiĝis al Francujo, kie li fariĝis franca civitano . Tie li kunmetis siajn du antaŭnomojn kaj familinomojn por fariĝi (franclingve) Louis-Christophe Zaleski-Zamenhof. Li famiĝis kiel inĝeniero pri artefaritaj insuloj kaj multaj aliaj pioniraj konstruaĵoj.
+La leganto ricevas amason da interesaj informoj pri la vivo de la nepo de L.L. Zamenhof, antaŭ kaj dum la eventoj en la varsovia geto. Tiutempe lia nomo estis Ludwik, honore al lia fama avo. Post sia eskapo el la geto, li ekuzis la kaŝnomon Krzysztof Zaleski. En 1959 li transloĝiĝis al Francujo, kie li fariĝis franca civitano. Tie li kunmetis siajn du antaŭnomojn kaj familinomojn por fariĝi (franclingve) Louis-Christophe Zaleski-Zamenhof. Li famiĝis kiel inĝeniero pri artefaritaj insuloj kaj multaj aliaj pioniraj konstruaĵoj.
 
-Ne estas facile trovi libron, kiu povas atingi plurajn malsimilajn celojn: montri bonajn lingvon kaj stilon , eduki pri la movado, kaj samtempe kor-tuŝi kaj pensigi. Romano distras aŭ pensigas sed ne nepre instruas. Lernolibro instruas sed ne pensigas. La Zamenhof-strato faras ĉiujn tiujn aferojn.
+Ne estas facile trovi libron, kiu povas atingi plurajn malsimilajn celojn: montri bonajn lingvon kaj stilon, eduki pri la movado, kaj samtempe kor-tuŝi kaj pensigi. Romano distras aŭ pensigas sed ne nepre instruas. Lernolibro instruas sed ne pensigas. La Zamenhof-strato faras ĉiujn tiujn aferojn.
 
-Kun bela malmola kovrilo, en sufiĉe malgranda formato , la libro estas facile kunportebla, tiel ke eblas legi ĝin dum vojaĝoj, en kafejoj, aŭ sur hejma sofo .
+Kun bela malmola kovrilo, en sufiĉe malgranda formato, la libro estas facile kunportebla, tiel ke eblas legi ĝin dum vojaĝoj, en kafejoj, aŭ sur hejma sofo.
 
-Jen persona, sed samtempe historia, raporto pri la vivo de unu homo kaj pri la sorto de multaj.  Jen ponto, por la esperantistoj, de la kreinto ĝis nia tempo, tra la vortoj de lia nepo. Jen verko, kiun ĉiuj esperantistoj, kaj ne nur ili, devus legi.
+Jen persona, sed samtempe historia, raporto pri la vivo de unu homo kaj pri la sorto de multaj. Jen ponto, por la esperantistoj, de la kreinto ĝis nia tempo, tra la vortoj de lia nepo. Jen verko, kiun ĉiuj esperantistoj, kaj ne nur ili, devus legi.
 
 Maurizio 'Rico' Giacometto
 
@@ -349,7 +349,7 @@ kaŝ-nomo: nomo, kiun oni uzas, por kaŝi sian veran nomon.
 
 malkovri: ekscii, ekkoni aŭ ekkompreni aferon, kiun oni antaŭe ne sciis.
 
-metafora : donanta al esprimo, frazo aŭ rakonto pli profundan signifon ol tiu, kiu estas supraĵe komprenebla.
+metafora: donanta al esprimo, frazo aŭ rakonto pli profundan signifon ol tiu, kiu estas supraĵe komprenebla.
 
 pionira: laŭ nova maniero, tiel montranta la vojon al postaj homoj
 
@@ -385,7 +385,7 @@ toleremo: akceptemo de opinioj, kredoj aŭ agmanieroj de aliaj homoj aŭ popoloj
 
 **Categories:** Loke
 
-En vendredo, la 29-a de Junio, anoj de la Londona Esperanto-klubo (LEK) faris kiel lastan grupan eventon antaŭ la somera paŭzo, komunan piediradon tra la reĝa Parko Grenviĉo ( Greenwich Park). La granda parko troviĝas sud-oriente de la urbocentro. Tra ĝi iras la Grenviĉa Meridiano, kiu havas pro konvencio la longitudon nul. Ĝi estas la linio de longitudo kiu iras tra la Observejo de Greenwich . Krom grimpado ĝis la monteto kie troviĝas la fama observejo, LEK-anoj ĝuis la varman someran veteron, panoramojn de la urbego kaj belan sunsubiron.
+En vendredo, la 29-a de Junio, anoj de la Londona Esperanto-klubo (LEK) faris kiel lastan grupan eventon antaŭ la somera paŭzo, komunan piediradon tra la reĝa Parko Grenviĉo (Greenwich Park). La granda parko troviĝas sud-oriente de la urbocentro. Tra ĝi iras la Grenviĉa Meridiano, kiu havas pro konvencio la longitudon nul. Ĝi estas la linio de longitudo kiu iras tra la Observejo de Greenwich. Krom grimpado ĝis la monteto kie troviĝas la fama observejo, LEK-anoj ĝuis la varman someran veteron, panoramojn de la urbego kaj belan sunsubiron.
 
 
 ---

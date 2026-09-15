@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-09-15T13:49:03.124073+00:00"
+generated_at: "2026-09-15T16:12:44.504121+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-05-01 – 2026-05-29"
 ---
@@ -25,6 +25,8 @@ time_range: "2026-05-01 – 2026-05-29"
 
 **URL:** http://esperanto.china.org.cn/2026-05/04/content_118465523.htm
 
+**Author:** Rafael Henrique Zerbetto
+
 **Categories:** Plej Freŝaj
 
 Dunhuang en la ĉina provinco Gansu estas mirindaĵo de la antikva Silka Vojo, kiu allogas turistojn de la tuta mondo. Krom la famaj turismejoj, bongustaj manĝaĵoj kaj la mondfama Mogao-grotaro, mondheredaĵo de Unesko, tie ankaŭ troviĝas spektinda spektaklo nomita Antikvaj Melodioj de Dunhuang.
@@ -43,6 +45,8 @@ Verkis kaj fotis: Rafael Henrique Zerbetto
 **Published:** 2026-05-06
 
 **URL:** http://esperanto.china.org.cn/2026-05/06/content_118478746.htm
+
+**Author:** Rafael Henrique Zerbetto
 
 **Categories:** Plej Freŝaj
 
@@ -66,6 +70,8 @@ Raportis kaj fotis: Rafael Henrique Zerbetto
 **Published:** 2026-05-07
 
 **URL:** http://esperanto.china.org.cn/2026-05/07/content_118480903.htm
+
+**Author:** Rafael Henrique Zerbetto
 
 **Categories:** Plej Freŝaj
 
@@ -134,6 +140,8 @@ Redaktoro: Sheng Min
 **Published:** 2026-05-11
 
 **URL:** http://esperanto.china.org.cn/2026-05/11/content_118483119.htm
+
+**Author:** Rafael Henrique Zerbetto
 
 **Categories:** Plej Freŝaj
 
@@ -290,6 +298,8 @@ Redaktoro: Xie Ruifeng
 **Published:** 2026-05-13
 
 **URL:** http://esperanto.china.org.cn/2026-05/13/content_118491453.htm
+
+**Author:** Rafael Henrique Zerbetto
 
 **Categories:** Plej Freŝaj
 
@@ -587,6 +597,8 @@ Verkis: Bui Hai Mung
 **Published:** 2026-05-22
 
 **URL:** http://esperanto.china.org.cn/2026-05/22/content_118504432.htm
+
+**Author:** Bui Hai Mung
 
 **Categories:** Plej Freŝaj
 

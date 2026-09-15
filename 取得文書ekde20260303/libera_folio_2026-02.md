@@ -1,6 +1,6 @@
 ---
 source: "Libera Folio (liberafolio.org)"
-generated_at: "2026-09-15T13:30:48.685832+00:00"
+generated_at: "2026-09-15T16:02:39.004463+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-02-03 – 2026-02-27"
 ---
@@ -16,23 +16,27 @@ time_range: "2026-02-03 – 2026-02-27"
 
 Ĉu ĉiuj ĉinaj esperantistoj lernis malĝustan elparolon de Esperanto? Ĉu ĉinoj mem elpensis regulon, laŭ kiu la malo de ami estas mal-ami, kaj ne ma-lami? Subite kvazaŭ la ĉielo falis sur la Esperanto-instruistojn en Ĉinio, kiam la Akademio donis konsilon pri la afero, skribas Liu Xiaozhe en sia vidpunkta artikolo.
 
+En ĉinaj lernolibroj oni detale instruas, kiel elparoli ”mal-amiko” kaj similajn vortojn.
+
 La ĉina Esperanto-movado estas grava parto de la monda Esperanto-movado. Tamen lastatempe grava krizo pri lingvaj reguloj de Esperanto atakas ĉinajn esperantistojn.
 
 Imagu, ke subite vi trovas, ke eraraj estas Esperantaj lingvaj reguloj, kiujn vi ne nur mem lernis, sed ankaŭ instruis al lernantoj dum pli ol kvardek jaroj! Tio certe estas granda bato aŭ eĉ katastrofo, kiun spertas mi kaj aliaj ĉinaj esperantistoj. Angulo de la ĉielo falas antaŭ ni.
 
-La fendo en la ĉielo aperis lastatempe, kiam sinjoro Ilja Muravjov kreis roboton en Telegram , kiu povas voĉlegi Esperantan tekston. Mi trovis, ke la roboto legas la vorton malami kiel ma-la-mi . Ĉinaj esperantistoj legas ĝin kiel mal-a-mi , ĉar ĉiuj Esperantaj lernolibroj en Ĉinio tiel instruas.
+La fendo en la ĉielo aperis lastatempe, kiam sinjoro Ilja Muravjov kreis roboton en Telegram, kiu povas voĉlegi Esperantan tekston. Mi trovis, ke la roboto legas la vorton malami kiel ma-la-mi. Ĉinaj esperantistoj legas ĝin kiel mal-a-mi, ĉar ĉiuj Esperantaj lernolibroj en Ĉinio tiel instruas.
 
-Estas notinde, ke ĉinaj lernolibroj ne postulas paŭzon inter mal kaj ami, sed nur emfazas, ke oni ne legu l kaj a en malamiko kiel la en la vorto labori , sed aparte legu l kaj a.
+Estas notinde, ke ĉinaj lernolibroj ne postulas paŭzon inter mal kaj ami, sed nur emfazas, ke oni ne legu l kaj a en malamiko kiel la en la vorto labori, sed aparte legu l kaj a.
 
 Mi opiniis, ke tio estas cimo en la robota programo, kiun Muravjov preteratentis. Do mi skribis al li por atentigi lin ripari la roboton. Sed Muravjov respondis, ke li ne konas la regulon, kiu postulas aparte legi prefikson kaj radikon en parolado.
 
-Tio mirigis min. Ĉar en ĉiuj ĉinaj lernolibroj oni instruas, ke parolante derivitajn vortojn, oni aparte legu prefikson kaj radikon, radikon kaj radikon, ekzemple mal-amiko, sub-urbo . Sed subite mi konsciis, ke tiuj reguloj ekzistas nur en ĉinaj Esperantaj lernolibroj, ne en tiuj de aliaj landoj.
+Tio mirigis min. Ĉar en ĉiuj ĉinaj lernolibroj oni instruas, ke parolante derivitajn vortojn, oni aparte legu prefikson kaj radikon, radikon kaj radikon, ekzemple mal-amiko, sub-urbo. Sed subite mi konsciis, ke tiuj reguloj ekzistas nur en ĉinaj Esperantaj lernolibroj, ne en tiuj de aliaj landoj.
+
+De kie venis tiuj nur al ĉinoj konataj reguloj, demandas Solis.
 
 Do de kie venis tiuj nur al ĉinoj konataj reguloj? Mi konsultis aliajn ĉinajn esperantistojn, sed vane. Oni ne scias, kio estas la fonto de tiuj reguloj en la lernolibroj. Mi turnis min al Akademio de Esperanto por demandi pri la afero.
 
 Post diskuto en la Lingva Konsultejo, sinjoro Cyril Robert Brosch, la direktoro de la Konsultejo, sendis al mi respondon, kies plenan tekston oni povas legi ĉe la retejo de la Akademio. Jen resumo:
 
-Oni kune elparolu la literojn de ĉiuj vortelementoj, ekzemple ma-la-mi-ko, su-bur-bo , la-bo-ri-sto .
+Oni kune elparolu la literojn de ĉiuj vortelementoj, ekzemple ma-la-mi-ko, su-bur-bo, la-bo-ri-sto.
 
 Pri tiu problemo mi demandis ankaŭ du aliajn eŭropajn Esperanto-veteranojn, kiuj respondis same kiel la Akademio.
 
@@ -40,7 +44,7 @@ Mi esperas, ke esperantistoj en la tuta mondo sekvos la saman bazan regulon de l
 
 Sed plejparto de la ĉinaj esperantistoj, speciale la pliaĝulaj, ne akceptas ilin. Iu prezentis al mi sonregistraĵojn de sinjoroj Humphrey Tonkin kaj Ivo Lapenna: Tonkin aparte legis, kaj Lapenna kune legis.
 
-Ĉinaj esperantistoj opinias , ke aparte elparoli prefikson kaj radikon pli faciligas komprenadon dum interparolado. Mi demandis: do kial oni ne aparte elparolu radikon kaj sufikson? Neniu prezentis al mi kontentigan klarigon.
+Ĉinaj esperantistoj opinias, ke aparte elparoli prefikson kaj radikon pli faciligas komprenadon dum interparolado. Mi demandis: do kial oni ne aparte elparolu radikon kaj sufikson? Neniu prezentis al mi kontentigan klarigon.
 
 Kompreneble, estas granda doloro kaj psika turmento por veteranoj subite ekscii, ke reguloj aŭ konvinkoj sekvitaj dum multaj jaroj estas nur vizioj. Iuj racie turniĝas al realo, dum aliaj obstinas en la malnovaj revoj.
 
@@ -63,7 +67,9 @@ Pli ampleksa versio de la artikolo aperas samtempe en Verda Reto
 
 **Categories:** UEA, movado
 
-Lubumbaŝo estas la dua urbo laŭ grandeco en Demokratia Respubliko Kongo kaj centro de la regiona mineja industrio. En tiu milionurbo UEA nun planas funkciigi lernejan projekton por profundigi sian kunlaboron kun Unesko. ” Esperanto estu ne nur instruata, sed ankaŭ uzata”, rakontas Espoir Ngoma Kasati, kiu kunordigos la projekton surloke.
+Lubumbaŝo estas la dua urbo laŭ grandeco en Demokratia Respubliko Kongo kaj centro de la regiona mineja industrio. En tiu milionurbo UEA nun planas funkciigi lernejan projekton por profundigi sian kunlaboron kun Unesko. ”Esperanto estu ne nur instruata, sed ankaŭ uzata”, rakontas Espoir Ngoma Kasati, kiu kunordigos la projekton surloke.
+
+Espoir Ngoma Kasati surloke en Lubumbaŝo respondecos pri la nova afrika lerneja projekto de UEA. Foto: T. Thielemans, CC BY 3.0, Espoir Ngoma Kasati.
 
 La komitato de UEA nun voĉdonas pri lerneja projekto en Lubumbaŝo en Demokratia Respubliko Kongo, kiu celas intensigi la kunlaboron de UEA kun Unesko. La projekton surloke prizorgos komitatano Espoir Ngoma Kasati, kiu konsentis rakonti al Libera Folio pri la planoj.
 
@@ -71,7 +77,7 @@ La ideo de la projekto laŭ li venas de prezidanto Fernando Maia kaj rekte ligi�
 
 – Dum la lastaj jaroj UEA pli kaj pli klare esprimis la intencon ne nur reprezenti Esperanton ĉe Unesko, sed ankaŭ aktive aliĝi al ĝiaj agadoj laŭ komunaj valoroj kaj celoj, precize troveblaj en Akiri, kiel interkompreniĝo kaj paco, mondcivitaneco, kultura kaj lingva diverseco, daŭripova evoluigo kaj solidareco, rakontas Espoir Ngoma Kasati.
 
-En Lubumbaŝo troviĝas kvin oficialaj Unesko-asociitaj lernejoj, kiuj estas la unua celgrupo de la projekto.
+En Lubumbaŝo troviĝas kvin oficialaj Unesko-asociitaj lernejoj, kiuj estas la unua celgrupo de la projekto.
 
 – Samtempe ni ankaŭ konsideras aliajn lernejojn kiel alternativojn, kaj pretas subteni ilin fariĝi asociitaj lernejoj de Unesko. La projekto en Lubumbaŝo estas konceptita kiel provprojekto, kiu spegulas plurajn kernajn kampojn de Akiri — precipe Informado, Rilatoj kaj Instruado, realigeblaj laŭ ties altnivelaj celoj.
 
@@ -110,6 +116,8 @@ Kadre de tiu projekto Espoir Ngoma Kasati jam tradukis al Esperanto la oficialan
 
 La publikigo de granda kvanto da dokumentoj el la retpoŝto de la usona sekskrimulo Jeffrey Epstein kaŭzis skandalojn en pluraj landoj. Multaj gravaj politikistoj evidente sekrete havis proksimajn kontaktojn kun Epstein kaj eĉ vizitis lian nun fifaman insulon. Konataj esperantistoj ŝajne mankas en la ĝis nun publikigitaj dosieroj, sed Esperanto mem estas menciita.
 
+Noam Chomsky kaj Jeffrey Epstein en privata aviadilo. Foto: House Oversight Committee
+
 Jeffrey Epstein (1953–2019) estis usona investisto, kiu amasigis grandajn riĉaĵojn kaj iĝis fama mecenato, sed poste estis malkaŝita kiel sekskrimulo. Li estis unuafoje juĝita pro sekskrimoj kontraŭ neplenaĝaj knabinoj en 2008, kaj poste denove arestita en 2019, suspektita pro homkomerco. Li mortigis sin en la arestejo.
 
 La aresto kaj morto de Epstein spronis grandan kvanton da konspirteorioj en Usono, ĉefe ĉar inter liaj amikoj kaj konatoj estis multaj famaj personoj, kiuj povus esti implikitaj en liaj krimoj, se Epstein restus viva kaj oni plu esplorus liajn krimojn. Tial dum jaroj aŭdiĝis postuloj pri publikigo de liaj dosieroj, kaj nun granda parto de la dokumentoj estas publikigita de usonaj aŭtoritatoj.
@@ -122,7 +130,7 @@ En unu el la mencioj, en retpoŝta mesaĝo al Epstein de neidentigita persono, l
 
 En pli frua mesaĝo Epstein dankas pro la afableco de Noam Chomsky kaj lia edzino Valeria kaj rakontas ke liaj komputistaj spertuloj demandis, kial Chomsky instruas al maŝino lingvon ”kiu estas tiel ambigua kaj plena de nelogikaj eroj”.
 
-Respondante al Epstein, Noam Chomsky rakontas, ke la demando de la komputistoj memorigas lin pri la fama filozofo Rudolf Carnap, kiu fakte mem estis esperantisto . Jen traduko de la plena teksto de la letero :
+Respondante al Epstein, Noam Chomsky rakontas, ke la demando de la komputistoj memorigas lin pri la fama filozofo Rudolf Carnap, kiu fakte mem estis esperantisto. Jen traduko de la plena teksto de la letero:
 
 Septembro 6, 2015 je 20.12
 
@@ -130,19 +138,19 @@ Okupata semajno, multaj prelegoj. Plej bona tempo por ni estus la 16-a. Havos pr
 
 Probal Dasgupta, lingvisto kaj antaŭa prezidanto de UEA, kredas ke ĝuste la interrilatado kun Rudolf Carnap kaŭzis la skeptikan sintenon al Esperanto. Laŭ li Chomsky ofte diris similajn aferojn pri Carnap.
 
-”Chomsky rakontis al mi en letero ke Carnap insistadis ke Esperanto estas same perfekte logika kiel la simbolozaj ’lingvoj’ uzataj de matematikaj logikistoj”, skribas Probal Dasgupta en mesaĝo al Libera Folio .
+”Chomsky rakontis al mi en letero ke Carnap insistadis ke Esperanto estas same perfekte logika kiel la simbolozaj ’lingvoj’ uzataj de matematikaj logikistoj”, skribas Probal Dasgupta en mesaĝo al Libera Folio.
 
 Kiam Probal Dasgupta esprimis sian miron pri la asertata diraĵo de Carnap, Chomsky respondis, ke ne indas miri. Chomsky aldonis ke liaj kolegoj en la fakultato pri filozofio ”ŝajnas vere kredi ke la atika dialekto de la helena estis perfekte logika lingvo kaj tial estis inda portanto de la plej altaj filozofiaj ideoj”.
 
 ”Mi devas agnoski ke mi citas laŭmemore, ĉar mi ne scias, kien mi metis tiun leteron de Chomsky el la papera epoko”, Probal Dasgupto aldonas.
 
-Laŭ la publikigi taj dosieroj de Epstein evidentas, ke Noam Chomsky kaj lia edzino Valeria dum longa tempo havis tre amikan rilaton al Epstein. En 2019, kiam la usonaj aŭtoritatoj denove komencis esplori la suspektatajn krimojn de Epstein, li petis konsilon de Chomsky.
+Laŭ la publikigitaj dosieroj de Epstein evidentas, ke Noam Chomsky kaj lia edzino Valeria dum longa tempo havis tre amikan rilaton al Epstein. En 2019, kiam la usonaj aŭtoritatoj denove komencis esplori la suspektatajn krimojn de Epstein, li petis konsilon de Chomsky.
 
 En sia afabla respondo Chomsky interalie parolis pri la ”histerio kiu estiĝis ĉirkaŭ la mistrakto de virinoj, kiu atingis la punkton kie eĉ dubigi akuzon estas krimo pli aĉa ol murdo”. En alia mesaĝo Chomsky skribis, ke estis tre valora sperto havi regulan kontakton kun Epstein.
 
 Epstein interalie donis al Chomsky konsilojn en financaj aferoj. La geedzoj Chomsky ĉeestis vespermanĝojn en la Novjorka domo de Epstein, tranoktis en liaj apartamentoj en Novjorko kaj Parizo, vizitis lian bienon en Nov-Meksiko kaj ĉeestis plurajn universitatajn renkontiĝojn kun li.
 
-Noam Chomsky nun estas 97-jara kaj ne aperis publike post apopleksio kiun li suferis en 2023 . Lia edzino Valeria Chomsky en publika pardonpeto agnoskis ke la duopo faris gravan eraron kaj agis malatente, kiam ili proksime interrilatis kun Epstein, ne unue zorge esplorinte lian fonon.
+Noam Chomsky nun estas 97-jara kaj ne aperis publike post apopleksio kiun li suferis en 2023. Lia edzino Valeria Chomsky en publika pardonpeto agnoskis ke la duopo faris gravan eraron kaj agis malatente, kiam ili proksime interrilatis kun Epstein, ne unue zorge esplorinte lian fonon.
 
 Samtempe ŝi skribis, ke Epstein ”trompis” ilin, sed ke ili neniam vizitis lian nun fifaman insulon, kiu ŝajne funkciis kiel bordelo por famuloj kaj riĉuloj.
 
@@ -161,11 +169,13 @@ Legu pli: Carnap – filozofo forgesita de esperantistoj
 
 Jam antaŭ unu jaro la landa asocio de UEA en Usono proponis ŝanĝi la statuton tiel, ke grandaj landaj asocioj havu pli da reprezentantoj en la komitato de UEA. En novembro la prezidanto de Kataluna Esperanto-Asocio proponis forigon de la regulo, ke en unu regno estu nur unu landa asocio. Malmulta diskuto poste okazis pri la proponoj, kaj ili mankas en la tagordo de la eksterordinara kunveno de la komitato, okazonta la 7-an de marto.
 
+La komitato de UEA diskutis la statuton en Brno. Foto de la komitato: Jukka Pietiläinen.
+
 La statuto estas la baza regularo de UEA, kvazaŭ ĝia konstitucio. Por malhelpi abruptajn ŝanĝojn, la proceduro por modifi la statuton estas sufiĉe komplika kaj postulas interalie ĝeneralan voĉdonadon, kiu okazas per papera poŝto.
 
 Tial la kutimo ĝis nun estis, ke se efektive necesas ŝanĝoj en la statuto, oni kolektas la ŝanĝoproponojn kaj traktas ilin kune, por eviti ripetadon de la peza, burokratia proceduro kaj precipe de la kosta kaj laborpostula poŝta voĉdonado.
 
-Tiel oni faris antaŭ dek jaroj, kiam lastfoje okazis ŝanĝo de la statuto , kiu interalie sigelis la formalan sendependiĝon de TEJO. El la individuaj membroj de UEA tiam voĉdonis malpli ol triono. Por aprobo de statutŝanĝo necesas du trionoj de ĉiuj eblaj voĉoj, do evidente la tiaman ŝanĝon ebligis la voĉoj de la landaj asocioj.
+Tiel oni faris antaŭ dek jaroj, kiam lastfoje okazis ŝanĝo de la statuto, kiu interalie sigelis la formalan sendependiĝon de TEJO. El la individuaj membroj de UEA tiam voĉdonis malpli ol triono. Por aprobo de statutŝanĝo necesas du trionoj de ĉiuj eblaj voĉoj, do evidente la tiaman ŝanĝon ebligis la voĉoj de la landaj asocioj.
 
 Nun denove estas planata ŝanĝo de la statuto. Pri tio formale decidis la komitato de UEA komence de aŭgusto dum sia kunsido en Brno. Tio unuavice necesas por kongruigi la statuton kun la postuloj de la nederlanda leĝo pri neprofitcelaj asocioj.
 
@@ -173,11 +183,13 @@ La statuto nun havas partojn, kiuj laŭ profesiaj revizoroj ne kongruas kun la a
 
 Dum la komitata kunsido en Brno oni menciis, ke samtempe eblos trakti ankaŭ aliajn eventualajn modifojn de la statuto, interalie tiun proponitan de la usona landa asocio de UEA jam en marto 2025. Laŭ tiu propono jam ekde 251 membroj landaj asocioj havu ne unu sed du komitatanojn. La nuna limo estas 1 000 membroj, cifero kiun Esperanto-USA kaj la plej multaj aliaj landaj asocioj ne havas ŝancon atingi.
 
+Alfons Tur i Garcia.
+
 Alia propono, aperinta en novembro 2025, venis de la prezidanto de Kataluna Esperanto-Asocio, Alfons Tur i Garcia, kiu volas ke estu forigita el la statuto la frazo “Principe UEA akceptas el unu regno nur unu landan asocion, sed la Komitato rajtas akcepti plurajn”. Laŭ li tiu frazo, kombine kun la opozicio de Hispana Esperanto-Federacio, ĝis nun malebligis la akcepton de Kataluna Esperanto-Asocio kiel landa asocio de UEA.
 
-Estrarano François Lo Jacomo en la komitata diskutejo kontraŭargumentis , dirante ke jam laŭ la nuna statuto la komitato ja rajtas akcepti pli ol unu landan asocion en unu lando. ”Prefere ol forigo de la frazo, vi konvinku sufiĉe da komitatanoj proponi la aliĝon de Kataluna Esperanto-Asocio kaj tiu subteno de pluraj komitatanoj pli pezos ol la opozicio de HEF. Forigo de tiu frazo kreskigos la riskon, ke en kelkaj landoj volos aliĝi pluraj konkurencaj asocioj, do la nomo ’landa asocio’ ne plu havos signifon ĉar ne plu estos ligo inter LA kaj teritorio,” li skribis en la komitata listo.
+Estrarano François Lo Jacomo en la komitata diskutejo kontraŭargumentis, dirante ke jam laŭ la nuna statuto la komitato ja rajtas akcepti pli ol unu landan asocion en unu lando. ”Prefere ol forigo de la frazo, vi konvinku sufiĉe da komitatanoj proponi la aliĝon de Kataluna Esperanto-Asocio kaj tiu subteno de pluraj komitatanoj pli pezos ol la opozicio de HEF. Forigo de tiu frazo kreskigos la riskon, ke en kelkaj landoj volos aliĝi pluraj konkurencaj asocioj, do la nomo ’landa asocio’ ne plu havos signifon ĉar ne plu estos ligo inter LA kaj teritorio,” li skribis en la komitata listo.
 
-La katalunan proponon samloke komentis ankaŭ José Antonio del Barrio , komitatano B el Hispanio:
+La katalunan proponon samloke komentis ankaŭ José Antonio del Barrio, komitatano B el Hispanio:
 
 – Akcepto de KEA signifas modifon de la tuta strukturo de UEA, kun konsekvencoj en aliaj lingvaj teritorioj. Ĝi signifas akcepti ideologian koncepton ke teritorioj estu organizitaj laŭ lingvaj limoj, li skribis.
 
@@ -187,7 +199,9 @@ Li atentigis aldone, ke KEA ne estas politike neŭtrala asocio:
 
 Poste nenia plia diskuto pri la temo okazis en la komitato.
 
-La 5-an de februaro estis dissendita la alvoko al eksterordinara kunsido de la komitato de UEA por diskuti ŝanĝojn en la statuto, la proponata tagordo enhavis nur unu punkton: ” kongruigo de la Statuto kun ANBI kaj WBTR” . Temas pri du nederlandaj leĝoj kiuj rilatas al la funkciado de asocioj.
+Brandon Sowers
+
+La 5-an de februaro estis dissendita la alvoko al eksterordinara kunsido de la komitato de UEA por diskuti ŝanĝojn en la statuto, la proponata tagordo enhavis nur unu punkton: ”kongruigo de la Statuto kun ANBI kaj WBTR”. Temas pri du nederlandaj leĝoj kiuj rilatas al la funkciado de asocioj.
 
 Brandon Sowers, prezidanto de Esperanto-USA, tuj demandis, kial mankas en la tagordo la du validaj proponoj por statutŝanĝo – tiuj de Esperanto-USA kaj la prezidanto de Kataluna Esperanto-Asocio.
 
@@ -203,6 +217,8 @@ Luigi Fraccaroli, membro de la komisiono pri statutŝanĝo, skribis ke li prefer
 
 – Kvinmil-membra asocio celanta 8 miliardojn da homoj ne povas disperdi tiom da energio pri la interna funkciado. Ni ricevis Esperanton donace de Zamenhof, kiu elspezis sian vivon por ties disvastigo. Nia tasko estas donaci Esperanton al la cetera mondo, li argumentis.
 
+Fernando Maia
+
 Se la proponitaj aliaj statutŝanĝoj ne estos pritraktitaj nun, ili ne estos pritraktitaj dum multaj jaroj, ĉar la ĝenerala voĉdonado postulas multe da laboro kaj oni apenaŭ aranĝos novan en proksima tempo, argumentis Brandon Sowers. Pri tio li sendube pravas.
 
 Laŭ Fernando Maia tamen la leĝaj aferoj urĝas, dum la aliaj proponoj ne pretas por pritrakto:
@@ -213,13 +229,13 @@ Brandon Sowers responde komentis, ke la komitato devus funkcii kiel sendependa d
 
 – En la nuna kunteksto, mi kredas, ke tio mankas. Esperanto-Usono sendis proponon antaŭ unu jaro. Laŭ nia kompreno, ni sekvis ĉiun regulon en nia sendo, kaj atendis ke la propono estus plusendita al la komitato, levita por diskuto kaj konsidero, kaj en iu momento, metita al demokrata voĉdono. Dum unu tuta jaro la respondo estas ĉiam ke bezonatas pli da tempo, ke oni eĉ ne povas konsideri la proponon, ĉiam por malsamaj kialoj.
 
-Al tio Fernando Maia respondis , ke Brandon Sowers kompreneble rajtas proponi aldonon al la tagordo, tiel ke ankaŭ lia propono estu pritraktita dum la eksterordinara komitata kunsido. Evidente tamen nek la usona nek, des malpli, la kataluna propono estos aprobitaj de la komitato, ĉar ili eĉ ne estis pritraktitaj de la komisiono pri statutŝanĝo.
+Al tio Fernando Maia respondis, ke Brandon Sowers kompreneble rajtas proponi aldonon al la tagordo, tiel ke ankaŭ lia propono estu pritraktita dum la eksterordinara komitata kunsido. Evidente tamen nek la usona nek, des malpli, la kataluna propono estos aprobitaj de la komitato, ĉar ili eĉ ne estis pritraktitaj de la komisiono pri statutŝanĝo.
 
 Sendepende de la eventualaj meritoj de la du proponoj, ilia sorto reliefigas la funkciadon de la gvidorganoj de UEA kaj precipe la letargian staton de la komitato mem.
 
 La propono de Esperanto-USA estis laŭregule prezentita antaŭ unu jaro, sed rapide forgesita. Eĉ la tiama propra komitatano A de Esperanto-USA, la prezidanto de UEA Duncan Charters, ne antaŭenigis ĝin dum la komitataj kunsidoj nek reagis al instigoj de la prezidanto de Esperanto-USA.
 
-Iom da diskuto pri ĝi fine okazis en la komitata listo fine de januaro, kiam Brandon Sowers ĝin relevis . Tamen la babiloj kondukis al nenio konkreta, kaj nun la propono ŝajne denove estos prokrastita al la tago de Sankta Neniamo.
+Iom da diskuto pri ĝi fine okazis en la komitata listo fine de januaro, kiam Brandon Sowers ĝin relevis. Tamen la babiloj kondukis al nenio konkreta, kaj nun la propono ŝajne denove estos prokrastita al la tago de Sankta Neniamo.
 
 
 ---
@@ -234,7 +250,9 @@ Iom da diskuto pri ĝi fine okazis en la komitata listo fine de januaro, kiam Br
 
 La 11-an de februaro inundo damaĝis la sidejon de Vinilkosmo, la ĉefa eldonejo de esperantlingva muziko. Semajnon poste komencis malaperi el retaj servoj muzikaĵoj de Vinilkosmo, ĉar finiĝis la kontrakto kun la ĝisnuna distribuanto kaj nova kontrakto ne ekvalidis. ”Ĉio nun estas kaoso”, diras Floréal Martorell, la ĉefa aktivulo de Vinilkosmo.
 
-Ekde la 18-a de februaro 2026 malaperis el retaj servoj la muzikaj registraĵoj de Vinilkosmo, de jardekoj la ĉefa eldonejo de esperantlingva muziko. La risko ke tio povos okazi estis konata , ĉar la distribua firmao Believe Digital, kun kiu Vinilkosmo kunlaboris de 13 jaroj, ne plu renovigis la kontrakton.
+Savado de aĵoj post la inundo ĉe Vinilkosmo. Voto: Vinilkosmo.
+
+Ekde la 18-a de februaro 2026 malaperis el retaj servoj la muzikaj registraĵoj de Vinilkosmo, de jardekoj la ĉefa eldonejo de esperantlingva muziko. La risko ke tio povos okazi estis konata, ĉar la distribua firmao Believe Digital, kun kiu Vinilkosmo kunlaboris de 13 jaroj, ne plu renovigis la kontrakton.
 
 Ĝis la lasta momento tamen restis la espero, ke nova firmao transprenos la distribuadon.
 
@@ -244,7 +262,9 @@ Ne klaras kial la nova distribuanto ĝis nun ne subskribis la kontrakton. Floré
 
 – Se la firmao estus subskribinta la transigan kontrakton kun Believe, ne estus okazinta ĉi tiu disrompo en la platformoj. Mi timas nun ke estos amaso da laboro por ĉion reliveri al ĉiuj platformoj, ĝuste mi volis eviti tion… espereble estos rapida solvo kaj sen amasego da farenda kroma laboro. Por mi estus koŝmaro!
 
-Alia, neatendita koŝmaro jam okazis la 11-an de februaro, kiam la ejo de Vinilkosmo denove estis trafita de inundo. Pasintfoje tio okazis en 2022 . La oficejo situas en la teretaĝo de la domo de Floréal Martorell, ekster Tuluzo, Francio.
+La oficejo de Vinilkosmo post la inundo. Foto: Vinilkosmo.
+
+Alia, neatendita koŝmaro jam okazis la 11-an de februaro, kiam la ejo de Vinilkosmo denove estis trafita de inundo. Pasintfoje tio okazis en 2022. La oficejo situas en la teretaĝo de la domo de Floréal Martorell, ekster Tuluzo, Francio.
 
 – Estis gravaj damaĝoj en la oficejo, sed ankaŭ en la muzikekzercejoj kaj la studio. Mi nun baraktas kun la asekurkompanioj, ĉar temas jam pri la dua inundo. Ĉio venis samtempe kaj pro tio la situacio estas preskaŭ neeltenebla por mi. Mi ne atendis tiun novan frapon.
 
@@ -265,21 +285,23 @@ Kiam la aferoj estos iom pli ordaj, Floréal Martorell, nun 70-jara, planas emer
 
 La fama ”parnasismo” kiun li kunarkitektis kun Gaston Waringhien ligis la projekton de eksplicita, instruebla poetiko al la praeŭropaj precedencoj. Sed la karno per kiu Kalocsay vestis la parnasajn ostojn manifestis version de tiu projekto tute personan, ne instrueblan. Tion skribas Probal Dasgupta okaze de la kvindeka mortdatreveno de Kálmán Kalocsay (1891–1976).
 
+Kálmán Kalocsay kun kaj sen kato.
+
 Ne ofte sur la pejzaĝo de iu moderna lingvo elstaras figuro kiu kontribuis same reliefe al la beletro kiel al la gramatiko. Tiurilate Kálmán Kalocsay estis nekutima korifeo en la galerio de Esperanto. Sed tio estas delonge gurdita fakto pri li. Por inde rememori la daton de lia forpaso kvindek jarojn poste, ni devas iomete malpli banali. Indas krisigni por vi tion ke lia beletra mano plene konsciis kion faras lia mano gramatika.
 
-Por tion konstati, sufiĉas trempi vin en lia poemo Efemere ( Streĉita Kordo , p. 178-82). Tie vi trovos teksterojn kiuj licence fordrivas de la gramatika strikto: “mi sentas en la mondon parfumon, fetoron […]” (p. 178); “konscii senci la mondon/ senlimon balbuti eternon; la mondon plezuri dolori” (p. 179). Poste vi renkontos “la Vivon kies koro/ ŝanĝiĝas neeviteble/ je moneroj senvaloraj: momentoj/ forfluantaj el la manoj mizere…” (p. 181), unu el la tipe kaloĉajaj teksteroj en kiuj sentiĝas gramatikeca koregrafio de dancantaj ideoj.
+Por tion konstati, sufiĉas trempi vin en lia poemo Efemere (Streĉita Kordo, p. 178-82). Tie vi trovos teksterojn kiuj licence fordrivas de la gramatika strikto: “mi sentas en la mondon parfumon, fetoron […]” (p. 178); “konscii senci la mondon/ senlimon balbuti eternon; la mondon plezuri dolori” (p. 179). Poste vi renkontos “la Vivon kies koro/ ŝanĝiĝas neeviteble/ je moneroj senvaloraj: momentoj/ forfluantaj el la manoj mizere…” (p. 181), unu el la tipe kaloĉajaj teksteroj en kiuj sentiĝas gramatikeca koregrafio de dancantaj ideoj.
 
 La fama ”parnasismo” kiun li kunarkitektis kun Gaston Waringhien ligis la projekton de eksplicita, instruebla poetiko al la praeŭropaj precedencoj. Sed la karno per kiu Kalocsay vestis la parnasajn ostojn (ekzemplita ĉi-supre) manifestis version de tiu projekto tute personan, ne instrueblan. Kiamaniere ni legu la spiriton kiu hantis tiun lian mikropoetikon, ne nure gramatikistan, nek simple invitantan al mikrodevioj (kiuj kalkuliĝu kiel la unuopula subskribo de la poeto)?
 
-Ĉar mi lastatempe konatiĝis kun aŭtobiografieca romano de Mircea Eliade bildiganta lian studentan tempon, Gaudeamus , mi kredas povi hodiaŭ iom pli kompreneme rilati al la personaj projektoj de orienteŭropanoj kiuj junis en la jaroj tuj post 1918. Al niageneraciaj eksterregionuloj, infanaĝe lernintaj pri Rumanujo, Hungarujo ktp kiel delongaj stabilaĵoj sur la mapo, tute ne estis reliefa fakto ke la tiuepoka disfalo de la otomana kaj aŭstra-hungara imperioj kreis novajn ŝtatojn. Gravas nun konscii, estimataj legantoj, ke la tiuregionaj junuloj ekde tiu epokŝanĝa jaro havis la unikan taskon imagi elanan karnon sur la skeletojn de siaj ĵus debutintaj nacioj.
+Ĉar mi lastatempe konatiĝis kun aŭtobiografieca romano de Mircea Eliade bildiganta lian studentan tempon, Gaudeamus, mi kredas povi hodiaŭ iom pli kompreneme rilati al la personaj projektoj de orienteŭropanoj kiuj junis en la jaroj tuj post 1918. Al niageneraciaj eksterregionuloj, infanaĝe lernintaj pri Rumanujo, Hungarujo ktp kiel delongaj stabilaĵoj sur la mapo, tute ne estis reliefa fakto ke la tiuepoka disfalo de la otomana kaj aŭstra-hungara imperioj kreis novajn ŝtatojn. Gravas nun konscii, estimataj legantoj, ke la tiuregionaj junuloj ekde tiu epokŝanĝa jaro havis la unikan taskon imagi elanan karnon sur la skeletojn de siaj ĵus debutintaj nacioj.
 
-Kaj arkitektoj kiel Kalocsay, povante imagi lingvon nur lige kun popolo (pro kio en sia fama poemo En amara horo [ Streĉita kordo , p. 33-35] li epitetas sin ”poeto sen popolo”), sentis la bezonon arkitekti tutan pedagogion lingvan, beletran, sciencaran/fakaran. Li ŝajne esperis ke tia pedagogio (inkluzivanta amasegon da tekstoj, kiuj laŭ mia analizo rigardendas kiel krestomatiaj) helpos iom post iom akuŝi novan, pacaman, aŭtodidaktan popolon verdan. Ni ne forgesu ke pri la hungara popolo refasonanta sin kiel memkonscie apartan nacion ekde 1918 li kaj similuloj kovis precize samformatan esperon.
+Kaj arkitektoj kiel Kalocsay, povante imagi lingvon nur lige kun popolo (pro kio en sia fama poemo En amara horo [Streĉita kordo, p. 33-35] li epitetas sin ”poeto sen popolo”), sentis la bezonon arkitekti tutan pedagogion lingvan, beletran, sciencaran/fakaran. Li ŝajne esperis ke tia pedagogio (inkluzivanta amasegon da tekstoj, kiuj laŭ mia analizo rigardendas kiel krestomatiaj) helpos iom post iom akuŝi novan, pacaman, aŭtodidaktan popolon verdan. Ni ne forgesu ke pri la hungara popolo refasonanta sin kiel memkonscie apartan nacion ekde 1918 li kaj similuloj kovis precize samformatan esperon.
 
 Kompreneble ne en la jaroj tuj post 1918 Kalocsay iĝis la grandioza figuro konata al ni ĉiuj. Tra pluraj naciaj kaj personaj krizoj li sin refasonadis. La fundamentaj koordinatoj tamen restis konstantaj. Kaj li rimarkis ke ĝuste tiu konstanteco estas persona handikapo lia. Ĉi tiun fakton ni plej klare vidas en lia letero al Juan Régulo Pérez aperigita en la antaŭparolo al la poemaro Ŝtupoj sen nomo de Baldur Ragnarsson.
 
 Tiu letero de Kalocsay prezentas kortuŝan konfeson ke li (petite de Régulo taksi la aperigindecon de la poemaro) longe sidis senkonsile antaŭ la manuskripto de Baldur pro tio ke, kvankam li senrezerve admiris la lingvan kaj poetikan kapablegon de tiu nova aŭtoro, li tamen ja ne komprenis la enhavon de la poemoj. Tia grandanimeco de pli aĝa poeto, kapabla rigardi sian ĝisostan konstantecon kiel malforton, estas virto malofte renkontebla en nia jarcento, krom se mi maltrafis ion.
 
-Pro almenaŭ tiuj kialoj, indas okaze de ĉi tiu jubileo rerenkonti tiun korifeon de nia beletro – aŭ lin ek renkonti, se vi estas unu el la enviindaj bonŝanculoj kiuj ankoraŭ tute ne legis lin. Laŭ mi, tiaj legontoj prefere komencu ne ĉe liaj poemoj aŭ tradukoj, sed ĉe lia brila libreto Lingvo stilo formo . Vi tie trovos ke ankaŭ lian gramatikan laboron hantas poezia subteksto. Agrablan renkontiĝon.
+Pro almenaŭ tiuj kialoj, indas okaze de ĉi tiu jubileo rerenkonti tiun korifeon de nia beletro – aŭ lin ekrenkonti, se vi estas unu el la enviindaj bonŝanculoj kiuj ankoraŭ tute ne legis lin. Laŭ mi, tiaj legontoj prefere komencu ne ĉe liaj poemoj aŭ tradukoj, sed ĉe lia brila libreto Lingvo stilo formo. Vi tie trovos ke ankaŭ lian gramatikan laboron hantas poezia subteksto. Agrablan renkontiĝon.
 
 Probal Dasgupta
 

@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-09-15T13:49:03.053020+00:00"
+generated_at: "2026-09-15T16:12:44.449356+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-03-04 – 2026-03-31"
 ---
@@ -384,6 +384,8 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-03/08/content_118366304.htm
 
+**Author:** Rafael Henrique Zerbetto
+
 **Categories:** Novaĵoj
 
 La 8-an de marto, la mondo celebras la Internacian Tagon de Virinoj. Virinoj ludis kaj daŭre ludas gravan rolon en ĉiuj kampoj de homa civilizacio, inkluzive de la Esperanta movado. Okaze de tiu ĉi dato, ni prezentas kelkajn fotojn de virinoj por montri kelkajn el iliaj kontribuoj por la mondo.
@@ -458,6 +460,8 @@ Verkis: Bui Hai Mung
 **Published:** 2026-03-09
 
 **URL:** http://esperanto.china.org.cn/2026-03/09/content_118372269.htm
+
+**Author:** Bui Hai Mung
 
 **Categories:** Plej Freŝaj
 
@@ -567,6 +571,8 @@ Redaktoro: Xie Ruifeng
 **Published:** 2026-03-10
 
 **URL:** http://esperanto.china.org.cn/2026-03/10/content_118372856.htm
+
+**Author:** Rafael Henrique Zerbetto
 
 **Categories:** Plej Freŝaj
 
@@ -914,6 +920,8 @@ Redaktoro: Xie Ruifeng
 **Published:** 2026-03-24
 
 **URL:** http://esperanto.china.org.cn/2026-03/24/content_118393727.htm
+
+**Author:** Bui Hai Mung
 
 **Categories:** Plej Freŝaj
 

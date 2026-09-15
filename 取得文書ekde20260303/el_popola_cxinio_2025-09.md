@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-09-15T13:49:03.019842+00:00"
+generated_at: "2026-09-15T16:12:44.404955+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-09-01 – 2025-09-30"
 ---
@@ -219,6 +219,8 @@ Projektita de Chen Ji
 **Published:** 2025-09-04
 
 **URL:** http://esperanto.china.org.cn/2025-09/04/content_118054025.htm
+
+**Author:** Rafael Henrique Zerbetto
 
 **Categories:** Plej Freŝaj
 
@@ -778,6 +780,8 @@ En la Rusia Esperanta Tago, oni prezentis la novan programon de la unio. Jevgeni
 
 **URL:** http://esperanto.china.org.cn/2025-09/11/content_118071656.htm
 
+**Author:** Bui Hai Mung
+
 **Categories:** Plej Freŝaj
 
 Ĉiuj scias, ke Novjorko estas la financa centro de Usono, kaj Londono estas la financa centro de Britio. Do, ĉu vi scias, kie estas la financa centro de Ĉinio?
@@ -988,6 +992,8 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-09/17/content_118083252.htm
 
+**Author:** Rafael Henrique Zerbetto
+
 **Categories:** Plej Freŝaj
 
 Vizito al Chengdu antaŭ nelonge donis al mi la okazon unuafoje vojaĝi per la ĵetaviadilo COMAC C919, sendepende evoluigita de Ĉinio por konkuri kun Boeing kaj Airbus en la kategorio de mallarĝ-korpusaj aviadiloj.
@@ -1123,6 +1129,8 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-09/22/content_118091104.htm
 
+**Author:** Rafael Henrique Zerbetto
+
 **Categories:** Plej Freŝaj
 
 Konstruita en 1958 oriente de la altgranda Kaiyuan-templo en la okcidenta parto de la Antikva Urbo Jingzhou, Jingzhou-a Muzeo nun estas nacia 4A-nivela turismejo, kiu kunligas ekspoziciojn, diskonigon kaj edukadon, konservadon de antikvaĵoj, protektadon kaj evoluon de la antikva urbo, arkeologian elfosadon kaj esploradon, konstruadon de arkeologia parko ktp. Kiel unu el la unuaj naciaj unuaklasaj muzeoj kaj publikaj institucioj, ĝi estas arta palaco de chu-kulturo kaj bela montrofenestro de la Antikva Urbo Jingzhou.
@@ -1151,6 +1159,8 @@ Raportis kaj fotis: Rafael Henrique Zerbetto
 **Published:** 2025-09-22
 
 **URL:** http://esperanto.china.org.cn/2025-09/22/content_118091187.htm
+
+**Author:** Bui Hai Mung
 
 **Categories:** Plej Freŝaj
 
@@ -1358,6 +1368,8 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-09/25/content_118097565.htm
 
+**Author:** Rafael Henrique Zerbetto
+
 **Categories:** Plej Freŝaj
 
 Kadre de la programo GYLD (Tutmonda Dialogo de Junaj Gvidantoj), lanĉita en 2020 kiel platformo por interŝanĝoj inter la junularoj de Ĉinio kaj aliaj landoj, estis nova evento nomita Jangzia Turneo de GYLD, kun la celo liveri al gejunuloj de la tuta mondo la ŝancon konatiĝi kun la kulturo kaj historio de jangzia baseno.
@@ -1419,6 +1431,8 @@ Raportis kaj fotis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2025-09/26/content_118098873.htm
 
+**Author:** Rafael Henrique Zerbetto
+
 **Categories:** Plej Freŝaj
 
 Chu-regno (1030-223 a.K.) estis potenca kaj kulture distinga regno ĉe la meza kaj suba fluoj de Jangzio, konata pro siaj misteraj kaj florkreskaj artaj formoj, kiuj influis ankaŭ ĝiajn vestaĵojn.
@@ -1479,6 +1493,8 @@ Fonto: 人民网
 **Published:** 2025-09-29
 
 **URL:** http://esperanto.china.org.cn/2025-09/29/content_118102214.htm
+
+**Author:** Rafael Henrique Zerbetto
 
 **Categories:** Plej Freŝaj
 

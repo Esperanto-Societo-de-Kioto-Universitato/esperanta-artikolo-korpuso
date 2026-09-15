@@ -1,6 +1,6 @@
 ---
 source: "UEA Facila (uea.facila.org)"
-generated_at: "2026-09-15T10:54:37.043863+00:00"
+generated_at: "2026-09-15T16:17:07.062168+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-03-09 – 2025-03-29"
 ---
@@ -37,11 +37,11 @@ Eblas aŭskulti ĉi tiun artikolon, kiun voĉlegis Rafa Nogueras.
 
 Ĉu vi ŝatus komune vojaĝi dum kelkaj tagoj kun aliaj esperantistoj?
 
-BEMI ( Biciklista Esperantista Movado Internacia ) proponas kunordigi la dezirojn de biciklemuloj. Ni celas, ke okazu unu aŭ du karavanoj al Burno - aŭ eble eĉ pli?
+BEMI (Biciklista Esperantista Movado Internacia) proponas kunordigi la dezirojn de biciklemuloj. Ni celas, ke okazu unu aŭ du karavanoj al Burno - aŭ eble eĉ pli?
 
-Jam atingis nin du proponoj kun proksimume jenaj detaloj: • Biciklado de Vieno al Burno: 150-175 km , en 3 tagoj; • Biciklado de Prago al Burno: 250-280 km, en 6 tagoj. Baldaŭ aperos pli da detaloj en nia retejo bemi.tejo.org en la sekcio "Karavanoj". Vi povas aliĝi al la tuta vojaĝo aŭ partopreni nur parton de ĝi.
+Jam atingis nin du proponoj kun proksimume jenaj detaloj: • Biciklado de Vieno al Burno: 150-175 km, en 3 tagoj; • Biciklado de Prago al Burno: 250-280 km, en 6 tagoj. Baldaŭ aperos pli da detaloj en nia retejo bemi.tejo.org en la sekcio "Karavanoj". Vi povas aliĝi al la tuta vojaĝo aŭ partopreni nur parton de ĝi.
 
-Se vi ŝatus pli longan bicikladon, vi povas proponi ekiron el pli malproksima loko por atingi Vienon aŭ Pragon. Se vi preferas, vi povus mem organizi vian propran karavanon el alia direkto. Ni helpos vin, se vi informos nin pri tio. Kiel kunpreni vian biciklon en publika transporto al ekirloko? Ankaŭ pri tio ni povos konsili al vi. La distanco de la veturado dependos de la vojoj, kiujn ni komune elektos, kaj de la lokoj de niaj tendumejoj . Kutime ni biciklas ĝis 70 km tage. Dum la biciklado ni tendumos en tendumejoj aŭ en la naturo. Ankaŭ eblus interkonsenti pri alia maniero tranokti. La mateno komenciĝas per varma teo kaj pano. Tagmeze, ni manĝas en restoracio aŭ mem preparas manĝon, kutime legomojn kaj salaton . La vespermanĝon ni kuiras mem per porteblaj kuiriloj. La prezo de karavano ne estas fiksita antaŭe. Ni havos komunan kason , el kiu ni pagos por la bezonataj aĵoj dum la vojaĝo. Ĉiuj elspezoj estos bazitaj sur la decidoj kaj deziroj de la partoprenantoj. La ĉefa celo de la karavanoj estas ĝui la vojaĝon kaj la etoson de komuna biciklado. Burno estas interesa loko, ne nur ĉar ĝi gastigos la 110-an UK. Vi povos ĝui ĝiajn historiajn konstruaĵojn kaj kulturajn tradiciojn. Sed ankaŭ lernu pri ĝia grava rolo en la politika sistemo de Ĉeĥujo. Tial ni invitas ĉiujn esperantistojn, kiuj ŝatas bicikli, partopreni en komunaj veturadoj kaj peti nian helpon por organizi tion. Se vi volas aliĝi al unu el la karavanoj aŭ se vi planas vian propran, kontaktu nin, prefere retpoŝte .
+Se vi ŝatus pli longan bicikladon, vi povas proponi ekiron el pli malproksima loko por atingi Vienon aŭ Pragon. Se vi preferas, vi povus mem organizi vian propran karavanon el alia direkto. Ni helpos vin, se vi informos nin pri tio. Kiel kunpreni vian biciklon en publika transporto al ekirloko? Ankaŭ pri tio ni povos konsili al vi. La distanco de la veturado dependos de la vojoj, kiujn ni komune elektos, kaj de la lokoj de niaj tendumejoj. Kutime ni biciklas ĝis 70 km tage. Dum la biciklado ni tendumos en tendumejoj aŭ en la naturo. Ankaŭ eblus interkonsenti pri alia maniero tranokti. La mateno komenciĝas per varma teo kaj pano. Tagmeze, ni manĝas en restoracio aŭ mem preparas manĝon, kutime legomojn kaj salaton. La vespermanĝon ni kuiras mem per porteblaj kuiriloj. La prezo de karavano ne estas fiksita antaŭe. Ni havos komunan kason, el kiu ni pagos por la bezonataj aĵoj dum la vojaĝo. Ĉiuj elspezoj estos bazitaj sur la decidoj kaj deziroj de la partoprenantoj. La ĉefa celo de la karavanoj estas ĝui la vojaĝon kaj la etoson de komuna biciklado. Burno estas interesa loko, ne nur ĉar ĝi gastigos la 110-an UK. Vi povos ĝui ĝiajn historiajn konstruaĵojn kaj kulturajn tradiciojn. Sed ankaŭ lernu pri ĝia grava rolo en la politika sistemo de Ĉeĥujo. Tial ni invitas ĉiujn esperantistojn, kiuj ŝatas bicikli, partopreni en komunaj veturadoj kaj peti nian helpon por organizi tion. Se vi volas aliĝi al unu el la karavanoj aŭ se vi planas vian propran, kontaktu nin, prefere retpoŝte.
 
 Ni ĝojos, se ni povos subteni vin!
 
@@ -111,7 +111,7 @@ UK: Universala Kongreso.
 
 **Categories:** Niaj legantoj
 
-Mi estas Elie HAVUGIMANA , esperantisto en Goma, en DR Kongo. Mi eklernis Esperanton en 2012 per mia afabla instruisto Honoré SEBUHORO. Mi loĝas en Goma kiel rifuĝinto kun mia familio ekde 2022.  Mi zorgas pri miaj tri gefratoj, miaj du gefiloj kaj mia edzino. Mi amas komuniki kun aliaj gesamideanoj.
+Mi estas Elie HAVUGIMANA , esperantisto en Goma, en DR Kongo. Mi eklernis Esperanton en 2012 per mia afabla instruisto Honoré SEBUHORO. Mi loĝas en Goma kiel rifuĝinto kun mia familio ekde 2022. Mi zorgas pri miaj tri gefratoj, miaj du gefiloj kaj mia edzino. Mi amas komuniki kun aliaj gesamideanoj.
 
 Amike!
 
@@ -149,15 +149,15 @@ La rakontisto: bildo preparita de John Huang
 
 Eblas aŭskulti ĉi tiun artikolon, kiun voĉlegis Patrick Morando.
 
-En la silento de nokto, ĉirkaŭ fajro, avo sidas inter junaj geknaboj. Per voĉo mallaŭta kaj plena je mistero , li rakontas la historiojn de pasintaj tempoj...
+En la silento de nokto, ĉirkaŭ fajro, avo sidas inter junaj geknaboj. Per voĉo mallaŭta kaj plena je mistero, li rakontas la historiojn de pasintaj tempoj...
 
 Antaŭ la interreto, antaŭ la telefonoj kaj ekranoj, la afrikaj vilaĝoj estis riĉaj je aliaj formoj de komunikado kaj interŝanĝo de scioj. En tiuj tagoj, sciado kaj saĝeco pasis de generacio al generacio per la voĉo de la plej aĝaj, kies memoroj estis kiel vivantaj libroj.
 
-Ĉiunokte, kiam la suno foriris kaj la nokto sin kovris per brilantaj steloj, la vilaĝanoj kunvenis ĉirkaŭ fajro. Tie, ĉirkaŭ la fajro, la saĝuloj malfermis la trezorojn de la pasinteco. Ili rakontis pri la kreado de la mondo, pri la unuaj plantoj kaj bestoj, pri la unua viro kiu lernis kiel forĝi feron, kaj pri la virino kiu malkovris la magion de kurac-herboj. Rakonte kaj kante, la saĝuloj instruis pri la mondo, pri amikeco, honoro , kaj kuraĝo.
+Ĉiunokte, kiam la suno foriris kaj la nokto sin kovris per brilantaj steloj, la vilaĝanoj kunvenis ĉirkaŭ fajro. Tie, ĉirkaŭ la fajro, la saĝuloj malfermis la trezorojn de la pasinteco. Ili rakontis pri la kreado de la mondo, pri la unuaj plantoj kaj bestoj, pri la unua viro kiu lernis kiel forĝi feron, kaj pri la virino kiu malkovris la magion de kurac-herboj. Rakonte kaj kante, la saĝuloj instruis pri la mondo, pri amikeco, honoro, kaj kuraĝo.
 
-En la mondo antaŭ la interreto, ĉiu persono havis sian rolon en la vilaĝo. Kiam venis nova sezono, la viroj ĉasis kune, la virinoj rikoltis , kaj la infanoj lernis pri la naturo. Ĉion ili dividis – de manĝaĵoj ĝis scio. La lernado okazis per observado kaj aŭskultado, dum la pli aĝaj instruis per ekzemplo.
+En la mondo antaŭ la interreto, ĉiu persono havis sian rolon en la vilaĝo. Kiam venis nova sezono, la viroj ĉasis kune, la virinoj rikoltis, kaj la infanoj lernis pri la naturo. Ĉion ili dividis – de manĝaĵoj ĝis scio. La lernado okazis per observado kaj aŭskultado, dum la pli aĝaj instruis per ekzemplo.
 
-Se iu volis transdoni mesaĝon al malproksima vilaĝo, oni sendis mesaĝiston, kiu rapide moviĝis tra la vojoj, piede aŭ per besto. La mesaĝisto, kiel vivanta letero, portis la vortojn de unu familio al alia. Tiel la vilaĝoj restis en harmonio , informitaj pri la novaĵoj, festoj kaj krizoj .
+Se iu volis transdoni mesaĝon al malproksima vilaĝo, oni sendis mesaĝiston, kiu rapide moviĝis tra la vojoj, piede aŭ per besto. La mesaĝisto, kiel vivanta letero, portis la vortojn de unu familio al alia. Tiel la vilaĝoj restis en harmonio, informitaj pri la novaĵoj, festoj kaj krizoj.
 
 Ĉiuj sciis, ke la vortoj de la plej aĝaj estas same fortaj kiel vento aŭ pluvo. Rakontoj portis la historion de la popolo, helpante la junulojn memori tion, kio estas vera kaj justa. Eĉ kiam la mondo ŝanĝiĝis, kaj novaĵoj pri la interreto kaj aliaj mirindaĵoj atingis iliajn orelojn, la homoj ĉiam revenis al tiuj fajro-kunvenoj, por ke la memoro restu viva.
 

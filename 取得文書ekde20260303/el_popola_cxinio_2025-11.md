@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-09-15T13:49:03.032937+00:00"
+generated_at: "2026-09-15T16:12:44.423150+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-11-03 – 2025-11-28"
 ---
@@ -78,6 +78,8 @@ Verkis: Rafael Henrique Zerbetto
 **Published:** 2025-11-04
 
 **URL:** http://esperanto.china.org.cn/2025-11/04/content_118071441.htm
+
+**Author:** Bui Hai Mung
 
 **Categories:** Plej Freŝaj
 
@@ -477,6 +479,8 @@ Fonto: https://portuguese.shanghai.gov.cn/po-UpcomingExpos/20251104/127bf853f05
 
 **URL:** http://esperanto.china.org.cn/2025-11/10/content_118163873.htm
 
+**Author:** Bui Hai Mung
+
 **Categories:** Plej Freŝaj
 
 Ĉiuj konas la Grandan Muron kiel simbolon de la ĉina civilizacio, sed malmultaj scias, ke en Ĉinio ekzistas ankaŭ alia "Granda Muro" -- Verda Muro. Tiu "muro" komenciĝas en Heilongjiang oriente kaj etendiĝas ĝis Xinjiang okcidente, kun longeco de ĉirkaŭ 8 000 kilometroj, kovrante 45% de la teritorio de la lando. Ĝia celo estas defendi kontraŭ sabloŝtormoj, erozio kaj protekti vastajn ekosistemojn de nordokcidenta, norda kaj nordorienta Ĉinio (tri nordoj). La projekto ne nur kontraŭbatalas dezertiĝon kaj protekti agrikulturajn terojn, sed ankaŭ antaŭenigas daŭripovan ekonomian kaj socian disvolviĝon.
@@ -536,6 +540,8 @@ Verkita de Bui Hai Mung
 
 **URL:** http://esperanto.china.org.cn/2025-11/10/content_118169202.htm
 
+**Author:** Bui Hai Mung
+
 **Categories:** Plej Freŝaj
 
 Ĉe la Ĉina Internacia Importa Ekspozocio (ĈIIE) de ĉi tiu jaro, s-ro Zhu Peijing, ĝenerala direktoro de la sekcio pri strategia komerco kaj direktoro pri novkomerca disvolvado de la grupo Mitsubishi Electric, dividis siajn spertojn pri la ok sinsekvaj jaroj de partopreno en ĈIIE kaj klarigis la disvolvan strategion de la grupo fronte al la ĉiam pli akra merkata konkurenco en Ĉinio.
@@ -590,6 +596,8 @@ Raportita de Bui Hai Mung
 **Published:** 2025-11-10
 
 **URL:** http://esperanto.china.org.cn/2025-11/10/content_118169253.htm
+
+**Author:** Bui Hai Mung
 
 **Categories:** Plej Freŝaj
 
@@ -699,6 +707,8 @@ Redaktoro: Xie Ruifeng
 **Published:** 2025-11-11
 
 **URL:** http://esperanto.china.org.cn/2025-11/11/content_118171676.htm
+
+**Author:** Rafael Henrique Zerbetto
 
 **Categories:** Plej Freŝaj
 
@@ -862,6 +872,8 @@ Fonto: Xinhua-novaĵagentejo
 **Published:** 2025-11-14
 
 **URL:** http://esperanto.china.org.cn/2025-11/14/content_118175539.htm
+
+**Author:** Bui Hai Mung
 
 **Categories:** Plej Freŝaj
 
@@ -1069,6 +1081,8 @@ Redaktoroj: Gao Shuyuan kaj Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-11/19/content_118184620.htm
 
+**Author:** Anatolij Ionesov (Uzbekio)
+
 **Categories:** Plej Freŝaj
 
 Lastatempe sukcese finiĝis la dumonata projekto "Vorto pri Samarkando 2025", okazigita honore al la Tago de Samarkando (la 18-a de oktobro) kaj al la 43-a sesio de la Ĝenerala Konferenco de UNESKO. La projekto estas iniciatita kaj prizorgata de uzbeka esperantisto Anatolij Ionesov, direktoro de la Scienc-kleriga Centro "Homo, Kulturo, Paco" de Samarkanda Internacia Teknologia Universitato (SIUT) kaj aŭtoro de la enciklopedia projekto "Samarkandiana", kaj liaj samideanoj.
@@ -1116,6 +1130,8 @@ Estis anoncita, ke la 8-a forumo okazos en Busan de la Korea Respubliko en 2026.
 **Published:** 2025-11-20
 
 **URL:** http://esperanto.china.org.cn/2025-11/20/content_118186721.htm
+
+**Author:** Rafael Henrique Zerbetto
 
 **Categories:** Plej Freŝaj
 

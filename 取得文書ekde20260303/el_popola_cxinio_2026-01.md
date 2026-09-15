@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-09-15T13:49:03.043739+00:00"
+generated_at: "2026-09-15T16:12:44.438053+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-01-04 – 2026-01-30"
 ---
@@ -319,6 +319,8 @@ La lasta tagmanĝo estis kutima, sed la ĉina esperantisto, kiu pasigis la tagon
 
 **URL:** http://esperanto.china.org.cn/2026-01/12/content_118277080.htm
 
+**Author:** Yuan Ailin
+
 **Categories:** Plej Freŝaj
 
 "Mi esperas, ke ĉiu komencanto havos oportunan lernilon."
@@ -583,6 +585,8 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-01/20/content_118289357.htm
 
+**Author:** Hayden Hendricks
+
 **Categories:** Plej Freŝaj
 
 En Katalunio floradas Esperanto. Jam de antaŭ kelkaj jaroj la Kataluna Esperanto-Junularo (KEJ) kreskigis unu el la plej viglaj junularaj movadoj en Eŭropo. La movado plifortiĝis danke al la sukceso de RenKEJtiĝo, la ĉiujara renkontiĝo de KEJ, kaj ĉiumonataj aktivaĵoj kiel bierumadoj, pufmaizaj vesperoj, kursoj kaj festumadoj.
@@ -655,6 +659,8 @@ Redaktoro: Xie Ruifeng
 **Published:** 2026-01-23
 
 **URL:** http://esperanto.china.org.cn/2026-01/23/content_118292204.htm
+
+**Author:** Bui Hai Mung
 
 **Categories:** Plej Freŝaj
 

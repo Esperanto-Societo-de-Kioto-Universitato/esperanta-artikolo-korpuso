@@ -1,0 +1,27 @@
+Denove kuraĝa kaj polemika, eĉ pli ol antaŭe!
+
+Se hazarde ekzistas leganto, kiu kutime akompanas miajn recenzojn en MONATO, tiu homo eble memoros, ke antaŭ kelkaj jaroj mi verkis tekston pri duparta libro kun iomete stranga titolo: Usonen! kaj Verdaj bomboj kontraŭ grizaj katakomboj. Verkitan de la kazaĥo Evgenij Georgiev, la verkon mi tiam salutis kiel polemikan kaj kuraĝan, ĉar avangardeca kaj eksperimentisma.
+
+Ĉi-foje, tamen, estas mia tasko recenzi verkon tiom, ja tiom malsimilan al la ĵus menciita, ke nur post kiam mi legis jam pli ol duonon de ĝia enhavo, mi, gape kaj surprize, konstatis, ke ambaŭ kovriloj portas la saman aŭtornomon! Kaj mi diras saman nomon, ĉar estas ege malfacile kredi, ke temas pri la sama homo. Kelkiuj eĉ dirus, ke iu granda poeto el la pasinteco eniris lian korpon kaj komponis la sonetaron nun eldonitan sub la titolo Ek sor!.
+
+Avangardema en prozo
+
+Jes, kara, vi ne erare legis – ne necesas preni okulvitrojn – mi ja skribis so-ne-ta-ron. Temas pri aro da sonetoj, tiu poemmodelo formulita de la italo Francesco Petrarca en la 14a jarcento. Soneto ankoraŭ praktikata de diversaj versemuloj tra la mondo, kvankam preskaŭ ĉiam tiu praktikado estas simpla poezia ekzercado, en kiu oni rimas „amor'” kaj „flor'”. Soneto, kiu, laŭ la teoriistoj pri literaturo, estas la lasta pluvivanta poezia strukturo heredita el la eŭropa pasinteco kaj, oni aldonu, pri kiu esperantistoj povas fiere aserti, ke sonetfarado ĉiam trovis ĉe ni elstarajn amantojn (miaopinie, neniu el tiuj estas pli fidela ol Geraldo Mattos, kiu plenigis per sonetoj almenaŭ kvin volumojn), kiuj donis al ni diversajn gravajn poemlibrojn, en kiuj ili sin prezentas, ĉu diskrete, ĉu nediskrete, sed konstruante en Esperantujo ian sonetan tradicion.
+
+Sed kial diable iu ankoraŭ verku sonetojn en la 21a jarcento? Kaj kial fari tion tuj sekve al verko, kiu jam deklaris avangardema lian personan vervon? Kompreneble, tion oni povos certe scii, nur kiam (kaj se) la aŭtoron intervjuos iu el niaj beletraj revuoj; sed oni jam provas pricerbumi kelkajn eblojn: kiel verkisto, Georgiev eble ne volas resti katenita al modelo, kiu malgraŭ lia sukceso igu antaŭvidebla lian verkadon; eble ankaŭ, ĉar li volas montri al la mondo, ke li ja estas plurtalenta verkisto kaj tial kapablas verki tiom diversstile, ke oni ne rekonu en tiuj verkoj unu saman aŭtoron. Kaj, pli grave: eble li volas, ĉar li plenrajte povas, esti kaj avangardema en prozo kaj tradiciema en poezio.
+
+Kaj Ek sor! estas vere avangarda, sed de tradicia poezio: temas pri veraj sonetoj, kun regulaj versoj, en kiuj paradas variaĵoj ligitaj al tiu poezia stilo. Georgiev neniel cedas al ies defendataj „renovigoj” en tiu tradicio. Kvazaŭ klasika pianisto, kiu interpretas sen ajna, eĉ la plej minimuma, ŝanĝo en ege komplikita komponaĵo, Georgiev reprenas la jam antikvan kreadon de „sonetkronoj” – poezia formulo, en kiu la lasta verso de soneto ripetiĝas kiel la unua de la sekva; kaj en kiu, post sekvo de 14 sonetoj interligitaj de la temaro, jen finfine la 15a soneto, formata de kuniĝo de ĉiuj ripetitaj versoj, unu el ĉiu poemo, „kronanta” la tutan sinsekvon.
+
+Tradiciema en poezio
+
+Se tio ne jam sufiĉe elmontrus, kiagrade Georgiev kateniĝas al la tradicio, jen plia detalo: ĉar la soneto estas versmodelo kreita en la Renesanco, kaj unu el ĝiaj preferataj trajtoj estas referencado al helen-romia kulturo, oni retrovas tiujn referencojn tra ĉiu sonetkrono, ĉu en Ek sor!, la titoliga sonetkrono, en kiu la aŭtoro priskribas la sunsistemon kaj la mitologiajn devenojn de la nomoj de steloj kaj planedoj, ĉu en Herakliado, en kiu Georgiev rakontas la naskiĝon, la dek du taskojn kaj la morton de Heraklo, kaj ankaŭ en aliaj, kies malkovron mi lasos al la scivolemo de la legonto, kie tiu legonto ankaŭ malkovros, ke ne nur la helen-romia, sed multaj aliaj homaj kulturoj kaj civilizoj estas menciitaj en la libro.
+
+Sed, krom tiuj multaj kvalitoj, oni devas ankaŭ sin demandi: kiel rolas tiu libro ene de la beletra esperanta konstelacio?
+
+Tiu demando ja fariĝas pli grava, kiam oni rimarkas, ke tuta Okcidento estas nun trafita de ĉiusence konservativema cunamo, kiu provas enpenetri ĉiajn homajn artojn, lasante en ĝi spurojn, kiuj finfine kondukas ne al konservativismo mem, sed al totaleca reakciismo. Ĉu Ek sor! povus esti provo surfi sur tiu marondo? Sincere, kvankam la demando estas justa kaj ĝusta, mi kredas, ke neniu poeto bezonus esti tiom altnivela por partopreni en tiu movado; mi ja preferas kredi, ke ĉi tiu libro reprezentas samtempe iom da laciĝo, inter versemuloj, kaj certe inter legantoj, de tiom da „novigaj eksperimentismoj”, kiuj, ekde Ibere libere (1993), popolas nian poezion.
+
+Ek sor! ja ne estas, kiel iu povus pensi, „avangardo de retroiro”, sed spiro de tradicio, rolanta kiel ĉeesta manifesto, kaj, kvankam oni povas diri, ke oni ne trovos en ĝi novajn formulojn, tio ne signifas, ke la malnovaj receptoj ne plu validas, nek ke, se oni ilin sekvas, oni ne plu povos prepari bonajn pladojn. Jam diris la heleno Heraklito, ke oni ne povas dufoje eniri la saman riveron, sed tio neniel malpermesas, ke en ĝi vivo ankoraŭ fluu, nek ke oni trinku ĝiajn akvojn, kaj tion pruvas la fakto, ke tiu libro estas plenmerita gajninto de la pasintjara Laŭro de la Akademio de Esperanto. Gratulon al la aŭtoro!
+
+Evgenij Georgiev: Ek sor!. Eld. Eldonejo Libera, 2024. 134 paĝoj. Broŝuro. ISBN 978-1-4457-8604-9.
+
+Por mendi, iru al la Retbutiko.

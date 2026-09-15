@@ -1,6 +1,6 @@
 ---
 source: "Libera Folio (liberafolio.org)"
-generated_at: "2026-09-15T10:54:37.128807+00:00"
+generated_at: "2026-09-15T16:17:07.981872+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-08-18 – 2026-08-27"
 ---
@@ -15,6 +15,8 @@ time_range: "2026-08-18 – 2026-08-27"
 **Categories:** vidpunkto
 
 Mondskalaj problemoj solveblas nur per mondskala demokratio, kaj mondskala demokratio funkcios nur se homoj havas komunan lingvon. Samkiel la socia evoluo en Koreio gvidis al la enkonduko de demokratia skribsistemo, sur monda nivelo la bezono de vera demokratio postulas la enkondukon de komuna lingvo, argumentas Richard Forsyth en sia vidpunkta artikolo.
+
+“Hangul” – la nomo de la korea alfabeto skribita per la korea alfabeto. Oni legas de maldekstre dekstren kaj de supre suben. La komenca parto de la silabo ĉi tie estas markita ruĝe, la vokala parto blue, kaj la fina parto verde. Bildo: Johannes Barre
 
 Mi kredas, ke la historio de Hangulo (korea skribsistemo) enhavas gravan lecionon por la Esperantomovado. Oni povas pli lerni pri Hangulo en Vikipedio, sed ĉi tie mi volas nur resumi la aspekton, kiun mi opinias grava por esperantistoj. (Parenteze, mi ne komprenas la korean.)
 
@@ -35,6 +37,8 @@ Kiel tio koncernas Esperanton? Mia argumento sekvos. En la 1440-aj jaroj Koreio 
 Kontraste, la okupado de japanaj koloniistoj naskis fortan senton de korea nacieco. Tio fortigis la ligojn inter ĉiuj koreoj, ne nur eminentuloj. Krome, post la krizoj de la dua mondmilito kaj la korea milito, necesis tio, ke la tuta civitanaro laboru por rekonstrui la landon. Analfabeteco malhelpus tiun rekonstruon. Aldone, la eksa reganta klaso perdis sian potencon.
 
 Analogio inter Esperanto kaj Hangulo dum ties periodo de subpremado estas evidenta. La plimulto de la hodiaŭaj altranguloj malestimas Esperanton. Ili taksas ĝin eksmoda aŭ malnatura. Ekzemple, en Eŭropa Unio, potenculoj havas sufiĉe da rimedoj por edukigi siajn idojn en tri-kvar lingvoj, kutime inkluzive de la angla, kaj tiel certigi, ke ili restos en la klaso kun politika influo. Eĉ se ili zorgas iom pri parolantoj de iuj ”etaj” lingvoj, ili tamen supozas, ke maŝintraduko baldaŭ nuligos la malfacilaĵojn.
+
+Du paĝoj de Hunminjeongeum Haerye, la verko kiu enkondukis la korean skribsistemon. La novaj literoj estas klarigataj ĉine.
 
 Sed ĉu estas analogio inter Esperanto kaj Hangulo, kiam Hangulo sukcesis? Ankoraŭ ne. La sukceso de Hangulo dependis de du sociaj ŝanĝoj: krizo, kiu paneigis la eksan altajn sociajn tavolojn, kaj nova bezono por kunlaboro kaj do interkomunikado.
 
@@ -58,7 +62,7 @@ Fine: la partoprenantoj faras decidojn, ekzemple per sekreta balotado.
 
 Ĉefpunkto: pli da diskuto ol disputo!
 
-Oni povas legi pri multaj sukcesaj realigoj de tiu ideo rete ekzemple ĉe Sortition Foundation , Extinction Rebellion , Participedia aŭ Convention Citoyenne pour le Climat . Bedaŭrinde, la plejmulto da tiaj retejoj uzas la anglan, kvankam ĉe Participedia oni povas peti tradukojn per la retumilo. Eĉ pli bedaŭrinde, la plimulto da esperantistoj (kiel la plimulto da homoj ĉie) scias preskaŭ nenion pri sortumado kaj aliaj specoj de rekta demokratio, kiel ’civitanaj asembleoj’ kaj ’civitana buĝetado’. Tamen tio enhavas la kernon de la bezono por monda lingvo.
+Oni povas legi pri multaj sukcesaj realigoj de tiu ideo rete ekzemple ĉe Sortition Foundation, Extinction Rebellion, Participedia aŭ Convention Citoyenne pour le Climat. Bedaŭrinde, la plejmulto da tiaj retejoj uzas la anglan, kvankam ĉe Participedia oni povas peti tradukojn per la retumilo. Eĉ pli bedaŭrinde, la plimulto da esperantistoj (kiel la plimulto da homoj ĉie) scias preskaŭ nenion pri sortumado kaj aliaj specoj de rekta demokratio, kiel ’civitanaj asembleoj’ kaj ’civitana buĝetado’. Tamen tio enhavas la kernon de la bezono por monda lingvo.
 
 Jam abundas indikoj, ke decidoj fare de civitanoj elektitaj hazarde de la popolo povas decidi kiel solvi politikajn problemojn pli bone ol tradiciaj politikaj metodoj – tiom da indikoj, ke eĉ Eŭropa Unio faris eksperimentojn kun civitanaj asembleoj.
 
@@ -87,6 +91,8 @@ Richard Forsyth
 
 Dum la IJK en Katalunio la kongresanoj lernis Tokiponon, spektis suneklipson kaj maldormis en varmegaj ĉambroj. La komitato de TEJO alvokis UEA akcepti Katalunan Esperanto-Asocion kiel duan landan asocion en Hispanio. La sekva IJK okazos en Germanio.
 
+Komuna foto en la korto de la kongresejo. Foto el la komuna fotoalbumo de la IJK.
+
 La 82-a Internacia Junulara Kongreso (IJK) de TEJO ĵus okazis en Katalunio, de la 9-a ĝis la 16-a de aŭgusto 2026. Kvankam finaj statistikoj ankoraŭ ne publikiĝis, ĝi certe estis inter la plej grandaj IJK-oj dum la lastaj jaroj – oni celis plenigi 300 litojn por laŭkontrakte eviti monpunon, kaj ŝajne atingis tion.
 
 Do depende de la ekzakta fina sumo, povus esti la plej granda IJK aŭ ekde 2018 (273 partoprenantoj), aŭ 2015 (291 partoprenantoj), 2011 (311 partoprenantoj) aŭ 2009 (343 partoprenantoj). Tion helpis certe la suneklipso, kies ”zono de tuteco” troviĝis nur kelkdek kilometrojn sude de la kongresejo, kaj estis la fokuso por tuttaga ekskurso por la plejparto de la kongresanoj.
@@ -102,6 +108,8 @@ La organizado de la kongreso ĝenerale estis elstara. La programtabulo troviĝis
 Ankaŭ la kataluneco forte videblis, kun ĉiutaga okazigo de ”Kataluna kultura horo” kun tradiciaj katalunaĵoj kiel homturoj. Kaj eĉ post la kongreso, kiam organizantoj kutime laciĝas, ili ankoraŭ gvidis postkongresajn ekskursojn. Nun ili kunmetas memorfilmeton, kaj reklamas pri siaj estontaj eventoj.
 
 Okazis vigla vespera kaj nokta programo. Oni ĝuis la koncertojn de Kaj Tiel Plu, Kimo, Gijom’, kaj La Perdita Generacio. Aldoniĝis koncerto de la juna kataluna grupo Indubio, kiun oni taksis inter la plej bonaj koncertoj de iu Esperanto-aranĝo dum la lastaj jaroj. Malgraŭ sia neesperantisteco (krom la drumisto) ili kantis ”Junaj Idealistoj”, kun grandega aplaŭdo el la publiko.
+
+Plena eklipso dum la kongreso. Foto de Irene Albert el la komuna fotoalbumo de la IJK.
 
 Aplaŭdindas ankaŭ la 3-hora elektronika diskejo de Gabriele Esposito Guido, kiu estis signifa plibonigo kompare al la kutima rego de ”Spotify-ludlisto + laŭtigilo”. La sola ebla plendobjekto estis la malfermhoroj de la drinkejo, kiu foje malfermiĝis nur post la vespera programo, anstataŭ dume aŭ antaŭe.
 
@@ -137,6 +145,8 @@ Tyron Surmon
 **Categories:** movado
 
 Bibliotekoj kaj arkivoj estis centra temo dum la 48-a Esperantologia Konferenco, okazinta dum la UK en Graco. Kvardeko da partoprenantoj aŭskultis naŭ prelegojn, inter kiuj oni proponis kafon kaj teon, por instigi la aŭskultantojn resti en la salono kaj diskuti kun la prelegintoj.
+
+Bengt-Arne Wickström prezentas la preleganton Alessandra Madella. Fotis Klaus Schubert.
 
 La 6an de aŭgusto 2026 la Centro de Esploro kaj Dokumentado pri Mondaj Lingvaj Problemoj (CED) de UEA okazigis sian 48an Esperantologian Konferencon. Estis tuttaga programero de la 111a Universala Kongreso en Graco (Aŭstrio).
 
@@ -177,6 +187,8 @@ Bengt-Arne Wickström, Klaus Schubert
 
 Nova estraro de TEJO estis elektita ne rete, sed ĉeeste, kaj la komitatanoj havis eblon fari demandojn rekte al la kandidatoj. Unuafoje dum preskaŭ jardeko la prezidanto restis por dua jaro. La estraro strebos resanigi la financojn de la asocioj. La komitato de TEJO krome akceptis deklaron por subteni la strebon de Kataluna Esperanto-Asocio iĝi landa asocio de UEA. Pri Palestino neniu plu parolas.
 
+La komitato de TEJO kunsidas en cirklo. Foto: Tyron Surmon
+
 Dum la 82-a Internacia Junulara Kongreso (IJK), antaŭ unu semajno en Katalunio, dum sep horoj en du sesioj kunsidis la komitato de TEJO. Partoprenis la kunsidojn 26 komitatanoj el entute 36 kaj parte observis ĝin la ĝenerala direktoro de UEA Martin Schäffer, aldone al la UEA-komitatanoj Brandon Sowers kaj Thomas Bormann.
 
 La komitato de TEJO iom lamis lastatempe. Oni dum jaro ne kunsidis. La retpoŝta komitatlisto sufiĉe silentis, kaj eĉ gravegaj informoj – kiel la nericevo de la administra subvencio (la plej granda enspezfonto por TEJO) en marto – apenaŭ rikoltis reagon flanke de la komitato. Simile, kvankam la heroa laboro de la prezidantino Ana Ribeiro specife agnoskendas, oni ankaŭ lastatempe apenaŭ vidis vivsignojn de la estraro.
@@ -201,6 +213,8 @@ Laŭdire KEA poste kunsidis kun la Estraro de UEA, kiu proponis ke KEA anstataŭ
 
 Preskaŭ ĉiuj komitatanoj de TEJO akceptis la ĝeneralan principon, ke KEA rajtu iĝi landa asocio de UEA. KEJ jam delonge estis propra landa sekcio de TEJO (la hispana sekcio nuntempe eĉ ne aktivas), estas inter la plej aktivaj sekcioj de TEJO, kaj komprenble organizis ja ĉi-jaran IJKn. Tamen, venis praktikaj plendoj pri diversaj punktoj.
 
+Post la varma kunsido la komitatanoj havis tempon freŝiĝi en la naĝbaseno. Foto: Carlos Pesquera Alonso.
+
 La debato daŭris horon. La kunteksto komence ne estis konata al la plejparto de komitatanoj. Oni esprimis heziton formale aprobi kelkpaĝan rezolucion, kiun la Komitato ricevis por la unua fojo nur dum la kunsido mem, kaj kiam KEA mem ne ankoraŭ formale apelaciis al la Komitato de UEA pri la temo.
 
 Krome estis demandoj pri la specifa teritorio kiun KEA asertas reprezenti (ĉu nur Katalunion mem, la katalunan parolregionon, aŭ ion alian), kiuj ne ricevis plenan respondon.
@@ -211,7 +225,7 @@ Malgraŭ tio, oni finfine proponis simple akcepti la prezentitan rezolucion sen 
 
 Li poste deklaris “Espereble tiu ĉi deklaro kaj la sperto de kunlaboro inter KEJ kaj TEJO helpos konvinki la UEA-Komitaton pri la pozitivaj konsekvencoj, por UEA, por KEA kaj por Esperantujo ĝenerale, de la agnosko, ankaŭ je UEA-nivelo, de la jam delonge ekzistanta kaj fakta aparta situacio de la kataluna Esperanto-movado”.
 
-La rapida aprobo de rezolucio pri Katalunio malspegulas la sorton de la rezolucio proponita pri Palestino, kiun Libera Folio priraportis pasintseptembre . Post kelkmonata debato, evidentiĝis ke la deklaro verŝajne ricevus plejpartan subtenon ĉe la Komitato.
+La rapida aprobo de rezolucio pri Katalunio malspegulas la sorton de la rezolucio proponita pri Palestino, kiun Libera Folio priraportis pasintseptembre. Post kelkmonata debato, evidentiĝis ke la deklaro verŝajne ricevus plejpartan subtenon ĉe la Komitato.
 
 Tamen, post manpleno da kontraŭesprimoj – kaj la oficiala fino de la milito en Gazao en oktobro – kelkaj porantoj mildigis sian subtenon (daŭre favore, sed malpli fervore) kaj ŝajne la originalaj proponintoj perdis la entuziasmon formale voĉdonigi ĝin.
 
@@ -240,6 +254,8 @@ Tyron Surmon
 
 La populara libera oficeja programaro LibreOffice de multaj jaroj havas ankaŭ Esperantan interfacon. Nun ankaŭ la retejo de LibreOffice haveblas en Esperanto, kaj la nova versio de la programo eĉ havas apartan funkcion por esperantistoj: aŭtomatan ĉapeligon de iksoj. Tio iĝis ebla, ĉar ĉe la fondaĵo kiu okupiĝas pri la programo eklaboris esperantisto, Neil Roberts.
 
+Ankaŭ la retejo de LibreOffice nun havas version ankaŭ en Esperanto.
+
 LibreOffice estas tre konata libera kaj senpaga oficeja programaro. Homoj ofte uzas ĝian dokumentoredaktilon kiel senpagan alternativon al Microsoft Word, kaj ĝian kalkultabelilon kiel alternativon al Microsoft Excel. Aldone al tio, ĝi ankaŭ havas programon por fari vektorajn desegnaĵojn kaj ilon por krei datumbazojn.
 
 Ĝi estas evoluo de OpenOffice, kiu estiĝis okaze de la aĉeto de Sun Microsystems fare de Oracle en 2010. Tiamaniere Oracle akiris ankaŭ OpenOffice. La tiamaj kontribuantoj al OpenOffice maltrankvilis pri la sorto de sia programo pro la malbona reputacio de Oracle kaj tial ili decidis fondi propran projekton uzante la saman fontokodon kiel bazon.
@@ -247,6 +263,8 @@ LibreOffice estas tre konata libera kaj senpaga oficeja programaro. Homoj ofte u
 Ekde tiam OpenOffice apenaŭ plu progresas kaj ne havis novajn funkciojn ekde la lasta granda versio en 2014. LibreOffice fariĝis plena anstataŭanto.
 
 La programaro havas longan historion kun Esperanto pro sia komplete tradukita uzantinterfaco. La plej aktuala versio, 26.8, aperis ĉi-semajne, kaj ĝi havas novan funkcion aparte por esperantistoj. Ĝi povas aŭtomate konverti tekston skribitan per la x-sistemo al la normala esperanta alfabeto kun ĉapeloj. Sufiĉas agordi la lingvon de la dokumento al Esperanto kaj la aŭtomata korektilo anstataŭigos la x-ojn dum oni tajpas, sen neceso instali kroman programon.
+
+En la agordoj de LibreOffice eblas ŝalti aŭtomatan ĉapeligon de iksoj.
 
 Kompreneble sur siaj propraj komputiloj la esperantistaro jam trovis plurajn rimedojn por povi tajpi la ĉapelitajn literojn, kaj verŝajne tiuj metodoj daŭre restas pli konvenaj ol la nova funkcio de LibreOffice.
 
@@ -256,15 +274,15 @@ Ekde marto de ĉi tiu jaro mi estas dungita kiel programisto ĉe The Document Fo
 
 Ekzemple, krom ĉi tiu nova funkcio, mi riparis cimon pri la ordigo de eroj en indeksoj kiam la teksto estas en Esperanto. La raporton pri la cimo oni kreis antaŭ 13 jaroj!
 
-Alia nova funkcio en la versio 26.8 estas ke oni povas agordi fulmklavojn kaj konservi tiun agordon en unu dokumento anstataŭ por la tuta programo. Mi eklaboris pri tiu tasko ĉar kaptis mian atenton ĝia cimraporto , tial ke la raportinto skribis ĝin en Esperanto.
+Alia nova funkcio en la versio 26.8 estas ke oni povas agordi fulmklavojn kaj konservi tiun agordon en unu dokumento anstataŭ por la tuta programo. Mi eklaboris pri tiu tasko ĉar kaptis mian atenton ĝia cimraporto, tial ke la raportinto skribis ĝin en Esperanto.
 
 Mi ŝatas la ideon ke mi povas iel helpi esperantistojn kiuj uzas LibreOffice, kaj samtempe iomete varbi pri Esperanto inter aliaj uzantoj de LibreOffice.
 
 Laŭ mia scio, la enorman taskon traduki LibreOffice al Esperanto efektivigis unu homo, Donald Rogers, ekde la komenco de la projekto. Bedaŭrinde, en februaro li sendis mesaĝon al la dissendolisto, anoncante ke li ne plu havos tempon prizorgi la tradukon. Feliĉe tio koincidis kun mia eklaboro pri la projekto, do mi decidis ankaŭ provi repreni la taskon traduki.
 
-Mi komencis per traduko de la nova retejo , kiu nun funkcias kiel bela akceptejo por esperantistoj al la programaro. Sekve mi finis la kelkajn mankantajn teksterojn por la nova versio, kaj tiel ĝi denove estas komplete tradukita.
+Mi komencis per traduko de la nova retejo, kiu nun funkcias kiel bela akceptejo por esperantistoj al la programaro. Sekve mi finis la kelkajn mankantajn teksterojn por la nova versio, kaj tiel ĝi denove estas komplete tradukita.
 
-Mi multe ŝatus daŭrigi tiun laboron, kaj ankaŭ instigi aliajn esperantistojn partopreni, ĉu per tradukado, ĉu per programado, ĉu per aliaj taskoj. La plej bona maniero trovi taŭgan manieron por helpi estas viziti la vikion . Ĝi eĉ estas parte tradukita al Esperanto.
+Mi multe ŝatus daŭrigi tiun laboron, kaj ankaŭ instigi aliajn esperantistojn partopreni, ĉu per tradukado, ĉu per programado, ĉu per aliaj taskoj. La plej bona maniero trovi taŭgan manieron por helpi estas viziti la vikion. Ĝi eĉ estas parte tradukita al Esperanto.
 
 Neil Roberts
 

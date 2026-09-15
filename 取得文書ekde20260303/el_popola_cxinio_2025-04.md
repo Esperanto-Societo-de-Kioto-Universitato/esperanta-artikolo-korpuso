@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-09-15T13:49:02.993960+00:00"
+generated_at: "2026-09-15T16:12:44.368377+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-04-01 – 2025-04-30"
 ---
@@ -58,6 +58,8 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-04/02/content_117802546.htm
 
+**Author:** Rafael Henrique Zerbetto
+
 **Categories:** Ekonomio
 
 La 29-an de marto okazis en Lushui-urbo de Nujiang-a Lisu-a Aŭtonoma Subprovinco de Yunnan-provinco, sudokcidenta Ĉinio, Nujiang-forumo pri Regado de Malriĉeco kaj Tutmonda Disvolvado, kungastigita de la registaro de Yunnan-provinco, Ĉina Internacia Komunika Grupo (ĈIKG) kaj Ĉina Asocio pri Publikaj Rilatoj. La temo de ĉijara forumo estis "kune antaŭenigi kamparan revligiĝon kaj kundisvolvadon".
@@ -95,6 +97,8 @@ Raportis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2025-04/02/content_117802719.htm
 
+**Author:** Rafael Henrique Zerbetto
+
 **Categories:** Novaĵoj
 
 Kiam Ĉinio lanĉis la strategion pri mildigo de malriĉeco, malsamaj solvoj estis alprenitaj por redukti malriĉecon, interalie la translokigo de homoj el lokoj sen ekonomiaj perspektivoj al aliaj lokoj, kie ili povus pli facile prosperi en la vivo. Nujiang-a Industria Parko pri Verdaj Spicaĵoj estis fondita de la Ĉina Kompanio pri Komunikado kaj Konstruado (CCCC, laŭ la angla mallongigo) kun la misio esti centro por provizi laboroportunojn al translokigitoj kaj disvolviĝi kiel Ekzempla Bazo pri Kunligo de Moderna Agrikulturo kaj Disvolvado kaj Ekzempla Bazo pri Teknologio kaj Novigo en Kampara Revigliĝo.
@@ -119,6 +123,8 @@ Raportis kaj fotis: Rafael Henrique Zerbetto
 **Published:** 2025-04-03
 
 **URL:** http://esperanto.china.org.cn/2025-04/03/content_117804079.htm
+
+**Author:** Rafael Henrique Zerbetto
 
 **Categories:** Novaĵoj
 
@@ -147,6 +153,8 @@ Verkis kaj fotis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2025-04/07/content_117808764.htm
 
+**Author:** Rafael Henrique Zerbetto
+
 **Categories:** Novaĵoj
 
 La vilaĝo Yangpo, kies nomo signifas "la unua vilaĝo atingita de sunlumo" en la lisu-a lingvo, troviĝas en la subdistrikto Liuku de la urbo Lushui en Yunnan-provinco, sudokcidenta Ĉinio. Situanta sur montopinto meze de Gaoligong-montaro, ĝi troviĝas proksime de la landlimo inter Ĉinio kaj Birmo, en loko plena de historio, mirindaj pejzaĝoj kaj unika etna kulturo.
@@ -173,6 +181,8 @@ Raportis kaj fotis: Rafael Henrique Zerbetto
 **Published:** 2025-04-07
 
 **URL:** http://esperanto.china.org.cn/2025-04/07/content_117809813.htm
+
+**Author:** Rafael Henrique Zerbetto
 
 **Categories:** Novaĵoj
 
@@ -207,6 +217,8 @@ Raportis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2025-04/07/content_117809822.htm
 
+**Author:** Rafael Henrique Zerbetto
+
 **Categories:** Novaĵoj
 
 Proksime al la urbo Lushui de Nujiang-a Lisu-a Aŭtonoma Subprovinco de Yunnan-provinco, sudokcidenta Ĉinio, troviĝas bela kaj impona arbo, kiu aĝas pli ol mil jarojn. La bela antikva arbo impresas la vizitantojn. Okaze de nia vizito al la arbo, ĝi estis senfolia pro la vintro. Baldaŭ venos la epoko de florado, kiam la arbo pleniĝas je floroj, kvankam sen ajna folio. Fine, dum somero ĝi refoje estos kun multaj verdaj folioj. Homoj vidas tiun arbon kiel simbolon de longa vivo.
@@ -228,6 +240,8 @@ Raportis kaj fotis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2025-04/08/content_117812173.htm
 
+**Author:** Rafael Henrique Zerbetto
+
 **Categories:** Novaĵoj
 
 La loĝkvartalo Hexie, kies nomo signifas harmonion en la ĉina lingvo, estas la plej granda loĝkvartalo kreita por translokigo de homoj kadre de la laboro pri malaperigo de malriĉeco en la urbo Lushui de Nujiang-a Lisu-a Aŭtonoma Subprovinco de Yunnan-provinco, sudokcidenta Ĉinio.
@@ -248,6 +262,8 @@ Raportis kaj fotis: Rafael Henrique Zerbetto
 **Published:** 2025-04-08
 
 **URL:** http://esperanto.china.org.cn/2025-04/08/content_117812195.htm
+
+**Author:** Rafael Henrique Zerbetto
 
 **Categories:** Novaĵoj
 
@@ -276,6 +292,8 @@ Raportis kaj fotis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2025-04/09/content_117814254.htm
 
+**Author:** Rafael Henrique Zerbetto
+
 **Categories:** Novaĵoj
 
 En la vilaĝo Yangpo de la urbo Lushui en Yunnan-provinco, sudokcidenta Ĉinio, troviĝas bela librejo, kiu famiĝis en ĉinaj sociaj retejoj kaj allogis multajn turistojn al la vilaĝo por fotiĝi tie. La librejo estis desegnita por profiti la deklivon de la monto por doni al vizitantoj privilegian rigardon de la ĉirkaŭa pejzaĝo kaj ankaŭ havas grandegajn fenestrojn por profiti sunlumon kaj eviti konsumadon de elektro.
@@ -290,6 +308,8 @@ Raportis kaj fotis: Rafael Henrique Zerbetto
 **Published:** 2025-04-10
 
 **URL:** http://esperanto.china.org.cn/2025-04/10/content_117814239.htm
+
+**Author:** Rafael Henrique Zerbetto
 
 **Categories:** Novaĵoj
 
@@ -319,6 +339,8 @@ Raportis kaj fotis: Rafael Henrique Zerbetto
 **Published:** 2025-04-10
 
 **URL:** http://esperanto.china.org.cn/2025-04/10/content_117814258.htm
+
+**Author:** Rafael Henrique Zerbetto
 
 **Categories:** Novaĵoj
 
@@ -484,6 +506,8 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-04/11/content_117818813.htm
 
+**Author:** Rafael Henrique Zerbetto
+
 **Categories:** Plej Freŝaj
 
 La 10-an de aprilo ĉi-jara Heze-a Peonia Forumo pri Internacia Komunikado kaj la Seminario pri Rakontoj pri la Flava Rivero sukcese okazis en la urbo Heze de Shandong-provinco, orienta Ĉinio. La forumon partoprenis diplomatoj kaj akademiuloj el pli ol 30 landoj por antaŭnigi interkulturan dialogon laŭ la perspektivoj de la kulturo ligita al la Flava Rivero kaj de peonioj.
@@ -565,6 +589,8 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-04/15/content_117824462.htm
 
+**Author:** Rafael Henrique Zerbetto
+
 **Categories:** Plej Freŝaj
 
 Pasta modelado estas nemateria kultura heredaĵo populara en tuta Ĉinio, kaj en kelkaj regionoj de la lando ĝi akiris lokajn trajtojn kaj teknikojn. Interalie, en la urbo Heze de Shandong-provinco, tiu arto estas agnoskata ne nur kiel nemateria kultura heredaĵo, sed ankaŭ kiel reprezenta heredaĵo de la popolo de Heze. Jen la laboro de Su Yanjun, heze-a artisto, kiu sin dediĉas al pasta modelado ekde sia infaneco kaj lernis la teknikon el la majstro Shi Zhenshan. Ŝiaj verkoj nun troveblas en pluraj artgalerioj kaj personaj kolektoj. Unu el ŝiaj specialaĵoj estas modeli peoniojn, kiuj estas tradicio de Heze. Kiam peonioj burĝonas kaj allogas multajn homojn al la peonia ĝardeno Caozhou, Su kaptas la ŝancon por diskonigi sian arton.
@@ -579,6 +605,8 @@ Raportis kaj fotis: Rafael Henrique Zerbetto
 **Published:** 2025-04-15
 
 **URL:** http://esperanto.china.org.cn/2025-04/15/content_117824469.htm
+
+**Author:** Rafael Henrique Zerbetto
 
 **Categories:** Plej Freŝaj
 
@@ -645,6 +673,8 @@ Verkis kaj fotis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2025-04/15/content_117824761.htm
 
+**Author:** Rafael Henrique Zerbetto
+
 **Categories:** Plej Freŝaj
 
 La urbo Heze de Shandong-provinco, orienta Ĉinio, estas konata kiel "ĉefurbo de peonioj" pro sia granda produktado de tiuj floroj. Kun tre taŭga klimato kaj 1 500-jara sperto en kultivado de peonioj, Heze disvolvis kompletan agrikulturan kaj industrian ĉenon lige al produktado de tiuj floroj kaj ilia transformado per industriaj procezoj. Nuntempe 500 mil homoj en Heze okupiĝas pri laboro rilata al peonioj, kaj pasintjare la floroj donis enspezon je 13 miliardoj da juanoj al la urbo. Inter la produktoj disvolvitaj en Heze troviĝas ne nur peonia oleo kaj tradiciaj ĉinaj kuraciloj, sed ankaŭ pluraj novigaj produktoj, kiel dentokremo, kosmetikaĵoj, parfumoj kaj eĉ ovoj de kokinoj breditaj per speciala manĝaĵo farita el peonioj! Jen sube kelkaj interesaj produktoj de heze-a peonia industrio.
@@ -668,6 +698,8 @@ Raportis kaj fotis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2025-04/15/content_117825134.htm
 
+**Author:** Rafael Henrique Zerbetto
+
 **Categories:** Plej Freŝaj
 
 La urbo Heze de Shandong-provinco, orienta Ĉinio, estas fama pro siaj peonioj, tie kultivataj jam de 1 500 jaroj. Kun klimato aparte favora por kreskado de peonioj, Heze fieras pri la beleco de tiuj floroj kreskantaj tie, kaj nuntempe eksportas peoniajn plantidojn, florojn kaj produktojn faritajn el peonioj al 30 landoj. En printempo, kiam burĝonas peonioj, Heze ricevas multajn turistojn, kiuj iras tien por admiri tiujn belajn florojn. Jen kelkaj belaj peonioj fotitaj en Heze ĉi-jare!
@@ -682,6 +714,8 @@ Raportis kaj fotis: Rafael Henrique Zerbetto
 **Published:** 2025-04-16
 
 **URL:** http://esperanto.china.org.cn/2025-04/16/content_117826421.htm
+
+**Author:** Rafael Henrique Zerbetto
 
 **Categories:** Plej Freŝaj
 
@@ -835,6 +869,8 @@ Redaktoro: Xie Ruifeng
 **Published:** 2025-04-21
 
 **URL:** http://esperanto.china.org.cn/2025-04/21/content_117832652.htm
+
+**Author:** Rafael Henrique Zerbetto
 
 **Categories:** Plej Freŝaj
 
@@ -1184,6 +1220,8 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-04/30/content_117853604.htm
 
+**Author:** Choi Manwon
+
 **Categories:** Plej Freŝaj
 
 "S-ro Cui! Bonvenon! Sidiĝu. Ĉu vi volas trinki teon?" Ili ĉiam bonvenigis min kun rideto kaj de ili mi aŭdis kaj lernis multon pri Ĉinio kaj Esperanto. Kaj jam pasis pli ol 30 jaroj de mia unua vizito al la redaktejo de El Popola Ĉinio (EPĈ), sed kelkaj amikoj tie ankoraŭ vokas min “小崔”, pro malnova vokkutimo. Tuj post kelkaj monatoj, mi fariĝos 60-jaraĝa, jam ne juna, sed tiun ĉi titolon mi tre ŝatas.
@@ -1220,6 +1258,8 @@ Redaktoro: Sheng Min
 **Published:** 2025-04-30
 
 **URL:** http://esperanto.china.org.cn/2025-04/30/content_117853614.htm
+
+**Author:** Zhang Changsheng
 
 **Categories:** Plej Freŝaj
 

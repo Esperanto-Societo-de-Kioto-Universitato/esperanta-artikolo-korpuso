@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-09-15T13:49:03.004978+00:00"
+generated_at: "2026-09-15T16:12:44.383416+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-06-04 – 2025-06-30"
 ---
@@ -11,6 +11,8 @@ time_range: "2025-06-04 – 2025-06-30"
 **Published:** 2025-06-04
 
 **URL:** http://esperanto.china.org.cn/2025-06/04/content_117908202.htm
+
+**Author:** Rafael Henrique Zerbetto
 
 **Categories:** Plej Freŝaj
 
@@ -246,6 +248,8 @@ Redaktoro: Xie Ruifeng
 **Published:** 2025-06-11
 
 **URL:** http://esperanto.china.org.cn/2025-06/11/content_117921202.htm
+
+**Author:** Rafael Henrique Zerbetto
 
 **Categories:** Plej Freŝaj
 
@@ -523,6 +527,8 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-06/18/content_117934167.htm
 
+**Author:** Rafael Henrique Zerbetto
+
 **Categories:** Plej Freŝaj
 
 Grandaj pandoj estas inter la plej raraj bestoj en la mondo. Konataj kiel "vivantaj fosilioj", ili estas ne nur trezoroj de Ĉinio, sed ankaŭ bestoj tre ŝatataj en la tuta mondo. La Esplorbazo de Grandaj Pandoj en Chengdu, Sichuan-provinco de Ĉinio, estas neprofitocela bredejo de grandaj pandoj financata de la ĉina registaro kaj ankaŭ esplorejo pri grandaj pandoj, malgrandaj pandoj kaj aliaj raraj bestoj. Ĝi troviĝas nur 10 kilometrojn for de la urbocentro de Chengdu kaj estis fondita en 1987 por prizorgado de ses grandaj pandoj savitaj el malsano kaj malsato. Nun en la bazo vivas 237 grandaj pandoj en malsamaj aĝoj.
@@ -537,6 +543,8 @@ Raportis kaj fotis: Rafael Henrique Zerbetto
 **Published:** 2025-06-18
 
 **URL:** http://esperanto.china.org.cn/2025-06/18/content_117934308.htm
+
+**Author:** Rafael Henrique Zerbetto
 
 **Categories:** Plej Freŝaj
 
@@ -688,6 +696,8 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-06/20/content_117936368.htm
 
+**Author:** Rafael Henrique Zerbetto
+
 **Categories:** Plej Freŝaj
 
 La arkeologiejo Jinsha estas la centro de la antikva regno Shu, kies civilizacio disvolviĝis ĉe la alta parto de la baseno de Jangzio de la 12-a jarcento a.K. ĝis la 7-a jarcento p.K., alivorte, antaŭ ĉ. 3 200-3 600 jaroj. Tiu arkeologiejo, kune kun tiu de Sanxingdui, reprezentas la kulminon de la disvolvado de Shu-regno.
@@ -739,6 +749,8 @@ Redaktoro: Xie Ruifeng
 **Published:** 2025-06-23
 
 **URL:** http://esperanto.china.org.cn/2025-06/23/content_117936377.htm
+
+**Author:** Rafael Henrique Zerbetto
 
 **Categories:** Plej Freŝaj
 
@@ -1041,6 +1053,8 @@ Entute vigla kaj turisma urbo, kun unika strukturo por vizitantoj kaj tradicia k
 **Published:** 2025-06-30
 
 **URL:** http://esperanto.china.org.cn/2025-06/30/content_117954518.htm
+
+**Author:** Rafael Zeerbetto
 
 **Categories:** Plej Freŝaj
 

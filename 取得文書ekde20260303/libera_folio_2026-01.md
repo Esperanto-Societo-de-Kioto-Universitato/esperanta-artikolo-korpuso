@@ -1,6 +1,6 @@
 ---
 source: "Libera Folio (liberafolio.org)"
-generated_at: "2026-03-03T10:41:27.998415+00:00"
+generated_at: "2026-09-15T16:02:39.001615+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-01-06 – 2026-01-29"
 ---
@@ -42,9 +42,9 @@ Hodiaŭ ekzistas ekzemple la nacia asocio SAT en Hispanio (SATEH), dum pli ample
 
 Nur la franclingva SAT-Amikaro havas ian etan transnacian aktivadon. Ĝi malfeliĉe, kiel la tuta SAT, tamen ne vere profitas de la mirinda rezervo de junaj proletoj soifaj pri scio troviĝantaj en la franclingva Afriko. La SAT-Amikaranoj estas majoritate francaj, maljuniĝantaj mezklasanoj, samkiel en SAT pli ĝenerale.
 
-Estus pli trafe, se Lanti tiam instigus la fondon de Sennaciecaj Asocioj Lingvaj, laŭ la grandaj tutmondaj lingvoj. Okazis diversaj eraroj sekve de tiu origina peko,  kaj oni povus longe ilin analizi. Ili kuntrenis la nunan ŝrumpadon de SAT. La tasko tamen ne estas finkalkuli kontojn, detranĉi kapojn, sed ekzameni, ĉu eblas ion reĝustigi.
+Estus pli trafe, se Lanti tiam instigus la fondon de Sennaciecaj Asocioj Lingvaj, laŭ la grandaj tutmondaj lingvoj. Okazis diversaj eraroj sekve de tiu origina peko, kaj oni povus longe ilin analizi. Ili kuntrenis la nunan ŝrumpadon de SAT. La tasko tamen ne estas finkalkuli kontojn, detranĉi kapojn, sed ekzameni, ĉu eblas ion reĝustigi.
 
-SAT apartenas al la alimondismo , samkiel la tuta Esperantio, vole nevole, kun ĉiuj kontraŭecoj propraj al tiu vasta movado. Ekzemple multaj SAT-anoj estas antinaciistoj, dum aliaj aniĝas en naciismaj partioj, eĉ inter la estraranoj; iuj favoras naci- aŭ etno-plurismon, dum aliaj restas ortodoksaj sennaciistoj, tiuteme fidelaj al Lanti.
+SAT apartenas al la alimondismo, samkiel la tuta Esperantio, vole nevole, kun ĉiuj kontraŭecoj propraj al tiu vasta movado. Ekzemple multaj SAT-anoj estas antinaciistoj, dum aliaj aniĝas en naciismaj partioj, eĉ inter la estraranoj; iuj favoras naci- aŭ etno-plurismon, dum aliaj restas ortodoksaj sennaciistoj, tiuteme fidelaj al Lanti.
 
 Dum la ĝenerala alimonda movado hodiaŭ malkreskas, kaj samtempe en ĝi la partopreno de esperantistoj, kion eblas fari? La diversaj nuntempaj organizoj (UEA, SAT, la Civito ktp), preter neeviteblaj kontraŭecoj, konkuradoj, estas objektive kompletigaj. Anstataŭ provi grandigi sian kukoparton malprofite al alia asocio, la rekresko de la tuta esperanta kuko estas baza kondiĉo, vivnecesa por ĉiuj.
 
@@ -52,7 +52,7 @@ La esenca neŭtraleco de la poresperanta laboro ebligus tiel kunlaboron inter SA
 
 De tiu tempo la poresperanta laboro de SAT notinde malkreskis. Tio klarigas kial la SAT-movadon forlasis multaj esperantistoj, eĉ foje tuta laborista Esperanto-asocio, kiel la nederlanda. Sekve de sia disfalo, SAT estas paralizita hodiaŭ. La fenomeno atingas la estraron. Ĝeneraliĝas iu nemovismo, eĉ nemovadismo, akceptata de notinda parto de la aktivularo. La situacio de la asocio aspektas senesperiga, senelireja.
 
-Ĉio ne estas nigra tamen. La centra retpaĝo de SAT, paralizita dum longaj jaroj sekve de piratatako, feliĉe nun denove funkcias. La asocio disponas pri diversaj listoj, iuj plene malfermaj (ĉe Facebook aŭ Telegram ), aliaj rezervitaj nur al membroj. Tiuj lastaj plej suferas pro iu dezertiĝo, jam de la estraranoj, ankaŭ pro iu anarkio. En tiuj listoj tamen, la debatoj restas ofte kamaradecaj, eĉ ĝentilaj laŭ iu malnova SATeca tradicio, ĉefe tamen inter la maljunaj membroj.
+Ĉio ne estas nigra tamen. La centra retpaĝo de SAT, paralizita dum longaj jaroj sekve de piratatako, feliĉe nun denove funkcias. La asocio disponas pri diversaj listoj, iuj plene malfermaj (ĉe Facebook aŭ Telegram), aliaj rezervitaj nur al membroj. Tiuj lastaj plej suferas pro iu dezertiĝo, jam de la estraranoj, ankaŭ pro iu anarkio. En tiuj listoj tamen, la debatoj restas ofte kamaradecaj, eĉ ĝentilaj laŭ iu malnova SATeca tradicio, ĉefe tamen inter la maljunaj membroj.
 
 Nepre per tiaj liberaj diskutoj, konstruivaj, la renovigo de SAT okazu. Informa retpaĝaro de SAT, kun ebligo de komentoj, kruele mankas nun tamen. Kion faras tiuteme kaj sukcese individuoj izolataj ie-tie, grava asocio kapablus pli bone fari. Ni alfrontas hodiaŭ vastan ruinkampon, sed ja ne malpli grandan konstruejon. Tio povus esti entuziasmiga.
 
@@ -103,13 +103,13 @@ Unu jaron poste, en junio, denove aperis en la revuo Esperanto teksto pri la Str
 
 Dum la Universala Kongreso en Brno en 2025 la nova prezidanto de UEA, Fernando Maia, raportis, ke estis trovita redaktoro por la Almanako, kaj ke oni planas ĝin lanĉi kadre de la Virtuala Kongreso pli malfrue en 2025. Tamen ankaŭ dum la Virtuala Kongreso ne aperis Almanako.
 
-Libera Folio tial la 5-an de januaro turnis sin al Miguel Rocha Bento , kiu laŭ Fernando Maia ricevis la taskon redakti la Almanakon, por demandi kiel la laboro progresas. Ni skribis al la retadreso indikita en la retejo de UEA, sed bedaŭrinde neniu respondo venis.
+Libera Folio tial la 5-an de januaro turnis sin al Miguel Rocha Bento, kiu laŭ Fernando Maia ricevis la taskon redakti la Almanakon, por demandi kiel la laboro progresas. Ni skribis al la retadreso indikita en la retejo de UEA, sed bedaŭrinde neniu respondo venis.
 
 Similan demandon faris en la retlisto UEA-membroj la antaŭa ĝenerala direktoro de UEA, Osmo Buller. Li krome atentigis, ke en la fina versio de la Strategia plano jam nenio aperas pri la Almanako.
 
 ”Ĉar hazardeco karakterizas la gvidadon de UEA, ne eblas scii, ĉu temas pri intenco aŭ forgeso. Verŝajne entute ne okazis serioza planado pri la almanako ĝis nun”, li skribis.
 
-Diference de Libera Folio , Osmo Buller fakte ricevis respondon – de la ĝenerala sekretario de UEA, Aleks Kadar:
+Diference de Libera Folio, Osmo Buller fakte ricevis respondon – de la ĝenerala sekretario de UEA, Aleks Kadar:
 
 ”Mi konfirmas, ke la Estraro plu laboros pri la Almanako. Estas nia deziro finrealigi ĝin en 2026. Doni precizan limdaton eble ne estas saĝa ideo.”
 
@@ -130,21 +130,21 @@ Krome ŝajnas, ke neniu en UEA plu havas la superrigardon pri la informfluoj en 
 
 **Categories:** kulturo
 
-Forpasis unu el la enkorpigintoj de la spirito de 1968 en Esperantujo, Jacques Le Puil (Ĵak Lepŭil’). Krom per siaj kanzonoj (sur kasedoj kiel Danĝera ul’ ), li kunkonstruis la alternativan Esperantan kulturon per sia, tre siaspeca, revuo La Kancerkliniko , sed ankaŭ per siaj tradukoj kaj eĉ per vortara laboro.
+Forpasis unu el la enkorpigintoj de la spirito de 1968 en Esperantujo, Jacques Le Puil (Ĵak Lepŭil’). Krom per siaj kanzonoj (sur kasedoj kiel Danĝera ul’), li kunkonstruis la alternativan Esperantan kulturon per sia, tre siaspeca, revuo La Kancerkliniko, sed ankaŭ per siaj tradukoj kaj eĉ per vortara laboro.
 
 Jacques Le Puil. Foto: Eurokka.
 
-La 5-an de januaro forpasis Ĵak Lepŭil’, kiu famiĝis precipe kiel kanzonisto kaj ĉefredaktoro de La KancerKliniko . Naskiĝinte en 1940, li esperantiĝis en 1958. Amanto de la kanzonarto precipe de la francaj kanzonistoj de la jaroj 1950aj kaj 1960aj, kiel Brassens, Brel, Vian, Maxime Leforestier kaj aliaj, li mem longe kantis en persona stilo, en la franca lingvo kaj en Esperanto, akompanante sin per gitaro. Lia repertuaro entenis humurajn kaj humorajn tekstojn ĉu tradukitajn ĉu originalajn.
+La 5-an de januaro forpasis Ĵak Lepŭil’, kiu famiĝis precipe kiel kanzonisto kaj ĉefredaktoro de La KancerKliniko. Naskiĝinte en 1940, li esperantiĝis en 1958. Amanto de la kanzonarto precipe de la francaj kanzonistoj de la jaroj 1950aj kaj 1960aj, kiel Brassens, Brel, Vian, Maxime Leforestier kaj aliaj, li mem longe kantis en persona stilo, en la franca lingvo kaj en Esperanto, akompanante sin per gitaro. Lia repertuaro entenis humurajn kaj humorajn tekstojn ĉu tradukitajn ĉu originalajn.
 
-Kun sia kunulino Armela Lequint li instruis en Alĝerio dum kelkaj jaroj. Dum multaj jaroj Ĵak estis kunlaboranto de la ĉiutaga franca ĵurnalo Le Quotidien de Paris . Loĝante en antaŭurbo de Parizo, li estis ekde 1976 la ĉefa gvidanto de la kabaredo La Ruza Kruĉo, kun instigo de Georges Lagrange, kiu deziris pluvivigi la Ŝvarcajn kabaredojn, el kiuj li partoprenis la lastan, La Tri Koboldoj, en la jaroj 1950aj.
+Kun sia kunulino Armela Lequint li instruis en Alĝerio dum kelkaj jaroj. Dum multaj jaroj Ĵak estis kunlaboranto de la ĉiutaga franca ĵurnalo Le Quotidien de Paris. Loĝante en antaŭurbo de Parizo, li estis ekde 1976 la ĉefa gvidanto de la kabaredo La Ruza Kruĉo, kun instigo de Georges Lagrange, kiu deziris pluvivigi la Ŝvarcajn kabaredojn, el kiuj li partoprenis la lastan, La Tri Koboldoj, en la jaroj 1950aj.
 
-Ĵak rakontis ke li esperantiĝis leginte artikolon en liberecana gazeto, Le Monde Libertaire . Li tradukis la kanzonon Le déserteur de Boris Vian kaj montris sian tradukon al Georges Lagrange. En la sekva tago Georges alportis propran tradukon, kiun Ĵak trovis multe pli bona kaj kiun li registris kun la titolo La dizertonto . Laŭ retejo kiu listigas tradukojn de tiu kanto en ĉiujn lingvojn, tiu traduko de Georges Lagrange estas la unue iam ajn aperinta antaŭ ĉiuj aliaj lingvoj.
+Ĵak rakontis ke li esperantiĝis leginte artikolon en liberecana gazeto, Le Monde Libertaire. Li tradukis la kanzonon Le déserteur de Boris Vian kaj montris sian tradukon al Georges Lagrange. En la sekva tago Georges alportis propran tradukon, kiun Ĵak trovis multe pli bona kaj kiun li registris kun la titolo La dizertonto. Laŭ retejo kiu listigas tradukojn de tiu kanto en ĉiujn lingvojn, tiu traduko de Georges Lagrange estas la unue iam ajn aperinta antaŭ ĉiuj aliaj lingvoj.
 
-Ĵak partoprenis en la redaktado de La Juna Penso , la organo de la junulfako de SAT. Sed tie spertinte cenzuron de artikoloj pri iuj temoj (haŝiŝo, samseksemo…) li decidis fondi novan gazeton kun Jo-Petro Danvy kaj Laŭrenco Septier, al kiuj aldoniĝis la desegnisto Serge Sire: La KancerKliniko (mallonge LKK), kiu aperadis preskaŭ regule ĉiun trian monaton ĝis 2025.
+Ĵak partoprenis en la redaktado de La Juna Penso, la organo de la junulfako de SAT. Sed tie spertinte cenzuron de artikoloj pri iuj temoj (haŝiŝo, samseksemo…) li decidis fondi novan gazeton kun Jo-Petro Danvy kaj Laŭrenco Septier, al kiuj aldoniĝis la desegnisto Serge Sire: La KancerKliniko (mallonge LKK), kiu aperadis preskaŭ regule ĉiun trian monaton ĝis 2025.
 
 Ĵak kaj Armela ankaŭ foje partoprenis surscenigon de Teatro Esperanto de Parizo (TESPA) en 1976 en Bordozo. Temis pri Andromaka de Jean Racine, tradukita de Georges Lagrange. TESPA estis jam prezentinta kelkajn scenojn de ĝi, kaj la tradukisto penis prezenti surscenigon de pli granda parto de tiu klasika tragedio kaj pro tio sukcesis instigi Ĵakon, Armelon kaj la gefratojn Ternant elpaŝi sceneje.
 
-Kun Armela Ĵak faris kvarmane grandajn tradukojn interalie de Vojaĝo ĝis noktofino de Louis-Ferdinand Céline. Ĵak kun Jo-Petro Danvy ankaŭ kunordigis vortaron franca-Esperantan, Le Grand Dictionaire Français-Espéranto , eldonitan de Espéranto-France en 1992. Mi aŭdis ke ili ŝerce diris pri la antaŭe aperinta vortaro de Léger [leĵe’] kaj Albault [albo’], ne trovinte ĝustan tradukon de serĉata vorto : ”Ve! tiu vortaro ne nur estas albault, sed ĝi fakte estas tre léger!” ”Léger” en la franca signifas ”malpeza”.
+Kun Armela Ĵak faris kvarmane grandajn tradukojn interalie de Vojaĝo ĝis noktofino de Louis-Ferdinand Céline. Ĵak kun Jo-Petro Danvy ankaŭ kunordigis vortaron franca-Esperantan, Le Grand Dictionaire Français-Espéranto, eldonitan de Espéranto-France en 1992. Mi aŭdis ke ili ŝerce diris pri la antaŭe aperinta vortaro de Léger [leĵe’] kaj Albault [albo’], ne trovinte ĝustan tradukon de serĉata vorto : ”Ve! tiu vortaro ne nur estas albault, sed ĝi fakte estas tre léger!” ”Léger” en la franca signifas ”malpeza”.
 
 
 ---
@@ -157,7 +157,9 @@ Kun Armela Ĵak faris kvarmane grandajn tradukojn interalie de Vojaĝo ĝis nokt
 
 **Categories:** kulturo
 
-Dum pli ol 23 jaroj Ionel Oneț estis la vizaĝo kaj ĉefa prizorganto de la plej granda librovendejo en Esperantujo. Neniu scias, kio okazos nun, post lia fina emeritiĝo – aŭ almenaŭ neniu rakontis tion al li. ”Ĉar mi ja ŝatis mian laboron, tiam mi konsentis plu resti ĝis oni trovos iun racian solvon por la libroservo. Nun, post plenaj tri jaroj mi ne plu povis elteni”, li diras en intervjuo de Libera Folio .
+Dum pli ol 23 jaroj Ionel Oneț estis la vizaĝo kaj ĉefa prizorganto de la plej granda librovendejo en Esperantujo. Neniu scias, kio okazos nun, post lia fina emeritiĝo – aŭ almenaŭ neniu rakontis tion al li. ”Ĉar mi ja ŝatis mian laboron, tiam mi konsentis plu resti ĝis oni trovos iun racian solvon por la libroservo. Nun, post plenaj tri jaroj mi ne plu povis elteni”, li diras en intervjuo de Libera Folio.
+
+Ionel Oneț en la libroservo ĉe Nieuwe Binnenweg en 2025. Foto: Paweł Fischer-Kotowski
 
 Libera Folio: Ĉu efektive vi nun finis labori ĉe la Libroservo de UEA? Kiu nun prizorgos ĝin?
 
@@ -181,6 +183,8 @@ En 1990 vi fondis la eldonejon Bero, ĉe kiu aperis pluraj signifaj verkoj origi
 
 – Inter tiuj ”malpli konataj” kulturoj estas ankaŭ la rumana kulturo. Mi provis, laŭ miaj kapabloj, diskonigi erojn de tiu kulturo ene de la esperantlingva komunumo. Tiam, komence de la jaroj 1990-aj mi konstante trovis fermitajn pordojn (kaj ekster kaj en la komunumo). Mi decidis, do, agadi sendepende kaj fondis la eldonejon Bero.
 
+La vendado dum la Universalaj Kongresoj ĉiam estis grava parto de la enspezoj de la libroservo. Jen en Lisbono en 2018. Foto: Kalle Kniivilä
+
 – Miaj spertoj pri eldonado en Esperanto estas iom miksitaj. Sen la celo kritiki, mi menciu du ĝenajn aspektojn. Tro ofte aŭtoroj aŭ tradukintoj rapidas proponi tekstojn, kiujn ili konsideras definitivaj sed kiuj, ve!, ne estas taŭgaj eĉ por kluba bulteno. La dua estas la rapidemo per kiu oni akceptas eldonprojektojn, kiuj poste treniĝadas dum longaj jaroj, ĉar oni ne sufiĉe konsideris ĉiujn aspektojn de la projekto. Momenta entuziasmo, sen stabila bazo, ne estas konstruiva!
 
 – Malgraŭ la diversaj, foje ne nepre pozitivaj aspektoj de la libroeldonado en Esperanto, laŭ mi ĝi havas sian valoron. Espereble ĝi havas ankaŭ estontecon.
@@ -201,6 +205,8 @@ Kiaj estis dum via kariero ĉe UEA la tipaj klientoj de la libroservo, tipaj men
 
 – La Esperanta klientaro estas specimeno de la klientaro ĝenerale. La sola diferenco estas ke la Esperantaj klientoj mendas, preskaŭ ekskluzive, esperantaĵojn. Sed, kiam temas pri postuloj, kondiĉoj, plendoj, (mal)kontentoj, ili estas ĝuste kiel la aliaj. En antaŭaj jaroj mendoj venis ankaŭ fakse kaj, pli abunde ol nun, letere.
 
+Livero de libroj ekveturonta al la UK en Lillo en 2015. En la fono videblas la oficistoj Pasquale Zapelli, Ionel Oneț kaj Tobiasz Kaźmierski. Foto: Francisco L. Veuthey
+
 Ĉu gravas laŭ vi, ke en Esperanto aperu kvalita literaturo kaj ke esperantistoj ĝin legu? Kial?
 
 – Nu, ni pensu ĝenerale pri tio, kiel ni povas uzi lingvon, kiun ni mem elektis lerni. Vojaĝi, legi, sociumi, aŭskulti registraĵojn (muzikajn, teatrajn, literaturajn), ĉeesti spektaklojn – jen nur kelkaj. Ne ĉiuj ni povas facile vojaĝi. La kialoj estas pluraj, kaj ili ne estas, nepre, la temo de tiu ĉi dialogo. Sen vojaĝado estas malfacile, se entute eblas, ĉeesti spektaklojn en Esperanto, eĉ en grandaj urboj.
@@ -217,15 +223,19 @@ Kiujn relative lastatempajn librojn – do, en Esperantujo, librojn de la lasta 
 
 – Kun granda bedaŭro mi rimarkis ke lastatempe la intereso eldoni naciajn antologiojn en Esperanto draste falis (aŭ eble komplete malaperis?). Aldone, la titoloj en la Serio Oriento-Okcidento (kaj ne nur ili) publikigitaj en Ĉinio estas tre malfacile, se entute, akireblaj. Bedaŭre! Aparte menciinda eldonaĵo estas, laŭ mi, la antologio de Esperanta literaturo tradukita en la anglan, Star in a Night Sky, kiun kompilis la bedaŭrata Paul Gubbins.
 
+En la libroservo de la Universala Kongreso en Florenco 2006 estis vendata lernolibro de la Itala por esperantistoj. Foto: Kalle Kniivilä
+
 – Kiam temas pri literaturo, fari rekomendojn estas riska paŝo. Tio, kio plaĉas al mi, povas ne plaĉi al aliaj. Antaŭ 1-2 jaroj, konato kvazaŭ plende demandis retorike ”kial oni donacis poemaron al mi, kiu ne legas poezion?” Nu, mi ŝatas poezion, ne estas devige ke ankaŭ aliaj ŝatu. Nu, espereble oni ne plendos al UEA (tro malfrue!) pri miaj sugestoj. Mi ne volas riski esti anatemita dum la cetero de mia longega semajnfino. Mi do kuraĝu.
 
-– Mi sugestus legi kion ajn de William Auld, Marjorie Boulton, Clelia Conterno Guglielminetti (ia ABC de nia originala literaturo), sen tamen forgesi la finon de la alfabeto, kun ties Waringhien kaj Zamenhof. Du lastatempaj libroj, nefikciaj, kaptis mian atenton: Memoru ĉi praulojn de Humphrey Tonkin kaj Plia dozo da prozo de Sten Johansson, la unuaj en serio – espereble daŭrigota – de priliteraturaj eseoj. Kaj oni nepre atentu la imponan (ankaŭ tipografie) duvoluman poemaron de Marjorie Boulton Unu animo homa .
+– Mi sugestus legi kion ajn de William Auld, Marjorie Boulton, Clelia Conterno Guglielminetti (ia ABC de nia originala literaturo), sen tamen forgesi la finon de la alfabeto, kun ties Waringhien kaj Zamenhof. Du lastatempaj libroj, nefikciaj, kaptis mian atenton: Memoru ĉi praulojn de Humphrey Tonkin kaj Plia dozo da prozo de Sten Johansson, la unuaj en serio – espereble daŭrigota – de priliteraturaj eseoj. Kaj oni nepre atentu la imponan (ankaŭ tipografie) duvoluman poemaron de Marjorie Boulton Unu animo homa.
 
-– Mi mem ĝuis lastatempe sciencfikcian romanon, kiun mi konas, en rumana traduko, ekde mia adolesko, Solaris , de la polo Stanisław Lem. Eble la plej skua libro, kiun mi legis antaŭ nelonge en Esperanto, estas Zulejka malfermas la okulojn de la tatarino Guzel Jaĥina.
+– Mi mem ĝuis lastatempe sciencfikcian romanon, kiun mi konas, en rumana traduko, ekde mia adolesko, Solaris, de la polo Stanisław Lem. Eble la plej skua libro, kiun mi legis antaŭ nelonge en Esperanto, estas Zulejka malfermas la okulojn de la tatarino Guzel Jaĥina.
 
-– Havante jam du librojn pri unu el la ĉefaj trajtoj de la homaro, precipe de ĝiaj politikaj kondukantoj – Laŭdo de l’ stulteco , de la roterdamano Erasmo de Roterdamo, kaj La stultaj infanoj , de la hispanino Ana María Matute – ni bonvenigu la lastatempan La homa stulteco de la hungaro István Ráth-Végh.
+”Memoru ĉi praulojn” de Humphrey Tonkin estas unu el la libroj, kiujn rekomendas Ionel Oneț.
 
-– Oni ankaŭ ne ignoru la ĉefverkojn de nia originala literaturo, ekzemple Poemo de Utnoa de Abel Montagut kaj la imponan poemaron de Edwin de Kock Testamente . Kaj mi ne povas fini sen mencii plian ”randan”, geografie, kulturon – tiun de Islando. Baldur Ragnarsson dankinde regalis nin per altkvalitaj specimenoj el ĝi. Oni ne neglektu tion.
+– Havante jam du librojn pri unu el la ĉefaj trajtoj de la homaro, precipe de ĝiaj politikaj kondukantoj – Laŭdo de l’ stulteco, de la roterdamano Erasmo de Roterdamo, kaj La stultaj infanoj, de la hispanino Ana María Matute – ni bonvenigu la lastatempan La homa stulteco de la hungaro István Ráth-Végh.
+
+– Oni ankaŭ ne ignoru la ĉefverkojn de nia originala literaturo, ekzemple Poemo de Utnoa de Abel Montagut kaj la imponan poemaron de Edwin de Kock Testamente. Kaj mi ne povas fini sen mencii plian ”randan”, geografie, kulturon – tiun de Islando. Baldur Ragnarsson dankinde regalis nin per altkvalitaj specimenoj el ĝi. Oni ne neglektu tion.
 
 Kiel ŝanĝiĝis la funkciado de la libroservo de UEA de kiam vi komencis tie labori, ĝis nun? Kiuj estis la plej signifaj turnopunktoj en la evoluo?
 
@@ -259,6 +269,8 @@ Lastfoje la jaraj vendoj de la libroservo superis 100 000 eŭrojn antaŭ dek jar
 
 – Ekster nia povo estas la politikaj decidoj, kiuj influas nin ĉiujn, ne nur la Esperantan mondon. Briteliro serioze influas la prezon de publikaĵoj, ĉu eldonitaj ĉu nur presitaj en Britio. Ankaŭ inverse Briteliro influas niajn vendojn: bonprezaj kurieroj kiuj liveras nur en EU ne plu liveras al Britio. Tio signifas pli altajn sendokostojn. Akcizoj por pakaĵoj ricevitaj el ekster EU influas la kostojn ne nur de britaj eldonaĵoj, sed ankaŭ de varoj el aliaj landoj, kaj ekde la komenco de tiu ĉi jaro ankaŭ por pakaĵoj kun deklarita valoro sub 150 eŭroj necesos pagi tiun akcizon.
 
+La laborantoj de la Centra Oficejo je la emeritiĝo de Osmo Buller en 2016: Pasquale Zapelli, Michal Matúŝov, Tobiasz Kaźmierski, Veronika Poór, Jerémie Bert, Osmo Buller, Ralph Schmeits, Ionel Oneț, Paweł Fischer-Kotowski, Clay Magalhães, Stanka Starčević kaj Atie van Zeist. Foto: Francisco L. Veuthey.
+
 – La lastatempa decido de la reĝimo Trump pagigi akcizon por eksterlandaj varoj kaj kompliki la importproceduron influas ankaŭ niajn vendojn. Unu el la plej grandaj batoj laŭ la tempo venis kaj daŭre venadas de kurieraj kaj poŝtaj servoj. En preskaŭ ĉiuj landoj malaperis la favoraj tarifoj por presaĵoj. Krome, la poŝtaj servoj en multaj landoj privatiĝis, kio signifas ke ilia ĉefa celo estas gajni.
 
 Antaŭ kvar jaroj la komitato de UEA decidis vendi la domon en Roterdamo, kie interalie situas la libroservo de la asocio. Kiajn paŝojn entreprenis laŭ via scio la estraro de la asocio por ke la laboro de la libroservo povu daŭri post la efektivigo de tiu decido? Ĉu vi kiel la respondeculo pri la libroservo estis iel konsultita pri la estonteco de la libroservo?
@@ -279,7 +291,7 @@ Kion vi mem intencas fari nun post via finfina emeritiĝo?
 
 – La unuaj paŝoj estos alkutimiĝi al la pli abunda libertempo kaj plani kiel saĝe uzi ĝin. Poste, eventuale serĉi loĝlokon ie pli sude, kie la gas- kaj elektro-fakturoj estas malpli ruinigaj. Ne, ne pensu pri suda Rumanio aŭ suda Usono (la du landoj kies civitano mi estas). Mi ne klarigu, kial mi ne sentus min komforte en ili – atentu la amaskomunikilajn novaĵojn pri ili.
 
-– Se entute plu aperos libroj en Esperanto, eble mi plu tradukos. Kaj certe, mi daŭrigos la laboron por la Granda Rumana-Esperanta Vortaro .
+– Se entute plu aperos libroj en Esperanto, eble mi plu tradukos. Kaj certe, mi daŭrigos la laboron por la Granda Rumana-Esperanta Vortaro.
 
 
 ---
@@ -294,7 +306,9 @@ Kion vi mem intencas fari nun post via finfina emeritiĝo?
 
 TEJO ĵus renovigis sian retejon. La laboro daŭris kelkajn monatojn kaj kostis 200 eŭrojn. UEA deklaris retejan renovigon sia prioritato en 2013 kaj elspezis tiucele minimume 100 000 eŭrojn. Tamen ĝis nun la retejo de UEA ne estis renovigita.
 
-Tiuj, kiuj dum la lasta semajno eniris la retejon de TEJO , sendube rimarkis, ke la aspekto kaj la strukturo de la retejo draste moderniĝis. Informo pri tiu granda reteja renovigo aperis en la komitata listo de TEJO la 20-an de januaro, sed cetere oni ne multe tamtamis pri ĝi.
+La retejo de TEJO de kelkaj tagoj havas novan aspekton.
+
+Tiuj, kiuj dum la lasta semajno eniris la retejon de TEJO, sendube rimarkis, ke la aspekto kaj la strukturo de la retejo draste moderniĝis. Informo pri tiu granda reteja renovigo aperis en la komitata listo de TEJO la 20-an de januaro, sed cetere oni ne multe tamtamis pri ĝi.
 
 La unuaj paŝoj pri la afero estis faritaj en aprilo 2025, post kiam finis sian laboron ĉe TEJO Mia Nordentoft, kiu dum longa tempo laboris pri la reteja renovigo kaj administra sistemo de UEA, Akso.
 
@@ -302,11 +316,13 @@ La unuaj paŝoj pri la afero estis faritaj en aprilo 2025, post kiam finis sian 
 
 La ”sukcesa konkludo” en la praktiko signifis, ke la respondeco pri la nova sistemo estis transdonita al UEA, kiu finpagis la fakturon de TEJO pro la laboro kaj metis la rezultan sistemon flanken. Kio plue okazos pri ĝi daŭre ne klaras, sed la eksigo de la teknikisto signifis, ke TEJO bezonis elpensi, kiel ĝi estonte prizorgu siajn retajn servojn.
 
+Ana Ribeiro.
+
 Ana Ribeiro, kiu tiam ĵus fariĝis estrarano de la asocio, ellaboris planon kiu ebligu la funkciadon de la retejoj sen bezono dungi novan oficiston.
 
-– La kerno de la plano estis ne uzi sistemojn memfaritajn por la retaj servoj de TEJO, kaj anstataŭe uzi komercajn alternativojn. Antaŭe TEJO havis Centran Reton, kiu estis sistemo programita de Mia Nordentoft, kaj mi uzis la sistemon Notion por krei similan paĝon , kiu ne bezonus esti kreita de nulo. Simile, la ĉefa retejo de TEJO estis en servilo, kiun Mia mem subtenis. Mi ŝanĝis al servilo tenata de firmao, kiu ricevas ekzemple ĝisdatigojn pri sekureco aŭtomate, ŝi rakontas al Libera Folio .
+– La kerno de la plano estis ne uzi sistemojn memfaritajn por la retaj servoj de TEJO, kaj anstataŭe uzi komercajn alternativojn. Antaŭe TEJO havis Centran Reton, kiu estis sistemo programita de Mia Nordentoft, kaj mi uzis la sistemon Notion por krei similan paĝon, kiu ne bezonus esti kreita de nulo. Simile, la ĉefa retejo de TEJO estis en servilo, kiun Mia mem subtenis. Mi ŝanĝis al servilo tenata de firmao, kiu ricevas ekzemple ĝisdatigojn pri sekureco aŭtomate, ŝi rakontas al Libera Folio.
 
-En julio Ana Ribeiro estis elektita prezidanto de TEJO , kaj en aŭgusto, dum la IJK en Indonezio, ŝi kune kun Severija Banaitytė (oficisto de TEJO pri komunikado) kaj Tyron Surmon (komitatano, antaŭa prezidanto) organizis seminarion por diskuti la novan retejon.
+En julio Ana Ribeiro estis elektita prezidanto de TEJO, kaj en aŭgusto, dum la IJK en Indonezio, ŝi kune kun Severija Banaitytė (oficisto de TEJO pri komunikado) kaj Tyron Surmon (komitatano, antaŭa prezidanto) organizis seminarion por diskuti la novan retejon.
 
 – Tiam ni kreis laborgrupon kune kun aliaj homoj por ellabori la enhavon. La dezajnon faris ĉefe mi kun helpo de Severija inter oktobro kaj januaro. Kompreneble, ĝi ankoraŭ ne estas perfekta, sed estas multe pli bona ol ĝi estis antaŭe.
 
@@ -333,7 +349,9 @@ La reteja renovigo de UEA malrapide progresas interalie ĉar oni decidis fari ĉ
 
 **Categories:** kulturo
 
-En oktobro 2024 premieris en Kanado dudekminuta sciencfikcia filmo en Esperanto, Himalia. Nun la filmo estas spektebla en la reto okaze de kebekia kinofestivalo, dum la 29-a de januaro eĉ senpage. Libera Folio republikigas artikolon pri la filmo, kiu pli frue aperis en la kanada Esperanto-gazeto Lumo .
+En oktobro 2024 premieris en Kanado dudekminuta sciencfikcia filmo en Esperanto, Himalia. Nun la filmo estas spektebla en la reto okaze de kebekia kinofestivalo, dum la 29-a de januaro eĉ senpage. Libera Folio republikigas artikolon pri la filmo, kiu pli frue aperis en la kanada Esperanto-gazeto Lumo.
+
+Sceno el la filmo.
 
 En oktobro 2024, kadre de ”Festival du nouveau cinéma”, premieris en Montrealo mallonga sciencfikcia filmo en Esperanto, ”Himalia”. Tiu unika kaj originala kinarta verko, kies lingvaĵoj estis flegitaj de kebekiaj esperantistoj, estis reĝisorita de Clara Milo kaj Juliette Lossky – neesperantistoj. Ĝi konkuris kun aliaj mallongaj kanadaj filmoj kadre de tiu kinarta festivalo.
 
@@ -353,9 +371,11 @@ Temas pri la vivo de familio, ritmita de la sunlumo, en bela bieno, en sufiĉe 
 
 Oni jam okazigis tri fojojn specialajn projekciojn (kun permeso de la distribua firmao de la filmo) antaŭ Esperanta publiko kadre de kanadaj aranĝoj. Espereble estos pliaj okazoj montri la filmon ankaŭ dum postaj Esperantaj kunvenoj.
 
-La filmo nun spekteblas en Eŭropo per la servoj de la grava kanalo ARTE . En la tuta mondo la 29-an de januaro eblos senpage spekti la filmon rete kadre de la festivalo ”Pleins Écrans”. Se oni maltrafis tiun ŝancon, eblos dum la tuta februaro spekti ĝin per la servo ”Cine-Club” de tiu festivalo , sed ne plu senpage.
+La filmo nun spekteblas en Eŭropo per la servoj de la grava kanalo ARTE. En la tuta mondo la 29-an de januaro eblos senpage spekti la filmon rete kadre de la festivalo ”Pleins Écrans”. Se oni maltrafis tiun ŝancon, eblos dum la tuta februaro spekti ĝin per la servo ”Cine-Club” de tiu festivalo, sed ne plu senpage.
 
 Aldone, la filmo jam estas elektita por konkuri kadre de diversaj kinartaj festivaloj.
+
+Clara Milo
 
 Clara Milo, kiu kreis la filmon kune kun Juliette Lossky, respondis kelkajn demandojn de Nicolas Viau.
 
@@ -416,17 +436,21 @@ Informoj pri la filmo
 
 UEA ne sukcesis subskribi kontrakton pri la oficeja domo en Nieuwe Binnenweg, kiel oni pli frue esperis. La aĉetanto ŝanĝis sian opinion, kaj nun ne klaras, al kiu la domo eventuale estos vendita, se la vendo fine okazos.
 
+Se la vendo okazos laŭplane, ŝajne neniu signo pri la historio de la Centra Oficejo restos ĉe Nieuwe Binnenweg 176. La ĉefa interesito rifuzis proponon pri memorplato sur la muro.
+
 Antaŭ kvar jaroj la komitato de UEA decidis vendi la domon ĉe Nieuwe Binnenweg 176, en kiu ekde 1962 troviĝas la Centra Oficejo de la asocio.
 
 La biblioteko kaj arkivo de UEA estis fordonitaj, kaj en septembro 2025 la estraro anoncis, ke fine estis trovita aĉetonto, kiu pretas paĝi 1,15 milionojn da eŭroj por la domo.
 
 Komence la estraro estis tiel certa pri sukcesa vendo al tiu kandidato, ke ĝi laŭdire eĉ planis en januaro okazigi adiaŭan Malferman Tagon en la Centra Oficejo.
 
-Tamen ĝis nun ne estis subskribita aĉetkontrakto, kaj la 26-an de januaro 2026 la estraro de UEA informis la komitaton , ke la situacio ŝanĝiĝis. La privata aĉetanto, kiu ne sukcesis pagi la necesan garantipagon, fine decidis ne aĉeti la domon.
+Tamen ĝis nun ne estis subskribita aĉetkontrakto, kaj la 26-an de januaro 2026 la estraro de UEA informis la komitaton, ke la situacio ŝanĝiĝis. La privata aĉetanto, kiu ne sukcesis pagi la necesan garantipagon, fine decidis ne aĉeti la domon.
 
 Anstataŭ li la domon laŭ lia propono povus aĉeti nova investa kompanio, fondita en septembro 2025. La maklerista firmao kiun uzas UEA faras esplorojn pri la nova firmao, ĝia posedostrukturo kaj la deveno de la mono. Jam nun la maklerista firmao esprimis dubojn pri la firmao.
 
 En januaro la makleristo vizitis la domon kun nova kandidato, kiu eventuale povus aĉeti la domon se ne realiĝos la vendo al la unua interesito. La nova kandidato nun siavice esploras la staton de la domo. Nova oferto ankoraŭ ne estis farita, kaj UEA ne volas vendi la domon por malpli ol 1,15 milionoj da eŭroj.
+
+La raporto pri la vendo de la domo.
 
 Laŭ la dokumento prezentita al la komitato la estraro de UEA nun intencas atendi la finajn konkludojn de la maklerista firmao kaj eventualan oferton de la nova interesito. Finan decidon pri la vendo oni intencas fari laŭ la konsilo de la makleristo.
 
@@ -434,7 +458,7 @@ Laŭ la origina plano UEA devus forlasi la domon komence de aprilo 2026. Pro la 
 
 Samtempe laŭ la dokumento daŭras la malplenigo de la domo. Tamen post la forpaso de Rob Moerbeek lia ampleksa persona arkivo estis portita al la Centra Oficejo. Krome en la domo restas parto de la stoko de la libroservo de UEA.
 
-Kio okazos pri la libroservo post la malplenigo de la domo en Nieuwe Binnenweg 176 tute ne klaras. Jarŝanĝe emeritiĝis Ionel Oneț , kiu dum pli ol 23 jaroj prizorgis la libroservon.
+Kio okazos pri la libroservo post la malplenigo de la domo en Nieuwe Binnenweg 176 tute ne klaras. Jarŝanĝe emeritiĝis Ionel Oneț, kiu dum pli ol 23 jaroj prizorgis la libroservon.
 
 La emeritiĝo ne povis esti surprizo por la estraro, sed tamen nova prizorganto mankas, same kiel konkreta plano por la estonteco de la libroservo.
 

@@ -1,6 +1,6 @@
 ---
 source: "Global Voices en Esperanto (eo.globalvoices.org)"
-generated_at: "2026-09-15T10:54:37.125988+00:00"
+generated_at: "2026-09-15T22:51:26.411259+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-09-05 – 2026-09-13"
 ---
@@ -18,9 +18,9 @@ Reprezentantoj de diversaj senŝtatecaj komunumoj kunvenis en Malto en marto por
 
 [Ĉiuj referencoj en la teksto estas en la angla krom se alie notite.]
 
-Ĉi tiun eseon verkis Albert Ioff, Javad Fairuz, kaj Alexey Ivashiuk de la Apatride Network . Ĝi estas parto de la speciala serio “ Senŝtateco ” de Global Voices Spotlight en julio 2026. La serio esploras kiel senŝtateco limigas la liberecon de movado, aliron al edukado, politikajn rajtojn kaj aliajn ŝancojn. Vi povas subteni la projekton ĉi tie .
+Ĉi tiun eseon verkis Albert Ioff, Javad Fairuz, kaj Alexey Ivashiuk de la Apatride Network. Ĝi estas parto de la speciala serio “Senŝtateco” de Global Voices Spotlight en julio 2026. La serio esploras kiel senŝtateco limigas la liberecon de movado, aliron al edukado, politikajn rajtojn kaj aliajn ŝancojn. Vi povas subteni la projekton ĉi tie.
 
-Fine de marto 2026, la Apatride Network , reta senŝtateca organizaĵo gvidata de senŝtatecaj personoj, okazigis tritagan kunvenon en Malto [eo], “Aŭdado kaj Resaniĝo”, kun financado de Porticus . Reprezentantoj de diversaj senŝtatecaj komunumoj kunvenis por kundividi spertojn kaj pridiskuti la personajn kaj kolektivajn dimensiojn de senŝtateco. Organizita de la partoprenantoj mem, la kunveno iris preter formalaj diskutoj, igante la personajn spertojn de senŝtatecaj homoj ŝlosila elemento en komprenado kaj reflektado pri senŝtateco. Partoprenantoj atente aŭskultis unu la alian, trovis komunaĵojn tra tre malsamaj rakontoj, kaj komune difinis celojn kaj kampojn por estonta kunlaboro.
+Fine de marto 2026, la Apatride Network, reta senŝtateca organizaĵo gvidata de senŝtatecaj personoj, okazigis tritagan kunvenon en Malto [eo], “Aŭdado kaj Resaniĝo”, kun financado de Porticus. Reprezentantoj de diversaj senŝtatecaj komunumoj kunvenis por kundividi spertojn kaj pridiskuti la personajn kaj kolektivajn dimensiojn de senŝtateco. Organizita de la partoprenantoj mem, la kunveno iris preter formalaj diskutoj, igante la personajn spertojn de senŝtatecaj homoj ŝlosila elemento en komprenado kaj reflektado pri senŝtateco. Partoprenantoj atente aŭskultis unu la alian, trovis komunaĵojn tra tre malsamaj rakontoj, kaj komune difinis celojn kaj kampojn por estonta kunlaboro.
 
 Inter la multaj gravaj temoj diskutitaj dum la kunveno, unu elstaris: kiel ni difinas nian propran identecon kaj kulturan apartenon kiam ŝtatoj sisteme ekskludas nin el la socio kaj neas al ni civitanecon pro politikaj, religiaj, etnaj aŭ aliaj arbitraj kialoj? En ĉi tiu artikolo, ni provas respondi ĉi tiun demandon, uzante reflektojn de pluraj partoprenantoj ĉe la kunveno “Aŭdado kaj Resaniĝo”.
 
@@ -57,17 +57,17 @@ Nek civitaneco nek nacieco devus iam determini ĉu la identeco de persono estas 
 
 Unu el la laboristaj protestoj en Venezuelo renkontis severan polican subpremon. Foto de Daniel Echeverría, 2026. Uzita kun permeso.
 
-De Karakaso ĝis Santiago , laboristoj plenigis la stratojn ĉi tiun 1-an de majo por postuli pli altajn salajrojn, pli sekurajn laborkondiĉojn kaj politikan respondencon meze de ekonomia necerteco tra Latinameriko . Manifestacioj en Venezuelo , Ĉilio , Kubo , Meksiko , Kolombio kaj Ekvadoro [eoj] reflektis kaj komunajn frustriĝojn kaj malsamajn naciajn krizojn, kun sindikatoj, studentoj kaj popolaj movadoj protestantaj kontraŭ malegaleco kaj registara neagado.
+De Karakaso ĝis Santiago, laboristoj plenigis la stratojn ĉi tiun 1-an de majo por postuli pli altajn salajrojn, pli sekurajn laborkondiĉojn kaj politikan respondencon meze de ekonomia necerteco tra Latinameriko. Manifestacioj en Venezuelo, Ĉilio, Kubo, Meksiko, Kolombio kaj Ekvadoro [eoj] reflektis kaj komunajn frustriĝojn kaj malsamajn naciajn krizojn, kun sindikatoj, studentoj kaj popolaj movadoj protestantaj kontraŭ malegaleco kaj registara neagado.
 
 En iuj landoj, la marŝoj restis pacaj celebradoj de laborista solidareco; en aliaj, protestantoj interbatiĝis kun polico pro streĉiĝoj pri inflacio, subpremo kaj sociaj rajtoj. Kune la regionaj mobilizadoj de la 1-a de majo substrekis la daŭran potencon de organizita laboro kaj la urĝecon de ekonomia justeco.
 
 Venezuelo: Nesufiĉa minimuma salajro
 
-Pli ol 2 000 laboristoj eliris al la stratoj de Karakaso la 30-an de aprilo kaj la 1-an de majo , protestante kontraŭ ĵus anoncita salajra plialtigo, kiun ili nomis nesufiĉa kaj trompa. La 30-an de aprilo, la protesto renkontis polican subpremon kontraŭ laboristoj, sindikatoj kaj kolektivoj.
+Pli ol 2 000 laboristoj eliris al la stratoj de Karakaso la 30-an de aprilo kaj la 1-an de majo, protestante kontraŭ ĵus anoncita salajra plialtigo, kiun ili nomis nesufiĉa kaj trompa. La 30-an de aprilo, la protesto renkontis polican subpremon kontraŭ laboristoj, sindikatoj kaj kolektivoj.
 
-La registaro plialtigis la tiel nomatan “integran minimuman enspezon” de 190 usonaj dolaroj al 240 usonaj dolaroj monate , sed la plialtigo baziĝas plejparte sur gratifikoj anstataŭ sur reala salajra ĝustigo. Ĉar tiuj bonusoj ne kontribuas al pensioj aŭ aliaj avantaĝoj, la protestantoj argumentas, ke la mezuro malmulte helpas longtempan ekonomian sekurecon. Kantante “bonuso ne estas salajro”, laboristoj marŝis tra la urbo dum polico baris iujn vojojn sen incidentoj.
+La registaro plialtigis la tiel nomatan “integran minimuman enspezon” de 190 usonaj dolaroj al 240 usonaj dolaroj monate, sed la plialtigo baziĝas plejparte sur gratifikoj anstataŭ sur reala salajra ĝustigo. Ĉar tiuj bonusoj ne kontribuas al pensioj aŭ aliaj avantaĝoj, la protestantoj argumentas, ke la mezuro malmulte helpas longtempan ekonomian sekurecon. Kantante “bonuso ne estas salajro”, laboristoj marŝis tra la urbo dum polico baris iujn vojojn sen incidentoj.
 
-La protestoj reflektas pli vastan frustriĝon pri la ekonomia krizo de Venezuelo, kie la oficiala minimuma salajro restas frostita ekde 2022, kaj nuntempe valoras ĉirkaŭ 0,30 usonaj dolaroj monate meze de alta inflacio. Multaj diras ke la nova enspezo ankoraŭ malproksimas de bazaj bezonoj, kun baza familia nutraĵkorbo taksata je proksimume 700 usonaj dolaroj monate .
+La protestoj reflektas pli vastan frustriĝon pri la ekonomia krizo de Venezuelo, kie la oficiala minimuma salajro restas frostita ekde 2022, kaj nuntempe valoras ĉirkaŭ 0,30 usonaj dolaroj monate meze de alta inflacio. Multaj diras ke la nova enspezo ankoraŭ malproksimas de bazaj bezonoj, kun baza familia nutraĵkorbo taksata je proksimume 700 usonaj dolaroj monate.
 
 Sindikataj gvidantoj kondamnas la politikon kiel trompa, argumentante ke laboristoj portas la ŝarĝon de krizo kiun ili ne kreis. Manifestacioj disvastiĝis preter Karakaso, kaj virinoj ludis ŝlosilan rolon, elstarigante, ke feminigitaj sektoroj, kiel prizorgado restas ekskluditaj el laborpolitikaj diskutoj.
 
@@ -81,7 +81,7 @@ La 1-a de majo en Kubo okazas en momento de ekstrema streĉo kaj necerteco. Kuba
 
 Tamen, la 1-a de majo neniam estis ordinara tago sur la insulo. En multaj landoj, ĝi donas al laboristoj ŝancon levi postulojn kaj atentigi por siaj bezonoj; en Kubo, ĝi longe servis al la registaro por projekcii forton kaj popularan subtenon. Dum jardekoj, grandskalaj marŝoj sekvis la saman ŝablonon. Semajnojn anticipe, laborejoj organizas devigan ĉeeston. Antaŭvespere de la marŝo, homoj restas vekaj dum la nokto, atendante esti transportitaj per busoj al la Placo de la Revolucio en Havano [eoj] — la simbola koro de politika potenco. Tie, homamasoj de pli ol miliono da homoj marŝis dum kvin horoj sub la atenta rigardo de la landa elito.
 
-Sed tiu epoko malaperis, kaj partopreno akre falis . La daŭranta krizo, kombinita kun publika seniluziiĝo, malfortigis la allogon de tiuj mobilizadoj. Por multaj, la premo ĉeesti — ĉu pro timo perdi sian laboron aŭ parton de la monata salajro de 15 usonaj dolaroj — jam ne havas la saman efikon. Responde, la registaro translokis la eventon al pli malgranda loko apud la usona ambasadejo. La skalo ŝanĝiĝis, sed la intenco restas: konservi la bildon de unueco, eĉ dum la surloka realo fariĝas pli kompleksa.
+Sed tiu epoko malaperis, kaj partopreno akre falis. La daŭranta krizo, kombinita kun publika seniluziiĝo, malfortigis la allogon de tiuj mobilizadoj. Por multaj, la premo ĉeesti — ĉu pro timo perdi sian laboron aŭ parton de la monata salajro de 15 usonaj dolaroj — jam ne havas la saman efikon. Responde, la registaro translokis la eventon al pli malgranda loko apud la usona ambasadejo. La skalo ŝanĝiĝis, sed la intenco restas: konservi la bildon de unueco, eĉ dum la surloka realo fariĝas pli kompleksa.
 
 Ĉilio: Laboristoj kontraŭ neoliberalaj publikaj politikoj
 
@@ -89,7 +89,7 @@ View this post on Instagram
 
 Manifestacioj kaj marŝo por la tago de la laboristo, ĉi 1-an de majo, en la urbo Santiago de Ĉilio. (Cristóbal Basaure/SOPA IMAGES)
 
-Por neinformita observanto, ĉi tiu 1-a de majo estis kiel iu ajn alia en la lastatempa ĉilia historio. Laboristoj manifestaciis pace en la ĉefaj urboj de la lando, sociaj amaskomunikiloj disvastigis mesaĝojn pri salajra justeco, kaj la Avenuo Libertador Bernardo O’Higgins , la plej grava avenuo de Santiago, estis la loko de kutima marŝo gvidata de la Central Unitaria de Trabajadores (CUT), al kiu aliĝis la Central Autónoma de Trabajadores (CAT) kaj la Central Clasista de Trabajadores y Trabajadoras .
+Por neinformita observanto, ĉi tiu 1-a de majo estis kiel iu ajn alia en la lastatempa ĉilia historio. Laboristoj manifestaciis pace en la ĉefaj urboj de la lando, sociaj amaskomunikiloj disvastigis mesaĝojn pri salajra justeco, kaj la Avenuo Libertador Bernardo O’Higgins, la plej grava avenuo de Santiago, estis la loko de kutima marŝo gvidata de la Central Unitaria de Trabajadores (CUT), al kiu aliĝis la Central Autónoma de Trabajadores (CAT) kaj la Central Clasista de Trabajadores y Trabajadoras.
 
 Sed io radikale ŝanĝiĝis en la lastaj monatoj. La registaro de José Antonio Kast, kiu ekoficis la 11-an de marto 2026, antaŭenigas serion da kontroversaj mezuroj en la administrado de la ŝtato, inkluzive de buĝetaj reduktoj en edukado, limigo de la minimuma salajro, kaj Nacia Rekonstrua Plano kiu, kun deklarita celo instigi privatan investon, antaŭvidas laŭgradan redukton de la imposto de entreprenoj de 27% al 23%.
 
@@ -97,7 +97,7 @@ La marŝoj de la 1-a de majo estas konsiderataj parto de emerĝanta protestmovad
 
 Kolombio: Decan laboron, ne prekarajn laborpostenojn
 
-Foto de la amaskunveno en Medeĝino , Kolombio. De Simón Cabrera por Tutmondaj Voĉoj [eoj]. Uzita kun permeso.
+Foto de la amaskunveno en Medeĝino, Kolombio. De Simón Cabrera por Tutmondaj Voĉoj [eoj]. Uzita kun permeso.
 
 Parolante post la marŝoj antaŭ grandaj homamasoj kiuj entuziasme subtenis lin, Petro uzis la publikan kunvenon por antaŭenigi kampanjon por Nacia Konstitucia Asambleo, celante preteriri la reziston de la kongreso al siaj proponitaj reformoj. Lia apero pliigis streĉiĝojn kun lokaj aŭtoritatoj kaj intensigis nacian politikan debaton.
 
@@ -111,7 +111,7 @@ Meksiko: Pli da homeco, malpli da Mondpokalo
 
 Sindikataj gvidantinoj en Iguala [eo], Meksiko, 2026. Foto de Karla Ivette Méndez, uzita kun permeso.
 
-La marŝoj reflektis tiun streĉiĝon. Sub la slogano “ Pli da homeco, malpli da Mondpokalo “, edukaj laboristoj protestis kontraŭ nepagitaj salajroj, troa impostado, kaj reformoj, kiuj, laŭ ili, serioze minacas pensiojn, sekurecon post emeritiĝo kaj aliron al sanservo. Sanlaboristoj ankaŭ aliĝis al la manifestacioj , denuncante severajn mankojn de medikamentoj kaj personaro.
+La marŝoj reflektis tiun streĉiĝon. Sub la slogano “Pli da homeco, malpli da Mondpokalo“, edukaj laboristoj protestis kontraŭ nepagitaj salajroj, troa impostado, kaj reformoj, kiuj, laŭ ili, serioze minacas pensiojn, sekurecon post emeritiĝo kaj aliron al sanservo. Sanlaboristoj ankaŭ aliĝis al la manifestacioj, denuncante severajn mankojn de medikamentoj kaj personaro.
 
 Kio distingis la protestojn de 2026 estis la videbla gvidado de virinoj el regionoj konsiderataj altriskaj. En Iguala, Gerero — urbo sub aktiva Viola Alerto kaj Genra perforta Alerto — sindikatigitaj instruistinoj mobiliziĝis por postuli respekton de siaj laborrajtoj kaj finon de la konstanta ĉikanado, mistraktado kaj diskriminacio, kiujn ili diras alfronti de la direktoro de sia laborejo.
 

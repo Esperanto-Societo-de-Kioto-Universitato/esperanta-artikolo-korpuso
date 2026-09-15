@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-09-15T13:49:03.165246+00:00"
+generated_at: "2026-09-15T16:12:44.531837+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-06-01 – 2026-06-30"
 ---
@@ -11,6 +11,8 @@ time_range: "2026-06-01 – 2026-06-30"
 **Published:** 2026-06-01
 
 **URL:** http://esperanto.china.org.cn/2026-06/01/content_118519097.htm
+
+**Author:** Bui Hai Mung
 
 **Categories:** Plej Freŝaj
 
@@ -119,6 +121,8 @@ Redaktoro: Xie Ruifeng
 **Published:** 2026-06-03
 
 **URL:** http://esperanto.china.org.cn/2026-06/03/content_118524959.htm
+
+**Author:** Bui Hai Mung
 
 **Categories:** Plej Freŝaj
 
@@ -797,6 +801,8 @@ Verkis: Bui Hai Mung
 
 **URL:** http://esperanto.china.org.cn/2026-06/16/content_118551439.htm
 
+**Author:** Bui Hai Mung
+
 **Categories:** Plej Freŝaj
 
 Meze de ĉiam pli intensa teknologia konkurenco, la urbo Tianjin konstruas evoluan modelon bazitan sur la kunigo de supera edukado, scienca esplorado kaj altteknologia industrio. Unu el la plej reprezentaj simboloj de ĉi tiu strategio estas la Ekspozicia Centro de la Scienca kaj Teknologia Parko Tiankai por Supera Edukado. Ĉi tiu centro prezentas ne nur sciencajn atingojn, sed ankaŭ la mekanismojn por transformi ilin en praktikajn aplikojn.
@@ -860,6 +866,8 @@ Verkis kaj fotis Bui Hai Mung
 
 **URL:** http://esperanto.china.org.cn/2026-06/17/content_118553256.htm
 
+**Author:** Bui Hai Mung
+
 **Categories:** Plej Freŝaj
 
 En la evolua bildo de la regiono Pekino-Tianjin-Hebei, la demando ne plu estas, kiu loko altiras pli da projektoj, sed kian rolon ĉiu loko povas ludi en la ĉeno de novigado. Tianjin, anstataŭ rekte konkuri kun Pekino pri scienca esplorado aŭ altiri talentulojn, elektas alian vojon: fariĝi loko, kie teknologio estas transformata el laboratorioj en produktojn kaj merkatojn.
@@ -920,6 +928,8 @@ Verkis kaj fotis: Bui Hai Mung
 **Published:** 2026-06-17
 
 **URL:** http://esperanto.china.org.cn/2026-06/17/content_118553343.htm
+
+**Author:** Bui Hai Mung
 
 **Categories:** Plej Freŝaj
 
@@ -996,6 +1006,8 @@ Redaktoro: Xie Ruifeng
 **Published:** 2026-06-18
 
 **URL:** http://esperanto.china.org.cn/2026-06/18/content_118555306.htm
+
+**Author:** Rafael Henrique Zerbetto
 
 **Categories:** Plej Freŝaj
 
@@ -1116,6 +1128,8 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-06/23/content_118553911.htm
 
+**Author:** Rafael Henrique Zerbetto
+
 **Categories:** Plej Freŝaj
 
 Nuntempe oftas plendoj kontraŭ grandaj sportaj eventoj, kiel la Futbala Mondpokalo de FIFA kaj la Someraj kaj Vintraj Olimpikoj kaj Paralimpikoj. La kritikantoj asertas, ke tiuj eventoj fariĝis tro multekostaj kaj postlasas nenion pozitivan al la popolo de la lando, kiu gastigis ilin.
@@ -1176,6 +1190,8 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-06/23/content_118562260.htm
 
+**Author:** Bui Hai Mung
+
 **Categories:** Novaĵoj
 
 Kiam oni parolas pri ĉina herba medicino, multaj homoj tuj pensas pri tradiciaj receptoj, kuracherboj uzataj por miloj da jaroj, kaj la spertoj de multjaraj praktikaj kuracistoj. Tamen en Tianjin aperas nova direkto, kiu montras, ke tradicia medicino povas esti kombinita kun la plej progresintaj teknologioj de la cifereca epoko. En la Nacia Centro por Novigo en Moderna Ĉina Herba Medicino – la sola landnivela manufaktura noviga centro en ĉi tiu kampo en Ĉinio – artefarita intelekto (AI), grandaj datumoj, bildiga teknologio kaj aŭtomatigo jam estas uzataj por ŝanĝi la manieron esplori, kontroli kaj produkti ĉinan herban medicinon.
@@ -1220,6 +1236,8 @@ Raportis: Bui Hai Mung
 **Published:** 2026-06-24
 
 **URL:** http://esperanto.china.org.cn/2026-06/24/content_118564415.htm
+
+**Author:** Rafael Henrique Zerbetto
 
 **Categories:** Plej Freŝaj
 
@@ -1315,6 +1333,8 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-06/29/content_118572940.htm
 
+**Author:** Rafael Henrique Zerbetto
+
 **Categories:** Plej Freŝaj
 
 La aŭtomobila testejo de BYD en Hefei donas al homoj la ŝancon sperti la plej novan teknologion de novenergiaj aŭtoj. Konstruita kontraŭ 5 miliardoj da juanoj, ĝi estas la tutmonde unua profesia ĉiuterena aŭtodromo speciale konstruita por novenergiaj aŭtoj.
@@ -1345,6 +1365,8 @@ Raportis kaj fotis: Rafael Henrique Zerbetto
 **Published:** 2026-06-29
 
 **URL:** http://esperanto.china.org.cn/2026-06/29/content_118573559.htm
+
+**Author:** Rafael Henrique Zerbetto
 
 **Categories:** Plej Freŝaj
 
@@ -1392,6 +1414,8 @@ Verkis kaj fotis: Rafael Henrique Zerbetto
 **Published:** 2026-06-30
 
 **URL:** http://esperanto.china.org.cn/2026-06/30/content_118575201.htm
+
+**Author:** Rafael Henrique Zerbetto
 
 **Categories:** Plej Freŝaj
 

@@ -1,6 +1,6 @@
 ---
 source: "UEA Facila (uea.facila.org)"
-generated_at: "2026-09-15T10:54:37.106790+00:00"
+generated_at: "2026-09-15T16:17:07.090062+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-03-11 – 2026-03-28"
 ---
@@ -28,17 +28,17 @@ Jam de jaroj mi interesiĝas pri objektoj, kiuj por niaj geavoj aŭ praavoj esti
 
 Jen tri ekzemploj de aĵoj de antaŭ tri aŭ kvar generacioj. Ĉiu el ili perfekte solvis problemon de sia propra tempo.
 
-Ujo por kamemberto: Kune kun pano kaj vino, la fama fromaĝo kamemberto el Normandio en Francio estas por francoj bazo de rapida manĝo en la laborejo. Ĝi estas ankaŭ neforigebla parto de vespera familia manĝo. Sed jen problemo: ĝi havas fortan odoron, ĝi facile disfluas, kaj krome necesas alporti ĝin al la tablo je ĉambra temperaturo . Tiu ronda, vertikale turniĝanta ujo fermis ĝian odoron interne kaj samtempe malhelpis, ke la fromaĝo disfluu. Tial ne necesis konservi ĝin en fridujo .
+Ujo por kamemberto: Kune kun pano kaj vino, la fama fromaĝo kamemberto el Normandio en Francio estas por francoj bazo de rapida manĝo en la laborejo. Ĝi estas ankaŭ neforigebla parto de vespera familia manĝo. Sed jen problemo: ĝi havas fortan odoron, ĝi facile disfluas, kaj krome necesas alporti ĝin al la tablo je ĉambra temperaturo. Tiu ronda, vertikale turniĝanta ujo fermis ĝian odoron interne kaj samtempe malhelpis, ke la fromaĝo disfluu. Tial ne necesis konservi ĝin en fridujo.
 
-Akrigilo por razilo : Por vojaĝanta komercisto aŭ eĉ turisto en la komenco de la dudeka jarcento, gravis bone prezenti sin. Tio signifis esti bone razita , ĉar tio estis la ʺenir-bileto” al la bonaj sociaj rondoj. Tiu malgranda aparato ebligis akrigi la klingon de la razilo dum vojaĝado. Oni ambaŭdirekten glitigis la malgrandan skatoleton laŭlonge de la ŝnuro, kies unu finon oni fiksis al la pordotenilo de la hotela ĉambro. Mi provis: ĝi funkcias!
+Akrigilo por razilo: Por vojaĝanta komercisto aŭ eĉ turisto en la komenco de la dudeka jarcento, gravis bone prezenti sin. Tio signifis esti bone razita, ĉar tio estis la ʺenir-bileto” al la bonaj sociaj rondoj. Tiu malgranda aparato ebligis akrigi la klingon de la razilo dum vojaĝado. Oni ambaŭdirekten glitigis la malgrandan skatoleton laŭlonge de la ŝnuro, kies unu finon oni fiksis al la pordotenilo de la hotela ĉambro. Mi provis: ĝi funkcias!
 
-Karto-tenilo por unu-manuloj: Post la Unua Mondmilito estis multaj milit- invalidoj , inter aliaj tiuj, kiuj perdis brakon. Por ili, estis malfacile retrovi laboron. En la socia vivo, okazanta por viroj en la loka kafejo, aperis pliaj ĝenoj. Kiel samtempe fumi, trinki, kaj ludi kartojn, kiam oni estas unu-brakulo? La supran malgrandan aparaton, la kartotenilon, la kafejestro fiksis al la tablo. Dum ĝi tenis la kartojn, la mano estis disponebla por teni glason aŭ cigaredon. Tiel, ankaŭ unu-manulo povis partopreni en la sociaj interrilatoj, kaj do senti sin vera viro.
+Karto-tenilo por unu-manuloj: Post la Unua Mondmilito estis multaj milit-invalidoj, inter aliaj tiuj, kiuj perdis brakon. Por ili, estis malfacile retrovi laboron. En la socia vivo, okazanta por viroj en la loka kafejo, aperis pliaj ĝenoj. Kiel samtempe fumi, trinki, kaj ludi kartojn, kiam oni estas unu-brakulo? La supran malgrandan aparaton, la kartotenilon, la kafejestro fiksis al la tablo. Dum ĝi tenis la kartojn, la mano estis disponebla por teni glason aŭ cigaredon. Tiel, ankaŭ unu-manulo povis partopreni en la sociaj interrilatoj, kaj do senti sin vera viro.
 
 Sylvain Lelarge
 
 La supraj fotoj aperis en la nederlandlingva verko Wat is dat de Sylvain Lelarge. Fotis ilin Peter Kollányi.
 
-Sylvain Lelarge estas franca esperantisto loĝanta en Nederlando. Li instruas la francan lingvon al nederlandanoj, kiuj planas loĝi en Francio. Dum la Universalaj Kongresoj de Esperanto jam de 25 jaroj li instruas ankaŭ Esperanton kun sia edzino Katalin Kováts (la fondinto kaj direktorino de www.edukado.net ).
+Sylvain Lelarge estas franca esperantisto loĝanta en Nederlando. Li instruas la francan lingvon al nederlandanoj, kiuj planas loĝi en Francio. Dum la Universalaj Kongresoj de Esperanto jam de 25 jaroj li instruas ankaŭ Esperanton kun sia edzino Katalin Kováts (la fondinto kaj direktorino de www.edukado.net).
 
 arkeologo: sciencisto, kiu serĉas kaj studas restaĵojn el malnovegaj tempoj.
 
@@ -54,7 +54,7 @@ klingo: la akra parto de tranĉilo aŭ de alia ilo uzata por tranĉi.
 
 parto-preni: esti unu el la homoj, kiuj ĉe-estas kaj kune aktivas en iu komuna agado.
 
-razi: forigi harojn de la vizaĝo, kruroj, aŭ aliaj korpo-partoj; razilo: ilo por forigi harojn de la vizaĝo, kruroj, aŭ aliaj korpo-partoj.
+razi: forigi harojn de la vizaĝo, kruroj, aŭ aliaj korpo-partoj; razilo: ilo por forigi harojn de la vizaĝo, kruroj, aŭ aliaj korpo-partoj.
 
 Razilo: Marcus Wengenroth, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1148068
 
@@ -107,17 +107,17 @@ Altforno en urbo Ruda Śląska (Pollando) - foto de Eugen ĉe Wikimedia Commons
 
 Eblas aŭskulti ĉi tiun artikolon, kiun voĉlegis Márcia Rego.
 
-Ekde la 19-a jarcento, minejoj kaj fandejoj aperis en la pejzaĝo de multaj industriaj regionoj de Eŭropo. Tre grava parto de la fandejoj estis altegaj fornoj, kiuj estis inter la plej altaj industriaj konstruaĵoj. En tiuj altaj fornoj , kiujn oni nomas alt-fornoj aŭ fornegoj en Esperanto, oni prilaboris ercon por fari ŝtalon .
+Ekde la 19-a jarcento, minejoj kaj fandejoj aperis en la pejzaĝo de multaj industriaj regionoj de Eŭropo. Tre grava parto de la fandejoj estis altegaj fornoj, kiuj estis inter la plej altaj industriaj konstruaĵoj. En tiuj altaj fornoj, kiujn oni nomas alt-fornoj aŭ fornegoj en Esperanto, oni prilaboris ercon por fari ŝtalon.
 
-Altforno aspektas kvazaŭ grandega ujo, ĉirkaŭ kiu estas amaso da ŝtalaj tuboj kaj traboj . Ĝia alteco atingas 50-60 metrojn. Proksime al la forno estas diversaj ejoj kaj aĵoj, kiuj helpas en la procezo de ŝtal-farado: grandaj varmigiloj de aero (tiu varmigita aero estos poste sendata al la fornego); liftoj kun ĉaretoj por porti la ercon supren; grandegaj ujoj por kolekti la cindron kreitan dum la procezo; kaj aliaj.  La temperaturo interne de altforno povas atingi eĉ 2000 °C (gradojn celsiajn). Kiam la forno ekfunkcias, ĝi laboras senĉese eĉ dum kelkaj jaroj.
+Altforno aspektas kvazaŭ grandega ujo, ĉirkaŭ kiu estas amaso da ŝtalaj tuboj kaj traboj. Ĝia alteco atingas 50-60 metrojn. Proksime al la forno estas diversaj ejoj kaj aĵoj, kiuj helpas en la procezo de ŝtal-farado: grandaj varmigiloj de aero (tiu varmigita aero estos poste sendata al la fornego); liftoj kun ĉaretoj por porti la ercon supren; grandegaj ujoj por kolekti la cindron kreitan dum la procezo; kaj aliaj. La temperaturo interne de altforno povas atingi eĉ 2000 °C (gradojn celsiajn). Kiam la forno ekfunkcias, ĝi laboras senĉese eĉ dum kelkaj jaroj.
 
-Nun oni ne plu vidas grandajn fandejajn fornojn en urbaj regionoj. Multaj fandejoj, kies historio komenciĝis en la 19-a jarcento, ĉesigis sian produktadon, kaj iliaj konstruaĵoj, same kiel la altfornoj, estas detruitaj . En Eŭropo restas tamen dek-kelkaj altfornoj, kiujn nun povas viziti turistoj, ekzemple en Ĉeĥio (Ostrava), Germanio (Völklingen), kaj Luksemburgo (Esch-sur-Alzette).
+Nun oni ne plu vidas grandajn fandejajn fornojn en urbaj regionoj. Multaj fandejoj, kies historio komenciĝis en la 19-a jarcento, ĉesigis sian produktadon, kaj iliaj konstruaĵoj, same kiel la altfornoj, estas detruitaj. En Eŭropo restas tamen dek-kelkaj altfornoj, kiujn nun povas viziti turistoj, ekzemple en Ĉeĥio (Ostrava), Germanio (Völklingen), kaj Luksemburgo (Esch-sur-Alzette).
 
-En Supra Silezio, kiu estas industria regiono en suda Pollando, el multaj historiaj altfornoj restas nur unu. La forno estis iam parto de fandejo en la urbo Ruda Śląska. La fandejo estis konstruita en la jaro 1840. Iam ĝi estis tre granda fandejo, kaj en ĝi funkciis samtempe sep altfornoj. La fandejo ĉesigis produktadon de ŝtalo en 2005.  La altforno, kiu staras ĝis hodiaŭ, kiel signo de iama industria potenco , ne estas ege malnova. Oni konstruis ĝin en 1968 por anstataŭigi pli malnovan fornon.
+En Supra Silezio, kiu estas industria regiono en suda Pollando, el multaj historiaj altfornoj restas nur unu. La forno estis iam parto de fandejo en la urbo Ruda Śląska. La fandejo estis konstruita en la jaro 1840. Iam ĝi estis tre granda fandejo, kaj en ĝi funkciis samtempe sep altfornoj. La fandejo ĉesigis produktadon de ŝtalo en 2005. La altforno, kiu staras ĝis hodiaŭ, kiel signo de iama industria potenco, ne estas ege malnova. Oni konstruis ĝin en 1968 por anstataŭigi pli malnovan fornon.
 
 Estas interese, kion oni faris, por ne ĉesigi la produktadon de ŝtalo dum longa tempo pro ekfunkciigo de la nova altforno. La novan fornegon oni starigis proksime al la funkcianta; la distanco inter ili estis ĉirkaŭ 19 metroj. Kiam la nova forno estis jam preta, oni rapide malkonstruis la malnovan kaj ŝovis la novan al la sama loko. La ŝovado de konstruaĵo, kiu pezis 2300 tunojn kaj altis 58 metrojn, estis granda inĝeniera sukceso en la tiama tempo.
 
-La lasta fandeja altforno en Supra Silezio estas nun konsiderata kiel ŝtata historia monumento . Ĝi estas nun renovigata, kun la celo baldaŭ starigi en ĝi grandan kulturan centron. Eblos viziti tiun altfornon, iri supren, kaj de la supro admiri tutan urban kvartalon , kiu dum jaroj kreskis ĉirkaŭ la fandejo.
+La lasta fandeja altforno en Supra Silezio estas nun konsiderata kiel ŝtata historia monumento. Ĝi estas nun renovigata, kun la celo baldaŭ starigi en ĝi grandan kulturan centron. Eblos viziti tiun altfornon, iri supren, kaj de la supro admiri tutan urban kvartalon, kiu dum jaroj kreskis ĉirkaŭ la fandejo.
 
 Ewa Caban
 
@@ -192,13 +192,13 @@ Eblas aŭskulti ĉi tiun artikolon, kiun voĉlegis Margaret Zaleski-Zamenhof.
 
 Dum la Internacia Tago de Homaj Rajtoj, la 10-an de decembro 2025, juna denaska esperantistino Elena Trapani partoprenis forumon pri homaj rajtoj. La forumo estis organizita de la Konsilio de Eŭropo en Budapeŝto, en la Eŭropa Centro por la Junularo.
 
-Okaze de la solena legado de la Universala Deklaracio de Homaj Rajtoj en pluraj lingvoj, Elena voĉlegis la tekston en Esperanto, donante klaran voĉon kaj dignan prezenton al nia lingvo ĉe internacia instanco . Ŝi atentigis pri la rolo de lingva diverseco inter la junularo por la defendado de homaj rajtoj kaj interkultura dialogo . Ŝian kontribuon varme bonvenigis la partoprenantoj. “Estis grandega plezuro partopreni en la forumo kaj kontribui. La partoprenantoj estis poste ege interesataj. ‘Ĉu Esperanto fakte estas lingvo? Kiel vi lernis tion? Ĉu oni ankoraŭ parolas ĝin?’ – mi ricevis amason da demandoj!” – rakontas Elena.
+Okaze de la solena legado de la Universala Deklaracio de Homaj Rajtoj en pluraj lingvoj, Elena voĉlegis la tekston en Esperanto, donante klaran voĉon kaj dignan prezenton al nia lingvo ĉe internacia instanco. Ŝi atentigis pri la rolo de lingva diverseco inter la junularo por la defendado de homaj rajtoj kaj interkultura dialogo. Ŝian kontribuon varme bonvenigis la partoprenantoj. “Estis grandega plezuro partopreni en la forumo kaj kontribui. La partoprenantoj estis poste ege interesataj. ‘Ĉu Esperanto fakte estas lingvo? Kiel vi lernis tion? Ĉu oni ankoraŭ parolas ĝin?’ – mi ricevis amason da demandoj!” – rakontas Elena.
 
 Elena, kiu estas membro de UEA kaj TEJO (Universala Esperanto-Asocio kaj Tutmonda Esperantista Junulara Organizo), iris al la forumo por reprezenti la skoltojn – sed ŝi lerte trovis manieron ligi sian agadon ankaŭ al Esperanto.
 
 Josette Ducloyer
 
-La supra artikolo unue aperis en revuo Esperanto 1409(2) februaro 2026, p. 41. Ĝi estas iom redaktita por la legantoj de uea.facila .
+La supra artikolo unue aperis en revuo Esperanto 1409(2) februaro 2026, p. 41. Ĝi estas iom redaktita por la legantoj de uea.facila.
 
 Josette Ducloyer estas franca esperantistino, kiu loĝas en vilaĝo proksime al Rennes, la ĉefurbo de Bretonio. Ŝi estas membro de la konsilantaro de Federacio Esperanto-Bretonio kaj respondecas pri organizado de rondvojaĝoj de eksterlandaj esperantistoj tra Bretonio.
 

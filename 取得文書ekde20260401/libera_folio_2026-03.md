@@ -1,6 +1,6 @@
 ---
 source: "Libera Folio (liberafolio.org)"
-generated_at: "2026-09-15T13:30:48.688030+00:00"
+generated_at: "2026-09-15T16:02:39.006480+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-03-09 – 2026-03-24"
 ---
@@ -16,15 +16,19 @@ time_range: "2026-03-09 – 2026-03-24"
 
 La komitato de UEA en sabata kunsido aprobis plurajn ĉefe teknikajn ŝanĝojn en la statuto de la asocio. Pliaj ŝanĝoproponoj estos pritraktitaj post du semajnoj. ”Tute mankis tempo por vere konsideri, proponi plibonigojn aŭ amendojn anticipe”, komentas Brandon Sowers, prezidanto de Esperanto USA.
 
+La komitato de UEA kunsidis rete en sabato.
+
 La komitato de UEA en sabato kunvenis rete por eksterordinara kunsido por trakti ŝangojn en la statuto, la baza dokumento kiu difinas la funkciadon de la asocio. 37 el entute 54 komitatanoj el diversaj partoj de la mondo ĉeestis la kunsidon, kiu daŭris kvar horojn.
 
 En aŭgusto dum la kunsido en Brno la komitato jam decidis, ke estu faritaj ŝanĝoj en la statuto por kongruigi ĝin al la postuloj de nederlanda leĝo pri neprofitcelaj asocioj. La leĝo validas jam de kelkaj jaroj, kaj la ŝanĝojn necesas efektivigi ĝis la mezo de la nuna jaro.
 
-De pli ol jaro pendas alia propono pri ŝanĝo de la statuto, submetita de la usona landa asocio de UEA. Laŭ tiu propono landaj asocioj kun pli ol 250 membroj ricevu plian reprezentanton en la komitato. Intertempe aperis ankaŭ propono kun kontrasta enhavo – pri duobligo de la nombro de la komitatanoj B , kiuj reprezentas la individuajn membrojn de la asocio.
+De pli ol jaro pendas alia propono pri ŝanĝo de la statuto, submetita de la usona landa asocio de UEA. Laŭ tiu propono landaj asocioj kun pli ol 250 membroj ricevu plian reprezentanton en la komitato. Intertempe aperis ankaŭ propono kun kontrasta enhavo – pri duobligo de la nombro de la komitatanoj B, kiuj reprezentas la individuajn membrojn de la asocio.
 
 Origine la estraro de UEA intencis meti antaŭ la komitaton nur la ŝanĝoproponojn rilatajn al la formalaj postuloj de la nederlanda leĝo, argumentante ke la aliaj proponoj ne estas sufiĉe bone preparitaj nek urĝaj.
 
 Tamen post protestoj en la komitata diskutejo al la tagordo estis aldonitaj ankaŭ la proponoj pri la ŝanĝoj en la nombro de komitatanoj, kaj propono pri forigo de la principo ”en unu regno nur unu landa asocio”.
+
+La sabata komitata kunsido daŭris kvar horojn.
 
 Dum la kunsido pluraj komitatanoj, plej rimarkinde Marija Belošević, kritikis la estraron pri malbona preparo de la diversaj planataj ŝanĝoj en la statuto kaj regularo.
 
@@ -49,6 +53,8 @@ Dum kunsido de decidopova organo, se estas konstatite, ke estrarano, komitatano,
 Pliaj detaloj pri tio, kio povas konsistigi intereskonflikton kaj kiel oni procedu, aperos en aparta regularo pri intereskonflikto. Tia regularo tamen ankoraŭ ne ekzistas.
 
 La fina formo de la proponitaj statutoŝanĝoj rilataj al la nederlanda leĝaro estis post longa diskuto aprobita sen kontraŭaj voĉoj. Por trakti la ceterajn proponitajn ŝanĝojn en la statuto la komitato de UEA kunvenos plian fojon dimanĉe la 22-an de marto.
+
+Brandon Sowers.
 
 Antaŭ tio tiujn proponojn diskutos komitata laborgrupo, kiu estis starigita dum la sabata kunsido. Ĝian laboron kunordigos Brandon Sowers, komitatano A por Usono kaj prezidanto de la landa asocio de UEA en Usono.
 
@@ -87,11 +93,11 @@ TEJO simile ne ricevis la administran subvencion en 2022, kaj tiam TEJO uzis sia
 
 ”TEJO neniam plene rekonstruis siajn rezervojn ekde la krizo en 2022, kaj mi konsideras, ke decidi dungi 5 homojn sen rekonstrui tiujn rezervojn estis riska decido, sed mi kredas ke TEJO-anoj ĉiam fidis, ke la situacio de 2022 estis ununura okazo kaj ĉiam agis kvazaŭ la administra subvencio estus garantio. Leciono: ĝi ne estas.”
 
-Laŭ la financa raporto , TEJO havis rezervon de 133 500 eŭroj en decembro 2024. Esence, la administra subvencio egalas al preskaŭ la tuta tiama kapitalo de TEJO. Kiom estas la kapitalo nun, ne klaras.
+Laŭ la financa raporto, TEJO havis rezervon de 133 500 eŭroj en decembro 2024. Esence, la administra subvencio egalas al preskaŭ la tuta tiama kapitalo de TEJO. Kiom estas la kapitalo nun, ne klaras.
 
 Ribeiro proponis du manierojn por malgrandigi la deficiton. Unue, ŝi diris ke ”ni devos eksigi plejparton de nia oficistaro.” Sed maldungoj ne estos senproblemaj. Laŭ la realigplano por 2025–26, oni notis ke dungitoj rajtas ricevi finan pagon kaze de maldungo – sed ”TEJO ne havas rezervon aŭ asekuron por tiu kazo.”
 
-Due, TEJO petos helpon de UEA. Nome de la estraro de UEA, Aleks Kadar diris ke UEA esploras kiel subteni TEJOn. Tio povus okazi per kaskredito aŭ donackampanjo. Se temus pri kredito, TEJO evidente devus poste iel repagi ĝin.
+Due, TEJO petos helpon de UEA. Nome de la estraro de UEA, Aleks Kadar diris ke UEA esploras kiel subteni TEJOn. Tio povus okazi per kaskredito aŭ donackampanjo. Se temus pri kredito, TEJO evidente devus poste iel repagi ĝin.
 
 Ribeiro proponis esplori kiel eviti similan situacion denove. Unu sugesto estas, ke TEJO ne dungu oficiston sen krei rezervon egalan al kelkaj monataj salajroj de tiu oficisto.
 
@@ -111,6 +117,8 @@ Robert Nielsen
 **Categories:** UEA, movado
 
 Neniuj pliaj statutŝanĝoj, krom tiuj nepre postulataj de la nederlanda leĝo, okazos ĉe UEA dum la proksima tempo. La komitato de UEA dum sia sabata kunsido decidis ŝovi la aferon al aparta laborgrupo. Antonio del Barrio proponis tuj decidi pri la afero por liberigi tempon al pli gravaj diskutoj, sed ricevis malmultan subtenon.
+
+Entute 31 komitatanoj ĉeestis la 21-an de marto, kiam pliaj proponoj pri statutŝanĝo estis diskutataj.
 
 La komitato de UEA, kiam ĝi fakte kunvenas, ŝatas longe diskuti pri eĉ bagatelaj aferoj, sed volonte prokrastas decidojn. Krome la komitato kutimas preskaŭ unuanime aprobi ajnan proponon subtenatan de la estraro. Tiel okazis ankaŭ ĉi-foje.
 
@@ -132,6 +140,8 @@ La unua laborgrupo, kiu nun jam finis sian laboron, unuanime malaprobis ajnajn �
 
 La propono doni al landaj asocioj duan komitatanon jam ekde 250 membroj estis ŝanĝita tiel, ke la limo estu 500 – anstataŭ la nuna 1 000. Subtenantoj de la propono en la laborgrupo opiniis, ke tio donus al la landaj asocioj plian motivon kreski kaj diversigus la komitaton sen forpuŝi nunajn anojn. Kontraŭuloj ne vidis bezonon de ŝanĝo kaj opiniis, ke oni ne kreu neegalecon inter la landaj asocioj.
 
+Dum parto de la kunsido la diraĵoj de la komitatanoj estis aŭtomate transformitaj al nekompreneblaj tekstoj. Jen Antonio del Barrio argumentas ke oni tuj voĉdonu pri la proponoj.
+
 La propono pri pliigo de la kvanto de komitatanoj A, kiuj reprezentas landajn asociojn, estis farita de la usona landa asocio de UEA. Antonio del Barrio, nun komitatano B, siaflanke proponis anstataŭe pliigi la kvanton de komitatanoj B, kiuj reprezentas la individuajn membrojn. Subtenantoj de tiu propono emfazis, ke ĝuste la individuaj membroj pagas la ĉefan parton de la kotizoj de UEA, kaj ke ili nun ne estas sufiĉe reprezentataj en la komitato.
 
 – La plej aktivaj membroj kutime estas la individuaj membroj, atentigis Antonio del Barrio.
@@ -144,7 +154,7 @@ Li aldonis, ke estus preferinde ke ĉiuj proponataj ŝanĝoj de la statuto estu 
 
 La prezidanto kaj la ĝenerala direktoro tamen konsentis kun la raporto de la laborgrupo, laŭ kiu la afero ne estas matura sed bezonas plian esploron kaj novan laborgrupon, kiu raportu fine de 2027. Tion opiniis ankaŭ plimulto de la ĉeestantaj komitatanoj: 23 subtenis la proponon fondi novan laborgrupon, 4 kontraŭis ĝin kaj du ne voĉdonis.
 
-Fine de la kunsido ĝenerala direktoro Martin Schäffer proponis informi la komitaton pri la grandaj  ekonomiaj problemoj de TEJO, kiuj estiĝis ĉar TEJO ĉi-jare ne ricevas la grandan administran subvencion de EU.
+Fine de la kunsido ĝenerala direktoro Martin Schäffer proponis informi la komitaton pri la grandaj ekonomiaj problemoj de TEJO, kiuj estiĝis ĉar TEJO ĉi-jare ne ricevas la grandan administran subvencion de EU.
 
 Prezidanto Fernando Maia tamen proponis tuj fini la diskuton kaj trakti la TEJO-aferon en la komisiono pri financo dum la sekva semajno. Neniu protestis.
 
