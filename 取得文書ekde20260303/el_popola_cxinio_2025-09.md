@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-09-15T10:54:36.841412+00:00"
+generated_at: "2026-09-15T13:49:03.019842+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-09-01 – 2025-09-30"
 ---
@@ -24,8 +24,6 @@ Hodiaŭ, la tutmondaj defioj rilate al paco, disvolviĝo, sekureco kaj administr
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -44,8 +42,6 @@ Xi Jinping faris la rimarkojn en bonveniga bankedo por internaciaj gastoj, kiuj 
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -100,8 +96,6 @@ La sukcesa rakonto de Suizhou kaj s-ino Xia vivece ilustras la ĉinan strategion
 
 La "riĉiga fungo" de Suizhou estas ne nur ekonomia sukcesa rakonto, sed ankaŭ modelo pri kampara transformado en la cifereca erao, portante esperon kaj inspiron al aliaj kamparaj regionoj tra Ĉinio kaj la mondo. Aliaj landoj, precipe evoluantaj landoj, povas lerni de ĉi tiu politiko kaj la ĉina aliro al malriĉecoredukto kaj kampara evoluigo.
 
-El Popola Chinio
-
 
 ---
 
@@ -121,8 +115,6 @@ Li diris, ke oni havas multajn taskojn por ĝuste koni la kontribuojn de Ĉinio 
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -134,25 +126,15 @@ El Popola Chinio
 
 **Categories:** Plej Freŝaj
 
-Frumatene de la 20a de aŭgusto, en la ekspozicio pri ludoj en Kölner, Germanio, la teamo Lud-scienco anoncis sian novan verkon
-
-Nigra Mito: Zhongkui
-
-. Ĝis posttagmezo de tiu tago la anonc-filmeto jam estis vidita por 7.65 milionoj da fojoj sur ĉinaj vide-platformoj kun pli ol 50 miloj da komentoj. La temo rapide okupis la unuan lokon en la listo pri plej multe diskutataj temoj en la interreto.
+Frumatene de la 20a de aŭgusto, en la ekspozicio pri ludoj en Kölner, Germanio, la teamo Lud-scienco anoncis sian novan verkon Nigra Mito: Zhongkui. Ĝis posttagmezo de tiu tago la anonc-filmeto jam estis vidita por 7.65 milionoj da fojoj sur ĉinaj vide-platformoj kun pli ol 50 miloj da komentoj. La temo rapide okupis la unuan lokon en la listo pri plej multe diskutataj temoj en la interreto.
 
 La teamo elektis la daton la 20-a de aŭgusto por publikigi la anonon, ĉar tio estis kutimo por multaj jaroj.
 
-La teamo klarigis sian ambicion. Post sukceso de la ludo
-
-Nigra Mito: Wukong
-
-, ili deziras provi novan kaj malsaman lud-sperton, defii novajn lud-karakterojn kaj krei novan en mondkoncepto kaj rakontado.
+La teamo klarigis sian ambicion. Post sukceso de la ludo Nigra Mito: Wukong, ili deziras provi novan kaj malsaman lud-sperton, defii novajn lud-karakterojn kaj krei novan en mondkoncepto kaj rakontado.
 
 Dum Tang-dinastio (618-907) imperiestro Xuanzong en malsano sonĝis, ke eta demono ŝtelis la malgrandan parfum-saketon de Yang Guifei kaj lian jadan fluton. Granda demono kaptis la etan demonon, elŝiris ĝiajn okulojn kaj dispecigis ĝin por manĝi. La granda demono sin prezentis kiel Zhongkui, malsukcesinto en militista ekzameno, kiu ĵuris forigi malbonajn spiritojn por la imperiestro. Post vekiĝo, la imperiestro resaniĝis kaj ordonis al pentristo Wu Daozi pentri la bildon de Zhongkui, kun dekreto ĉe jarfino pentri la bildon de Zhongkui por forpeli malbonajn spiritojn kaj disvastigi ĝin tra la lando.
 
 Redaktoro: Liu Zijia
-
-El Popola Chinio
 
 
 ---
@@ -175,8 +157,6 @@ Xi Jinping diris: "La Ĉina Popola Rezistmilito Kontraŭ Japana Agreso estis gra
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -195,8 +175,6 @@ Staranta en Hongqi-veturilo, Xi Jinping, ankaŭ ĝenerala sekretario de la Cent
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -233,8 +211,6 @@ Esperantigita de Pietro Fiocchi
 
 Projektita de Chen Ji
 
-El Popola Chinio
-
 
 ---
 
@@ -264,8 +240,6 @@ Tombo el brikoj kun ligna strukturo, datita de inter la 10-a kaj la 12-a jarcent
 
 Raportis kaj fotis: Rafael Henrique Zerbetto
 
-El Popola Chinio
-
 
 ---
 
@@ -279,11 +253,7 @@ El Popola Chinio
 
 Kiam brita historiisto Richard Overy verkis pri la dua mondmilito el nova perspektivo, li konsciiĝis ke, pri tiu ĉi temo, delonge lia koncepto estis regata de ampleksaj raportoj kaj eŭropaj kaj amerikaj interpretoj, kiuj longe formis historiografion.
 
-Lia plej nova verko
-
-Sango kaj Ruinoj: La Granda Imperia Milito, 1931-1945
-
-(origine: Blood and Ruins: The Great Imperial War, 1931-1945) novigis la tempolinion de la milito kaj donas pli vastan tutmondan perspektivon.
+Lia plej nova verko Sango kaj Ruinoj: La Granda Imperia Milito, 1931-1945 (origine: Blood and Ruins: The Great Imperial War, 1931-1945) novigis la tempolinion de la milito kaj donas pli vastan tutmondan perspektivon.
 
 Tiuj novaj koloniistoj, kiuj aperis en la malfrua 19-a jarcento, volis krei siajn proprajn imperiojn, sed ili trovis, ke restis malmulte da spaco por iliaj ambicioj. La tutmonda ekonomia krizo de 1929 profundigis tion, instigante agresemajn ekspansiismajn agojn.
 
@@ -296,8 +266,6 @@ Overy diris, ke la rezistmilito de la ĉina popolo kontraŭ japana agreso (1931-
 Li montris, ke dekomence la milito estis lukto kontraŭ agreso, kiu ekspansiis siajn batalfrontojn tra Azio kaj Eŭropo.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -356,8 +324,6 @@ La 80-jara vojaĝo de ambaŭ landoj estas profunde markita de la bataloj por nac
 
 Rigardi reen al la pasinteco por kune iri al pli hela estonteco -- jen la informo, kiun ambaŭ Vjetnamio kaj Ĉinio volas transdoni per tiuj solenaj festoj. Surbaze de la komuna konservado kaj disvolvado de la historiaj lecionoj, la najbareca amikeco inter la du landoj daŭre fortiĝos kaj disvolviĝos por la bono de la du popoloj, kaj por paco kaj stabileco en la regiono kaj en la tuta mondo.
 
-El Popola Chinio
-
 
 ---
 
@@ -384,8 +350,6 @@ Tiu ĉi parado montris la gravecon por ŝtato havi potencan kaj modernan armeon 
 ---
 
 *Igor Shestakov, direktoro de la Centro por Fakaj Iniciatoj "Oy Ordo" (Centro de Penso) kaj politika sciencisto en Kirgizio
-
-El Popola Chinio
 
 
 ---
@@ -415,8 +379,6 @@ Aliflanke, tamen, ni ne povas fari ian iluzion, ke la imperiismaj potencoj magie
 Esperantigita de Pietro Fiocchi
 
 Projektita de Chen Ji
-
-El Popola Chinio
 
 
 ---
@@ -453,8 +415,6 @@ Esperantigita de Pietro Fiocchi
 
 Projektita de Chen Ji
 
-El Popola Chinio
-
 
 ---
 
@@ -481,8 +441,6 @@ En ĉi tiu tre signifa momento en la historio de la popoloj de la mondo, mi espr
 ---
 
 *Fabio Massimo Parenti, profesoro pri Tutmondaj Studoj en la Itala Internacia Instituto Lorenzo de Medici, kun aparta atento al la rolo de Ĉinio en la multpolusa mondo. Li estas membro de italaj kaj eksterlandaj organizoj pri la internaciaj rilatoj, kiel EARTH CHARTER INTERNATIONAL CHINA, esplorinstituto akreditita ĉe la Unuiĝintaj Nacioj. Prof-ro Parenti estas la aŭtoro de pluraj libroj kaj eseoj pri internaciaj aferoj kaj gepolitiko eldonitaj en la itala kaj en la angla.
-
-El Popola Chinio
 
 
 ---
@@ -516,8 +474,6 @@ Post jardekoj da protektado, en novembro 2023, Shaanxi-provinco anoncis, ke la 
 Dankon al protektantoj de ruĝaj ibisoj!
 
 Redaktoro: Gao Shuyuan
-
-El Popola Chinio
 
 
 ---
@@ -585,8 +541,6 @@ Danjiangkou kaj la projekto ne estas nur akvokonservaj projektoj, sed ankaŭ ate
 De tiu sperto mi pensis pri la mekonga rivero -- longa je pli ol 4 300 km, fluanta tra ses landoj (Ĉinio, Mjanmaro, Laoso, Tajlando, Kamboĝo kaj Vjetnamio). Ĝi provizas vivrimedojn al preskaŭ 70 milionoj da homoj por agrikulturo, hidroenergio, fiŝkaptado kaj transporto. Sed kompare kun la projekto, kiu estas interna projekto sub centra administrado, Mekongo starigas defiojn de translandlima mastrumado, kie la interesoj de diversaj ŝtatoj ofte malsamas. Se la projekto montras la forton de unu nacio koncentri sian volon kaj rimedojn, Mekongo prezentas alian demandon: Kiel pluraj ŝtatoj povas kune administri kaj protekti komunan riveron? La leciono de la ĉina projekto memorigas nin, ke ĉu temas pri giganta interna projekto aŭ pri internacia baseno, la ŝlosilo al sukceso estas la kombino de scienco, longtempa planado kaj ĉefe kunlaboro por la komuna bono de milionoj da homoj dependaj de tiu akvo. La sperto de Ĉinio montras, ke por ke grandega projekto funkciu efike, la kernaj faktoroj ne estas nur tekniko, sed ankaŭ kunlaboro, kontrolado kaj daŭra politika engaĝiĝo. Tio estas ankaŭ sugesto por aliaj landoj: Nur per regiona kunlaboro, travidebla datuma kundivido kaj komuna celo de daŭripova disvolvo oni povas certigi longdaŭran akvosekurecon.
 
 El la koro de Danjiangkou, la akvo ne nur fluas al Pekino aŭ Tianjin, sed ankaŭ eniras en nian mondan konscion: Akvo estas vivo, kaj protekti akvon signifas protekti la estontecon de la homaro.
-
-El Popola Chinio
 
 
 ---
@@ -667,8 +621,6 @@ La rapida disvolviĝo de la sektoro pri dorlotbestoj en Ĉinio povas alporti val
 
 Verkis: Rafael Henrique Zerbetto
 
-El Popola Chinio
-
 
 ---
 
@@ -690,8 +642,6 @@ Tradukis: Rafael Henrique Zerbetto
 
 Fonto: Beijing Service
 
-El Popola Chinio
-
 
 ---
 
@@ -705,17 +655,9 @@ El Popola Chinio
 
 de BUI HAI MUNG
 
-Dum la lasta jardeko, diversigo de provizĉeno ekster
+Dum la lasta jardeko, diversigo de provizĉeno ekster Ĉinio fariĝis direktilo por multaj ĉinaj entreprenoj, kiuj celas abundigi sian provizĉenon kaj eviti riskojn pro komercaj tensioj kun Usono. Sudorienta Azio, danke al siaj kostaj avantaĝoj, geografia situo kaj malfermitaj investpolitikoj, aperis kiel ideala celloko. Tamen, la ondo de produktada translokado al ĉi tiu regiono nun alfrontas novan defion: necerteco kaj kompleksaj tarif-politikoj de Usono -- precipe sub la regado de prezidento Donald Trump, kiu revenis al la Blanka Domo kun pli agresemajkomercaj politikoj.
 
-Ĉinio
-
-fariĝis direktilo por multaj ĉinaj entreprenoj, kiuj celas abundigi sian provizĉenon kaj eviti riskojn pro komercaj tensioj kun Usono. Sudorienta Azio, danke al siaj kostaj avantaĝoj, geografia situo kaj malfermitaj investpolitikoj, aperis kiel ideala celloko. Tamen, la ondo de produktada translokado al ĉi tiu regiono nun alfrontas novan defion: necerteco kaj kompleksaj tarif-politikoj de Usono -- precipe sub la regado de prezidento Donald Trump, kiu revenis al la Blanka Domo kun pli agresemajkomercaj politikoj.
-
-De diversigo de provizĉeno eskter
-
-Ĉinio
-
-al dilemo
+De diversigo de provizĉeno eskter Ĉinio al dilemo
 
 La reimposto de altaj tarifoj ne nur kontraŭas ĉinajn varojn, sed ankaŭ kontraŭas la eksportaĵojn de pluraj sudorient-aziaj landoj -- kiuj iam estis konsiderataj kiel "transita punkto" por ĉinaj entreprenoj -- tute ŝanĝis la planon. Se antaŭe Kamboĝo, Vjetnamio aŭ Indonezio estis realigeblaj alternativoj, nun ankaŭ ĉi tiuj landoj frontas tarifojn inter 19% kaj 40% por varoj eksportataj al Usono. Detale, la tarifoj de Trump en la regiono varias de minimumo de 10% por Singapuro ĝis maksimumo de 40% por Birmo kaj Laoso. Kamboĝo, Indonezio, Malajzio, Tajlando kaj Filipinoj suferas tarifojn de 19%. Vjetnamaj produktoj estas impostitaj je 20%. Dume, ĉinaj varoj estas tarifitaj je 30% dum la komerca "batal-paŭzo" (se aldoni ankaŭ la antaŭe truditajn tarifojn de la unua prezidenteco de Trump kaj aliaj akumulitaj impostoj, la entuta tarifo estas 55%). Ĉi tio malpliigas la motivadon de ĉinaj entreprenoj por vastigi fabrikojn en la regiono.
 
@@ -735,15 +677,9 @@ Kion oni devas rimarki estas, ke se la diferenco en tarifoj inter Ĉinio kaj ali
 
 Fleksebleco iĝas ŝlosilo
 
-Oni povas diri, ke la plano de diversigo de provizĉeno eskter
-
-Ĉinio
-
-ne tute fiaskis, sed ĝi eniras fazon de ĝustigo kaj selektado. Nur entreprenoj kun longtempa vizio, forta financa bazo kaj alta adaptebleco povas sekvi ĝin ĝisfine. La plimulto devos pesi la profitojn kaj perdojn, sekvi politikajn ŝanĝojn kaj atendi la rezulton de komercaj intertraktadoj inter grandaj potencoj.
+Oni povas diri, ke la plano de diversigo de provizĉeno eskter Ĉinio ne tute fiaskis, sed ĝi eniras fazon de ĝustigo kaj selektado. Nur entreprenoj kun longtempa vizio, forta financa bazo kaj alta adaptebleco povas sekvi ĝin ĝisfine. La plimulto devos pesi la profitojn kaj perdojn, sekvi politikajn ŝanĝojn kaj atendi la rezulton de komercaj intertraktadoj inter grandaj potencoj.
 
 La plano transloki produktadon el Ĉinio jam ne estas ununura vojo, sed fariĝis ekvacio plena je nekonataj faktoroj -- kie ĉiu movo devas esti zorge kalkulita. Por ĉinaj entreprenoj, provizora paŭzo de translokado por atendi pli bonan momenton estas sekura elekto -- en situacio, kie tarifoj povas ŝanĝiĝi dum unu nokto, sed reinvestaj kostoj daŭras jarojn.
-
-El Popola Chinio
 
 
 ---
@@ -766,8 +702,6 @@ El Popola Chinio
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -789,8 +723,6 @@ Parolante pri la perspektivoj de la ĉin-britaj ekonomiaj kaj komercaj rilatoj,
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -811,8 +743,6 @@ Xi Jinping emfazis, ke kiel grava kontribuanto kaj ankro de tutmonda ekonomia kr
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -838,8 +768,6 @@ En la kadro de la Rusia Esperanta Tago, ankaŭ okazis krea programo. La partopre
 En la Rusia Esperanta Tago, oni prezentis la novan programon de la unio. Jevgenij Borjun diris, ke la celo de la unio estas malfermi la mondon al esperantistoj kaj helpi novajn esperantistojn trovi siajn proprajn amikojn kaj partnerojn. Li aldonis, ke la unio havas senpagajn kursojn en multaj rusaj urboj kaj helpas homojn trovi amikojn kaj partnerojn en Rusio kaj eksterlande.
 
 "Ni povas diri, ke la Rusia Esperanta Tago estas sukcesa. Ni sukcesis montri kiel unueca povas esti la esperantista komunumo. Ni esperas, ke venontjare la nombro de partoprenantoj pliiĝos eĉ pli," diris Jevgenij Borjun.
-
-El Popola Chinio
 
 
 ---
@@ -922,11 +850,7 @@ La rakonto de Lujiazui alportas multajn valorajn spertojn al landoj, kiuj celas 
 
 Por landoj, kiuj volas krei novan financan ĉefurbon, Lujiazui estas viva pruvo.
 
-Verkis:
-
-Bui Hai Mung
-
-El Popola Chinio
+Verkis: Bui Hai Mung
 
 
 ---
@@ -997,8 +921,6 @@ Farante tion, Xi indikas la ĝustan vojon por iom post iom malstreĉigi la nunte
 
 Verkis: Rafael Henrique Zerbetto
 
-El Popola Chinio
-
 
 ---
 
@@ -1038,8 +960,6 @@ Vojo al kompleta internacia aviada centro
 
 Per konstanta novigo, de inteligenta dogano ĝis aŭtomata impost-repago kaj moderna transit-sistemo por varoj, la Internacia Flughaveno de Pudong klare staras kiel kompleta tutmonda aviada centro. Ĝi ne nur konektas pasaĝerojn kaj varojn, sed ankaŭ montras la strategion de Ŝanhajo krei travideblan, oportunan kaj allogan komercan medion por la tuta mondo.
 
-El Popola Chinio
-
 
 ---
 
@@ -1058,8 +978,6 @@ La premio, kun granda pando kiel kultura simbolo, estas internacia kultura pre
 La celo de la evento estas konstrui malferman, profesian kaj efikan platformon kun scenaroj kiel ligilo, stimuli kreivan viglecon, kulturi novajn talentulojn en tiu kampo, trovi altkvalitajn materialojn kaj scenaristojn, helpi la pliprofundan integriĝon de kulturaj entreprenoj kaj rilataj industrioj, kaj antaŭenigi la altkvalitan disvolviĝon de la filma industrio.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -1116,8 +1034,6 @@ Ankaŭ estas teknikaj kaj komercaj defioj alfrontotaj, kiel la manko de tutmonda
 
 Verkis kaj fotis: Rafael Henrique Zerbetto
 
-El Popola Chinio
-
 
 ---
 
@@ -1133,9 +1049,7 @@ de BUI HAI MUNG
 
 Dum multaj jaroj, kiam oni parolis pri inteligentaj robotoj, en la menso aperis Japanio aŭ Usono -- la landoj longe famaj pro esploroj pri artefarita intelekto (AI) kaj aŭtomatigo. Tamen, kiel eksterlandano loĝanta kaj laboranta en Ĉinio, mi rimarkis alian realon. Ĉinio rapide leviĝas, fariĝante nova centro de la tutmonda industrio de intelektaj robotoj. Tio ne montriĝas nur en statistikoj aŭ esploraj raportoj, sed estas videbla en la ĉiutaga vivo de ĉi tiu lando. Post pli ol du jaroj en Ĉinio, mi jam alkutimiĝis vidi servajn robotojn liveri manĝaĵojn en restoracioj, hom-figurajn robotojn promeni inter homamasoj, aŭ eĉ gvidi vizitantojn. La evoluo jam ne restas ĉe koncepto, sed transformiĝis en konkretajn kaj praktikajn aplikojn en la vivo ĉi tie.
 
-Keenon
-
--robotoj
+Keenon-robotoj
 
 Unu el la plej konvinkaj pruvoj de tiu impresa rapideco estas la kompanio Keenon Robotics -- ĉina entrepreno kiu fariĝis mondgvidanto en la kampo de enkarniĝintaj servorobotoj. Sed antaŭ ol enprofundiĝi en la rakonto pri ĝi, necesas ĝenerala rigardo al la pejzaĝo de intelektaj robotoj en Ĉinio.
 
@@ -1143,31 +1057,19 @@ La eksplodo de intelektaj robotoj en Ĉinio
 
 Ĉinio difinis AI kaj robotikon kiel strategiajn sektorojn, ligitajn al la plano "Ĉina fabrikado 2025" kaj la nacia vizio pri Industria 4.0. En la antaŭa jardeko, serio da politikoj estis lanĉitaj por subteni esploron, disvolvadon kaj novajn entreprenojn en la kampo de robotoj. En 2012, la Ministerio pri Scienco kaj Teknologio publikigis la "Specialan Planon pri Servorobotiko" ene de la 12-a Kvinjara Plano -- la unua fojo por Ĉinio sisteme antaŭenigi servorobotikon je nacia nivelo. Tio markis la transiron de pura scienca esploro al industriigo, kaj starigis la fundamenton por postaj dokumentoj kiel "Ĉina fabrikado 2025" kaj la "Plano pri disvolvado de la robotika industrio (2016–2020)". En 2017, la Ŝtata Konsilantaro de Ĉinio publikigis la "Planon por disvolvado de la nova-generacia AI", ŝlosila dokumento kiu unuafoje starigis AI kiel nacian strategion, desegnante la evoluan vojmapon por pli ol jardeko. Ĝi fariĝis la ĉefa gvidilo por ĉiuj AI-politikoj poste, inkluzive la iniciaton "AI+" kaj la lokajn programojn.
 
-XMAN-robotoj de
-
-Keenon
+XMAN-robotoj de Keenon
 
 Pli ol jardeko post tiuj komencaj politikoj, vizitante diversajn urbojn en Ĉinio, oni klare sentas veran "ondefikon de intelektaj robotoj". Tio ne estas hazarda evoluo, sed parto de longtempa strategio de la ĉina registaro pri AI kaj aŭtomatigo. En la lastaj jaroj, Ĉinio anoncis eĉ pli ambiciajn celojn. Laŭ la dokumento pri la efektivigo de "AI+" anoncita en la 21-a de aŭgusto 2025, ĝis 2027 la lando celas profundan integriĝon de AI en kernaj sektoroj, kun pli ol 70% penetra indico de inteligentaj terminalaj aparatoj kaj agentoj. Ĝis 2030, tiu proporcio atingos super 90%, kaj la "intelekta ekonomio" fariĝos grava pelilo de la ĉina kresko. Ĝis 2035, Ĉinio celas eniri novan fazon de "intelekta socio kaj ekonomio", provizante fortan subtenon por la baza modernigo de la lando.
 
 Por efektivigi tiun planon, Ĉinio lanĉis ampleksajn politikojn kiel impostaj instigoj por novigaj entreprenoj, ripozpunktoj de riskkapitalo por rilataj komencantaj firmaoj, kaj reto de altteknologiaj pilotaj zonoj en urboj kiel Ŝanhajo, Shenzhen kaj Hangzhou. Tiuj "eksperimentaj urboj" jam fariĝis vivantaj laboratorioj, kie servorobotoj funkcias en restoracioj, hoteloj, hospitaloj, kaj eĉ en publika transportado. Rezulte, Ĉinio ne nur produktas industrirobotojn por fabrikoj, sed ankaŭ rapide eniras la merkaton de servorobotoj en ĉiutaga vivo. Internaciaj teknologiaj eventoj okazigitaj en Ĉinio, kiel la Monda AI-Konferenco (WAIC) en Ŝanhajo, fariĝis scenejo por montri la plej novajn atingojn.
 
-Keenon
-
-: De komencanta firmao al monda gvidanto
+Keenon: De komencanta firmao al monda gvidanto
 
 Fondita 2010 en Ŝanhajo, Keenon Robotics hodiaŭ estas konsiderata unu el la tutmondaj pioniroj pri servorobotoj. La diferenco de la kompanio, kompare kun multaj aliaj firmaoj, kuŝas en ĝia aliro: ne nur fokusiĝi je teknologia esploro, sed ankaŭ rekte enmeti robotikon en komercajn kaj ĉiutagajn aplikojn.
 
-Laŭ la plej freŝaj datumoj,
+Laŭ la plej freŝaj datumoj, Keenon jam liveris pli ol 100000 robotojn, ĉeestantajn en pli ol 600 urboj tra la mondo -- inkluzive Usonon, Japanion, la Korean Respublikon, kaj la landojn de Eŭropo kaj Mezoriento. La kompanio ankaŭ starigis internaciajn operaciajn centrojn de Los Angeles ĝis Tokio kaj Düsseldorf. Ĉio ĉi klare montras la globaligan ambicion de ĉinaj entreprenoj.
 
-Keenon
-
-jam liveris pli ol 100000 robotojn, ĉeestantajn en pli ol 600 urboj tra la mondo -- inkluzive Usonon, Japanion, la Korean Respublikon, kaj la landojn de Eŭropo kaj Mezoriento. La kompanio ankaŭ starigis internaciajn operaciajn centrojn de Los Angeles ĝis Tokio kaj Düsseldorf. Ĉio ĉi klare montras la globaligan ambicion de ĉinaj entreprenoj.
-
-Unu el la plej elstaraj produktoj estas la serio XMAN, precipe la hom-figura XMAN-F1, prezentita ĉe la Monda AI-Konferenco 2024. Dum vizito en la kompanio, mi vidis kiel tiu roboto plenumas taskojn antaŭe rezervitajn nur al homoj kiel farado de krevmaizaĵo, miksado de trinkaĵoj, aŭ purigado de ĉambroj. Impresis min ne nur la moveblo kaj fleksebleco, sed ankaŭ la maniero kiel la roboto integriĝas en homplena medio, sekure moviĝante tra mallarĝaj pasejoj kaj okupataj areoj. XMAN-F1 estis disvolvita laŭ la modelo ProS -- sistemo por "normigi taskojn laŭ pozicio". Alivorte,
-
-Keenon
-
-dividas la komercan medion (ekz. restoracioj, hoteloj) en specifajn taskojn kun normigitaj procezoj. La robotoj estas programitaj plenumi tiujn taskojn precize, tiel kreante "fermitaĵan servan ciklon". La granda avantaĝo de XMAN-F1 estas ĝia du-pieda moviĝo, ebligante superi ŝtupojn, deklivojn kaj eskalerojn -- ion, kion plej multaj radrilataj robotoj ne kapablas. Tiu paŝo estas ŝlosila por transiri de plataj spacoj al pli realismaj vivmedioj.
+Unu el la plej elstaraj produktoj estas la serio XMAN, precipe la hom-figura XMAN-F1, prezentita ĉe la Monda AI-Konferenco 2024. Dum vizito en la kompanio, mi vidis kiel tiu roboto plenumas taskojn antaŭe rezervitajn nur al homoj kiel farado de krevmaizaĵo, miksado de trinkaĵoj, aŭ purigado de ĉambroj. Impresis min ne nur la moveblo kaj fleksebleco, sed ankaŭ la maniero kiel la roboto integriĝas en homplena medio, sekure moviĝante tra mallarĝaj pasejoj kaj okupataj areoj. XMAN-F1 estis disvolvita laŭ la modelo ProS -- sistemo por "normigi taskojn laŭ pozicio". Alivorte, Keenon dividas la komercan medion (ekz. restoracioj, hoteloj) en specifajn taskojn kun normigitaj procezoj. La robotoj estas programitaj plenumi tiujn taskojn precize, tiel kreante "fermitaĵan servan ciklon". La granda avantaĝo de XMAN-F1 estas ĝia du-pieda moviĝo, ebligante superi ŝtupojn, deklivojn kaj eskalerojn -- ion, kion plej multaj radrilataj robotoj ne kapablas. Tiu paŝo estas ŝlosila por transiri de plataj spacoj al pli realismaj vivmedioj.
 
 La roborto XMAN-F1 servas trinkaĵojn kaj krevmaizaĵon.
 
@@ -1175,19 +1077,9 @@ Robotoj fariĝas parto de la vivo
 
 Antaŭe robotoj estis ligitaj ĉefe al fabrikado aŭ laboratorio, sed hodiaŭ ili jam estas regula parto de hoteloj, restoracioj kaj hospitaloj. Mi mem plurfoje estis kondukita al tablo de roboto, ricevis manĝaĵojn alportitajn de ĝi, aŭ eĉ ricevis servajn instrukciojn. Tio montras, ke Ĉinio transformas intelektajn robotojn en novan socian infrastrukturon, ŝanĝante la manieron kiel homoj kaj maŝinoj kunekzistas.
 
-Keenon
+Keenon ne estas la sola ekzemplo, sed ĝi estas tipa pri kiel ĉinaj entreprenoj kapablas rapide skaliĝi -- de la vasta enlanda merkato ĝis la internacia sceno. Sinjoro Wanbin, estro pri internaciaj operacioj de Keenon, rimarkigis, ke la firmao unue enfokusigis sian atenton je la enlanda merkato. Nur kiam produktoj, datumoj kaj AI-teknologio sufiĉe maturiĝis, ĝi komencis disvolvi eksteren. Laŭ li, la sukceso devenas de pluraj faktoroj: unue, la rapidega disvolviĝo de AI en Ĉinio, kiu donis al startantoj egalan startpunkton kun la mondo sed kun pli granda rapido; due, la forta loka provizoĉeno; trie, la klara subteno de registaro je diversaj niveloj -- de urboj ĝis distriktoj, de ekonomiaj kaj komercaj komisionoj ĝis financaj politikoj. Subtenaj mezuroj pri kredito, eksporta asekuro kaj doganoj faciligis la internaciiĝon de produktoj. Kompreneble, la vojo ne estas facila. Atestoj, doganaj proceduroj kaj varaj kodoj postulas konstantan lernadon kaj adaptiĝon. Sed samtempe tio ankaŭ estas ŝanco por Ĉinio partopreni en la starigo de internaciaj normoj en la kampo de robotiko.
 
-ne estas la sola ekzemplo, sed ĝi estas tipa pri kiel ĉinaj entreprenoj kapablas rapide skaliĝi -- de la vasta enlanda merkato ĝis la internacia sceno. Sinjoro Wanbin, estro pri internaciaj operacioj de
-
-Keenon
-
-, rimarkigis, ke la firmao unue enfokusigis sian atenton je la enlanda merkato. Nur kiam produktoj, datumoj kaj AI-teknologio sufiĉe maturiĝis, ĝi komencis disvolvi eksteren. Laŭ li, la sukceso devenas de pluraj faktoroj: unue, la rapidega disvolviĝo de AI en Ĉinio, kiu donis al startantoj egalan startpunkton kun la mondo sed kun pli granda rapido; due, la forta loka provizoĉeno; trie, la klara subteno de registaro je diversaj niveloj -- de urboj ĝis distriktoj, de ekonomiaj kaj komercaj komisionoj ĝis financaj politikoj. Subtenaj mezuroj pri kredito, eksporta asekuro kaj doganoj faciligis la internaciiĝon de produktoj. Kompreneble, la vojo ne estas facila. Atestoj, doganaj proceduroj kaj varaj kodoj postulas konstantan lernadon kaj adaptiĝon. Sed samtempe tio ankaŭ estas ŝanco por Ĉinio partopreni en la starigo de internaciaj normoj en la kampo de robotiko.
-
-De la sukceso de
-
-Keenon
-
-evidentiĝas: Ĉinio ne nur konstruis sian enlandan gvidpozicion, sed ankaŭ paŝon post paŝo firmigas sian rolon kiel tutmonda gvidanto pri inteligentaj servorobotoj.
+De la sukceso de Keenon evidentiĝas: Ĉinio ne nur konstruis sian enlandan gvidpozicion, sed ankaŭ paŝon post paŝo firmigas sian rolon kiel tutmonda gvidanto pri inteligentaj servorobotoj.
 
 Ĉinio en nova rolo
 
@@ -1200,8 +1092,6 @@ La estonteco jam ĉeestas
 Rigardante reen -- de la unuaj robotoj ĉe teknologiaj ekspozicioj ĝis hodiaŭ, kiam oni povas esti servata de roboto en restoracio -- la estonteco de kunvivado inter homoj kaj robotoj jam ne estas fora vizio. Ĉinio, per firmaoj kiel Keenon Robotics, aktive formas tiun estontecon.
 
 Tio ne estas nur rakonto pri teknologio, sed ankaŭ pri kunlaboro inter homoj kaj robotoj -- pri kiel ni povas krei pli inteligentan, pli oportunan kaj pli sekuran socion. Kaj laŭ mia propra sperto en Ĉinio, mi kredas, ke en la venontaj jaroj intelektaj robotoj ne nur fariĝos komuna vidaĵo en Ĉinio, sed ankaŭ disvastiĝos tra la tuta mondo.
-
-El Popola Chinio
 
 
 ---
@@ -1223,8 +1113,6 @@ Laŭ la blanka libro, ili konsistigas kompletan sistemon de teorioj kun solida l
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -1254,8 +1142,6 @@ Jingzhou-a Muzeo posedas pli ol 180 000 kulturajn antikvaĵojn, ĉefe el arkeolo
 Jingzhou-a Muzeo, fenestro al la historio kaj kulturo de la antikva regno Chu, estas vizitinda de ĉinaj kaj eksterlandaj vizitantoj al Jingzhou. La jara vizit-nombro superas unu milionon, tial la institucio ludas gravan rolon en antaŭenigo de kulturo kaj civilizacia konservado.
 
 Raportis kaj fotis: Rafael Henrique Zerbetto
-
-El Popola Chinio
 
 
 ---
@@ -1328,8 +1214,6 @@ Kiam mi forlasis la parkon posttagmeze, mi retrovis mian rigardon al la bildo de
 
 Verkis kaj fotis Bui Hai Mung
 
-El Popola Chinio
-
 
 ---
 
@@ -1348,8 +1232,6 @@ En Xinjiang, en la nova epoko, ĉiuj etnoj kunlaboras unuece, antaŭenirante al
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -1376,8 +1258,6 @@ Sichuan-a Bambufibra Teknologia Kompanio Jiancen jam komencis sian projekton
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -1397,8 +1277,6 @@ Xi Jinping salutis al la reprezentantoj kaj afable interparolis kun ili. Krome, 
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -1415,8 +1293,6 @@ Posttagmeze de la 23-a de septembro, Xi Jinping, ĝenerala sekretario de la Cent
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -1437,8 +1313,6 @@ Xi Jinping diris, ke dum la 70 jaroj ekde la fondiĝo de la Xinjiang-a Ujgura A�
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -1458,8 +1332,6 @@ La ekspozicio panorame montras la brilajn atingojn akiritajn de diversaj etnogru
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -1476,8 +1348,6 @@ Antaŭtagmeze de la 25-a de septembro Xi Jinping, ĝenerala sekretario de la Cen
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -1540,8 +1410,6 @@ La evento finiĝis per debato inter la partoprenantoj de la turneo, kelkaj stude
 
 Raportis kaj fotis: Rafael Henrique Zerbetto
 
-El Popola Chinio
-
 
 ---
 
@@ -1558,8 +1426,6 @@ Chu-regno (1030-223 a.K.) estis potenca kaj kulture distinga regno ĉe la meza k
 Dum vizito al la urbo Jingzhou, iama ĉefurbo de Chu-regno, mi havis la ŝancon sperti tradiciajn vestaĵojn de Chu-regno, kaj elektis unu el la periodo Militantaj Regnoj (475-221 a.K.), la lasta fazo de la ekzisto de Chu-regno, konkerita de Qin-dinastio (221-206 a.K.) nur du jarojn antaŭ la fina unuiĝo de Ĉinio en 221 a.K. La vestaĵoj de Chu-regno montris kulturan distingecon kompare kun tiuj de aliaj regnoj de centra Ĉinio en tiu epoko. La stilo de Chu-vestaĵoj estis pli ornam-riĉa, inspirita de mitologio, kaj emfazis molajn kurbojn kaj movon, kun unikaj trajtoj kiel kompleksaj brodaĵoj.
 
 Raportis: Rafael Henrique Zerbetto
-
-El Popola Chinio
 
 
 ---
@@ -1605,8 +1471,6 @@ Esperantigis: Rafael Henrique Zerbetto
 
 Fonto: 人民网
 
-El Popola Chinio
-
 
 ---
 
@@ -1638,8 +1502,6 @@ Krom esplorlaboro, li aktive partoprenas en praktikaj agadoj por protekti la jan
 
 Raportis: Rafael Henrique Zerbetto
 
-El Popola Chinio
-
 
 ---
 
@@ -1655,19 +1517,43 @@ El Popola Chinio
 
 Ĉu en la brilega metropolo Ŝanhajo aŭ en malproksima vilaĝo de Gansu-provinco, la kontanta monujo fariĝis unu el la plej facile forgeseblaj aĵoj? La agoj elpreni biletojn, kalkuli monon aŭ atendi restmonon jam fremdiĝis por cent milionoj da ĉinoj. Anstataŭe, unu simpla ago sufiĉas: Malfermi la aplikaĵon, skani QR-kodon, kaj la transakcio finiĝas en nur kelkaj sekundoj.
 
+Laŭ la "raporto pri la evoluo de poŝtelefona pago en Ĉinio 2025", publikigita de la Ĉina Interbanka Asocio pri Pago (PCAC), la volumo de poŝtelefonaj pagoj en 2024 atingis 672 mil miliardojn da juanoj, kreskante je 16.7% kompare kun la antaŭa jaro, kun penetra indico de 92.3%. WeChat Pay kaj Alipay, kiel la du ĉefaj platformoj, kune tenas 87.5% de la merkato. Malantaŭ tiu rapideco kuŝas la epopeo de Alipay kaj WeChat Pay -- ne nur pag-aplikoj, sed veraj super-aplikoj financaj, kiuj redifinis la ekonomian kaj socian vivon de tuta lando. Ilia historio ne temas nur pri teknologio, sed ankaŭ pri strategio kaj adaptiĝo.
+
 De malaperintaj monujoj ĝis fekunda grundo por revolucio
+
+La senkontanta revolucio en Ĉinio ne aperis hazarde. Ĝi formiĝis surbaze de unikaj kondiĉoj, inter kiuj tri faktoroj estis decidaj. Unue, la eksplodo de retkomerco kaj sociaj retoj ekde 2000. Alipay, fondita en 2004, origine estis ilo por garantii la sekurecon en transakcioj ĉe aĉet-apliko Taobao, sed ĝi rapide evoluis al sendependa financa super-aplikaĵo. WeChat posedis cent milionojn da uzantoj pro sia mesaĝa servo antaŭ ol integri WeChat Pay, kio malfermis la epokon de rektaj pagoj en la socia reto en 2013. Due, la QR-kodo estas la "silenta heroo". Male al la multekosta kaj malfacile aplikebla sistemo Proksim-kampa Komunikado (NFC), QR-kodoj estis malmultekostaj, simplaj kaj povis transformi eĉ malgrandan strat-budon en ciferecan vendejon per unu presita folio. Trie, la vakuo lasita de tradiciaj bankoj. Grandaj bankoj koncentriĝis je entreprenoj kaj grandskalaj pruntoj, ignorante detal-vendadon kaj malgrandajn pagojn. Ilia malrapideco en cifereca novigo kreiĝis kiel ora ŝanco por la teknologiaj platformoj eniri kaj okupi la merkaton.
 
 La kultura puŝo, kiu ŝanĝis la ludon
 
 En Ĉinio, la kutimo de "ruĝa koverto" havas historion de jarmiloj -- simbolo de bonŝanco kaj bondeziro pere de brile ruĝaj kovertoj kun mono dum festoj. Tencent-firmao montris genian sentemon transformante tiun tradicion en cifereca epoko.
 
+Anstataŭ papera koverto, uzantoj de WeChat povas sendi al amikoj aŭ familio virtualajn ruĝajn kovertojn, enhavantajn fiksan aŭ hazardan sumon. Lanĉita en 2014, tiu funkcio kaŭzis tutlandan furoron. Ĝi estis ne nur oportunaĵo, sed ankaŭ ludo, socia rito plena je ĝojo. Por ricevi aŭ ne maltrafi la ĝojon de partopreno en grupaj "ruĝaj kovertoj", homoj volonte ligis siajn bankajn kartojn al WeChat Pay.
+
+Tiu kultura fenomeno fariĝis la turnopunkto: WeChat Pay transformiĝis al la plej vaste uzata pag-aplikaĵo en Ĉinio. Socia kaj amuza ago forigis psikologiajn barojn pri sekureco kaj komplikeco de financaj servoj. Ene de unu sola novjara festo, WeChat Pay akiris dekojn da milionoj da novaj uzantoj tute nature. Ĝi pruvis, ke por konkeri amas-merkatojn, kultura kaj socia faktoroj ofte pli potencas ol iu ajn reklamkampanjo.
+
 En la interno de la super-aplikaĵoj -- La konkero de pagoj ĝis financaj imperioj
+
+La sukceso de QR-pagoj estis nur la komenca paŝo. Alipay kaj WeChat Pay rapide rimarkis, ke la elektronika monujo tro mallarĝas por iliaj ambicioj. Ili volis fariĝi la mini-financaj sistemoj de ĉiu civitano.
 
 Alipay, ekde sia origino kiel sekureca ilo por retkomerco, elektis la vojon transformiĝi al mini-financa centro. La plej strategia paŝo estis la lanĉo de Yu'ebao en 2013. Esence, temis pri monfonduso kun tre simpla mesaĝo: "Via neuzata mono en Alipay aŭtomate produktos profiton." La sukceso kuŝis en solvo de antikva paradokso: Uzantoj volis, ke ilia mono generu profitojn, sed ankaŭ restu tuje uzebla por elspezoj. Yu'ebao forigis tiun baron. Ene de malpli ol unu jaro ĝi fariĝis la plej granda monfonduso en la mondo,  atingante ĉe sia pinto 1.69 mil miliardojn da juanoj (ĉirkaŭ 268 miliardoj da usonaj dolaroj), allogante cent milionojn da malgrandaj investantoj, al kiuj la tradicia bank-sistemo neniam povas aliri. La plej alta interezo ĉe sia pinto atingis ĝis 5-6%, kaj nun restas nur ĉirkaŭ 1.25-2%. De tie, Alipay senĉese grandigis siajn limojn. Ant Huabei ebligis "aĉeti nun, pagi poste", funkcianta kiel virtuala kreditkarto por la juna generacio; servoj pri asekuro, investado eĉ rezervoj de kuracaj vizitoj aŭ pagoj de trafikaj monpunoj estis integritaj. Alipay jam ne estas nur monujo, ĝi estas cifereca banko, publika serv-oficejo kaj aktiv-administranto -- ĉio en unu sola aplikaĵo.
 
+Dume, WeChat Pay elektis alian vojon, konstruante sur sia ĉefa forto: Socia konektiteco. Se Alipay fariĝis financa centro, WeChat Pay estas la sanga cirkulado de la cifereca korpo de WeChat. WeChat, antaŭ ĉio, estas super-aplikaĵo socia. Laŭ statistiko de la unua trimestro 2025, la monataj aktivaj uzantoj de WeChat Pay atingis 1.47 miliardojn tutmonde, dum la patrina firmao de Alipay, Ant Group, raportis 1.04 miliardojn. Uzantoj malfermas WeChat mezume 21.3 fojojn tage, kompare kun nur 5.7 fojoj por Alipay. La integriĝo estas tiel profunda, ke homoj apenaŭ rimarkas, kiam ili ŝanĝas inter babilado kaj pago. WeChat preskaŭ ĉiam funkcias en la fono de la telefono; do dum aĉetado, estas plej nature pagi per ĝi.
+
+Por konkuri kun Yu'ebao, WeChat lanĉis Lingqiantong, kiu ebligas, ke ankaŭ la resta mono en la babilejoj generu profiton. Sed la vera potenco de WeChat Pay kuŝas en la mini-programoj. Nuntempe ekzistas 5.8 milionoj da mini-programoj ene de WeChat, kun 830 milionoj da monataj aktivaj uzantoj. Anstataŭ elŝuti dekojn da apartaj aplikaĵoj, konsumantoj povas uzi Didi (vetur-alvoko), Meituan (manĝ-mendo), aŭ Pinduoduo (butikumado) rekte en WeChat, pagante per WeChat Pay sen forlasi la aplikaĵon. Vendejoj kun mini-programoj atingas 32.7% pli altan pag-transakci-valoron ol similaj sen ĝi. Tio kreas preskaŭ perfektan fermitan sistemon, kie mono fluas seninterrompe de unu konversacio al alia aĉeto. WeChat Pay enspezas ne nur el transakciaj kotizoj, sed el la konservado de la ligo kaj aktiveco de ĉi tiu tuta mikroekonomio.
+
 Batalo de la jarcento: Super-aplikaĵoj kontraŭ tradiciaj bankoj
 
+La altiĝo de Alipay kaj WeChat Pay ne malpli ol spektakla uzurpo, kiu ŝokis la tradician bankan sistemon -- iam konsideratan la ĉefan kolonon de la nacia financo. Jam en 2017, statistikoj montris, ke la transakcia volumeno tra poŝaj monujoj en Ĉinio atingis grandegan sumon de 203 bilionoj da juanoj, ĉefe danke al tiuj du gigantaj platformoj. Gravaj bankoj kiel Industria kaj Komerca Banko de Ĉinio (ICBC) aŭ Banko de Ĉinio subite konsciis, ke ili estas iom post iom tranĉitaj el la ĉiutaga monfluo de la civitanoj.
+
+La unua malvenko de la bankoj devenis de la baza diferenco en pensado. Dum bankoj koncentriĝis pri kompleksaj financaj produktoj por kompanioj kaj riĉaj individuoj, Alipay kaj WeChat Pay celis la amasmerkatojn per produktoj ekstreme simplaj kaj oportunaj. La bankaj aplikoj de tiu tempo aspektis kiel mini-bankoj en la poŝtelefono: Pezaj, kompleksaj proceduroj kaj limigitaj al financaj transakcioj. Male, la super-aplikoj similis al viglaj komercejoj, kie oni povis samtempe babiladi kun amikoj, aĉeti film-biletojn kaj pagi fakturojn per kelkaj tuŝoj.
+
+La kerna diferenco kuŝis en datumoj. Bankoj sciis nur pri la monfluo kaj kredit-historio de klientoj. Sed Alipay kaj WeChat Pay sciis, kion homoj aĉetas, kion ili manĝas, kien ili vojaĝas, kun kiu ili babilas kaj pri kio ili interesiĝas. Tiu vasta datumbazo de konduto ebligis al ili konstrui mirige precizajn kreditajn rangigojn, tiel donante malgrandajn pruntojn al homoj, kiujn tradiciaj bankoj kutime taksis "senkredita historio".
+
+Nun la batalo eniris novan fazon: Konkurado kaj kunlaboro. Bankoj akcelas sian ciferecigon, plibonigas siajn aplikaĵojn kaj proponas retajn financajn produktojn. Inverse, Alipay kaj WeChat Pay bezonas la bankfiliajn retojn kaj la fidon de bankoj por plivastigi servojn. Fakte, granda parto de la mono en Yu'ebao aŭ Lingqiantong fine revenas en la bankan sistemon, sed la kontrolo pri monfluo kaj la ĉefa aliro al klientoj jam apartenas al la super-aplikoj.
+
 Tutmonda rigardo
+
+Komparante la modelon de Alipay kaj WeChat Pay kun la mondo, la diferenco fariĝis rimarkinde klara. En Ĉinio, ĉi tiuj du super-aplikaĵoj tenas preskaŭ 90% de la merkato de poŝtelefonaj pagoj, dum en plej multaj aliaj landoj, la merkato estas multe pli fragmenta kaj diversa.
 
 En Usono, PayPal -- pioniro en retaj pagoj -- restas populara elekto. Tamen ĝi ekzistas kiel aparta aplikaĵo por financaj transakcioj, ne kiel super-aplikaĵo. Usonanoj kutimas uzi WhatsApp por babilado, Amazon por aĉetado kaj PayPal por pagoj. La ĉina modelo, kie unu sola aplikaĵo regas preskaŭ ĉiun agadon, apenaŭ kongruas kun merkato, kiu altvaloras elektoliberecon kaj specialiĝon.
 
@@ -1677,11 +1563,11 @@ En Sudorienta Azio, teknologiaj unikornoj kiel Grab (Singapuro) kaj Gojek (Indon
 
 Leciono pri la supra oportuneco
 
+La ĉina senkontanta revolucio, esence, estas rakonto pri supra oportuneco. Alipay kaj WeChat Pay sukcesis, ne nur pro tio, ke tia teknologio estis nevenkebla, sed pro tio, ke ili komprenis simplan veron: Uzantoj ne volas dekoj da apartaj aplikaĵoj por malsamaj bezonoj. Integrante ĉion -- de socia komunikado, distro, aĉetado ĝis persona financo -- en unu platformo, ili kreis ciferecan ekosistemon, el kiu estas malfacile eskapi.
+
 Sed tiu oportuneco havas prezon: Risko de monopolo kaj troa dependo de unu aŭ du privataj gigantaj firmaoj. Aldone al la avantaĝoj, leviĝas zorgoj pri privateco kaj datum-sekureco. Dum la mondo nun staras ĉe vojkruciĝo inter la ĉina modelo kaj la barata modelo, la plej grava leciono eble kuŝas en ekvilibro: Kiel utiligi privatan novigon sen perdi konkurencan, sanan merkaton, kaj samtempe protekti la fundamentajn rajtojn de konsumantoj.
 
 Verkis: Bui Hai Mung
-
-El Popola Chinio
 
 
 ---
@@ -1697,8 +1583,6 @@ El Popola Chinio
 En la Interna Mongolio de Ĉinio, aŭtuno komencis ori herbejon, arbaron kaj sekve la tutan regionon.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -1716,8 +1600,6 @@ En la 30-a de septembro sur Tian'anmen-placo de Pekino Xi Jinping kaj aliaj gvid
 La 30-a de septembro estas la Tago de Martiroj de Ĉinio. Ĉi-jaro markas la 80-an datrevenon de la venko en la Ĉina Popolo Rezistmilito kontraŭ Japana Agreso kaj la Monda Kontraŭfaŝisma Milito.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---

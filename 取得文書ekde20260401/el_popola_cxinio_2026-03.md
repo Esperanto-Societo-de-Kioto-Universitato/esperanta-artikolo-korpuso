@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-08-13T13:22:03.247564+00:00"
+generated_at: "2026-09-15T13:49:03.053020+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-03-04 – 2026-03-31"
 ---
@@ -25,8 +25,6 @@ Li diris, ke kiel malferma ekonomio, Ĉinio ankaŭ kontribuas al tutmonda kresko
 Ĉinio ankaŭ kontribuas al tutmonda ekonomia bonfarto per kanaloj, ekzemple, subteno al IMF kaj partoprenado en multflankaj ŝuld-restrukturaj klopodoj. Tiel, Ĉinio subtenas ne nur rektajn ekonomiajn transakciojn, sed ankaŭ la institucian kadron por la tutmonda ekonomio.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -57,8 +55,6 @@ Bakker diris, ke li rigardas Ĉinion kiel "landon kun espero, landon, kie novaj 
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -80,8 +76,6 @@ Samtempe Ĉinio ankaŭ faris gravan kontribuon al la tutmonda malaltkarbonellasa
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -102,8 +96,6 @@ La kulmino okazas ĉe la enirejo de la ponto Yunlong, kie sep portseĝuloj vici�
 La hakkaj kutimoj de la Lanterna Festo en okcidenta parto de la provinco Fujian, inkluzive de Zou Gushi, estis agnoskitaj kiel provinca nemateria kultura heredaĵo en oktobro 2005, kaj poste enskribitaj en la Nacia Listo de Nemateria Kultura Heredaĵo de Ĉinio en junio 2008.
 
 Esperantigis: Bui Hai Mung
-
-El Popola Chinio
 
 
 ---
@@ -130,8 +122,6 @@ Tiu festo estas ne nur rito por bonŝanco, sed ankaŭ forta simbolo de unueco ka
 
 Verkis: Bui Hai Mung
 
-El Popola Chinio
-
 
 ---
 
@@ -143,13 +133,9 @@ El Popola Chinio
 
 **Categories:** Plej Freŝaj
 
-Posttagmeze de la 4-a de marto en la Granda Popola Halo, Pekino, inaŭguriĝis la kvara sesio de la 14-a Tutlanda Komitato de la Ĉina Popola Politika Interkonsiliĝa Konferenco (ĈPPIK).
-
-Xi Jinping kaj aliaj gvidantoj de Ĉinio ĉeestis la malferman kunvenon.
+Posttagmeze de la 4-a de marto en la Granda Popola Halo, Pekino, inaŭguriĝis la kvara sesio de la 14-a Tutlanda Komitato de la Ĉina Popola Politika Interkonsiliĝa Konferenco (ĈPPIK). Xi Jinping kaj aliaj gvidantoj de Ĉinio ĉeestis la malferman kunvenon.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -162,11 +148,7 @@ El Popola Chinio
 
 **Categories:** Plej Freŝaj
 
-La 1-an de marto, misilo trafis ŝoseon proksime de Jerusalemo en Israelo, sed elektra veturilo BYD ATTO 3 (en Ĉinio konata kiel Yuan Plus) eltenis la eksplodon kaj protektis siajn pasaĝerojn, laŭ raporto publikigita ĉe
-
-The Times of Israel
-
-. Ĉiuj kvin okupantoj suferis nur malgravajn ĝis modere gravajn vundojn.
+La 1-an de marto, misilo trafis ŝoseon proksime de Jerusalemo en Israelo, sed elektra veturilo BYD ATTO 3 (en Ĉinio konata kiel Yuan Plus) eltenis la eksplodon kaj protektis siajn pasaĝerojn, laŭ raporto publikigita ĉe The Times of Israel. Ĉiuj kvin okupantoj suferis nur malgravajn ĝis modere gravajn vundojn.
 
 Laŭ filmaĵoj el la loko, la veturilo ekstere grave difektiĝis: rompiĝis vitraĵoj, aktiviĝis aersakoj, kareno kaviĝis, kaj misilpecetoj plurloke pikis ĝin. Tamen, laŭ fotoj el la raporto, la ĉefa strukturo de la aŭto restis sendifekta. Ĝiaj kolonoj A, B kaj C ne deformiĝis, ĉiuj kvar pordoj normale malfermiĝis, elektraj sistemoj daŭre funkciis, kaj la avertolumoj daŭre brilis.
 
@@ -174,19 +156,13 @@ Plej grave, la baterio produktita de BYD nek likis, nek brulis, nek varmegis, eb
 
 Lu Tian, ĝenerala direktoro de la sektoro pri vendoj de BYD, la 2an de marto raportis koncernajn novaĵojn, vekinte diskutadon en interreto.
 
-Laŭ raporto de
-
-Metropolis Daily
-
-, ATTO 3 estas furoranta en la israela elektraŭta merkato: en 2023 ĝi dum naŭ sinsekvaj monatoj estis la plej vendata en la lando inter la nur-elektraj veturiloj, kun jara vendo de 12 885 unuoj. Alia BYD-modelo, Song Plus (Seal U), en 2025 estis aĉetita de ĉirkaŭ 6 800 homoj en Israelo, kio signifas pli ol 11-oblan kreskon kompare kun la antaŭa jaro, kaj atingis la dekan lokon en la ĝenerala aŭto-venda rangotabelo.
+Laŭ raporto de Metropolis Daily, ATTO 3 estas furoranta en la israela elektraŭta merkato: en 2023 ĝi dum naŭ sinsekvaj monatoj estis la plej vendata en la lando inter la nur-elektraj veturiloj, kun jara vendo de 12 885 unuoj. Alia BYD-modelo, Song Plus (Seal U), en 2025 estis aĉetita de ĉirkaŭ 6 800 homoj en Israelo, kio signifas pli ol 11-oblan kreskon kompare kun la antaŭa jaro, kaj atingis la dekan lokon en la ĝenerala aŭto-venda rangotabelo.
 
 Laŭ la sama raporto, ĉinaj elektraŭtaj markoj gvidas la merkaton de Israelo: en la unuaj dek monatoj de 2025, ili okupis 82,1% de la enlanda komerco de elektraj veturiloj, kaj BYD estis la ĉefrolulo.
 
 Tradukis: Rafael Henrique Zerbetto
 
 Fonto: Shanghai Daily
-
-El Popola Chinio
 
 
 ---
@@ -207,8 +183,6 @@ Por la du sesioj de 2026, Zheng Wangchun faros sugestojn pri profundigo de la
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -223,8 +197,6 @@ El Popola Chinio
 Antaǔtagmeze de la 5-a de marto en la Granda Popola Halo de Pekino inaǔguriĝis la kvara sesio de la 14-a Tutlanda Popola Kongreso (TPK). Xi Jinping kaj aliaj gvidantoj de Ĉinio ĉeestis la malferman kunvenon.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -241,8 +213,6 @@ En 2025, la aŭtomobila produktado kaj vendado de Ĉinio respektive superis 34 m
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -257,8 +227,6 @@ El Popola Chinio
 La 5-an de marto la ĉina ĉefministro Li Qiang faris laborraporton de la registaro en la kvara sesio de la 14-a Tutlanda Popola Kongreso. En la raporto Li Qiang menciis, ke la ĉina ekonomio progresas malgraŭ premoj kaj montras grandan elastecon. La ekonomio funkcias ĝenerale stabile kun progresoj, la malneta enlanda produkto (MEP) kreskis je 5%, kaj la totala kvanto atingis 140.19 duilionojn da juanoj.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -277,8 +245,6 @@ La 5-an de marto ĉina prezidanto Xi Jinping, ankaŭ ĝenerala sekretario de la 
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -293,8 +259,6 @@ El Popola Chinio
 La 4-an de marto en la rulseĝa glitŝtonludo de la Vintraj Paralimpikoj en Italio, ĉinaj sportistoj Wang Meng kaj Yang Jinqiao akiris la unuan ormedalon por la ĉina teamo.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -322,8 +286,6 @@ grena produktado estos ĉirkaŭ 700 milionoj da tunoj;
 kresko de personaj enspezoj estos kunordita kun ekonomia kresko.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -354,8 +316,6 @@ En tiu solenaĵo Zou Yi donacis la fotojn kolektitajn de li en 13 jaroj al la Ĉ
 
 Verkis: Rafael Henrique Zerbetto
 
-El Popola Chinio
-
 
 ---
 
@@ -374,8 +334,6 @@ La kunvenon ĉeestis naciaj politikaj konsilistoj el la Ĉina Kamparana kaj Labo
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -402,8 +360,6 @@ Yin Tongyue aparte emfazis, ke estontaj novenergiaj veturiloj estos verdaj prod
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -418,8 +374,6 @@ El Popola Chinio
 La 5-an de marto Li Lecheng, ministro pri industrio kaj informada teknologio de Ĉinio, deklaris en la"pasejo de ministroj" de la kvara sesio de la 14-a Tutlanda Popola Kongreso, ke en 2025 la skalo de ĉina AI-industrio superis 1.2 duilionojn da juanoj, kun pli ol 6 200 entreprenoj.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -444,8 +398,6 @@ Virinoj plukas teon en Hubei-provinco de Ĉinio
 
 Verkis kaj fotis: Rafael Henrique Zerbetto
 
-El Popola Chinio
-
 
 ---
 
@@ -468,8 +420,6 @@ Tamen la florkronoj estas pli ol nur ornamaĵoj. Ili estas parto de identeco kaj
 Dum mia vizito, lokanoj invitis min provi la tradician vestaĵon kaj surkapigi la florkronon. Kiam la florkrono estis zorge enmetita sur mia kapo, mi komprenis, kial ĉi tiu simpla sed eleganta tradicio fascinas tiom da vizitantoj. La florkronoj ne nur aldonas koloron al la vilaĝo, sed ankaŭ rakontas historion pri vivo ĉe la maro kaj pri la forta rolo de virinoj en la loka socio. Promenante tra mallarĝaj stratetoj inter domoj konstruitaj el ostrokrustoj kaj aŭskultante la bruon de ondoj, mi sentis, ke ĉi tie la tradicioj ne estas nur en muzeo, sed ankaŭ estas parto de la ĉiutaga vivo. La florkronoj de Xunpu restas vivanta simbolo de marborda kulturo, kiu daŭre floras en moderna Ĉinio.
 
 Verkis: Bui Hai Mung
-
-El Popola Chinio
 
 
 ---
@@ -499,8 +449,6 @@ En la lastaj jaroj la "tri glavoj" komencis reaperi per kulturaj kaj turismaj pr
 Hodiaŭ la tri glavoj ne estas nur malnova harornamaĵo, sed ankaŭ simbolo de la forto, sendependeco kaj kultura fiereco de virinoj en Fuzhou-urbo. Se la florkronoj de Quanzhou montras mildan kaj elegantan belecon, la "tri glavoj" de Fuzhou rakontas alian historion pri kuraĝaj virinoj pretaj protekti sin mem, sian familion kaj sian hejmlandon.
 
 Verkis: Bui Hai Mung
-
-El Popola Chinio
 
 
 ---
@@ -571,8 +519,6 @@ La verdaj arbaroj de Houyang hodiaŭ ne estas nur la rezulto de unu familio, sed
 
 Raportis: Bui Hai Mung
 
-El Popola Chinio
-
 
 ---
 
@@ -598,8 +544,6 @@ Koncerne la perspektivojn por kunlaboro inter Ĉinio kaj Eŭropo, Gambardella ri
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -614,8 +558,6 @@ El Popola Chinio
 La 5-an de marto la ĉina ĉefministro Li Qiang faris laborraporton de la registaro en la kvara sesio de la 14-a Tutlanda Popola Kongreso. Parolante pri la ĉefaj celoj de disvolviĝo en 2026, la laborraporto menciis unu el ili, ke landa ekonomio kreskos je 4.5%-5%, kaj oni klopodos atingi pli bonajn rezultojn per efektiva laboro.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -676,8 +618,6 @@ La junulo, kiu ne vojaĝas al sia naskiĝloko, ne forlasas sian familion, sed se
 
 Verkis kaj fotis (krom la lasta): Rafael Henrique Zerbetto
 
-El Popola Chinio
-
 
 ---
 
@@ -699,8 +639,6 @@ Kamieth aldonis, ke la noviga kampuso de BASF en Ŝanhajo evoluis al la esplora 
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -715,8 +653,6 @@ El Popola Chinio
 En la venontaj kvin jaroj, laŭ la 15-a Kvinjara Plano, Ĉinio pli forte subtenos altkvalitan disvolviĝon. La lando profunde antaŭenigos la konstruadon de cifereca Ĉinio, kaj la aldonvaloro de la kernaj industrioj de cifereca ekonomio okupos 12.5% de la malneta enlanda produkto (MEP).
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -735,8 +671,6 @@ En la ferma kunveno estis aprobitaj la rezolucio de la kvara sesio de la 14a Tut
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -751,8 +685,6 @@ El Popola Chinio
 Antaŭ nelonge, la Ministerio de Industrio kaj Informa Teknologio anoncis, ke Ĉinio sukcese plenumis la unuan fazon de teknikaj eksperimentoj pri 6G-a tekniko, rezervis pli ol 300 ŝlosilajn rezultojn, kaj jam lanĉis la duan fazon de la eksperimentado. En la periodo de la du sesioj, fakuloj de tiu ĉi kampo diris, ke la 6G-a tekniko de Ĉinio pli kaj pli maturiĝas, la 14-a Kvinjara Plano estas periodo por la strategia aranĝo kaj rezervo, kaj la 15-a Kvinjara Plano estas aparte grava periodo por ke la tekniko eniru en la normalan ellaboron kaj komercan preparadon.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -789,8 +721,6 @@ Redaktoro: Gao Shuyuan
 
 Afiŝo: Gao Shuyuan kaj Liao Yingjie
 
-El Popola Chinio
-
 
 ---
 
@@ -805,8 +735,6 @@ El Popola Chinio
 Posttagmeze de la 12a de marto en Pekino la 14a Tutlanda Popola Kongreso (TPK) fermis sian kvaran sesion. Xi Jinping kaj aliaj ĉinaj gvidantoj ĉeestis la kunvenon okazintan en la Granda Popola Halo.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -825,9 +753,7 @@ Kelktagojn post la komenco de la atakoj de Usono kaj Israelo kontraŭ Irano, Ĉi
 
 Dum Usono investas en militoj, Ĉinio investas en infrastrukturo kaj plibonigo de vivkondiĉoj de homoj. Dum Usono sin trudas en internajn aferojn de aliaj landoj, Ĉinio praktikas diplomation surbaze de reciprokaj respekto kaj egaleco. Kaj dum Usono praktikas hegemoniismon kaj malobservas la internaciajn leĝojn, Ĉinio antaŭenigas plurflankismon kaj la kernan rolon de UN por trakti internaciajn problemojn.
 
-Ĵus finiĝis
-
-la du sesioj en Ĉinio, kiuj difinis ne nur la laboron de la registaro por tiu ĉi jaro, sed ankaŭ la venontan Kvinjaran Planon. En mondo trairanta rapidan ŝanĝiĝon, plena je malstabileco kaj konfliktoj, estas malfacile antaŭvidi la estontecon.
+Ĵus finiĝis la du sesioj en Ĉinio, kiuj difinis ne nur la laboron de la registaro por tiu ĉi jaro, sed ankaŭ la venontan Kvinjaran Planon. En mondo trairanta rapidan ŝanĝiĝon, plena je malstabileco kaj konfliktoj, estas malfacile antaŭvidi la estontecon.
 
 Ŝtata planado
 
@@ -869,8 +795,6 @@ En epoko plena je konfliktoj, kiuj minacas la internacian ordon kaj hegemoniismo
 
 Verkis: Rafael Henrique Zerbetto
 
-El Popola Chinio
-
 
 ---
 
@@ -885,8 +809,6 @@ El Popola Chinio
 Printempo komenciĝis, plantoj verdiĝas en la distrikto Bishan de la urbo Chongqing. En la lastaj jaroj, la loka registaro faris aranĝojn en la urboregiono por ke urbanoj ĝuu la belecon de la naturo.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -917,11 +839,7 @@ Jam en la pli progresintaj ekonomioj, oni rimarkas kreskon kaj en la vivkosto ka
 
 La rapida evoluo de la ĉina financa sektoro instigis la landon investi en aliaj merkatoj por akiri profiton, dum la ekspansio de ĉinaj entreprenoj tutmonde katalizas tiun procezon, ĉar ili bezonas kapitalon por firmigi sian eksterlandan ĉeeston.
 
-Estas ankaŭ alia punkto, malmulte diskutita, sed tre interesa: pasintjare,
-
-Shanghai Daily
-
-publikigis raporton, kiel ĉinoj ludas videoludojn: ili ŝatas konstrui aferojn kaj optimumigi loĝistikajn ĉenojn.
+Estas ankaŭ alia punkto, malmulte diskutita, sed tre interesa: pasintjare, Shanghai Daily publikigis raporton, kiel ĉinoj ludas videoludojn: ili ŝatas konstrui aferojn kaj optimumigi loĝistikajn ĉenojn.
 
 En reala vivo, la konduto de ĉinoj ne estas malsama: alvenante en alian landon, ili identigas mankojn en infrastrukturo kaj serĉas manierojn plibonigi ĝin. Ĉina entrepreno konstruas sian fabrikon kaj aĉetas la kamionojn, sed la infrastrukturo kiu interligas la landon ne estas ĝia tasko. En tiu ĉi momento venas la ĉina investo en grandaj publikaj konstruaĵoj.
 
@@ -939,11 +857,7 @@ Por la landoj de la Tutmonda Sudo, la ĉina kredito ofertas la avantaĝojn respe
 
 La kontraŭpagoj kiujn Ĉinio kutime postulas estas raciaj: krom la pago de la prunto, kutime oni intertraktas la partoprenon de ĉinaj entreprenoj en la konstruado, kio povas okazi laŭ malsamaj manieroj, kiel uzado de ĉina laborforto en la konstruado, provizo de servoj kaj materialoj, trejnado de loka laborforto kaj eĉ funkciigo de la infrastrukturo dum interkonsentita periodo.
 
-Laŭ raporto de
-
-Bloomberg
-
-de februaro ĉi-jare, Kenjo ŝparos 215 milionojn da usonaj dolaroj jare en pago de monpruntoj pro tio, ke la lando anstataŭigos pruntojn en dolaroj per tiuj en ĉina juano, kiu havas malpli da kurza oscilado kaj pli malaltajn interezojn.
+Laŭ raporto de Bloomberg de februaro ĉi-jare, Kenjo ŝparos 215 milionojn da usonaj dolaroj jare en pago de monpruntoj pro tio, ke la lando anstataŭigos pruntojn en dolaroj per tiuj en ĉina juano, kiu havas malpli da kurza oscilado kaj pli malaltajn interezojn.
 
 Etiopio renegocas sian ŝuldon en dolaroj kun Ĉinio por ankaŭ alpreni la juanon. Zambio, siaflanke, permesas ke ĉinaj minentreprenoj funkciantaj en la lando pagu impostojn en juanoj, kaj pluraj aliaj landoj studas fari pruntojn per ĉina valuto anstataŭ dolaro.
 
@@ -977,8 +891,6 @@ Krom tio, Okcidento financas programojn de NROj por instrui homojn lavi la manoj
 
 Verkis: Rafael Henrique Zerbetto
 
-El Popola Chinio
-
 
 ---
 
@@ -993,8 +905,6 @@ El Popola Chinio
 Lastatempe aperis neĝo en la gubernio Tanchang de la provinco Gansu, nordokcidenta Ĉinio. Jen pitoreskaj pejzaĝoj en vidindejoj de la loko.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -1065,8 +975,6 @@ La vojaĝo tra la urboj kaj vilaĝoj de Fujian montras plurtavolan bildon de ĉi
 
 Verkis kaj fotis: Bui Hai Mung
 
-El Popola Chinio
-
 
 ---
 
@@ -1084,8 +992,6 @@ Tajĝiĉjuan devenas de Ĉinio. Ĝi, kun kelkcentjara historio, enhavas la filoz
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -1100,8 +1006,6 @@ El Popola Chinio
 Lastatempe grandnombro da migrobirdoj atingis Songhua-riveron, nordorienta Ĉinio, por iom ripozi. Sur la akvoareo, la birdoj ludas kaj manĝas, ĝuante la printempan etoson.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -1123,8 +1027,6 @@ Zhao Leji, prezidanto de la Konstanta Komitato de la Tutlanda Popola Kongreso, �
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -1197,8 +1099,6 @@ Do, la respondo al la demando "kial Ĉinio ankoraŭ restas stabila?" troviĝas e
 
 Verkis: Bui Hai Mung
 
-El Popola Chinio
-
 
 ---
 
@@ -1216,8 +1116,6 @@ La 15-a Kvinjara Plano de Ĉinio menciis, ke oni daŭre antaŭenpuŝos la urban 
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -1231,11 +1129,7 @@ El Popola Chinio
 
 de Ĵamŝed Sabiroviĉ Junusov*
 
-La libro
-
-Xi Jinping: Regado de Ĉinio
-
-estas fundamenta historia kaj nuntempa trarigardo de la ŝtataj sistemoj kaj de la tutmonda politiko el la vidpunkto de la moderna ĉina socio. La libro prezentas vastan analizon de la nuntempa politika tutmondiĝo, kun ĝiaj efikoj pozitivaj kaj negativaj sur la monda ekonomio kaj sur la tutmonda politika sistemo.
+La libro Xi Jinping: Regado de Ĉinio estas fundamenta historia kaj nuntempa trarigardo de la ŝtataj sistemoj kaj de la tutmonda politiko el la vidpunkto de la moderna ĉina socio. La libro prezentas vastan analizon de la nuntempa politika tutmondiĝo, kun ĝiaj efikoj pozitivaj kaj negativaj sur la monda ekonomio kaj sur la tutmonda politika sistemo.
 
 S-ro JUNUSOV Ĵamŝed Sabiroviĉ (maldekstre) dum sia laboro en la oficejo de sindikato
 
@@ -1305,8 +1199,6 @@ Esperantigita de Chen Meibao
 
 Projektita de Chen Ji
 
-El Popola Chinio
-
 
 ---
 
@@ -1325,8 +1217,6 @@ La rondtabla kunveno "Komuna Hejmo" invitis pli ol dek fakulojn el Ĉinio, Briti
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---

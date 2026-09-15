@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-03-03T10:42:50.553237+00:00"
+generated_at: "2026-09-15T13:49:03.043739+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-01-04 – 2026-01-30"
 ---
@@ -18,8 +18,6 @@ La 3-an de januaro aperis la unua superluno de 2026. Laŭ astronomioj, la alia s
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -36,8 +34,6 @@ Frumatene de la 3-a de januaro 2026 Usono faris atakon kontraŭ Venezuelo. Usona
 Jen la bildoj de Karakaso, ĉefurbo de Venezuelo
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -66,11 +62,7 @@ Grava turnopunkto aperis en 2014, kiam Pekino oficiale malfermis la spac-sektoro
 
 Spac-stacio Tiangong
 
-Pri skalo, laŭ la
-
-Raporto pri Indekso de Ĉina Spac-ekonomio
-
-, la totala produktado de la ĉina spac-ekonomio kreskis signife, de 53 miliardoj da juanoj en 2008 ĝis ĉirkaŭ 1.6 trilionoj da juanoj en 2024. La Ĉina Komerca Spac-forumo 2025 prognozas, ke ĝis 2030 la skalo de la industrio povus atingi 7-10 trilionojn da juanoj. Rimarkinde, ke malsame ol en Usono, kie teknologia novigado ofte originas en la privata sfero kaj poste disvastiĝas al la publika, Ĉinio sekvas la kontraŭan direkton. La ŝtato starigas fundamenton, difinas celojn kaj malfermas vojon, dum la privata sfero partoprenas por plialtigi efikecon kaj rapidigi efektivigon.
+Pri skalo, laŭ la Raporto pri Indekso de Ĉina Spac-ekonomio, la totala produktado de la ĉina spac-ekonomio kreskis signife, de 53 miliardoj da juanoj en 2008 ĝis ĉirkaŭ 1.6 trilionoj da juanoj en 2024. La Ĉina Komerca Spac-forumo 2025 prognozas, ke ĝis 2030 la skalo de la industrio povus atingi 7-10 trilionojn da juanoj. Rimarkinde, ke malsame ol en Usono, kie teknologia novigado ofte originas en la privata sfero kaj poste disvastiĝas al la publika, Ĉinio sekvas la kontraŭan direkton. La ŝtato starigas fundamenton, difinas celojn kaj malfermas vojon, dum la privata sfero partoprenas por plialtigi efikecon kaj rapidigi efektivigon.
 
 Lanĉo de la kosmoŝipo Shenzhou-12
 
@@ -104,8 +96,6 @@ Rigardante al la 15-a Kvinjara Plano (2026-2030), komerca spaco daŭre restos pr
 
 Verkis: Bui Hai Mung
 
-El Popola Chinio
-
 
 ---
 
@@ -123,8 +113,6 @@ Laŭdetale, la homfluado sur aŭtovojoj (inkluzive de nekomercaj pasaĝeraj vetu
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -141,8 +129,6 @@ La antikva Xinzhou-urbo situas en Shanxi-provinco, Ĉinio. Ĝia historio datiĝ
 Por revigligi la antikvan urbon, oni lanĉis protektan kaj renovigan projekton en 2017. Oni plibonigis infrastrukturojn kaj stratajn funkciojn kaj venigis pli ol 600 butikojn entrepreni en la loko. Por subteni la disvolviĝon de lokaj nemateriaj kulturaj heredaĵoj, la urbo efektivigis politikojn por redukti lupagon por la butikoj rilate al kulturaj heredaĵoj. La malfermo de pli ol 20 butikoj pri pastostatuetoj, lignoskulptado kaj aliaj metiartoj prosperigis turismon. Samtempe, kulturaj prezentadoj, kiel operoj, dancoj kaj popolaj tradicioj, kaptis la atenton de multaj turistoj, kiuj komence planis nur fari fotojn. Nun ili povas ĝui la spertojn en la antikva regiono.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -197,11 +183,7 @@ Por eksterlandaj fakuloj, Ĉinio estas alloga pro la grandeco de la merkato, la 
 
 Rezultoj kaj reprezentaj rakontoj
 
-Unu el la plej klaraj pruvoj pri la efikeco de la politikoj de Ĉinio por altiri talentulojn estas la simbolaj sukcesaj rakontoj ligitaj al ĉefaj akademiuloj kaj mondnivelaj sciencistoj. La programoj altiris multajn ĉinajn akademiulojn laborantajn eksterlande por reveni, inter kiuj troviĝas Zhang Tong, fakulo pri AI. Li estis edukita ĉe Universitato Stanford, posedanta pli ol 60 patentojn rilatajn al AI kaj iam laborinta ĉe Tencent. Alia elstara nomo estas Pan Jianwei, ĉefa esploristo en kvantuma scienco, akademiano de la Ĉina Akademio de Sciencoj, kiu estis nomita "Persono de la Jaro" de la revuo
-
-Naturo
-
-en 2017.
+Unu el la plej klaraj pruvoj pri la efikeco de la politikoj de Ĉinio por altiri talentulojn estas la simbolaj sukcesaj rakontoj ligitaj al ĉefaj akademiuloj kaj mondnivelaj sciencistoj. La programoj altiris multajn ĉinajn akademiulojn laborantajn eksterlande por reveni, inter kiuj troviĝas Zhang Tong, fakulo pri AI. Li estis edukita ĉe Universitato Stanford, posedanta pli ol 60 patentojn rilatajn al AI kaj iam laborinta ĉe Tencent. Alia elstara nomo estas Pan Jianwei, ĉefa esploristo en kvantuma scienco, akademiano de la Ĉina Akademio de Sciencoj, kiu estis nomita "Persono de la Jaro" de la revuo Naturo en 2017.
 
 Ne limigite al talentuloj de ĉina deveno, Ĉinio ankaŭ sukcese allogis internaciajn sciencistojn, inter kiuj elstaras profesoro Stoddart, ricevinto de la Nobel-premio pri Kemio en 2016. Li aliĝis al la Universitato de Tianjin en 2014, partoprenis la Programon de Mil Talentuloj, kaj kontribuis al la edukado kaj subteno de pluraj generacioj de junaj sciencistoj, tiel montrante la kreskantan allogon de la esplora ekosistemo en Ĉinio.
 
@@ -216,8 +198,6 @@ De sekvanto al ludoregula difinanto
 La transiro de "intelekta revenigo" al "tutmonda altirado" montras, ke la talentula politiko de Ĉinio eniras novan fazon: Pli aktivan, sisteme strukturitan kaj direktitan al longdaŭra strategio. En la mondo, kie scio fariĝis ŝlosila strategia rimedo, la konkurenco pri talentuloj ne plu estas nur afero de edukado aŭ scienco, sed ankaŭ mezurilo de nacia kapablo. Kaj en ĉi tiu aspekto, Ĉinio iom post iom transformiĝas el sekvanto en unu el la roloj, kiuj difinas la regulojn de la ludo.
 
 Verkis: Bui Hai Mung
-
-El Popola Chinio
 
 
 ---
@@ -330,8 +310,6 @@ Nia lasta ekskursejo, antaŭ ol veturi al la flughaveno, estis la Arta Zono 798,
 
 La lasta tagmanĝo estis kutima, sed la ĉina esperantisto, kiu pasigis la tagon kun ni en la Arta Zono 798, alportis ĉinan vinon kaj enverŝis ĝin en ĉiun glason de la korea karavano. Ni tostis amikecon, kunlaboron, revidon. Ĉe la vesperiĝo mi sidiĝis en la aviadilon al Seulo kaj pensis: "Kial al mi ne falas tiu vespera pluvo de Su Shi, kiu min retenas, ebriejen enigas."
 
-El Popola Chinio
-
 
 ---
 
@@ -360,8 +338,6 @@ Bonvole elŝutu kaj disvastigu por subteni la aplikaĵon.
 Raportis: Yuan Ailin
 
 Redaktoro: Gao Shuyuan
-
-El Popola Chinio
 
 
 ---
@@ -446,8 +422,6 @@ Kun modesta persistemo mi deziras daŭrigi mian laboron, por ke ankoraŭ pli da 
 
 Zhou Tianhao (Tigro), prezidanto de Ŝanhaja Esperanto-Asocio
 
-El Popola Chinio
-
 
 ---
 
@@ -475,8 +449,6 @@ Raporto de la Ĉina Turisma Akademio montras, ke la glacineĝa ekonomio de Ĉini
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -495,8 +467,6 @@ Pro ĝia populareco, mendoj inundas al la "origina" faranto. Simile al la plorĉ
 Zhang venis al Yiwu en 2008. Komence ŝi laboris kiel vendistino, en 2017 ŝi fondis sian propran butikon. Ŝi kaj ŝia kompanio travivis multajn malfacilojn. Nun, danke al la plorĉevalo, ŝi estas treege okupata pro tutmondaj mendoj, inkluzive de tiuj el Sud-Afriko, Rusio kaj Rumanio.
 
 Redaktoro: Gao Shuyuan
-
-El Popola Chinio
 
 
 ---
@@ -549,8 +519,6 @@ La pariga angulo en ĉinaj parkoj estas multfaceta kaj vigla socia fenomeno. Ĝi
 
 Verkis: Bui Hai Mung
 
-El Popola Chinio
-
 
 ---
 
@@ -565,8 +533,6 @@ El Popola Chinio
 Laŭ la datumoj publikigitaj de la Ĉina Asocio de Aŭtomobilaj Manufakturoj en la 14-a de januaro, en 2025 la produktado kaj vendado de aŭtoj en Ĉinio superis 34 milionojn, starigante novan historie rekordon. La produktado kaj vendado de novenergiaj aŭtoj superis 16 milionojn. Novenergiaj aŭtoj okupis pli ol duono de venditaj novaj veturiloj.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -593,8 +559,6 @@ La Konsila Komitato pri Nula Rubo anoncis, ke la kazo de Hangzhou estos oficiale
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -609,8 +573,6 @@ El Popola Chinio
 Laŭ la datumoj publikigitaj de la Ĝenerala Dogana Administracio la 14-an de januaro, en 2025 la totalaj importado kaj eksportado de varoj de Ĉinio atingis 45.47 duilionojn da juanoj, kaj ĝia jara kresko estas 3.8%. Tio signifas, ke ĉinaj importado kaj eksportado kreskas en sinsekvaj naŭ jaroj ekde 2017.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -641,8 +603,6 @@ Por pli da informoj vizitu: ijk2026.tejo.org.
 
 Raportis: Hayden Hendricks
 
-El Popola Chinio
-
 
 ---
 
@@ -668,8 +628,6 @@ Laŭ vi, kial la aplikaĵo populariĝis? Ĉu ĝi vere kontentigas la bezonojn de
 
 Redaktoro: Gao Shuyuan
 
-El Popola Chinio
-
 
 ---
 
@@ -681,19 +639,13 @@ El Popola Chinio
 
 **Categories:** Plej Freŝaj
 
-La Internacia Mona Fonduso (IMF) lastatempe publikigis la
-
-Raporton pri Monda Ekonomia Perspektivo
-
-, altigante la prognozon pri kresko de la ĉina ekonomio en 2025 je 0.2 procentpunktoj ĝis 5%, IMF ankaŭ altigis la prognozon pri kresko de la ĉina ekonomio en 2026.
+La Internacia Mona Fonduso (IMF) lastatempe publikigis la Raporton pri Monda Ekonomia Perspektivo, altigante la prognozon pri kresko de la ĉina ekonomio en 2025 je 0.2 procentpunktoj ĝis 5%, IMF ankaŭ altigis la prognozon pri kresko de la ĉina ekonomio en 2026.
 
 Laŭ la raporto, IMF iomete ĝisdatigis la prognozon de tutmonda eknomia kresko por 2026 ĝis 3.3%, je 0.2 procentpunktoj pli ol ĝia prognozo en oktobro 2025.
 
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -711,6 +663,8 @@ Mi unuafoje vizitis Harbinon en vintro komence de 2024. La ekstera temperaturo f
 Harbina Glacineĝa Mondo
 
 Glacio kaj neĝo ne plu estas malvarmaj
+
+Mia vojaĝo daŭris al la Neĝa Vilaĝo en Heilongjiang -- loko iam nur fora, eta vilaĝo. La vojo serpentumis tra pinarbaroj kovritaj de blanko; lignaj domoj portis dikajn "neĝajn ĉapojn", kaj kuirfumo leviĝis kontraŭ arĝente griza ĉielo. La pejzaĝo estis kiel pentraĵo, eĉ kiam mi afiŝis ĉi tiujn fotojn en Facebook-o, multaj el miaj amikoj estis surprizitaj kaj demandis, ĉu ĉi tio estis vera sceno.
 
 Sed tio, kio plej impresis min, ne estis nur la beleco. Malantaŭ tiu bildo staris kompleta sistemo de servoj: Hoteloj, gastejoj, manĝejoj, suveniraj butikoj, luado de etnaj kostumoj por fotado kaj ekskursoj por sperti la vivon en neĝaj regionoj. La lokaj loĝantoj jam ne plu vivas nur per tradicia forstado aŭ agrikulturo, ili fariĝis gastigantoj, gvidistoj, kuiristoj kaj metiistoj. La vintro -- iam tempo de ripozo -- nun jam estas la plej grava sezono por enspezi.
 
@@ -776,8 +730,6 @@ Mi iris al nordorienta Ĉinio pro la neĝo, sed mi foriris kun alia rigardo al l
 
 Verkis kaj fotis: Bui Hai Mung
 
-El Popola Chinio
-
 
 ---
 
@@ -828,8 +780,6 @@ Kun la vastigita lanĉo de la servo "senpeza vojaĝo", fervojaj pasaĝeroj povas
 Esperantigis: Rafael Henrique Zerbetto
 
 Fonto: OneTubeDaily
-
-El Popola Chinio
 
 
 ---
@@ -894,8 +844,6 @@ La ĉina vicĉefministro prezentis al la mondo la ĉinan saĝecon solvi malakord
 
 Verkis: Rafael Henrique Zerbetto
 
-El Popola Chinio
-
 
 ---
 
@@ -927,8 +875,6 @@ La pordmalfermo de Ĉinio, surbaze de la nova kvinjara plano, estas ne nur diroj
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -945,8 +891,6 @@ Lastatempe la federacio de handikapuloj de Gansu-provinco kaj la socilabora serv
 Dum la lastaj jaroj, Gansu klopodis por faciligi la dungiĝon de handikapuloj per scienc-teknikaj rimedoj. Post kiam Ĉinio oficiale agnoskis AI-trejniston kiel novan profesion, la provinco aktive kontaktas altlernejojn por enkonduki AI-rilatajn teknikojn en la projektojn por handikapula dungitec-trejnado. La provinco ankaŭ okazigas kursojn kaj gvidadon pri socia vivo, kaj sukskribas interkonsentojn kun entreprenoj pere de dungiga organizo por handikapuloj.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -970,8 +914,6 @@ La komenco de la ĉina ekonomio en 2026 ne temas simple pri strebado al ekonomia
 *Yang Yiyong, vicprezidanto de la Teknika Komitato pri Normigado de Nacia Servo kaj ĉefa konsilanto de la Ĉina Akademio de Makroekonomia Esplorado.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -1025,8 +967,6 @@ Pli ol tio, Ĉinio faris grandegajn teknologiajn antaŭenpaŝojn por redukti la 
 Trump eraris atribuante la konkurencivon de la ĉina industrio al la uzo de energimiksaĵo bazita sur bruligo de fosiliaj brulaĵoj. Ĉinio produktas pli malmultekoste pro la skalo de produktado; la loĝistika efikeco; ĝia pragmata, ampleksa kaj integrita ekonomia planado; kaj pro ĝia peza investado en edukado, scienco kaj infrastrukturo.
 
 Verkis: Rafael Henrique Zerbetto
-
-El Popola Chinio
 
 
 ---

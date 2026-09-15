@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-09-15T11:04:52.502659+00:00"
+generated_at: "2026-09-15T13:49:03.255379+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-08-14 – 2026-08-31"
 ---
@@ -28,8 +28,6 @@ Li ankaŭ emfazis la signifon de evoluigo centrita je la popolo en Ĉinio, alpor
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -45,8 +43,6 @@ De junio ĝis aŭgusto estas la ora periodo por spekti la Laktan Vojon en norda 
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -60,15 +56,9 @@ El Popola Chinio
 
 **Categories:** Plej Freŝaj
 
-258 000 juanoj, tio estas la plej alta nuna reklamprezo por unu filmeto pli longa ol 60 sekundoj de Fang Taozi, la ĉefaktorino de la AI-produktita mallonga serio
+258 000 juanoj, tio estas la plej alta nuna reklamprezo por unu filmeto pli longa ol 60 sekundoj de Fang Taozi, la ĉefaktorino de la AI-produktita mallonga serio La Maldungita Knabino. Por konataj famuloj tia sumo estas kutima, sed Fang Taozi neniam aperis antaŭ filmkamerao. Ŝi ne estas vera homo. Ŝi estas virtuala rolulo kreita per AI. Ŝiaj vizaĝo, voĉo, ĉiutagaj filmetoj kaj afiŝoj en sociaj retejoj... ĉiuj estas generitaj de AI. Post la publikigo de la serio en Douyin meze de 2026, ĝi rapide superis 200 milionojn da spektadoj. Fang Taozi poste daŭrigis sian "vivon" ekster la serio. Ŝi aperas en sociaj retejoj, kunlaboras kun reklamantoj kaj konstante kreskigas sian sekvantaron. Laŭ ĉinaj amaskomunikiloj, unu reklama filmeto de ŝi nun kostas inter 168 000 kaj 258 000 juanoj. Tio vekas interesan demandon: Kiel rolulo, kiu neniam ekzistis en la reala mondo, povas fariĝi tiel valora? Fang Taozi ŝajnas esti nur alia produkto de genera AI. Sed por la filmindustrio ŝi simbolas ion multe pli gravan. La serio mem estas nur la komenco. Post la fino de la rakonto, la rolulo plu kreas ekonomian valoron per sociaj retoj, reklamoj kaj aliaj komercaj agadoj.
 
-La Maldungita Knabino
-
-. Por konataj famuloj tia sumo estas kutima, sed Fang Taozi neniam aperis antaŭ filmkamerao. Ŝi ne estas vera homo. Ŝi estas virtuala rolulo kreita per AI. Ŝiaj vizaĝo, voĉo, ĉiutagaj filmetoj kaj afiŝoj en sociaj retejoj... ĉiuj estas generitaj de AI. Post la publikigo de la serio en Douyin meze de 2026, ĝi rapide superis 200 milionojn da spektadoj. Fang Taozi poste daŭrigis sian "vivon" ekster la serio. Ŝi aperas en sociaj retejoj, kunlaboras kun reklamantoj kaj konstante kreskigas sian sekvantaron. Laŭ ĉinaj amaskomunikiloj, unu reklama filmeto de ŝi nun kostas inter 168 000 kaj 258 000 juanoj. Tio vekas interesan demandon: Kiel rolulo, kiu neniam ekzistis en la reala mondo, povas fariĝi tiel valora? Fang Taozi ŝajnas esti nur alia produkto de genera AI. Sed por la filmindustrio ŝi simbolas ion multe pli gravan. La serio mem estas nur la komenco. Post la fino de la rakonto, la rolulo plu kreas ekonomian valoron per sociaj retoj, reklamoj kaj aliaj komercaj agadoj.
-
-Reklamprezo de Fang Taozi kaj bildo el la mallonga serio
-
-La Maldungita Knabino
+Reklamprezo de Fang Taozi kaj bildo el la mallonga serio La Maldungita Knabino
 
 Kio jam ŝanĝiĝis antaŭ la apero de AI?
 
@@ -76,11 +66,7 @@ Se unu loko plej klare montras la transformiĝon de la ĉina filmindustrio, ĝi 
 
 Tiu ritmo komencis ŝanĝiĝi kun la rapida kresko de vertikalaj mallongaj serioj. Longaj televidserioj iom post iom cedis lokon al epizodoj de nur unu aŭ du minutoj en apoj kiel Douyin kaj Hongguo. En 2024 la enspezo de la ĉina merkato de mallongaj serioj unuafoje superis la tradician kinan biletvendon. Por Hengdian tio estis klara signo, ke la centro de la filmindustrio komencis moviĝi. Pli kaj pli da modernaj scenejoj aperis: oficejoj, apartamentoj, hospitaloj kaj kafejoj. Ili servis al malgrandaj teamoj de vertikalaj serioj. Dum la unuaj sep monatoj de 2025 Hengdian akceptis pli ol 2 300 tiajn filmteamojn, pli multe ol la antaŭa jaro. Samtempe malpliiĝis la postulo de tradiciaj televidaj kaj kinaj projektoj. Antaŭ kelkaj jaroj oni en Hengdian plej ofte vidis teamojn kun centoj da homoj. Hodiaŭ multaj havas nur kelkdek membrojn. La filmado daŭras tagojn, ne monatojn.
 
-Sed tio ankoraŭ ne estas la plej granda ŝanĝo. Laŭ la Ĉina Asocio pri Retaj Dissendaj Servoj, ĉirkaŭ 128 000 mallongaj serioj estis publikigitaj dum la unua kvarono de 2026, kaj pli ol 95% estis generitaj de AI-teknologio. Laŭ DataEye, inter la cent plej popularaj mallongaj serioj en januaro 2026 la proporcio de AI-serioj kun realismaj homaj figuroj kreskis de ĉirkaŭ 7% ĝis 38% en nur unu jaro. Kial AI tiel rapide disvastiĝas en la ĉina filmindustrio? La kostodiferenco estas same evidenta. Produktanto Fang Liqi de mallongaj serioj en Shang'rao diris al
-
-China Daily
-
-, ke moderna serio filmita kun veraj aktoroj kutime kostas inter 300 000 kaj 400 000 juanoj. AI-versio kostas iom pli ol 100 000 juanojn. Kun tia diferenco AI rapide fariĝis alloga elekto por multaj produktantoj. Sed ili ankoraŭ ne respondas al pli grava demando: se AI nur ŝparas tempon kaj monon, kiel rolulo kiel Fang Taozi povas fariĝi komerca valoraĵo?
+Sed tio ankoraŭ ne estas la plej granda ŝanĝo. Laŭ la Ĉina Asocio pri Retaj Dissendaj Servoj, ĉirkaŭ 128 000 mallongaj serioj estis publikigitaj dum la unua kvarono de 2026, kaj pli ol 95% estis generitaj de AI-teknologio. Laŭ DataEye, inter la cent plej popularaj mallongaj serioj en januaro 2026 la proporcio de AI-serioj kun realismaj homaj figuroj kreskis de ĉirkaŭ 7% ĝis 38% en nur unu jaro. Kial AI tiel rapide disvastiĝas en la ĉina filmindustrio? La kostodiferenco estas same evidenta. Produktanto Fang Liqi de mallongaj serioj en Shang'rao diris al China Daily, ke moderna serio filmita kun veraj aktoroj kutime kostas inter 300 000 kaj 400 000 juanoj. AI-versio kostas iom pli ol 100 000 juanojn. Kun tia diferenco AI rapide fariĝis alloga elekto por multaj produktantoj. Sed ili ankoraŭ ne respondas al pli grava demando: se AI nur ŝparas tempon kaj monon, kiel rolulo kiel Fang Taozi povas fariĝi komerca valoraĵo?
 
 Kion AI efektive ŝanĝas?
 
@@ -104,8 +90,6 @@ La novaĵo ne estas nur tio, ke AI povas krei rolulon kiel Fang Taozi. Pli grave
 
 Verkis: Bui Hai Mung
 
-El Popola Chinio
-
 
 ---
 
@@ -127,8 +111,6 @@ Estis duonhisita ĉina nacia flago ĉe la placo Tian'anmen la 18-an de aŭgusto 
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -149,8 +131,6 @@ Li diris ankaŭ, ke ĉiuj membroj de la tuta partio, la tuta armeo kaj la tuta p
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -179,8 +159,6 @@ Per legado de unu el tiuj ĵurnaloj, Mao Zedong kaj aliaj gvidantoj de la Longa 
 
 Verkis kaj fotis: Rafael Henrique Zerbetto
 
-El Popola Chinio
-
 
 ---
 
@@ -200,8 +178,6 @@ Por Ĉinio, tio estas la unua sukcesa surtera reakiro de la unuaetapa parto de r
 
 Redaktoro: Gao Shuyuan
 
-El Popola Chinio
-
 
 ---
 
@@ -213,13 +189,7 @@ El Popola Chinio
 
 **Categories:** Plej Freŝaj
 
-La premio Deguĉi por 2026 estas aljuĝita al
-
-Kuba Esperanto-Asocio (KEA)
-
-.
-
-Kuba Esperanto-Asocio estis fondita la 16-an de junio 1979 kaj en 2026 festis sian 47-an datrevenon. Dum preskaŭ duonjarcento ĝi evoluigis viglan agadon por instruado kaj disvastigo de Esperanto kaj internacia kunlaboro, konservante fortajn kontaktojn kun la tutmonda Esperanto-komunumo. Unu el ĝiaj plej gravaj atingoj estas la Esperanto-Centro Havano, sidejo de KEA kaj vera hejmo de la kuba Esperanto-movado. La Centro gastigas bibliotekon, libroservon kaj diversajn spacojn por kursoj, kunvenoj kaj kulturaj aranĝoj. Ĝi estas loko, kie kubaj esperantistoj renkontiĝas, lernas, aktivas kaj akceptas eksterlandajn vizitantojn, de kio ekestas aparte grava internacia dimensio: la Centro organizas lingvoinstruadon ankaŭ por eksterlandanoj, interalie pri la hispana lingvo kaj Esperanto. Tio kreas rektajn kontaktojn inter kubanoj kaj homoj el aliaj landoj tiel, ke lingvolernado fariĝas ankaŭ rimedo por konatiĝo kun la loka kulturo kaj Esperanto, subtene al interhoma renkontiĝo kaj internacia amikeco.
+La premio Deguĉi por 2026 estas aljuĝita al Kuba Esperanto-Asocio (KEA). Kuba Esperanto-Asocio estis fondita la 16-an de junio 1979 kaj en 2026 festis sian 47-an datrevenon. Dum preskaŭ duonjarcento ĝi evoluigis viglan agadon por instruado kaj disvastigo de Esperanto kaj internacia kunlaboro, konservante fortajn kontaktojn kun la tutmonda Esperanto-komunumo. Unu el ĝiaj plej gravaj atingoj estas la Esperanto-Centro Havano, sidejo de KEA kaj vera hejmo de la kuba Esperanto-movado. La Centro gastigas bibliotekon, libroservon kaj diversajn spacojn por kursoj, kunvenoj kaj kulturaj aranĝoj. Ĝi estas loko, kie kubaj esperantistoj renkontiĝas, lernas, aktivas kaj akceptas eksterlandajn vizitantojn, de kio ekestas aparte grava internacia dimensio: la Centro organizas lingvoinstruadon ankaŭ por eksterlandanoj, interalie pri la hispana lingvo kaj Esperanto. Tio kreas rektajn kontaktojn inter kubanoj kaj homoj el aliaj landoj tiel, ke lingvolernado fariĝas ankaŭ rimedo por konatiĝo kun la loka kulturo kaj Esperanto, subtene al interhoma renkontiĝo kaj internacia amikeco.
 
 KEA ankaŭ havas longan sperton pri organizado de internaciaj Esperanto-eventoj. Inter la gravaj aranĝoj Kubo plej laste gastigis la 95-an Universalan Kongreson de Esperanto kaj la 66-an Internacian Junularan Kongreson en 2010 kaj la 9-an Tut-Amerikan Kongreson de Esperanto en 2018.
 
@@ -232,8 +202,6 @@ Per la Premio Deguĉi 2026 UEA rekonas ne unu solan projekton aŭ individuon, se
 UEA varme gratulas ĉiujn membrojn de KEA kaj aktivulojn, kaj dankas pro la persista laboro favore al Esperanto, internacia amikeco kaj homa solidareco.
 
 En aprilo Ĉina Esperanto-Ligo donacis al KEA UNESKO-Kurieron kiel riĉigon al la konservo de la asocio.
-
-El Popola Chinio
 
 
 ---
@@ -249,8 +217,6 @@ El Popola Chinio
 La 19-an de aŭgusto ĉina robotika entrepreno Unitree fariĝis la unua fabrikanto de homformaj robotoj listigita kiel firmao kun A-nivelaj akcioj, kio markas gravan paŝon por la homforma roboto en ĝia transformo de teknologia akumulado al skaleca kaj komercigita disvolviĝo.
 
 Redaktoro: Gao Shuyuan
-
-El Popola Chinio
 
 
 ---
@@ -316,8 +282,6 @@ Sed tia alproksimiĝo al Ĉinio, por esti sukcesa, devus esti zorge ellaborita l
 En ĉi tiu delikata momento de nia historio, la datreveno de la diplomatiaj rilatoj inter Brazilo kaj Ĉinio invitas nin pripensi. Estas tempo rememori ĉiujn atingojn de tiu partnereco, kion eblas plibonigi kaj, plej grave, kiuj estos la sekvaj paŝoj de ĉi tiu partnereco.
 
 Verkis: Rafael Henrique Zerbetto
-
-El Popola Chinio
 
 
 ---
@@ -394,8 +358,6 @@ La konstruaĵo Gotiaoco, nun restaŭrita kaj transformita en muzeon, estas simbo
 
 Verkis kaj fotis: Rafael Henrique Zerbetto
 
-El Popola Chinio
-
 
 ---
 
@@ -419,43 +381,19 @@ Laŭ la raporto de iiMedia Research, la ĉina emocia ekonomio valoris ĉirkaŭ 2
 
 La 20 plej popularaj emociaj konsumaĵoj en Ĉinio
 
-Unu ekzemplo estas la "
-
-guzi
-
--ekonomio".
-
-Guzi
-
-, de la angla
-
-goods
-
-, kutime rilatas al varoj ligitaj al animeoj, bildstrioj, ludoj kaj popularaj IP-oj. Laŭ iiMedia Research, tiu merkato atingis 168.9 miliardojn da juanoj en 2024, je 40.63% pli multe ol unu jaron antaŭe. En ĝia enketo, 84.02% de la respondintoj pretis pagi pli por limigita eldono. Insigno aŭ kolektokarto valoras pli, kiam sur ĝi aperas rolulo amata de la aĉetanto. Laŭ la Ĉina Asocio de Prezentarta Industrio, la biletenspezoj de komercaj prezentadoj en Ĉinio atingis 61.655 miliardojn da juanoj en 2025, je 6.39% pli ol en la antaŭa jaro. Koncerto finiĝas post kelkaj horoj, sed por multaj homoj ĝuste tiuj horoj estas tio, kion ili volas aĉeti.
+Unu ekzemplo estas la "guzi-ekonomio". Guzi, de la angla goods, kutime rilatas al varoj ligitaj al animeoj, bildstrioj, ludoj kaj popularaj IP-oj. Laŭ iiMedia Research, tiu merkato atingis 168.9 miliardojn da juanoj en 2024, je 40.63% pli multe ol unu jaron antaŭe. En ĝia enketo, 84.02% de la respondintoj pretis pagi pli por limigita eldono. Insigno aŭ kolektokarto valoras pli, kiam sur ĝi aperas rolulo amata de la aĉetanto. Laŭ la Ĉina Asocio de Prezentarta Industrio, la biletenspezoj de komercaj prezentadoj en Ĉinio atingis 61.655 miliardojn da juanoj en 2025, je 6.39% pli ol en la antaŭa jaro. Koncerto finiĝas post kelkaj horoj, sed por multaj homoj ĝuste tiuj horoj estas tio, kion ili volas aĉeti.
 
 Su Ran, universitata instruistino en Hangzhou, lastatempe aĉetis sakon de marko, kiu uzas reciklitajn materialojn. La sako ne estas aparte komforta por porti, sed ŝin allogis tio, ke ĝi estas farita el malnovaj baŝoj kaj ke ĉiu sako aspektas iom malsame. "Mi ŝatas ilian ideon pri mediprotektado, kaj preskaŭ ĉiu sako estas unika," ŝi diris.
 
 Ĉu junuloj vere fariĝis pli "emociaj" konsumantoj?
 
-En 2025,
-
-China Youth Daily
-
-kaj
-
-China Youth Campus Media
-
-enketis 7 160 universitatajn studentojn tra la lando. El ili 81.16% diris, ke ili jam havis sperton pri emocia konsumado. Preskaŭ duono aĉetis modajn ludilojn aŭ produktojn ligitajn al animeoj kaj personaj interesoj. Pli ol 40% elspezis monon por vojaĝoj, amuzparkoj aŭ similaj spertoj. Alia enketo, publikigita samjare de la Ŝanhaja Esplorcentro pri Junularo kune kun Soul App, montris, ke 56.3% de la demanditaj junuloj elektis konsumadon "por ĝojigi sin mem kaj pagi por propraj interesoj kaj emocia valoro".
+En 2025, China Youth Daily kaj China Youth Campus Media enketis 7 160 universitatajn studentojn tra la lando. El ili 81.16% diris, ke ili jam havis sperton pri emocia konsumado. Preskaŭ duono aĉetis modajn ludilojn aŭ produktojn ligitajn al animeoj kaj personaj interesoj. Pli ol 40% elspezis monon por vojaĝoj, amuzparkoj aŭ similaj spertoj. Alia enketo, publikigita samjare de la Ŝanhaja Esplorcentro pri Junularo kune kun Soul App, montris, ke 56.3% de la demanditaj junuloj elektis konsumadon "por ĝojigi sin mem kaj pagi por propraj interesoj kaj emocia valoro".
 
 Chen Hao, juna instruisto de la angla en Pekino, tamen priskribas sin kiel sufiĉe praktikan konsumanton. Sociaj retejoj preskaŭ ne influas liajn aĉetdecidojn. Sed ekzistas unu escepto. Kiam bildstria rolulo, kiun li amis infanaĝe, aŭ kantisto, kiun li aŭskultis tiam, publikigas novan libron, diskon aŭ memoraĵon, li kutime aĉetas ĝin tuj. "Foje mi eĉ ne malfermas la pakaĵon post la aĉeto," li diris. Lin Yu ankaŭ ne opinias, ke li sekvas modajn tendencojn. Li taksas, ke sociaj retejoj influas nur ĉirkaŭ 10-20% de liaj konsumaj elektoj. La retrostila fotilo estis simple sperto, kiun li volis provi. Por Su Ran la influo de sociaj retejoj estas pli malfacile mezurebla. Ŝi malofte vidas unu afiŝon kaj tuj decidas aĉeti ion. "Eble ne unu specifa afiŝo influas min. Pli ofte temas pri multaj similaj enhavoj, kiuj iom post iom amasiĝas," ŝi diris. La influo estas pli klara ĉe temoj, kiuj jam interesas ŝin, ekzemple muziko kaj arto. Sed ŝi neniam sentis, ke ŝi devas aĉeti ion nur por ne sekvi modon. Chen Hao ankoraŭ ŝparas por aliaj kostoj en Pekino. Lin Yu scias, ke lia fotilo ne faras tre bonajn fotojn. Su Ran scias, ke ŝia sako ne estas aparte komforta.
 
 Ĉu premo instigas homojn "aĉeti ĝojon"?
 
-Vivopremo ofte estas menciata kiel unu el la klarigoj pri emocia konsumado. Laŭ la Nacia Statistika Buroo de Ĉinio, en 2025 la averaĝa pokapa elspezo kreskis je 4.4%, dum elspezoj por edukado, kulturo kaj distro kreskis je 9.4%. En enketo kun 1 500 junuloj, farita de la Socia Esplorcentro de
-
-China Youth Daily
-
-kune kun Wenjuan.com, 61.2% diris, ke unu kialo por ĉeesti prezentadon estas malpliigi premon kaj plibonigi sian humoron. Sed 53.9% menciis personajn interesojn kaj ĝojon, kaj 32.9% volis renkonti homojn kun similaj interesoj.
+Vivopremo ofte estas menciata kiel unu el la klarigoj pri emocia konsumado. Laŭ la Nacia Statistika Buroo de Ĉinio, en 2025 la averaĝa pokapa elspezo kreskis je 4.4%, dum elspezoj por edukado, kulturo kaj distro kreskis je 9.4%. En enketo kun 1 500 junuloj, farita de la Socia Esplorcentro de China Youth Daily kune kun Wenjuan.com, 61.2% diris, ke unu kialo por ĉeesti prezentadon estas malpliigi premon kaj plibonigi sian humoron. Sed 53.9% menciis personajn interesojn kaj ĝojon, kaj 32.9% volis renkonti homojn kun similaj interesoj.
 
 Lin Yu jam aŭdis la ideon, ke ju pli granda estas la premo, des pli homoj bezonas "elirejon" por siaj emocioj. Li opinias tion logika, sed diras, ke li mem ne forte spertis tion. Chen Hao ankaŭ konas homojn, kiuj aĉetas por malpliigi premon. Sed li mem preferas ŝpari por longtempaj celoj. Su Ran ne ŝatas la vorton "fuĝi". "Mi pensas, ke elspezi malgrandan sumon plej ofte ne estas maniero fuĝi, sed maniero ĝojigi sin mem," ŝi diris. "Nun homoj pli volas vivi laŭ siaj propraj deziroj." Ŝi agnoskas, ke aĉetado foje povas portempe malpliigi maltrankvilon aŭ helpi reguligi la humoron.
 
@@ -463,11 +401,7 @@ Esploristino Liu, kiu longtempe enketis junularajn aferojn, havas similan opinio
 
 Kiam ankaŭ kunuleco fariĝis produkto
 
-AI nun provas vendi ion pli malfacilan: kunulecon. La
-
-Raporto pri Emocia Konsumado de la Z-Generacio
-
-, bazita sur 2 338 respondintoj kaj datumoj de Soul App, registris fortan kreskon de enhavoj pri "AI-kunuloj" en la dua kvarono de 2025. La datumoj venas nur de unu platformo, sed ili montras, ke la temo pli ofte aperas en diskutoj de parto de la junularo.
+AI nun provas vendi ion pli malfacilan: kunulecon. La Raporto pri Emocia Konsumado de la Z-Generacio, bazita sur 2 338 respondintoj kaj datumoj de Soul App, registris fortan kreskon de enhavoj pri "AI-kunuloj" en la dua kvarono de 2025. La datumoj venas nur de unu platformo, sed ili montras, ke la temo pli ofte aperas en diskutoj de parto de la junularo.
 
 Demandite, kiu kampo de la emocia ekonomio povus kreski plej rapide dum la venontaj kvin jaroj, Liu elektis AI-kunulecon. Laŭ ŝi, ĝi povas servi kaj junulojn kaj maljunulojn kaj atingi grandan nombron da uzantoj. "AI ankoraŭ malfacile atingas profundan empation kaj konservas longdaŭran memoron," Liu diris. Aliaj problemoj estas la protekto de emociaj datumoj de uzantoj, la risko de dependeco de virtualaj rilatoj kaj la komputada kosto de longdaŭra interagado.
 
@@ -475,17 +409,11 @@ Por Lin Yu la limo estas klara. "Por mi, nur emocioj de vivanta estaĵo estas ve
 
 Su Ran ne estas tiel certa kiel la du viroj. "Nun mi ne bezonas tion," ŝi diris. "Sed poste, se mi maljuniĝos kaj ankoraŭ vivos sola, eble mi volos pagi por ĝi." La demando, kio estas "vera emocio", igis ŝin pli longe pripensi. "Mi pensas, ke tio preskaŭ estas filozofia demando," Su diris. Nuntempe ŝi rigardas la manieron, kiel homo aŭ AI respondas. Tro formulaj respondoj ŝajnas al ŝi malveraj. Paŭzo, iom da hezito aŭ eĉ neperfekta respondo povas sentiĝi pli vera.
 
-Ekde la 15-a de julio 2026 Ĉinio aplikas la
-
-Provizorajn Regulojn pri Administrado de Hom-similaj Interagaj Servoj de Artefarita Intelekto
-
-. Ili permesas taŭgajn uzojn, ekzemple AI-kunulecon por maljunuloj, sed malpermesas intence krei emocian dependecon aŭ anstataŭigi realajn sociajn rilatojn. Teknologio provas fari AI ĉiam pli simila al amiko. La regularo metas limon: ĝi ne rajtas anstataŭigi homan amikon.
+Ekde la 15-a de julio 2026 Ĉinio aplikas la Provizorajn Regulojn pri Administrado de Hom-similaj Interagaj Servoj de Artefarita Intelekto. Ili permesas taŭgajn uzojn, ekzemple AI-kunulecon por maljunuloj, sed malpermesas intence krei emocian dependecon aŭ anstataŭigi realajn sociajn rilatojn. Teknologio provas fari AI ĉiam pli simila al amiko. La regularo metas limon: ĝi ne rajtas anstataŭigi homan amikon.
 
 Kiam ili estis demanditaj, ĉu ili pagus por AI-amiko, la du viroj en Pekino diris ne. La virino en Hangzhou pripensis momenton kaj lasis sian respondon malferma: "Nun ankoraŭ ne. Sed kiam mi maljuniĝos, eble estos alie."
 
 Verkis: Bui Hai Mung
-
-El Popola Chinio
 
 
 ---
@@ -500,11 +428,7 @@ El Popola Chinio
 
 **Categories:** Plej Freŝaj
 
-La 21-an de aŭgusto, en la centro
-
-Eye of the Greater Bay Area
-
-en Shenzhen, mi partoprenis en la evento "Azia-Pacifika Junulara Renkontiĝo · Energio por la Estonteco", kune kun pli ol 60 reprezentantoj el 13 landoj kaj regionoj.
+La 21-an de aŭgusto, en la centro Eye of the Greater Bay Area en Shenzhen, mi partoprenis en la evento "Azia-Pacifika Junulara Renkontiĝo · Energio por la Estonteco", kune kun pli ol 60 reprezentantoj el 13 landoj kaj regionoj.
 
 Matene ni vizitis inteligentan substacion kun nula karbona emisio. Poste, dum la diskuto, la temoj iris de verda energio al AI, de translandaj elektroretoj al nova demando de la AI-epoko: kiel la elektroprovizo povas sekvi la rapidan kreskon de komputada kapablo? Ankaŭ mi estis invitita paroli. Mi ne estas fakulo pri AI aŭ energio, do mi elektis paroli pri miaj propraj spertoj: kiel ĵurnalisto uzanta AI en multlingva komunikado kaj kiel homo kun pli ol dekjara sperto pri financo kaj kontado. De tiuj spertoj venis pli granda demando: kiel teknologio povas helpi junulojn krei kaj agi?
 
@@ -551,8 +475,6 @@ Venontjare APEK venos al Vjetnamio
 Forlasante Huaqiangbei tiun posttagmezon, mi repensis pri tio, kion mi vidis kaj aŭdis: inteligenta substacio, indonezia reprezentanto parolanta pri aliro al energio, elektroreto inter Ĉinio kaj Laoso, kaj diskutoj pri AI kaj komputada kapablo. En novembro APEK revenos al Shenzhen por multe pli granda renkontiĝo. Unu jaron poste, la dialogo translokiĝos al Phu Quoc. Ĉi-jare ĝi okazas en Ĉinio. Venontjare ĝi daŭros en mia hejmlando.
 
 Verkis: Bui Hai Mung
-
-El Popola Chinio
 
 
 ---
@@ -601,11 +523,7 @@ Dum laborvojaĝo al Hefei mi vizitis EHang, firmao kiu disvolvas eVTOL-ojn. La a
 
 Aviadileto eVTOL prepariĝas por ekflugi en Hefei.
 
-Scivolemo pri ankoraŭ nekutimaj teknologioj ankaŭ kondukas turistojn al Wenchang en Hainan. Raketlanĉoj tie allogas multajn homojn, kiuj rigardas ilin de strandoj kaj aliaj proksimaj lokoj. Laŭ
-
-People’s Daily Online
-
-, en junio 2026 turistino Tatiana venis kun sia kvarpersona familio el Moskvo al Wenchang por rigardi raketlanĉon. Por ŝi, vidi ĝin propraokule ankaŭ igos la kosman revon de ŝia filo pli proksime.
+Scivolemo pri ankoraŭ nekutimaj teknologioj ankaŭ kondukas turistojn al Wenchang en Hainan. Raketlanĉoj tie allogas multajn homojn, kiuj rigardas ilin de strandoj kaj aliaj proksimaj lokoj. Laŭ People’s Daily Online, en junio 2026 turistino Tatiana venis kun sia kvarpersona familio el Moskvo al Wenchang por rigardi raketlanĉon. Por ŝi, vidi ĝin propraokule ankaŭ igos la kosman revon de ŝia filo pli proksime.
 
 Liverrobotoj jam laboras en hoteloj. Robottaksioj jam transportas pasaĝerojn sur stratoj. Aviadileto eVTOL-oj kaj kosmoflugoj ankoraŭ pli forte pensigas nin pri estonteco. Sed ĉiuj ĉi tiuj aferoj jam aperas en vojaĝoj tra Ĉinio. Tiaj vojaĝoj ankaŭ fariĝis pli facilaj. Laŭ la Nacia Administracio pri Enmigrado de Ĉinio, en la unua duono de 2026 estis registritaj 22.91 milionoj da eniroj de eksterlandanoj, 20.4% pli ol en la sama periodo de la antaŭa jaro. El ili 17.82 milionoj estis senvizaj eniroj, kiuj konsistigis 77.7% de la totalo kaj kreskis je 30.6%. La vizpolitiko parte klarigas, kial veni al Ĉinio fariĝis pli facila. Sed ankaŭ ŝanĝiĝas tio, kion turistoj volas kompreni post sia alveno. Por iuj, la vojaĝo ne plu temas nur pri tio, kion Ĉinio konservis el la pasinteco. Ĝi ankaŭ estas okazo observi la hodiaŭan vivon kaj teknologiojn, kiuj eble influos la venontajn jarojn.
 
@@ -616,8 +534,6 @@ Mi pli klare rimarkis tion, kiam mia germana amiko David Henkel venis al Pekino 
 Mi jam multfoje renkontis ĉiujn tiujn aferojn. La unuan fojon, kiam mi vidis roboton prepari kafon, mi haltis por rigardi ĝin. Kiam roboto alportis medikamentojn al mia hotela ĉambro, mi ankoraŭ trovis tion interesa. Kiam mi unuafoje eniris robottaksion en Wuhan, mi observis preskaŭ ĉiun movon de la aŭto. Sed kiam tiaj spertoj ripetiĝas sufiĉe ofte, la komenca scivolemo iom post iom malaperas. Eksterlandano kiel mi, kiu jam multajn jarojn vivas en Ĉinio, povas preterpasi liverroboton sen aparte rimarki ĝin. David, dum siaj tri tagoj en Pekino, haltis por rigardi. Ni vidis la saman scenon, sed la tempo pasigita ĉi tie igis nin vidi ĝin alimaniere.
 
 Verkis kaj fotis: Bui Hai Mung
-
-El Popola Chinio
 
 
 ---
@@ -672,8 +588,6 @@ La roboto de BigheroX en la finalo de tajĝjiĉjŭan-o (Xinhua/Ju Huanzong)
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -687,21 +601,13 @@ El Popola Chinio
 
 **Categories:** Plej Freŝaj
 
-Imagu mondon, kie la Suno baldaŭ eksplodos, kaj la homaro en malespero unuiĝas por movi la tutan planedon ekster la sunsistemon. Jen la rakonto de
-
-Vaganta Tero 2
-
-, fama ĉina sciencfikcia filmo, kiu premieris en brazilaj kinejoj la 20-an de aŭgusto. La furorfilmo, kun mirigaj vidaj efektoj, enspezis pli ol 500 milionojn da usonaj dolaroj en Ĉinio en nur 16 tagoj kaj sekve ankaŭ sukcesis en kinejoj de aliaj landoj, fariĝinte unu el la plej grandaj sukcesoj de kaj publiko kaj kritiko en la ĉina kinarto.
+Imagu mondon, kie la Suno baldaŭ eksplodos, kaj la homaro en malespero unuiĝas por movi la tutan planedon ekster la sunsistemon. Jen la rakonto de Vaganta Tero 2, fama ĉina sciencfikcia filmo, kiu premieris en brazilaj kinejoj la 20-an de aŭgusto. La furorfilmo, kun mirigaj vidaj efektoj, enspezis pli ol 500 milionojn da usonaj dolaroj en Ĉinio en nur 16 tagoj kaj sekve ankaŭ sukcesis en kinejoj de aliaj landoj, fariĝinte unu el la plej grandaj sukcesoj de kaj publiko kaj kritiko en la ĉina kinarto.
 
 Traktante temon, kiu forte resonas nian epokon plenan je tutmondaj krizoj, la filmo reĝisorita de Frant Gwo restas pli aktuala ol iam ajn. Ĝia mesaĝo estas klara: fronte al komunaj kaj urĝaj minacoj — ekzemple la klimatŝanĝiĝo — la homaro devas unuiĝi kaj kunlabori.
 
 Vojaĝego kaj la forto de kunlaboro
 
-Bazita sur la verko de la fama ĉina sciencfikcia verkisto Liu Cixin, la filmo estas la antaŭaĵo de
-
-Vaganta Tero
-
-, lanĉita en 2019. La rakonto temas pri la komenco de la ambicia "Projekto Migranta Tero", vojaĝo, kiu daŭros 2 500 jarojn ĝis la teranoj atingos sian novan hejmon en Alpha Centauri. Por realigi tiun ambician projekton, la homaro konstruas gigantajn planedajn motorojn, sed la vojaĝo estas plena je danĝeroj, sabotoj kaj etikaj dilemoj.
+Bazita sur la verko de la fama ĉina sciencfikcia verkisto Liu Cixin, la filmo estas la antaŭaĵo de Vaganta Tero, lanĉita en 2019. La rakonto temas pri la komenco de la ambicia "Projekto Migranta Tero", vojaĝo, kiu daŭros 2 500 jarojn ĝis la teranoj atingos sian novan hejmon en Alpha Centauri. Por realigi tiun ambician projekton, la homaro konstruas gigantajn planedajn motorojn, sed la vojaĝo estas plena je danĝeroj, sabotoj kaj etikaj dilemoj.
 
 La filmo evitas la kliŝojn de nuntempa okcidenta kinarto kaj rifuzas glori la individuismon de sola heroo, kiu savas la mondon. Anstataŭe, ĝi celebras kunlaboron inter landoj kaj tiujn homojn, kiuj oferas la propran vivon por la bono de estontaj generacioj, alportante klaran mesaĝon: "Aŭ ni unuiĝos, aŭ ni pereos".
 
@@ -713,23 +619,15 @@ Estas tiu spirito de kunlaboro, kiu alportas brilon al la rolo de la brazila akt
 
 Por tiuj, kiuj akompanas la ĉinan kinarton, vidi brazilan vizaĝon en tia rolo povas esti granda surprizo. Daniela transloĝiĝis al Ĉinio por studi la ĉinan lingvon kaj fine konstruis karieron en la azia lando, fariĝinte ekzemplo de persisto kaj talento.
 
-Ŝia partopreno en
-
-Vaganta Tero 2
-
-estas pruvo, ke arto ja povas unuigi la homaron. Kiel ŝi mem diris en intervjuo, ŝia espero estas, ke Brazilo kaj Ĉinio rekonu la gravecon de tiu partnereco. Interese, tiu punkto tute ne estas fikcia: Brazilo kaj Ĉinio jam kunlaboras en satelitaj projektoj, ekzemple kadre de la programo CBERS.
+Ŝia partopreno en Vaganta Tero 2 estas pruvo, ke arto ja povas unuigi la homaron. Kiel ŝi mem diris en intervjuo, ŝia espero estas, ke Brazilo kaj Ĉinio rekonu la gravecon de tiu partnereco. Interese, tiu punkto tute ne estas fikcia: Brazilo kaj Ĉinio jam kunlaboras en satelitaj projektoj, ekzemple kadre de la programo CBERS.
 
 Mesaĝo, kiu transpasas la ekranon
 
-Vaganta Tero 2
-
-invitas nin rigardi preter niaj limoj. Ĝi estas ja vidspektaklo, kun specialaj efektoj kompareblaj al tiuj de Holivudo, sed kun originaleco kaj filozofia profundeco, kiujn ni malofte vidas en nuntempaj usonaj filmoj. Kiel memorigas nin Liu Cixin, sciencfikcio permesas al ni revi kaj pripensi nian lokon en la universo.
+Vaganta Tero 2 invitas nin rigardi preter niaj limoj. Ĝi estas ja vidspektaklo, kun specialaj efektoj kompareblaj al tiuj de Holivudo, sed kun originaleco kaj filozofia profundeco, kiujn ni malofte vidas en nuntempaj usonaj filmoj. Kiel memorigas nin Liu Cixin, sciencfikcio permesas al ni revi kaj pripensi nian lokon en la universo.
 
 La premiero de la filmo en Brazilo, tri jarojn post ĝia lanĉo en Ĉinio, donas al brazilanoj unikan ŝancon spekti en kinejoj tiun elstaraĵon de ĉina kinarto. Fine brazilanoj havas la ŝancon vidi brazilaninon brilantan en la centro de tutmonda epopeo kaj sorbi mesaĝon pri monda unuiĝo, kiu urĝe bezonas resoni en la reala vivo.
 
 Verkis: Rafael Henrique Zerbetto
-
-El Popola Chinio
 
 
 ---
@@ -754,8 +652,6 @@ La 24-an de aŭgusto, reveninte al Maowusu, Sakolsky kaj Yin Yuzhen kune plantis
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -775,8 +671,6 @@ Li alvokis por evakui loĝantojn en risko kaj provizi ĝustatempan medicinan hel
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -794,8 +688,6 @@ La 28-an de aŭgusto, 2096 homoj partoprenis la savadon, kaj el ili 505 eniris l
 
 Redaktoro: Gao Shuyuan
 
-El Popola Chinio
-
 
 ---
 
@@ -807,17 +699,11 @@ El Popola Chinio
 
 **Categories:** Novaĵoj
 
-De matene, la savtaĉmento serĉas kaj savas homojn en la plej trafita zono de la ŝlimfluo
-
-ĉe Gyirong (kaŭzita de glacilavango en Nepalo)
-
-en Xizang-a Aŭtonoma Regiono de Ĉinio. 499 lokaj loĝantoj kaj 555 turistoj jam estis evakuitaj.
+De matene, la savtaĉmento serĉas kaj savas homojn en la plej trafita zono de la ŝlimfluo ĉe Gyirong (kaŭzita de glacilavango en Nepalo) en Xizang-a Aŭtonoma Regiono de Ĉinio. 499 lokaj loĝantoj kaj 555 turistoj jam estis evakuitaj.
 
 La 29-an de aŭgusto, savtaĉmento marŝis al la trafita zono de la ŝlimfluo ĉe Gyirong. Kaj savistoj konstruis vojon en la katastrof-trafita loko helpe de maŝinoj. Samtempe, la savtaĉmento per flugrobotoj transportis provizaĵojn al la plej trafita zono.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -844,8 +730,6 @@ La kriz-sistemo de Ŝtata Elektreto progresas. Kiam la lumoj de miloj da hejmoj 
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -860,8 +744,6 @@ El Popola Chinio
 La 30-an de aŭgusto ekfunkciis urĝbezona bazstacio en la landlima haveno Gyirong de Xizang-a Aŭtonoma Regiono de Ĉinio. Situante 1.2 kilometrojn for de la landlimo, ĝi estas la unua urĝbezona stacio proksime al la landlimo. La stacio faciligos la savadon, vojiriparadon, vartransportadon kaj komunikadon inter la savistoj.
 
 Redaktoro: Gao Shuyuan
-
-El Popola Chinio
 
 
 ---
@@ -879,8 +761,6 @@ La 30-an de aŭgusto la Ministerio pri Kriza Administrado informis, ke laŭ la p
 Laŭ la antaŭa informo de la ministerio, en la vespero de la 29-a de aŭgusto, surlokaj monitoraj flugrobotoj malkovris, ke estiĝis nova bara maso formante novan barlagon je 2.8 kilometroj malsupre de la barlago en Shigatse en la gubernio Gyirong pro terŝoviĝado. La ministerio tuj kunvokis fakulojn por pritaksi kaj analizi, kaj translokigis la savistojn al sekuraj lokoj.
 
 Redaktoro: Gao Shuyuan
-
-El Popola Chinio
 
 
 ---

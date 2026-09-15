@@ -1,6 +1,6 @@
 ---
 source: "Libera Folio (liberafolio.org)"
-generated_at: "2026-08-13T13:21:31.632188+00:00"
+generated_at: "2026-09-15T13:30:48.688030+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-03-09 – 2026-03-24"
 ---
@@ -42,11 +42,7 @@ La alineo pri eksigo de aliĝinta asocio aŭ individua membro estos simpligita, 
 
 Aliĝinta asocio aŭ individua membro, kiu evidente kontraŭlaboras la celojn de UEA, morale aŭ materie damaĝas ĝin, aŭ ne kontentige plenumas siajn devojn al ĝi, povas esti eksigita el la Asocio. Eksigo okazas laŭ la kondiĉoj en la Ĝenerala Regularo.
 
-Aliĝinta asocio aŭ individua membro, kiu evidente kontraŭlaboras la celojn de UEA, morale aŭ materie damaĝas ĝin, aŭ ne kontentige plenumas siajn devojn al ĝi, povas esti eksigita el la Asocio. Eksigo okazas laŭ la kondiĉoj en la Ĝenerala Regularo.
-
 Aldone en la statuto aperos tute nova paragrafo pri intereskonflikto:
-
-Dum kunsido de decidopova organo, se estas konstatite, ke estrarano, komitatano, dungito aŭ iu ajn alia persono, kiu agas nome de la Asocio, havas rektan aŭ nerektan personan intereson, kiu povus konflikti kun la interesoj de la Asocio, la organo decidas, ĉu la koncerna persono povas partopreni diskutojn kaj decidojn. La koncerna persono povas respondi al klarigaj demandoj. Intereskonflikto estu skribe registrita en la protokolo de la kunsido.
 
 Dum kunsido de decidopova organo, se estas konstatite, ke estrarano, komitatano, dungito aŭ iu ajn alia persono, kiu agas nome de la Asocio, havas rektan aŭ nerektan personan intereson, kiu povus konflikti kun la interesoj de la Asocio, la organo decidas, ĉu la koncerna persono povas partopreni diskutojn kaj decidojn. La koncerna persono povas respondi al klarigaj demandoj. Intereskonflikto estu skribe registrita en la protokolo de la kunsido.
 

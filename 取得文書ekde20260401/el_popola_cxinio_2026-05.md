@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-09-15T11:04:52.347081+00:00"
+generated_at: "2026-09-15T13:49:03.124073+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-05-01 – 2026-05-29"
 ---
@@ -35,8 +35,6 @@ Kiam vi vizitos Dunhuang, ne maltrafu tiun mirindan spektaklon!
 
 Verkis kaj fotis: Rafael Henrique Zerbetto
 
-El Popola Chinio
-
 
 ---
 
@@ -59,8 +57,6 @@ Koncerto de Luedji Luna, unu el la plej originalaj voĉoj de nuntempa brazila mu
 Adriana Calcanhotto, unu el la plej konataj nuntempaj komponistoj kaj kantistoj de Brazila Popola Muziko, koncertas sur la podio de la Brazila Vilaĝo de la festivalo.
 
 Raportis kaj fotis: Rafael Henrique Zerbetto
-
-El Popola Chinio
 
 
 ---
@@ -90,8 +86,6 @@ Dum la ludado de "Um Novo Tempo", la publiko entuziasme aplaŭdis laŭ la ritmo 
 Brazila ministro pri kulturo Margareth Menezes, kiu ploris aŭskultante la muzikon de Ivan Lins ludata dum la akcepto de prezidento Lula fare de prezidanto Xi Jinping en 2023, spektis ĉi-fojan koncerton, akompanata de la la brazila ĝenerala konsulo en Ŝanhajo Augusto Pestana.
 
 Verkis kaj fotis: Rafael Henrique Zerbetto
-
-El Popola Chinio
 
 
 ---
@@ -131,8 +125,6 @@ Informiĝinte, ke ĉirkaŭ 7 000 eksterlandanoj aĉetumas en Huaqiangbei ĉiutag
 Vojaĝo, kiu komenciĝis per dolĉa bombono, floris en teknikaj mirindaĵoj. De dolĉaj gustoj sur la lango ĝis avangardaj aparatoj, Karem mezuris la urbon per siaj paŝoj. Li spertis ne nur inventemon, sed ankaŭ homan varmecon. Simpla peto pri bombono fariĝis ponto inter li kaj Ĉinio.
 
 Redaktoro: Sheng Min
-
-El Popola Chinio
 
 
 ---
@@ -233,8 +225,6 @@ Kun pli da reciprokaj kompreno kaj raveco, la ekonomia partnereco inter Brazilo 
 
 Verkis kaj fotis: Rafael Henrique Zerbetto
 
-El Popola Chinio
-
 
 ---
 
@@ -246,43 +236,21 @@ El Popola Chinio
 
 **Categories:** Plej Freŝaj
 
-UEA kunlabore kun Internacia Ligo de Esperantistaj Fotistoj (ILEF) kaj la redakcio de la revuo
-
-Literatura Vivo
-
-kore invitas esperantistojn tra la tuta mondo partopreni en la ILEF-Fotokonkurso 2026 – “Unu Mondo en Bildoj”, aŭspiciata de UEA. Per lumo ni pontas la mondon: per unu sola bildo ni povas rakonti historion, esprimi senton kaj montri la spiriton de Esperanto sen bezono de vortoj.
+UEA kunlabore kun Internacia Ligo de Esperantistaj Fotistoj (ILEF) kaj la redakcio de la revuo Literatura Vivo kore invitas esperantistojn tra la tuta mondo partopreni en la ILEF-Fotokonkurso 2026 – “Unu Mondo en Bildoj”, aŭspiciata de UEA. Per lumo ni pontas la mondon: per unu sola bildo ni povas rakonti historion, esprimi senton kaj montri la spiriton de Esperanto sen bezono de vortoj.
 
 Fotarto estas universala lingvo. Ĝi transpasas landlimojn, kulturojn kaj aĝojn, kaj ĝuste pro tio ĝi nature akordas kun la ideo de Esperanto. Ĉi tiu konkurso celas antaŭenigi fotarton inter esperantistoj kaj inviti vin kapti momentojn de homa digno, amikeco, diverseco kaj komuna sperto – momentojn, kiuj montras, ke ni vere kundividas unu mondon.
 
 La konkurso estas malfermita al ĉiuj esperantistoj, sendepende de spertnivelo aŭ teknika rimedo. Akceptiĝas ĝis tri propraj fotoj (koloraj aŭ nigra-blankaj), faritaj per fotilo aŭ poŝtelefono. La verkoj devas esti originalaj kaj ne antaŭe publikigitaj en aliaj konkursoj aŭ komunikiloj. Bildoj tute aŭ parte generitaj per artefarita intelekto ne estas akceptataj: ni serĉas la homan rigardon, sentemon kaj respondecon de la fotisto.
 
-La fotojn bonvolu sendi ĝis la 1-a de junio 2026 al info@literaturavivo.com. La plena regularo, kun teknikaj postuloj, rajtoj kaj juĝkriterioj, estas havebla en la oficiala dokumento ĉe
+La fotojn bonvolu sendi ĝis la 1-a de junio 2026 al info@literaturavivo.com. La plena regularo, kun teknikaj postuloj, rajtoj kaj juĝkriterioj, estas havebla en la oficiala dokumento ĉe www.ilef.info.
 
-www.ilef.info
-
-.
-
-Internacia ĵurio elektos la plej elstarajn verkojn. La gajnintoj estos anoncitaj komence de aŭgusto 2026, dum la 111-a Universala Kongreso de Esperanto (UK) en Graz (Aŭstrio). Elektitaj fotoj estos prezentitaj kaj publikigitaj en
-
-Literatura Vivo
-
-, kaj parto de ili aperos en reta ekspozicio.
+Internacia ĵurio elektos la plej elstarajn verkojn. La gajnintoj estos anoncitaj komence de aŭgusto 2026, dum la 111-a Universala Kongreso de Esperanto (UK) en Graz (Aŭstrio). Elektitaj fotoj estos prezentitaj kaj publikigitaj en Literatura Vivo, kaj parto de ili aperos en reta ekspozicio.
 
 La subteno de UEA al la ILEF-konkurso spegulas la strategian planon AKIRI, aparte la celojn pri komunuma reto kaj kultura fortigo de la kampo Kunlaborado. Kadre de tio UEA ampleksigas sian kulturan agadon al diversaj kulturaj kampoj.
 
-Per via foto vi povas montri, kiel Esperanto vivas en vizaĝoj, gestoj, lokoj kaj lumo. Rigardu. Kaptu. Kundividu. Ni montru kune al la mondo: unu mondo, multaj bildoj, komuna spirito. En la nomo de UEA, ILEF kaj la redakcio de
-
-Literatura Vivo
-
-, ni atendas viajn fotojn kun granda intereso. Se vi ankoraŭ ne aliĝis al la 111-a UK, aliĝu per
-
-https://uk.esperanto.net
-
-.
+Per via foto vi povas montri, kiel Esperanto vivas en vizaĝoj, gestoj, lokoj kaj lumo. Rigardu. Kaptu. Kundividu. Ni montru kune al la mondo: unu mondo, multaj bildoj, komuna spirito. En la nomo de UEA, ILEF kaj la redakcio de Literatura Vivo, ni atendas viajn fotojn kun granda intereso. Se vi ankoraŭ ne aliĝis al la 111-a UK, aliĝu per https://uk.esperanto.net.
 
 Redaktoro: Sheng Min
-
-El Popola Chinio
 
 
 ---
@@ -295,15 +263,9 @@ El Popola Chinio
 
 **Categories:** Plej Freŝaj
 
-Eksponata en la Nacia Muzeo de Ĉinio, la feniksokrono de la imperiestrino Xiaoduan de Ming-dinastio (1368-1644) estas majstra verko. Enfiksitaj alcedaj plumoj estigas vivecajn feniksajn figurojn. Oro, gemoj kaj perloj eligas tavoloj
-
-n
-
-da brilo.Krom la formo, ĝi reflektas kortegan estetikon kaj eksterordinaran arton, konservante elegantecon kaj lertecon de sia epoko.
+Eksponata en la Nacia Muzeo de Ĉinio, la feniksokrono de la imperiestrino Xiaoduan de Ming-dinastio (1368-1644) estas majstra verko. Enfiksitaj alcedaj plumoj estigas vivecajn feniksajn figurojn. Oro, gemoj kaj perloj eligas tavolojn da brilo.Krom la formo, ĝi reflektas kortegan estetikon kaj eksterordinaran arton, konservante elegantecon kaj lertecon de sia epoko.
 
 Redaktoro: Gao Shuyuan
-
-El Popola Chinio
 
 
 ---
@@ -319,8 +281,6 @@ El Popola Chinio
 La geoparko Siguniang-monto situas en la provinco Sichuan de Ĉinio, ĉe la transira zono inter la Qinghai-xizang-a Altebenaĵo kaj Sichuan-baseno. La geoparko havas totalan areon de 2 764.01 kilometroj. Ĉe la plej orienta rando de la moderna glaĉera distribuo de Ĉinio, la parko estas sentema areo rilate al tutmonda klimatŝanĝiĝo, kaj ĝi estas unu el la 36 biodiversecaj punktoj de la mondo, kiel ŝlosila zono de la alpa ekosistemo en Ĉinio. En 2026, en la 224-a sesio de la Plenuma Komitato de UNESKO en Parizo, Siguniang-monto estis agnoskita kiel monda geoparko de UNESKO.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -343,13 +303,9 @@ Braziliaj artistoj, kiuj lastatempe venis al Ĉinio por sin prezenti okaze de la
 
 La senvizaj politikoj de Ĉinio kaj Brazilo estas validaj ĝis la 31-a de decembro ĉijare, kaj povas esti plilongigitaj unuflanke laŭ decido de la koncernata lando. Cetere, la fakto, ke ambaŭ landoj jam praktikas la senvizan politikon, malfermas vojon por negocado cele al estigo de longtempa interkonsento pri senviza politiko inter la du landoj.
 
-Ĉinoj, kiuj bezonas pasigi pli ol 30 tagojn jare en Brazilo aŭ kiuj iras al Brazilo por aktivaĵo alia ol tiuj kovritaj de la vizpolitiko, devas peti brazilan vizon ĉe la retejo
-
-https://visa.vfsglobal.com/chn/en/bra/apply-visa.
+Ĉinoj, kiuj bezonas pasigi pli ol 30 tagojn jare en Brazilo aŭ kiuj iras al Brazilo por aktivaĵo alia ol tiuj kovritaj de la vizpolitiko, devas peti brazilan vizon ĉe la retejo https://visa.vfsglobal.com/chn/en/bra/apply-visa.
 
 Raportis: Rafael Henrique Zerbetto
-
-El Popola Chinio
 
 
 ---
@@ -372,8 +328,6 @@ El-Enany diris, ke Unesko volas plifortigi kunlaboron kun Ĉinio, levi edukan ka
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -395,8 +349,6 @@ Li ankaŭ atentigis, ke protekti pacon kaj stabilecon de la Tajvana Markolo esta
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -411,8 +363,6 @@ El Popola Chinio
 La 14-an de majo ĉina prezidanto Xi Jinping kaj usona prezidento Donald Trump vizitis la Ĉielan Altaron de Pekino. La du ŝtatestroj kunfotiĝis antaŭ la Preĝhalo por Riĉa Rikolto.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -440,8 +390,6 @@ La kompanio adoptis ĉinan strategion, kiun oni povas priskribi kiel "novigi kun
 "Por ni, la novigado en Ĉinio okazas tiel rapide, ke vi devas fari ĝin surloke, aliel vi neniam postkuros," li diris.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -474,8 +422,6 @@ Antaŭ la ŝtatestraj interparoloj, Xi Jinping gastigis bonvenan ceremonion por 
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -501,8 +447,6 @@ Multaj kamparaj komunumoj en Sud-Afriko forte dependas de agrikultura eksportado
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -526,8 +470,6 @@ Kobzev emfazis, ke la 15-a Kvinjara Plano de Ĉinio, kiu emfazas altkvalitan dis
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -542,8 +484,6 @@ El Popola Chinio
 Antaŭtagmeze de la 20-a de majo, ĉina prezidanto Xi Jinping interparolis kun rusa prezidento Vladimir Putin en la Granda Popola Halo de Pekino. La du ŝtatestroj akiris komunan konsenton pri daŭrigo de la valideco de Ĉin-Rusa Traktato pri Bona Najbareco kaj Amikeca Kunlaboro.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -567,8 +507,6 @@ Nuntempe la ĉefa tasko de la mondo ne estas konkuro inter ideologioj, sed ellab
 Resume, la sinsekvaj vizitoj de usona kaj rusa gvidantoj malkaŝis la fakton, ke nun Ĉinio ludas ian rolon en la estigo de preskaŭ ĉiuj gravaj diplomatiaj rilatoj kaj ĉiuj strategioj rilataj al estontaj internaciaj situacioj. Ĉinio, per sia socia disvolviĝo, politika sistemo kaj stabila strategio, fariĝas grava forto por stabiligi rilatojn inter gravaj landoj kaj konstrui homaran komunumon de komuna estonteco.
 
 Redaktoro: Gao Shuyuan
-
-El Popola Chinio
 
 
 ---
@@ -641,8 +579,6 @@ La preskaŭ samtempaj vizitoj de Usono kaj Rusio al Pekino reflektas pli grandan
 
 Verkis: Bui Hai Mung
 
-El Popola Chinio
-
 
 ---
 
@@ -704,6 +640,8 @@ Krom la esplora laboro, la adaptiĝo al la vivo en Ĉinio ankaŭ lasis fortan im
 
 2025 Internacia Amika Promenado ĉirkaŭ la lago Kunming
 
+Laŭ li, la sistemo de ciferecaj pagoj kaj servoj en Ĉinio estas unu el la plej rimarkindaj trajtoj de la lando. Aplikaĵoj kiel WeChat kaj Alipay kunigas multajn servojn — de pagoj kaj transporto ĝis aĉetado, sanservo kaj publikaj administraj servoj. "Komence tio povas aspekti iom komplika, sed post kiam oni alkutimiĝas, la sistemo fariĝis tre oportuna por la ĉiutaga vivo," li diris. Li ankaŭ menciis siajn kulturajn spertojn en Pekino, aparte la internacian etoson en la universitata kampuso, kie studentoj kaj esploristoj el multaj landoj kune studas kaj laboras.
+
 Fariĝi tutmonda scienca centro
 
 Laŭ la esploristo, la transformiĝo de Ĉinio en tutmondan centron de scienco kaj teknologio progresas rapide. Li donis kiel ekzemplon la revenon de multaj ĉinaj profesoroj, kiuj antaŭe laboris dum jaroj en Eŭropo aŭ Usono. Ili revenas kun internaciaj kunlaboraj retoj kaj tutmonda esplora sperto. Ĉe universitatoj kiel Pekina Universitato, akademiaj seminarioj kun partopreno de internaciaj fakuloj okazas regule, kio helpas antaŭenigi transliman akademian kunlaboron.
@@ -717,8 +655,6 @@ Kiam li estis demandata pri konsiloj por internaciaj fakuloj, kiuj konsideras la
 La rakonto de ĉi tiu esploristo estas unu el multaj ekzemploj, kiuj montras la sisteman penadon de Ĉinio por restrukturi sian rolon sur la tutmonda scienca mapo. La penado iom post iom altiras la atenton ne nur de la internacia scienca komunumo, sed ankaŭ de politikfarantoj tra la mondo.
 
 Raportis: Bui Hai Mung
-
-El Popola Chinio
 
 
 ---
@@ -781,8 +717,6 @@ Kiel esprimas la ideo de ESHAKO:
 
 Unu tabulo, tri lingvoj; saĝa ludo, mondo kunigita.
 
-El Popola Chinio
-
 
 ---
 
@@ -802,15 +736,9 @@ Laŭ longdaŭra monitorado kaj analizado, la nombro de sovaĝaj leopardoj en la 
 
 Leopardo estas pinta rabobesto kaj ŝlosila indika speco de arbara ekosistemo, kaj esenca "barometro" por mezuri la integrecon, stabilecon kaj sanecon de regiona ekosistemo. La ofta kaptado de kunestaj tri leopardoj en diversaj lokoj rekte montras, ke la leoparda populacio en la regiono konstante kreskas, la leoparda familio reproduktiĝas, kaj ilia teritorio plilarĝiĝas.
 
-En la lastaj jaroj, la medio de la rezervejo konstante pliboniĝas, kaj la vivkondiĉoj de raraj sovaĝaj bestoj de Qinling, kiel la granda pando, sichuan-a orhara simio, leopardo kaj qinling-a budorkaso (
-
-Budorcas taxicolor
-
-) estis amplekse optimumigitaj.
+En la lastaj jaroj, la medio de la rezervejo konstante pliboniĝas, kaj la vivkondiĉoj de raraj sovaĝaj bestoj de Qinling, kiel la granda pando, sichuan-a orhara simio, leopardo kaj qinling-a budorkaso (Budorcas taxicolor) estis amplekse optimumigitaj.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -827,8 +755,6 @@ La 25-an de majo la ĉinaj astronaŭtoj de Shenzhou-23 glate eniĝis en la kosmo
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -840,15 +766,9 @@ El Popola Chinio
 
 **Categories:** Plej Freŝaj
 
-Laŭ raporto de usona ĵurnalo
-
-Washington Post
-
-en la 24-a de majo, Usono kaj Irano jam atingis interkonsenton pri la kadro de iu memorandumo: Se la interkonsento estos subskribita, Hormuz-markolo malfermiĝos ene de 30 tagoj.
+Laŭ raporto de usona ĵurnalo Washington Post en la 24-a de majo, Usono kaj Irano jam atingis interkonsenton pri la kadro de iu memorandumo: Se la interkonsento estos subskribita, Hormuz-markolo malfermiĝos ene de 30 tagoj.
 
 Redaktoro: Gao Shuyuan
-
-El Popola Chinio
 
 
 ---
@@ -865,8 +785,6 @@ El Popola Chinio
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -881,8 +799,6 @@ El Popola Chinio
 La 23-an de majo popolanoj en Xizang de Ĉinio okazigis ceremonion por festi la 75-jariĝon de paca liberigo de la regiono.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -899,8 +815,6 @@ Posttagmeze de la 25-a de majo ĉina prezidanto Xi Jinping intervidiĝis kun ser
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -915,8 +829,6 @@ El Popola Chinio
 Vespere de la 25-a de majo en la ceremonio okazigita en la Granda Popola Halo en Pekino ĉina prezidanto Xi Jinping donis al serba prezidento Aleksandar Vučić Amikecan Medalon de la Ĉina Popola Respubliko.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -983,8 +895,6 @@ La aziaj popoloj refoje fariĝis posedantoj de sia propra destino kaj jam ne est
 
 Rafael Henrique Zerbetto
 
-El Popola Chinio
-
 
 ---
 
@@ -1001,8 +911,6 @@ El Popola Chinio
 Ĝis la fino de 2025,  entute 125.2 mil kilometroj da ŝoseoj estis en servo, tiuj veturvojoj (superantaj la 3-an gradon laŭ landa normo) okupas 95% de la tuta longeco.
 
 Redaktoro: Gao Shuyuan
-
-El Popola Chinio
 
 
 ---
@@ -1030,8 +938,6 @@ Krome, la "komisaro" povas doni praktikeblajn sugestojn al la uzanto, generi 24-
 De klarigo de fakturoj ĝis sugestoj pri energiuza optimumigo, malantaŭ la servado de la "komisaro" estas profunda transiro de serva koncepto. La serva centro pliigas sian servon, antaŭenigas profundan integriĝon de AI kun siaj kernaj komercaj agadoj, plibonigante la servokvaliton kaj malfermas novan vojon por la amasa realigo de AI en la elektroserva industrio.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---

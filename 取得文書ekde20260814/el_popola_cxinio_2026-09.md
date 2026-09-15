@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-09-15T11:04:52.514840+00:00"
+generated_at: "2026-09-15T13:49:03.266253+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-09-01 – 2026-09-14"
 ---
@@ -22,8 +22,6 @@ Xi Jinping diris, ke Ĉinio pretas labori kun Uzbekio por solidigi strategian re
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -42,8 +40,6 @@ Xi Jinping diris, ke Ĉinio pretas plifortigi la kunagadon pri disvolvaj strateg
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -64,8 +60,6 @@ Xi Jinping rimarkis, ke la internacia situacio prezentas rimarkindan kreskon de 
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -85,8 +79,6 @@ Sekve, Xi Jinping kaj Sadyr Japarov atestis interŝanĝon de kunlaboraj dokument
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -104,8 +96,6 @@ Lastatempe nepala ministro pri scienco, teknologio kaj novigado Mahabir Pun espr
 
 Redaktoro: Gao Shuyuan
 
-El Popola Chinio
-
 
 ---
 
@@ -120,8 +110,6 @@ El Popola Chinio
 La 31-an de aŭgusto post la malblokado de la ŝtata ŝoseo 216, ĉina konstrua kompanio AnNeng instalis ŝnurŝtuparan evakuan koridoron, kio ligante plurajn rifuĝejojn, sekurigas la savistojn kontraŭ subitaj inundoj, ŝlimfluoj kaj aliaj danĝeroj.
 
 Redaktoro: Gao Shuyuan
-
-El Popola Chinio
 
 
 ---
@@ -139,8 +127,6 @@ El Popola Chinio
 Xi Jinping diris, ke Ĉinio kaj Egiptio estas ambaŭ antikvaj civilizacioj, kun tradicia amikeco, kiu daŭris milojn da jaroj kaj eltenis la provon de la tempo. Dum la pasintaj 70 jaroj, ekde la establiĝo de diplomatiaj rilatoj, la du landoj staris unu apud la alia kaj faris reciprok-profitan kunlaboron, malgraŭ la ŝanĝiĝoj de la internacia kaj regiona situacioj.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -162,8 +148,6 @@ Xi Jinping diris, ke Ĉinio volas labori kun ĉiuj partioj por daŭre alte teni 
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -216,8 +200,6 @@ La mesaĝo de la filmo ankaŭ resonis kun Sobhy kiel egipta aktoro el regiono, k
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -239,8 +221,6 @@ La 1-an de septembro, armea medicinisto mezuris sangopremon por la lokanoj.
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -260,8 +240,6 @@ Xi Jinping diris, ke Ĉinio kaj Egiptio devas firme subteni unu la alian, konser
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -273,17 +251,13 @@ El Popola Chinio
 
 **Categories:** Plej Freŝaj
 
-Matene de la 2-a de septembro, ekalireblis la 3-kilometra sekcio de la ĉina ŝtata ŝoseo 216 blokita pro ŝlimfluo.
-
-Laŭ la ĵus riparita vojo, savistoj, krizhelpaj provizaĵoj kaj ekipaĵoj povas atingi la plej trafitan regionon por plenumi savadon.
+Matene de la 2-a de septembro, ekalireblis la 3-kilometra sekcio de la ĉina ŝtata ŝoseo 216 blokita pro ŝlimfluo. Laŭ la ĵus riparita vojo, savistoj, krizhelpaj provizaĵoj kaj ekipaĵoj povas atingi la plej trafitan regionon por plenumi savadon.
 
 La 1-an de septembro, oni reestigis sav-vojon al la landlima haveno Gyirong, la plej trafita regiono de la katastrofo.
 
 Volontula servejo surstrate en Gyirong
 
 Redaktoro: Gao Shuyuan
-
-El Popola Chinio
 
 
 ---
@@ -299,8 +273,6 @@ El Popola Chinio
 Laŭ gazetara konferenco okazigita de la registaro de Xizang-a Aŭtonoma Regiono, sudokcidenta Ĉinio, ĝis la tagmezo de la 2-a de septembro, 21 homoj pereis, 541 homoj restas en senkontakto pro la ŝlimfluo trafinta Gyirong. Nuntempe la sav- kaj katastrofaj respondaj laboroj estas enorde kaj efike plenumataj.
 
 Redaktoro: Gao Shuyuan
-
-El Popola Chinio
 
 
 ---
@@ -323,69 +295,33 @@ Male al la tipa mondkoncepto de Okcidento, kiu vidas la mondon kiel ŝaktabulon,
 
 Ŝtata vizito al Kirgizio
 
-Xi
+Xi Jinping vizitis la landon en Centra Azio laŭ invito de ĝia prezidento Sadyr Japarov, kun la celo plifortigi la duflankan kunlaboron inter la du landoj. Post la ŝtatvizito, la ĉina ŝtatestro partoprenis en la pintkunveno de la Ŝanhaja Kunlabora Organizo (ŜKO), okazinta en Biŝkeko.
 
-Jinping
+La rilatoj inter Ĉinio kaj Kirgizio baziĝas sur kvar ĉefaj kolonoj: ekonomia kunlaboro, infrastrukturo, komerco kaj regiona integriĝo. La lando de Centra Azio estas strategia por Ĉinio pro sia geografia situo, enkorpigita en la surteraj itineroj de la iniciato "La Zono kaj Vojo", kaj ĝi estas unu el la unuaj landoj aliĝintaj al tiu iniciato, proponita de Xi Jinping en 2013.
 
-vizitis la landon en Centra Azio laŭ invito de ĝia prezidento Sadyr Japarov, kun la celo plifortigi la duflankan kunlaboron inter la du landoj. Post la ŝtatvizito, la ĉina ŝtatestro partoprenis en la pintkunveno de la Ŝanhaja Kunlabora Organizo (ŜKO), okazinta en Biŝkeko.
-
-La rilatoj inter Ĉinio kaj Kirgizio baziĝas sur kvar ĉefaj kolonoj: ekonomia kunlaboro, infrastrukturo, komerco kaj regiona integriĝo. La lando de Centra Azio estas strategia por Ĉinio pro sia geografia situo, enkorpigita en la surteraj itineroj de la iniciato "La Zono kaj Vojo", kaj ĝi estas unu el la unuaj landoj aliĝintaj al tiu iniciato, proponita de Xi
-
-Jinping
-
-en 2013.
-
-Dum la vizito, la du ŝtatestroj emfazis la plivastigon de kunlaboroj en kampoj kiel konektebleco, energio, transporto kaj ekonomia disvolvado. Xi
-
-Jinping
-
-deklaris, ke la rilatoj inter la du landoj eniris en fazon de pli granda disvolviĝo, dum la kirgiza registaro substrekis la gravecon de la partnereco kun Ĉinio por konstrui infrastrukturon kaj akceli ekonomian kreskon.
+Dum la vizito, la du ŝtatestroj emfazis la plivastigon de kunlaboroj en kampoj kiel konektebleco, energio, transporto kaj ekonomia disvolvado. Xi Jinping deklaris, ke la rilatoj inter la du landoj eniris en fazon de pli granda disvolviĝo, dum la kirgiza registaro substrekis la gravecon de la partnereco kun Ĉinio por konstrui infrastrukturon kaj akceli ekonomian kreskon.
 
 Unu el la strategiaj temoj en la duflankaj rilatoj estas la konstruado kaj plivastigo de transport-koridoroj ligantaj Ĉinion al Centra Azio, inkluzive de fervojaj projektoj, kiuj povas pliigi la regionan integriĝon kaj faciligi la komercon inter Ĉinio kaj diversaj landoj de Eŭrazio, alportante avantaĝojn al ĉiuj.
 
 Pintkunveno de la ŜKO
 
-La partopreno en la pintkunveno de ŜKO estis la ĉefa momento de la vizito de Xi
+La partopreno en la pintkunveno de ŜKO estis la ĉefa momento de la vizito de Xi Jinping al Biŝkeko. En tiu okazo, la ĉina ŝtatestro estis apud gravaj gvidantoj, kiel la rusa prezidanto Vladimir Putin, la barata ĉefministro Narendra Modi kaj la irana prezidento Masoud Pezeshkian.
 
-Jinping
-
-al Biŝkeko. En tiu okazo, la ĉina ŝtatestro estis apud gravaj gvidantoj, kiel la rusa prezidanto Vladimir Putin, la barata ĉefministro Narendra Modi kaj la irana prezidento Masoud Pezeshkian.
-
-En la pasintjara pintkunveno en Tianjin, Ĉinio, Xi
-
-Jinping
-
-lanĉis la Mondan Regadan Iniciaton (MRI), bazitan sur kvin principoj: suverena egaleco inter la landoj; unuforma aplikado de internaciaj reguloj, kiel la Ĉarto de UN; plurflankismo; homcentrita aliro; kaj praktika agado.
+En la pasintjara pintkunveno en Tianjin, Ĉinio, Xi Jinping lanĉis la Mondan Regadan Iniciaton (MRI), bazitan sur kvin principoj: suverena egaleco inter la landoj; unuforma aplikado de internaciaj reguloj, kiel la Ĉarto de UN; plurflankismo; homcentrita aliro; kaj praktika agado.
 
 Lanĉita en momento, kiam la nuna mondordo estas troe dominata de la okcidentaj potencoj kaj karakterizata de duoblaj normoj, MRI proponas al la mondo pli justan kaj plurpolusan internacian ordon, kun pli granda decidopovo por la landoj de la Tutmonda Sudo. La lanĉo de MRI dum pintkunveno de ŜKO ne estis hazarda: ĝi estas unu el la plej gravaj neokcidentaj platformoj por politika, ekonomia kaj sekureca kunlaboroj, per kiu la ĉina gvidanto klopodas montri al la mondo, per praktiko, ke tutmonda regado povas esti organizita ĉirkaŭ pluraj centroj anstataŭ ununura.
 
 La ĉi-jara pintkunveno okazis en momento de pli granda internacia atento pri la rolo de ŜKO kiel forumo por kunordigo inter aziaj landoj kaj eksteraj partneroj, pro ĝia kapablo konstrui konsentojn kaj praktikajn kunlaborojn inter landoj kun tre malsamaj interesoj kaj realaĵoj.
 
-La parolado de Xi
+La parolado de Xi Jinping en la pintkunveno de ŜKO
 
-Jinping
+En sia parolado ĉe la pintkunveno de Biŝkeko, Xi Jinping defendis pli grandan kunlaboron inter la membroj de ŜKO, emfazante la bezonon plifortigi plurflankismon, plivastigi ekonomian kunordigon kaj antaŭenigi pli egalecan internacian ordon.
 
-en la pintkunveno de ŜKO
-
-En sia parolado ĉe la pintkunveno de Biŝkeko, Xi
-
-Jinping
-
-defendis pli grandan kunlaboron inter la membroj de ŜKO, emfazante la bezonon plifortigi plurflankismon, plivastigi ekonomian kunordigon kaj antaŭenigi pli egalecan internacian ordon.
-
-En julio, dum la Monda Konferenco pri Artefarita Intelekto (AI) okazinta en Ŝanhajo, Xi
-
-Jinping
-
-defendis internacian kunlaboron por demokratia kaj malferma disvolviĝo de AI. Ĉi-foje li proponis, dum la pintkunveno de ŜKO, la estigon de internacia centro por aplikado de AI.
+En julio, dum la Monda Konferenco pri Artefarita Intelekto (AI) okazinta en Ŝanhajo, Xi Jinping defendis internacian kunlaboron por demokratia kaj malferma disvolviĝo de AI. Ĉi-foje li proponis, dum la pintkunveno de ŜKO, la estigon de internacia centro por aplikado de AI.
 
 Li ankaŭ emfazis la gravecon fortigi kunlaboron inter la membroj de ŜKO en kampoj, kiuj iras de komerco kaj investoj ĝis energio kaj resursoj, kaj invitis la interesitajn landojn partopreni en la serio "Granda Merkato por Ĉiuj: Eksporti al Ĉinio", celanta plivastigi la aliron de la membrolandoj de ŜKO al la ĉina merkato.
 
-Xi
-
-Jinping
-
-ankaŭ defendis pli egalecon partoprenon de landoj en la tutmonda regado, eĥigante MRI; la plifortigon de ekonomia kunlaboro kaj konektebleco inter la membroj de la organizo, eĥigante la inicitaton "La Zono kaj Vojo"; la plivastigon de kunlaboro pri regiona sekureco, eĥigante la Mondan Sekurecan Iniciaton; kaj la antaŭenigon de disvolviĝo kiel centra elemento de internaciaj rilatoj, eĥigante la Mondan Disvolvan Iniciaton.
+Xi Jinping ankaŭ defendis pli egalecon partoprenon de landoj en la tutmonda regado, eĥigante MRI; la plifortigon de ekonomia kunlaboro kaj konektebleco inter la membroj de la organizo, eĥigante la inicitaton "La Zono kaj Vojo"; la plivastigon de kunlaboro pri regiona sekureco, eĥigante la Mondan Sekurecan Iniciaton; kaj la antaŭenigon de disvolviĝo kiel centra elemento de internaciaj rilatoj, eĥigante la Mondan Disvolvan Iniciaton.
 
 Tiel, la ĉina prezidanto uzis la pintkunvenon de Biŝkeko por proponi vojon al kunlabora plurpolusa disvolviĝo, utiligante plurajn iniciatojn proponitajn de Ĉinio dum pli ol jardeko kaj montrante, ke ili ne estas izolitaj iniciatoj, sed aro da iniciatoj, kiuj kompletigas kaj interrilatas unuj kun la aliaj.
 
@@ -395,21 +331,13 @@ Post la vizito al Kirgizio, Xi Jinping iris al Egiptio, en sia unua ŝtatvizito 
 
 Egipta prezidento Abdel Fattah El-Sisi bonvenigas ĉinan prezidanton Xi Jinping.
 
-Dum la vizito, Xi
-
-Jinping
-
-kaj El-Sisi diskutis pri la profundigo de la duflanka kunlaboro en diversaj kampoj. Egiptio plivastigis sian proksimiĝon al Ĉinio dum la lastaj jaroj, precipe per ĉinaj investoj en infrastrukturo, industrio, energio kaj projektoj rilataj al "La Zono kaj Vojo". La plivastigo de duflanka komerco, ĉinaj investoj en industriaj zonoj kaj infrastrukturo, teknologia kunlaboro kaj kunordigo pri regionaj aferoj, precipe en Mezoriento kaj pri la situacio en Palestino, estis la ĉefaj temoj diskutitaj inter la gvidantoj de la du landoj.
+Dum la vizito, Xi Jinping kaj El-Sisi diskutis pri la profundigo de la duflanka kunlaboro en diversaj kampoj. Egiptio plivastigis sian proksimiĝon al Ĉinio dum la lastaj jaroj, precipe per ĉinaj investoj en infrastrukturo, industrio, energio kaj projektoj rilataj al "La Zono kaj Vojo". La plivastigo de duflanka komerco, ĉinaj investoj en industriaj zonoj kaj infrastrukturo, teknologia kunlaboro kaj kunordigo pri regionaj aferoj, precipe en Mezoriento kaj pri la situacio en Palestino, estis la ĉefaj temoj diskutitaj inter la gvidantoj de la du landoj.
 
 Egiptio, kiu ankaŭ estas membro de BRICS, havas grandegan strategian gravecon pro sia geografia situo, precipe pro sia kontrolo de la Sueza Kanalo, unu el la ĉefaj maraj itineroj de la tutmonda komerco. La kunlaboro kun Ĉinio laŭ la principo de reciproka gajno alportis investojn kaj ekonomian disvolviĝon al la lando.
 
 Komunaj militaj ekzercoj
 
-Antaŭ la vizito de Xi
-
-Jinping
-
-, aerarmeoj de Ĉinio kaj Egiptio sukcese okazigis komunajn ekzercojn. La agadoj inkluzivis la partoprenon de ĉinaj kaj egiptaj aviadiloj kaj estis prezentitaj de la du registaroj kiel parto de la profundigo de la defenda kunlaboro.
+Antaŭ la vizito de Xi Jinping, aerarmeoj de Ĉinio kaj Egiptio sukcese okazigis komunajn ekzercojn. La agadoj inkluzivis la partoprenon de ĉinaj kaj egiptaj aviadiloj kaj estis prezentitaj de la du registaroj kiel parto de la profundigo de la defenda kunlaboro.
 
 Ĉina fueltransporta aviadilo YU-20 transdonas fuelon al ĉasaviadilo Rafale de egipta aerarmeo.
 
@@ -420,8 +348,6 @@ En mondo markita de internacia streĉiteco, Ĉinio, kiel leviĝanta potenco, klo
 Ĉiukaze, la mesaĝo, kiu restas post ĉi tiuj eventoj estas, ke Ĉinio kaj ĝiaj partneroj de la Tutmonda Sudo serĉas kunlaboron kaj komunan disvolviĝon anstataŭ militon kaj detruadon.
 
 Verkis: Rafael Henrique Zerbetto
-
-El Popola Chinio
 
 
 ---
@@ -472,8 +398,6 @@ Esperantigita de Chen Meibao
 
 Projektita de Chen Ji
 
-El Popola Chinio
-
 
 ---
 
@@ -488,8 +412,6 @@ El Popola Chinio
 La 6-an de septembro, la finala taksado de ĉi-jara Orkide-premio okazis en Pekino. Ĉeestis 23 juĝistoj el dek landoj, inkluzive de Ĉinio, Aŭstralio, Barato, Italio, Kazaĥio, Libano, Malio, Tajlando, Britio kaj Usono, kaj ili elektis dek rekomenditajn kandidatojn por la premio, inter kiuj une por la Dumviva Honoro, tri por la Elstara Atingo kaj ses por la Amikeca Ambasadoro. La fina listo de la dek gajnintoj estos oficiale anoncita en la premidona ceremonio en la kuranta jaro.
 
 Dum la taksado kaj interŝanĝo, la juĝistoj diris, ke la Tutmonda Civilizacia Iniciaton metita de ĉina prezidanto Xi Jinping provizas gravan direkton por antaŭenigi intercivilizaciajn interŝanĝojn kaj reciprokan lernadon, kaj ankaŭ la progreson de homa civilizacio. La Orkide-premio estas grava platformo por efektivigi la Tutmondan Civilizacian Iniciaton, ĝi starigas gravan ponton por kulturaj interŝanĝoj inter Ĉinio kaj aliaj landoj.
-
-El Popola Chinio
 
 
 ---
@@ -518,8 +440,6 @@ Centoj da nepalamaj civitanoj, kiuj estis sur la ĉina flanko de la landlimo por
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -545,8 +465,6 @@ Por evoluantaj ekonomioj, precipe en Afriko, CIFTIS liveras ŝancojn konektiĝi 
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -563,8 +481,6 @@ La Nacia Akrobata Trupo de la Korea Popol-Demokratia Respubliko estas prestiĝa 
 Dum la lastaj jaroj, la trupo gajnis la plej altajn premiojn en pli ol 20 internaciaj cirkaj festivaloj en Eŭropo kaj Azio. Inter siaj plej famaj verkoj, la akrobataĵo "Flugu pli alten" gajnis la Oran Premion ĉe la 14-a Internacia Cirkofestivalo de Monte Carlo en 1989, kaj poste ricevis la Oran Premion "Idolo" ĉe la Monda Cirkarta Festivalo "Idol-2024". En 2025 la trupo kolektis tri ĉefajn premiojn: la Oran Premion Idolo por "Flugantaj viroj" ĉe "Idol-2025", la Grandan Premion por "Flugo sur ferbaraĵo" ĉe la 4-a Internacia Cirkofestivalo Bez Granits, kaj la Orleonan Premion por "Flugu pli alten" ĉe la 20-a Internacia Cirkofestivalo de Wuqiao en Ĉinio. En 2026 la akrobataĵo "Marŝado sur ŝnuro" ricevis la Grandan Premion, la Oran Premion de la Publiko kaj la Oran Premion de la Amaskomunikiloj ĉe la festivalo "Idol-2026".
 
 Raportis kaj fotis: Rafael Henrique Zerbetto
-
-El Popola Chinio
 
 
 ---
@@ -647,8 +563,6 @@ La malnova domo montras al ni, ke historio okazas ne nur en urboj kaj sur granda
 
 Verkis kaj fotis: Rafael Henrique Zerbetto
 
-El Popola Chinio
-
 
 ---
 
@@ -663,8 +577,6 @@ El Popola Chinio
 La 9-an de septembro en Pekino estis inaŭgurita la Ĉina Internacia Foiro por Komerco de Servoj en 2026. La foiron ĉeestas pli ol 1 800 entreprenoj en- kaj eksterlandaj, inkluzive de pli ol 456 entreprenoj en la listo Fortune 500 kaj grandaj industriaj kompanioj.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -721,8 +633,6 @@ La internacia strategio kaj praktiko de China Space-Time estas tipa ekzemplo. La
 
 Verkis kaj fotis: Bui Hai Mung
 
-El Popola Chinio
-
 
 ---
 
@@ -742,8 +652,6 @@ La simpozio altiris fakulojn kaj sciencistojn de la kampo de mondaj geoparkoj. L
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -760,8 +668,6 @@ La 10an de septembro, la proparolanto de ĉina Ministerio pri Eksterlandaj Afero
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -806,8 +712,6 @@ Vicministro Cai Wei, brazila ambasadoro Marcos Galvão kaj lia edzino Ana Galvã
 
 Raportis: Rafael Henrique Zerbetto
 
-El Popola Chinio
-
 
 ---
 
@@ -834,8 +738,6 @@ La urbo rigardata el la pinto de la Triumfa Arko
 La strukturo, farita el 25 mil blokoj el blanka granito, estas alta je 60 metroj, do pli alta ol sia pariza ekvivalento. Plena de politika simbolismo, la arko estas ornamita per reliefoj de 70 azaleoj, kiuj reprezentas la aĝon de la estro, kaj gravuritaj sur ĝi estas la datoj "1925" kaj "1945", markante la komencon de la lukto por liberigo kaj ĝian sukceson. La monumento ankaŭ prezentas versojn el la "Kanto de la Generalo Kim Il-sung", kaj ĝi estas unu el la ĉefaj vidindejoj de la urbo, el kie oni povas desupre rigardi la ĉefurbon.
 
 Raportis kaj fotis: Rafael Henrique Zerbetto
-
-El Popola Chinio
 
 
 ---
@@ -864,8 +766,6 @@ La kompanio konstante konstruas fidindajn, verdajn, efikajn, reg-facilajn elektr
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -880,8 +780,6 @@ El Popola Chinio
 La 12-an de septembro, ĉina prezidanto Xi Jinping anoncis en la 18a Pintkunveno de BRICS en Nov-Delhio, Barato, ke Ĉinio transprenos la deĵorantan prezidantecon de BRICS en 2027.
 
 Redaktoro: Gao Shuyuan
-
-El Popola Chinio
 
 
 ---
@@ -899,8 +797,6 @@ La 13-an de septembro, ĉina prezidanto Xi Jinping proponis kvin iniciatojn pri 
 Li diris, ke la kunlaboro de grandigita BRICS devas utiligi fortojn en enradikiĝo en emerĝantaj merkatoj kaj konekto kun la Tutmonda Sudo, subteni malfermitecon kaj kunlaboron por reciproka profito kaj kungajnaj rezultoj, teni industriajn kaj provizajn ĉenojn stabilaj kaj senbridaj, kaj kreskigi integrajn merkatojn.
 
 Redaktoro: Gao Shuyuan
-
-El Popola Chinio
 
 
 ---
@@ -923,8 +819,6 @@ Li diris, ke Barato sekvas sendependan diplomatian politikon, kaj la disvolviĝo
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -938,9 +832,7 @@ El Popola Chinio
 
 **Categories:** Plej Freŝaj
 
-En la speciala zono por servoj al entreprenoj irantaj eksterlanden ĉe la Ĉina Internacia Foiro por Komerco de Servoj (CIFTIS) 2026 en Pekino, oni povas vidi tre malsamajn servojn. Unu kompanio helpas ĉinajn entreprenojn partopreni ekspoziciojn en Germanio, Italio kaj aliaj landoj. Alia ofertas servojn pri registrado de kompanioj, kontado, revizio kaj impostoj en Hongkongo. Ne malproksime, kompanio pri intelekta proprieto helpas ĉinajn teknologiojn trovi partnerojn eksterlande. KPMG parolas pri strategio, plenumo de reguloj kaj loka adaptiĝo.
-
-La servoj estas malsamaj, sed ili havas ion komunan: iliaj klientoj estas ĉinaj entreprenoj, kiuj iras al internaciaj merkatoj.
+En la speciala zono por servoj al entreprenoj irantaj eksterlanden ĉe la Ĉina Internacia Foiro por Komerco de Servoj (CIFTIS) 2026 en Pekino, oni povas vidi tre malsamajn servojn. Unu kompanio helpas ĉinajn entreprenojn partopreni ekspoziciojn en Germanio, Italio kaj aliaj landoj. Alia ofertas servojn pri registrado de kompanioj, kontado, revizio kaj impostoj en Hongkongo. Ne malproksime, kompanio pri intelekta proprieto helpas ĉinajn teknologiojn trovi partnerojn eksterlande. KPMG parolas pri strategio, plenumo de reguloj kaj loka adaptiĝo. La servoj estas malsamaj, sed ili havas ion komunan: iliaj klientoj estas ĉinaj entreprenoj, kiuj iras al internaciaj merkatoj.
 
 La zono "Eliri al la Granda Maro" en CIFTIS
 
@@ -981,8 +873,6 @@ Ju pli kompleksa fariĝas la eksterlanda agado de entrepreno, des pli malfacile 
 Kiam ĉinaj entreprenoj iras eksterlanden, ne nur iliaj produktoj transiras landlimojn. Ili bezonas ankaŭ servojn por trovi merkatojn, protekti teknologiojn kaj funkcii en novaj komercaj medioj. Ju pli profunde ili eniras internaciajn merkatojn, des pli gravaj fariĝas la servoj, kiuj akompanas ilin.
 
 Verkis: Bui Hai Mung
-
-El Popola Chinio
 
 
 ---

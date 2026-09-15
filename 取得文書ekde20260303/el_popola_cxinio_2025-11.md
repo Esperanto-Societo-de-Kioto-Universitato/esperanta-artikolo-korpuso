@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-09-15T10:54:36.866224+00:00"
+generated_at: "2026-09-15T13:49:03.032937+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-11-03 – 2025-11-28"
 ---
@@ -70,8 +70,6 @@ La 15-a Kvinjara Plano ludos ŝlosilan rolon por la sukceso de la plenumo de la 
 
 Verkis: Rafael Henrique Zerbetto
 
-El Popola Chinio
-
 
 ---
 
@@ -94,8 +92,6 @@ Plie, la centro celas evoluigi altnivelajn industriajn produktojn, novigajn medi
 Per la kunfando de ekspozicio, komerco, loĝistiko kaj trejnado, la centro fariĝis modelo de moderna internacia komerco, ludante gravan rolon en la konstruado de Ŝanhajo kiel tutmonda komerca centro kaj kontribuante al pli profunda ekonomia kunlaboro pere de la iniciato e-komerco laŭ la Silka Vojo.
 
 Teksto kaj fotoj: Bui Hai Mung
-
-El Popola Chinio
 
 
 ---
@@ -198,8 +194,6 @@ Mia vizito al KPDR plifortigis mian kredon je dialogo kiel maniero solvi konflik
 
 Verkis: Rafael Henrique Zerbetto
 
-El Popola Chinio
-
 
 ---
 
@@ -239,21 +233,7 @@ Donado de memortrofeoj
 
 Oni donas memortrofeojn al veteranoj, kiuj dediĉis 60 jarojn al Esperanta laboro, por honori iliajn atingojn kaj kontribuojn.
 
-Antaŭ la kongreso, estis inaŭgurita ekspozicio de E-libroj "Kompreni Ĉinion en lernado de civilizacioj -- Ekspozicio de Esperantaj libroj pri Ĉinio". La ekspozicio ĉefe eksponadis librojn pri la temo Ĉinio, inkluzive de ĉinaj kaj anglaj versioj de
-
-Xi Jinping: Regado de Ĉinio
-
-, kaj ĉin-Esperanta versio de seriaj libroj
-
-Ŝlosilaj Vortoj por Kompreni Ĉinion: 19-a Tutlanda Kongreso de la Komunista Partio de Ĉinio
-
-kaj
-
-Ŝlosilaj Vortoj por Kompreni Ĉinion: Kulturaj Interŝanĝoj
-
-. La ekspozicio prezentis elstarajn publikaĵojn en la kampoj de politiko, ekonomiko, scienco kaj teknologio, kaj tradicia ĉina kulturo. La ekspozicio profunde impresis vizitantojn.
-
-El Popola Chinio
+Antaŭ la kongreso, estis inaŭgurita ekspozicio de E-libroj "Kompreni Ĉinion en lernado de civilizacioj -- Ekspozicio de Esperantaj libroj pri Ĉinio". La ekspozicio ĉefe eksponadis librojn pri la temo Ĉinio, inkluzive de ĉinaj kaj anglaj versioj de Xi Jinping: Regado de Ĉinio, kaj ĉin-Esperanta versio de seriaj libroj Ŝlosilaj Vortoj por Kompreni Ĉinion: 19-a Tutlanda Kongreso de la Komunista Partio de Ĉinio kaj Ŝlosilaj Vortoj por Kompreni Ĉinion: Kulturaj Interŝanĝoj. La ekspozicio prezentis elstarajn publikaĵojn en la kampoj de politiko, ekonomiko, scienco kaj teknologio, kaj tradicia ĉina kulturo. La ekspozicio profunde impresis vizitantojn.
 
 
 ---
@@ -274,8 +254,6 @@ Oni eksponis preskaŭ cent librojn en la ĉina, angla, dulingvaj (ĉina kaj angl
 
 Vizitantoj diris, ke la ekspozicio ne nur estas libra festeno, sed ankaŭ provizas al ni profundan spiritan nutraĵon. Kiel grava ponto por internacia interŝanĝo kaj interkultura komunikado, esperantistoj portas specialan mision. Nur per esperantigo de "ĉinaj temoj" kaj profunda ĉina kulturo, ni povas pli efike plenumi nian mision kaj respondeci pri disvastigado de la ĉina kulturo, ĉinaj rakontoj kaj amikeco inter Ĉinio kaj aliaj landoj.
 
-El Popola Chinio
-
 
 ---
 
@@ -291,17 +269,11 @@ Posttagmeze de la 1-a de novembro okazis seminario pri Esperanta eldonado pri "�
 
 Kunfotiĝo
 
-Chen Ji, ĝenerala sekretario de la Ĉina Esperanto-Ligo (
-
-Ĉ
-
-EL) kaj prezidanto de Azi-Oceania Komisiono de UEA (KAOEM), la unua dividis siajn spertojn kaj komprenojn pri E-tradukado kaj publikigo de libroj pri Ĉinio. Ŝi prezentis la tradukadon kaj publikigon de libroj pri Ĉinio kiel la libroserio "Ŝlosilaj Vortoj por Kompreni Ĉinion", la konstruadon de bazo de lingvistikaj donitaĵoj, kaj la rolon de tiaj libroj en helpado al alilandaj legantoj kompreni Ĉinion.
+Chen Ji, ĝenerala sekretario de la Ĉina Esperanto-Ligo (ĈEL) kaj prezidanto de Azi-Oceania Komisiono de UEA (KAOEM), la unua dividis siajn spertojn kaj komprenojn pri E-tradukado kaj publikigo de libroj pri Ĉinio. Ŝi prezentis la tradukadon kaj publikigon de libroj pri Ĉinio kiel la libroserio "Ŝlosilaj Vortoj por Kompreni Ĉinion", la konstruadon de bazo de lingvistikaj donitaĵoj, kaj la rolon de tiaj libroj en helpado al alilandaj legantoj kompreni Ĉinion.
 
 Sekve, kelkaj fakuloj dividis siajn spertojn kun ĉeestantoj pri Esperantigo, tradukado kaj eldonado. La fakuloj estas Sun Mingxiao, konstanta komitatano de ĈEL kaj fakulo pri Esperanta Muzeo ĉe la Universitato Zaozhuang, Zhou Tianhao, iama ĉefredaktoro kaj vicprezidanto de la Ŝanhaja Eldonejo pri Fremdlingva Videaĵo kaj vicprezidanto de ĈEL, Zhao Jianping, iama ĉefa radioparolisto ĉe la Ĉina Radio Internacia, kaj Rafael Zelrbertto, ricevinto de Ĉina Registara Amikeca Premio kaj brazila esperantisto laboranta en El Popola Ĉinio.
 
 La seminario estas fruktodona, partoprenantoj estis tre kuraĝigitaj kaj inspiritaj. Ĝi kiel subforumo de la 15-a Ĉina Kongreso de Esperanto, estis kune organizita de ĈEL kaj Fremdlingva Eldonejo, celante kolekti spertojn de tradukado en Esperantigo por antaŭenigi la altkvalitan disvolviĝon de tradukado kaj eldonado de libroj pri Ĉinio.
-
-El Popola Chinio
 
 
 ---
@@ -330,8 +302,6 @@ Redaktis: Rafael Henrique Zerbetto
 
 Fonto: Xinmin Evening News
 
-El Popola Chinio
-
 
 ---
 
@@ -353,8 +323,6 @@ La 8-a ĈIIE daŭras en Ŝanhajo de la 5-a ĝis la 10-a de novembro. La ekspozic
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -372,8 +340,6 @@ La 5-an de novembro malfermiĝis la 8-a Ĉina Internacia Importa Ekspozicio (ĈI
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -388,8 +354,6 @@ El Popola Chinio
 La 8-a Ĉina Internacia Importa Ekspozicio (ĈIIE) malfermiĝis la 5-an de novembro en Ŝanhajo. En ĉi-jara ĈIIE partoprenas homoj el 155 landoj, regionoj kaj internaciaj organizoj, kaj eksponadas 4 108 eksterlandaj kompanioj. Entute alvenos 43 komercaj delegacioj kaj proksimume 450 mil registritaj vizitantoj. La ekspozicia areo superas 430 mil kvadratajn metrojn. La 8-a ĈIIE starigis novajn rekordojn kaj por ekspozicia areo kaj por nombro de partoprenantaj kompanioj.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -406,8 +370,6 @@ Dum la 8-a Ĉina Internacia Importa Ekspozicio (ĈIIE), kiu malfermiĝis en Ŝan
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -422,8 +384,6 @@ El Popola Chinio
 La 8-a Ĉina Internacia Importa Ekspozicio (ĈIIE) unuafoje starigis eksponejon por la produktoj el malplej evoluintaj landoj, alvenis 163 kompanioj el tiuj landoj, la nombro pliiĝis je 23.5% kompare kun la pasinta jaro. Ĉi-jara ĈIIE ankaŭ novige kreis eksponejon de ĝemelaj urboj, kun partopreno de entute 67 landoj kaj internaciaj organizoj. Kaj la nove establitaj "translandlima e-komerca platformo de bonkvalitaj produktoj" kaj "translandlima e-komerca servo-areo" utiligas la ciferecan forton de ĈIIE por helpi produktojn precize konektiĝi kun la ĉina merkato.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -445,8 +405,6 @@ En la ekspoziciejo pri medicinaj aparatoj kaj sanservoj, la alt-rapida spektra a
 En la zono de konsumaj varoj, dungito de Uniqlo montris novteknikan ŝtofon al vizitantoj: "Jen 3D-centromalplena fibro. Ĝi dikas nur kvinonon de tiu de homa haro kaj havas bonegan reziston al humideco." Tia teknologio iros en la ĉiutagan vivon, montrante, kiel ĈIIE antaŭenigas industrian novigon.
 
 Redaktoroj: Gao Shuyuan kaj Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -483,11 +441,7 @@ Kiel la plej granda ekonomio en Sud-Ameriko, Brazilo ludas gvidan rolon en plura
 
 Redaktis: Rafael Henrique Zerbetto
 
-Fonto:
-
-https://portuguese.shanghai.gov.cn/po-UpcomingExpos/20251105/ae493b89b79b497da2c8c42b255f41d9.html
-
-El Popola Chinio
+Fonto: https://portuguese.shanghai.gov.cn/po-UpcomingExpos/20251105/ae493b89b79b497da2c8c42b255f41d9.html
 
 
 ---
@@ -513,8 +467,6 @@ Krome, la Brazila Agentejo por Antaŭenigo de Eksportoj kaj Investoj (ApexBrasil
 Redaktis: Rafael Henrique Zerbetto
 
 Fonto: https://portuguese.shanghai.gov.cn/po-UpcomingExpos/20251104/127bf853f05548dda54eed9fae756a76.html
-
-El Popola Chinio
 
 
 ---
@@ -575,8 +527,6 @@ En la historio de la mondo, neniu lando iam sukcesis samtempe konservi rapidan e
 
 Verkita de Bui Hai Mung
 
-El Popola Chinio
-
 
 ---
 
@@ -631,8 +581,6 @@ Fine, s-ro Zhu emfazis: "ĈIIE estas la plej altnivela nacia platformo de Ĉini
 Por Mitsubishi Electric, la ok-jara akompano kun ĈIIE ne estas nur vojaĝo de teknologia ekspozicio, sed ankaŭ atesto pri la longdaŭra engaĝiĝo de la japana grupo al la plej rapide kreskanta ekonomio en la mondo.
 
 Raportita de Bui Hai Mung
-
-El Popola Chinio
 
 
 ---
@@ -699,8 +647,6 @@ Kun la ĉiam pli firma fundamento de la ĉin-vjetnama kunlaboro, kune kun la kom
 
 Raportita de Bui Hai Mung
 
-El Popola Chinio
-
 
 ---
 
@@ -728,8 +674,6 @@ Tradukis: Rafael Henrique Zerbetto
 
 Fonto: 上海日报
 
-El Popola Chinio
-
 
 ---
 
@@ -746,8 +690,6 @@ Vespere de la 9-a de novembro en la Guangdong-a Olimpika Sport-Centro malfermiĝ
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -776,8 +718,6 @@ Tiu ĉi ne estas la unua fojo, ke Tulipa Ruiz turneas en Ĉinio. Ŝi jam estis e
 
 Raportis kaj fotis: Rafael Henrique Zerbetto
 
-El Popola Chinio
-
 
 ---
 
@@ -796,8 +736,6 @@ La 9-an de novembro okazis en Kantono la solena malferma ceremonio de la 15-a N
 Coventry diris, ke al la sportkunveno venis dek miloj da sportistoj en diversaj aĝoj el la tuta lando, kaj la unika ĉarmo de la sportludoj forĝas unuecon. Ŝi laŭdis: "Ĉinio sendube estas vera mondpotenco en sportoj."
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -826,23 +764,13 @@ Por vi, eblas studi Esperanton ĉiusemajne kun samideanoj en diversaj landoj, se
 
 Limdato por aliĝi: 17-a de novembro 2025 aŭ poste, laŭ disponeblaj lokoj.
 
-Pli da informoj troviĝas ĉe:
-
-https://bit.ly/37MIYye
-
-(aŭ
-
-https://docs.google.com/document/d/1JvimMeNl-nc3VJhi44f6NjbzDuaZvepiVRl0BYdEW5c/preview
-
-)
+Pli da informoj troviĝas ĉe: https://bit.ly/37MIYye (aŭ https://docs.google.com/document/d/1JvimMeNl-nc3VJhi44f6NjbzDuaZvepiVRl0BYdEW5c/preview)
 
 Se, leginte ĉiujn informojn en la ĉi-supraj retpaĝoj, vi decidas ALIĜI, bonvole skribu al:  esperanto.instruado.jag.univ.pl(ĉe)gmail.com.
 
 Invitas kore,
 
 Maria Majerczak (Gvidantino de la Esperanto-instruado en la Jagelona Universitato)
-
-El Popola Chinio
 
 
 ---
@@ -876,8 +804,6 @@ Kun tradicia ĉarmo, historia heredaĵo kaj ekzempla gastamo, Yangzhou firmiĝas
 Tradukis: Rafael Henrique Zerbetto
 
 Fonto: Brasil247
-
-El Popola Chinio
 
 
 ---
@@ -927,8 +853,6 @@ Li diris, ke la vojo trairita de Suzano en Ĉinio atestas la kunan kreskon de la
 Tradukis: Rafael Henrique Zerbetto
 
 Fonto: Xinhua-novaĵagentejo
-
-El Popola Chinio
 
 
 ---
@@ -983,8 +907,6 @@ La diversaj voĉoj, revoluciaj teknologioj kaj subskribitaj interkonsentoj ĉe �
 
 Raportis: Bui Hai Mung
 
-El Popola Chinio
-
 
 ---
 
@@ -1002,27 +924,13 @@ La 13-an de novembro en Varsovio forpasis Roman Dobrzyński, eminenta esperantis
 
 Kiel ĵurnalisto, li helpe de hispanaj esperantistoj sukcesis akiri hispanan vizon kaj fariĝis la unua pola ĵurnalisto post la dua mondmilito sukcesinta kolekti originalan materialon el tiu lando. Fariĝinte prestiĝa ĵurnalisto, li laboris de 1973 ĝis 2007 ĉe la pola televidkanalo TVP, kvinfoje vizitinte la bienlernejon Bona Espero en Brazilo por fari filmraportojn por TVP. Roman ĉiam klopodis por uzi Esperanton en siaj videoraportoj el aliaj landoj, montrante, per praktiko, la utilon kaj tutmondecon de nia lingvo. En siaj lastaj laborjaroj, li interesiĝis pri Azio kaj interalie faris dokumentan filmon pri Oomoto.
 
-Kiel verkisto, Roman verkis tre interesajn kaj gravajn librojn, inter ili
+Kiel verkisto, Roman verkis tre interesajn kaj gravajn librojn, inter ili La Zamenhof-strato -- pri la sorto de la familio Zamenhof dum la dua mondmilito, surbaze de dokumentoj kaj intervjuoj kun la nepo de Ludoviko Zamenhof -- tradukita en 18 lingvojn. Alia konata verko lia estas Bona Espero -- Idealo kaj Realo, pri la historio de la bienlernejo Bona Espero.
 
-La Zamenhof-strato
-
--- pri la sorto de la familio Zamenhof dum la dua mondmilito, surbaze de dokumentoj kaj intervjuoj kun la nepo de Ludoviko Zamenhof -- tradukita en 18 lingvojn. Alia konata verko lia estas
-
-Bona Espero -- Idealo kaj Realo
-
-, pri la historio de la bienlernejo Bona Espero.
-
-Roman ankaŭ dediĉis multajn jarojn al instruado de Esperanto kaj partoprenis en projektoj pri esperanto-instruado, interalie la esperantigo de
-
-Mazi en Gondolando
-
-, kiun li uzis en 2006 por instrui la lingvon al ĉinaj studentoj ĉe iu pekina universitato. "Tiam mi konvinkiĝis pri Mazi kiel bonega paroligilo, des pli rilate al ĉinoj, kiuj pene adaptiĝas al prononcado de eŭropaj lingvoj, inkluzive de Esperanto," deklaras Roman en sia sinprezenta teksto al la Panteono de Edukado.net.
+Roman ankaŭ dediĉis multajn jarojn al instruado de Esperanto kaj partoprenis en projektoj pri esperanto-instruado, interalie la esperantigo de Mazi en Gondolando, kiun li uzis en 2006 por instrui la lingvon al ĉinaj studentoj ĉe iu pekina universitato. "Tiam mi konvinkiĝis pri Mazi kiel bonega paroligilo, des pli rilate al ĉinoj, kiuj pene adaptiĝas al prononcado de eŭropaj lingvoj, inkluzive de Esperanto," deklaras Roman en sia sinprezenta teksto al la Panteono de Edukado.net.
 
 Post tiom longa sindediĉo al Esperanto, kun tiom gravaj kaj laŭdindaj atingoj, estas tempo por ke Roman pace ripozu. Al ni, kiuj havis la privilegion kunvivi kun li, restas la bonaj rememoroj de la tempo, kiun ni pasigis kune.
 
 Verkis: Rafael Henrique Zerbetto
-
-El Popola Chinio
 
 
 ---
@@ -1040,8 +948,6 @@ La 13-an de novembro ĉina vicministro pri eksteraj aferoj Sun Weidong faris aŭ
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -1118,8 +1024,6 @@ COP30 en Amazonio, unu el la ekosistemoj plej minacataj de la klimata krizo, mem
 
 Verkis: Rafael Henrique Zerbetto
 
-El Popola Chinio
-
 
 ---
 
@@ -1139,8 +1043,6 @@ Mao Ning diris, ke la klara regularo en la kvar politikaj dokumentoj inter Ĉini
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -1157,8 +1059,6 @@ La 9-an de novembro en Ĉinio la ultraalt-tensia aparato kun malfermita cirkvit
 "Nia nova produkto atingis mondkapan nivelon, ĝi havas la saman grandecon kiel la malnovan, ebligante rektan anstataŭigon. Ĝi povas rimarkeble plibonigi la efikon kaj daŭrigeblecon de elektroenergia reto," diris Sheng Yong, ĉefa specialisto de supremenciita shaanxi-a kompanio. Post ekfunkciigo, la aparato signife plifortigos la kapablon de la elektroreto de nordokcidenta Ĉinio fronte al ekstrema kurtcirkvita kurento, kaj tiele regi la stabilecon de elektrotransmisiaj retoj.
 
 Redaktoroj: Gao Shuyuan kaj Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -1180,8 +1080,6 @@ En la projekto, organizantoj invitas la partoprenantojn pripensi, kion Samarkan
 Ĉi-jare, kelk miloj da leteroj pri la Tago de Samarkando en diversaj lingvoj venis de la tuta mondo, inkluzive de Usono, Ĉinio, Sud-Afriko, Kamerunio, la Korea Respubliko, Barato, Irano, Rusio, Indonezio, Filipinoj kaj tiel plu. Kelkaj el la kontribuaĵoj estis prezentitaj sur ekspoziciaj standoj kaj surekrane dum la solena aranĝo, organizita de Samarkanda Internacia Teknologia Universitato. Pluraj leteroj aperis en paperaj kaj retaj eldonoj de uzbekaj periodaĵoj. Kaj Esperanto estis menciita diversloke en la gazetaj artikoloj. Kelkaj mesaĝoj estis publikigitaj de la redakcioj pli ol unu fojon.
 
 Raportita de Anatolij Ionesov (Uzbekio)
-
-El Popola Chinio
 
 
 ---
@@ -1209,8 +1107,6 @@ La forumo kun la temoj "Seulo kaj Ŝanhajo: Internaciaj Gigantaj Belaj Urboj" ka
 En la forumo estis ankaŭ artprezentadoj de koreaj kaj ĉinaj esperantistoj.
 
 Estis anoncita, ke la 8-a forumo okazos en Busan de la Korea Respubliko en 2026.
-
-El Popola Chinio
 
 
 ---
@@ -1279,8 +1175,6 @@ La kunekzisto inter hano kaj ĉi tiuj tri etnaj malplimultoj en Zhangjiajie krea
 
 Verkis kaj fotis: Rafael Henrique Zerbetto
 
-El Popola Chinio
-
 
 ---
 
@@ -1301,8 +1195,6 @@ Fine, la dulandaj esperantistoj interŝanĝis donacojn kun kulturaj karakteroj.
 La aktivado aldonas novan forton al la kunlaboro inter ĉinaj kaj koreaj esperantistoj, ambaŭ flankoj daŭre intervizitos, rete interkomunikiĝos kaj kune okazigos programojn profundigante kunlaborojn kaj proksimigante la duflankajn rilatojn.
 
 Redaktoroj: Gao Shuyuan kaj Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -1377,8 +1269,6 @@ Huafu ne estas nur estetika tendenco aŭ turisma strategio. Ĝi simbolas la levi
 
 Verkis: Bui Hai Mung
 
-El Popola Chinio
-
 
 ---
 
@@ -1409,8 +1299,6 @@ Hidroelektra Centralo Kinçon kaj la monbileto de 5 mil gvineaj frankoj
 Hidroelektra Centralo Kinçon
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -1457,8 +1345,6 @@ Duan Yinmei malligas la tinkturitajn ŝtofojn en tinkturejo.
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -1470,13 +1356,7 @@ El Popola Chinio
 
 **Categories:** Novaĵoj
 
-En somero, kiam ni renkontiĝis en Brno, la belaj fotoj estis eksponataj en la kongresejo de nia Universala Kongreso (UK), kiel unu el la bildekspozicioj de la grava programo
-
-Ĉina Tago
-
-. Ĉu vi ankoraŭ memoras ilin? Jen la belaj bildoj kun rakontoj pri nemateriaj kulturaj heredaĵoj ĉinaj kaj ĉeĥaj estas videblaj ĉi tie!
-
-El Popola Chinio
+En somero, kiam ni renkontiĝis en Brno, la belaj fotoj estis eksponataj en la kongresejo de nia Universala Kongreso (UK), kiel unu el la bildekspozicioj de la grava programoĈina Tago. Ĉu vi ankoraŭ memoras ilin? Jen la belaj bildoj kun rakontoj pri nemateriaj kulturaj heredaĵoj ĉinaj kaj ĉeĥaj estas videblaj ĉi tie!
 
 
 ---

@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-09-15T11:04:52.433466+00:00"
+generated_at: "2026-09-15T13:49:03.207990+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-07-01 – 2026-07-31"
 ---
@@ -32,8 +32,6 @@ Marapira ankaŭ diris, ke la progreso de Ĉinio de unu kvinjara plano al la sekv
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -55,8 +53,6 @@ Sekve, Xi Jinping faris gravan paroladon ĉe la kunveno.
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -77,8 +73,6 @@ Xi Jinping diris, ke KPĈ restas dediĉita al la serĉado de la vero kaj ĉiam a
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -103,8 +97,6 @@ Nova Ĉinio konstruis sian unuan fervojon: fervojo inter Chengdu kaj Chongqing. 
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -126,8 +118,6 @@ Shaanxi situas ĉe la plej orienta parto de la nordokcidenta elektroreto de la l
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -145,11 +135,7 @@ Pasaĝero spertas vojaĝon per eVTOL de Ehang
 
 De longdaŭra strategio al "novkvalitaj produktivaj fortoj"
 
-La malaltaltituda ekonomio ne aperis hazarde. Ĝi estas la rezulto de politika strategio, preparata dum pluraj jaroj. La koncepto unuafoje aperis en la Nacia Plano pri Tridimensia Transporta Reto en 2021. Fine de 2023 ĝi estis difinita kiel strategia emerĝanta industrio, kaj en la
-
-Raporto pri la Laboro de la Registaro por 2024
-
-ĝi fariĝis parto de la koncepto "novkvalitaj produktivaj fortoj". Tiu koncepto reflektas la strebon de Ĉinio ŝanĝi sian kreskomodelon: de ekonomio bazita ĉefe sur kapitalo kaj laborforto al ekonomio movata de teknologio, novigado kaj industrioj kun alta aldonvaloro.
+La malaltaltituda ekonomio ne aperis hazarde. Ĝi estas la rezulto de politika strategio, preparata dum pluraj jaroj. La koncepto unuafoje aperis en la Nacia Plano pri Tridimensia Transporta Reto en 2021. Fine de 2023 ĝi estis difinita kiel strategia emerĝanta industrio, kaj en la Raporto pri la Laboro de la Registaro por 2024 ĝi fariĝis parto de la koncepto "novkvalitaj produktivaj fortoj". Tiu koncepto reflektas la strebon de Ĉinio ŝanĝi sian kreskomodelon: de ekonomio bazita ĉefe sur kapitalo kaj laborforto al ekonomio movata de teknologio, novigado kaj industrioj kun alta aldonvaloro.
 
 Por la lando la malaltaltituda ekonomio ne limiĝas al eVTOL. Ĝi celas kunligi aviadilan fabrikadon, novgeneraciajn bateriojn, AI, ciferecajn komunikajn retojn kaj aŭtomatajn administrajn sistemojn en unu nova industria ekosistemo. Tiu direkto denove estis konfirmita en la 15-a Kvinjara Plano (2026-2030), kiu klasifikas la malaltaltitudan ekonomion kiel unu el la ĉefaj pioniraj industrioj de la venonta evolufazo. La Ĉina Administracio pri Civila Aviado (CAAC) taksas, ke la merkato povus kreski de 1.5 duilionoj da juanoj en 2025 ĝis 3.5 duilionoj en 2035. Kvankam pri tiuj prognozoj ekzistas malsamaj opinioj, ili klare montras la gravecon, kiun la ĉina registaro atribuas al ĉi tiu sektoro.
 
@@ -211,11 +197,7 @@ Post la teknologio venas la merkato. Laŭ s-ro Shao, la operacia reto de la komp
 
 Laŭ li, eVTOL ne celas rekte konkuri kun helikopteroj, sed povas krei novan segmenton de aertransporto. La modelo EH216-S kostas ĉirkaŭ 2.39 milionojn da juanoj, konsiderinde malpli ol komparebla civila helikoptero. Krome, ĝia elektra propulso reduktas bruon, prizorgajn kostojn kaj energikonsumon.
 
-Tamen la estonteco de la sektoro restas diskutata. Raporto de
-
-The Jamestown Foundation
-
-opinias, ke la nuna kresko estas ĉefe movata de publikaj investoj kaj politikaj prioritatoj, prefere ol de efektiva merkata postulo. Tio aparte validas por urba loĝistiko: en Ĉinio la kosto de liverado fare de homoj ankoraŭ apartenas al la plej malaltaj en la mondo, kaj liveraj flugrobotoj ĝis nun ne montris sufiĉan ekonomian avantaĝon por anstataŭigi la ekzistantan sistemon.
+Tamen la estonteco de la sektoro restas diskutata. Raporto de The Jamestown Foundation opinias, ke la nuna kresko estas ĉefe movata de publikaj investoj kaj politikaj prioritatoj, prefere ol de efektiva merkata postulo. Tio aparte validas por urba loĝistiko: en Ĉinio la kosto de liverado fare de homoj ankoraŭ apartenas al la plej malaltaj en la mondo, kaj liveraj flugrobotoj ĝis nun ne montris sufiĉan ekonomian avantaĝon por anstataŭigi la ekzistantan sistemon.
 
 Pro tio la entreprenoj ne komencas per flugantaj taksioj en urboj. Ili elektas aplikojn, kie eVTOL alportas klaran aldonvaloron: transporto inter insuloj, atingado de montaraj regionoj, krizaj savmisioj, fajro-estingado en altaj konstruaĵoj kaj turismaj flugoj. En tiuj kampoj la ŝparita tempo povas kompensi la pli altajn operaciajn kostojn kaj samtempe krei enspezojn por plu evoluigi la teknologion.
 
@@ -224,8 +206,6 @@ La eksperimento daŭras
 En unu mateno en la parko Luogang la EH216-S kviete alteriĝas. Post kelkaj minutoj nova grupo de pasaĝeroj eniras la kajuton, kaj la aviadilo denove leviĝas al la ĉielo. Ĉu flugantaj taksioj iam fariĝos ĉiutaga transportilo, restas malferma demando. Sed Ĉinio elektis ne atendi la respondon. En Hefei ĝi provas trovi ĝin rekte en la aero.
 
 Verkis kaj fotoj: Bui Hai Mung
-
-El Popola Chinio
 
 
 ---
@@ -254,8 +234,6 @@ Surbaze de strategia reciproka fido, Turkio kaj Ĉinio kune esploru modernigajn 
 
 Redaktoro: Gao Shuyuan
 
-El Popola Chinio
-
 
 ---
 
@@ -278,8 +256,6 @@ Belorusaj junuloj volas lerni la ĉinan lingvon kaj kulturon, li diris. "Mi esta
 Plurfoje vizitinte Ĉinion, Parkhomchik esprimis profundan admiron pri la rapida disvolviĝo de la lando dum la pasintaj tri jardekoj.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -306,8 +282,6 @@ Inter la ĉefaj atingoj de Ĉinio, Mahmmud citis la historian agon de malriĉec-
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -333,8 +307,6 @@ Simile al la projekto por la lignoturo, cifereca teknologio prezentas al vizitan
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -355,8 +327,6 @@ Krom komerco kaj investo, Bornemissza emfazis kreskantajn ŝancojn en kultura ka
 Antaŭrigardante, Bornemissza ankaŭ malkaŝis la planojn antaŭenigi hungarajn produktojn en la ĉinan merkaton por akceli la eksportadon de Hungario.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -381,8 +351,6 @@ Samtempe, la somero en Qinling liveras humidan klimaton kaj abundajn manĝaĵojn
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -405,8 +373,6 @@ La libro sisteme klarigas la teorion kaj praktikon de ĉina modernigo, vivece pr
 Legi la libron povas helpi homojn pensi pli profunde pri la rilatoj inter Kirgizio kaj Ĉinio, kaj pri la influoj al la resto de la mondo. La libro helpas instigi praktikan kunlaboron por antaŭenigi reciprokan lernadon inter civilizacioj.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -433,8 +399,6 @@ En la malferma ceremonio, oni prezentis la gratul-mesaĝan videon de Ahmad Reza 
 
 La okazigo de la kongreso ne nur provizas altnivelan akademian platformon por esperantistaj instruistoj kaj esploristoj, sed ankaŭ antaŭenigos Esperanto-edukadon kaj transkulturan interŝanĝon, kontribuante lingvan forton al la konstruado de homara komunumo de komuna estonteco. La kongreso daŭris tri tagojn, oni okazigis prelegojn, akademiajn seminariojn, plurnivelajn ekzamenojn, trejnajn kursojn, amuzvesperon kaj projekciadon de Esperantaj filmoj.
 
-El Popola Chinio
-
 
 ---
 
@@ -452,8 +416,6 @@ Gansu estas grava regiono sur la itinero de la Longa Marŝo. Ĝi estas la sola p
 
 Sekve, preskaŭ 40 ĉinaj kaj eksterlandaj fakuloj kaj ĵurnalistoj, kune vizitos la ŝlosilajn lokojn survoje de la Longa Marŝo por dokumenti la grandegajn ŝanĝiĝojn de la  regionoj dum la pasintaj 90 jaroj.
 
-El Popola Chinio
-
 
 ---
 
@@ -465,29 +427,11 @@ El Popola Chinio
 
 **Categories:** Plej Freŝaj
 
-En la programo "Kune sur la Longa Marŝo", la raportistoj de la revuo
+En la programo "Kune sur la Longa Marŝo", la raportistoj de la revuo El Popola Ĉinio vizitis konservan kaj kultivan bazon de kurac-plantaĵoj en Minxian-gubernio, Gansu-provinco. La loko estas produktejo de danggui (Angelica sinensis) kaj multaj aliaj tradiciaj ĉinaj kurac-herboj. Ili vizitis ankaŭ inteligentajn forcejojn, kie temperaturo, humideco, lumo kaj irigacio estas precize aranĝataj por helpi la kreskadon de la herboj.
 
-El Popola Ĉinio
-
-vizitis konservan kaj kultivan bazon de kurac-plantaĵoj en Minxian-gubernio, Gansu-provinco. La loko estas produktejo de
-
-danggui
-
-(
-
-Angelica sinensis
-
-) kaj multaj aliaj tradiciaj ĉinaj kurac-herboj. Ili vizitis ankaŭ inteligentajn forcejojn, kie temperaturo, humideco, lumo kaj irigacio estas precize aranĝataj por helpi la kreskadon de la herboj.
-
-Ili ankaŭ vizitis laboratorion, kie
-
-danggui
-
-estas studata per altnivela teknologio. De kvalitkontrolo kaj scienca esplorado ĝis evoluigo de aldonvalorigitaj produktoj, novigado helpas malkovri la potencialon de ĉi tiu tradicia kurac-herbo, kaj samtempe subtenas la kreskon de loka industrio.
+Ili ankaŭ vizitis laboratorion, kie danggui estas studata per altnivela teknologio. De kvalitkontrolo kaj scienca esplorado ĝis evoluigo de aldonvalorigitaj produktoj, novigado helpas malkovri la potencialon de ĉi tiu tradicia kurac-herbo, kaj samtempe subtenas la kreskon de loka industrio.
 
 Antaŭ preskaŭ 90 jaroj, Minxian estis unu el la gravaj lokoj sur la itinero de la Longa Marŝo. Hodiaŭ, la areo fariĝis grava centro por la kurac-herba industrio, kreante laborpostenojn kaj provizante stabilan enspezon por lokanoj. Ĝia disvolvado montras, ke lokoj konataj pro historio povas ankaŭ brakumi sciencon, teknologion kaj novigadon, kreante brilan estontecon.
-
-El Popola Chinio
 
 
 ---
@@ -510,8 +454,6 @@ Reprezentantoj el pensfabrikoj, entreprenoj kaj universitatoj de la du landoj di
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -523,17 +465,11 @@ El Popola Chinio
 
 **Categories:** Plej Freŝaj
 
-En la tria tago de la programo "Kune sur la Longa Marŝo", ĵurnalistoj de
-
-El Popola Ĉinio
-
-vojaĝis al Lazikou kaj Hadapu, du gravaj lokoj en la historio de la Longa Marŝo en Gansu-provinco. Ĉe Lazikou, ni vidis la krutajn montojn kaj la mallarĝan valon, kie okazis unu el la ŝlosilaj bataloj. Starante tie, estis malfacile imagi, kiel la Ruĝa Armeo sukcesis trapasi tian danĝeran terenon antaŭ preskaŭ 90 jaroj.
+En la tria tago de la programo "Kune sur la Longa Marŝo", ĵurnalistoj de El Popola Ĉinio vojaĝis al Lazikou kaj Hadapu, du gravaj lokoj en la historio de la Longa Marŝo en Gansu-provinco. Ĉe Lazikou, ni vidis la krutajn montojn kaj la mallarĝan valon, kie okazis unu el la ŝlosilaj bataloj. Starante tie, estis malfacile imagi, kiel la Ruĝa Armeo sukcesis trapasi tian danĝeran terenon antaŭ preskaŭ 90 jaroj.
 
 Poste ni daŭrigis al Hadapu, kie la Ruĝa Armeo ricevis gravajn informojn, kiuj helpis ilin fari la decidon daŭre iri norden al la norda parto de Shaanxi-provinco. Tio fariĝis turnopunkto de la Longa Marŝo.
 
 Por multaj membroj de la internacia delegacio, la vizito estas ne nur historia leciono, ĝi donis pli bonan komprenon pri la decidemo, kuraĝo kaj eltenemo ligitaj kun la Longa Marŝo — jen la konceptoj de valoroj, kiuj daŭre estas memorigataj kiel parto de la moderna historio de Ĉinio.
-
-El Popola Chinio
 
 
 ---
@@ -553,8 +489,6 @@ Xi Jinping diris, ke post komunaj klopodoj de ĉiuj flankoj, la Monda Organizo p
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -576,8 +510,6 @@ S-ro Zhang, loĝanta en la kvartalo Chengguoheyuan de Baoji, diris: "Estas tre o
 La praktikado de la kompanio spegulas ĝiajn klopodojn por akceli la konstruadon de "AI + saĝa elektroreto". La Shaanxi-a Elektrokompanio daŭre plifirmigas la fundamenton por sekura funkciado de la elektra reto, permesante al "saĝeco" ludi ŝlosilan rolon en la elektroprovizo dum la someraj pintperiodoj.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -603,8 +535,6 @@ La skalo de Novo Nordisk en Ĉinio daŭre vastiĝas kaj la graveco de la merkato
 "Oni ne povas ignori Ĉinion kaj la novigon, kiu okazas," aldonis Doustdar.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -667,8 +597,6 @@ En inundita Guigang, la motorizita pramo estis la plej videbla parto de la savop
 
 Verkita de Bui Hai Mung
 
-El Popola Chinio
-
 
 ---
 
@@ -683,8 +611,6 @@ El Popola Chinio
 De la 6-a ĝis la 9-a de julio, la 8-a Tutlanda Esperanta Legokunsido okazis en Qingdao-a Universitato. Kunvenis 27 esperantistoj (inkluzive de iliaj familianoj) el Pekino, Tianjin, Hubei, Jiangxi, Zhejiang, Jiangsu, Henan, Guangdong, Jilin kaj Qingdao. Retrorigardinte la progreson de la legokunsido dum la pasintaj dek jaroj, ili ankaŭ diskutis pri "Per Esperanto konatiĝi kun Lusin — Omaĝe al la 90-a datreveno de la forpaso de Lusin", kunlegante la esperantigitan verkon "Noveloj de Lusin, Plena kolekto".
 
 Redaktoro: Gao Shuyuan
-
-El Popola Chinio
 
 
 ---
@@ -702,8 +628,6 @@ La 30-an de junio, okazis lanĉ-ceremonio de la Esperanto-laborgrupo kaj la Eksp
 Zhang Zhaogeng, membro de Linyi-a Esperanto-Asocio, prezentis la eksponitajn 60 poŝtmarkojn de pli ol 20 landoj. Inter tiuj, la plej aĝa estis emisiita en la komenco de la 20-a jarcento. Sinjoro Zhang speciale prezentis la poŝtmarkon pri la portreto de Zamenhof kaj tiujn pri UK. La poŝtmarkoj estas ekzemploj de la valoro de Esperanto por interkultura komunikado.
 
 Redaktoro: Gao Shuyuan
-
-El Popola Chinio
 
 
 ---
@@ -736,8 +660,6 @@ La kontribuo de ĉinaj markoj en la Futbala Mondpokalo 2026 estas nur la komenco
 
 Redaktoro: Gao Shuyuan
 
-El Popola Chinio
-
 
 ---
 
@@ -754,8 +676,6 @@ La 25-an de julio UNESKO aldonis la ĉinajn metiajn porcelan-industriajn ejojn d
 La metiaj porcelan-industriaj ejoj de Jingdezhen estas aro da heredaĵejoj, kiuj reprezentas la metian porcelan-industrian sistemon, kiu evoluis en Jingdezhen en la provinco Jiangxi de la 10-a ĝis la 19-a jarcento. La blu-blankaj porcelanaĵoj kaj desegnaĵoj de Jingdezhen en antikveco fariĝis alte taksata tutmonda varo kaj simbolo de ĉina kulturo kaj arto, laŭ UNESKO. Kovrante areon de 7 524.7 hektaroj, la ejo montras la novigan evoluon de la ĉina metio kaj teknologio pri porcelan-farado, porcelana arto kaj porcelana industrio, kaj atestas la profundan efikon de la ĉina metia porcelana industrio sur la evoluon de la monda ceramika industrio kaj la interŝanĝojn kaj reciprokajn lernadojn inter civilizacioj.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -807,8 +727,6 @@ Sed tio verŝajne estas nur la komenco. Fan Qiuyun diris, ke pluraj entreprenoj 
 Kiam mi forlasis la Laboratorion Haihe, mi kunportis ne la impreson pri maŝino kapabla legi la homan menson. Pli forte restis alia bildo: kiel la nova teknologio estas preparata por la estonteco. En multaj landoj BKI ankoraŭ estas ĉefe esplora kampo. En Tianjin ni vidis alian aliron. Ĉinio jam traktas ĝin kiel industrion en formiĝado. Ĉu tiuj ambicioj sukcesos, nur la tempo montros. Sed unu afero jam estas klara. Anstataŭ atendi ĝis la teknologio plene maturiĝos, Ĉinio jam konstruas la bazojn: esploradon, entreprenojn, normojn kaj merkaton. Se BKI fariĝos grava teknologio en la estonteco, tiuj preparoj povas doni al la lando gravan avantaĝon.
 
 Verkis kaj fotis: Bui Hai Mung
-
-El Popola Chinio
 
 
 ---
@@ -883,8 +801,6 @@ Krom industrio, Wenjing antaŭvidas aplikajn scenarojn en nia ĉiutaga vivo: "Pe
 
 Verkis: Rafael Henrique Zerbetto
 
-El Popola Chinio
-
 
 ---
 
@@ -954,8 +870,6 @@ La sperto de Minxian estas unu el multaj ekzemploj de la rapida transformiĝo de
 
 Verkis kaj fotis: Rafael Henrique Zerbetto
 
-El Popola Chinio
-
 
 ---
 
@@ -971,17 +885,9 @@ El Popola Chinio
 
 Kiel aspektas la spirito de la Longa Marŝo en nia epoko? Kun tiu demando, mi partoprenis en la vojaĝo al la provinco Gansu en nordorienta Ĉinio, kadre de la programo "Kune en la Longa Marŝo: 90-a Datreveno de Epopeo". De Minxian tra Lazikou ĝis Huining, mi sekvis la vojon, sur kiu la Ruĝa Armeo iam marŝis. Survoje mi renkontis homojn vivplenajn kaj bonkorajn. Neniu el ili menciis la esprimon "spirito de la Longa Marŝo", sed el iliaj vivoj kaj rakontoj, mi iom post iom ekvidis la respondon.
 
-Minxian: Herbokultivisto enradikiĝis kiel
+Minxian: Herbokultivisto enradikiĝis kiel danggui, ĉina angeliko
 
-danggui
-
-, ĉina angeliko
-
-La oficejo de Shen Jianmin estas modesta. Sur lia tablo kuŝas specimenoj de
-
-danggui
-
-, ĉina angeliko, kaj astragalo – lokaj kuracherboj – kaj en la aero flosas milda herba odoro. La 38-jara viro, kiu uzas la kromnomon "Juna herbisto Yang", pasigis siajn fruajn jarojn vagante ekster sia naskiĝloko. Li laboris kiel ekspedisto, ŝoforo, makleristo pri nemoveblaĵoj – sed neniam trovis lokon, kiun li povus nomi "hejmo".
+La oficejo de Shen Jianmin estas modesta. Sur lia tablo kuŝas specimenoj de danggui, ĉina angeliko, kaj astragalo – lokaj kuracherboj – kaj en la aero flosas milda herba odoro. La 38-jara viro, kiu uzas la kromnomon "Juna herbisto Yang", pasigis siajn fruajn jarojn vagante ekster sia naskiĝloko. Li laboris kiel ekspedisto, ŝoforo, makleristo pri nemoveblaĵoj – sed neniam trovis lokon, kiun li povus nomi "hejmo".
 
 Fine li revenis por ekfunkciigi propran entreprenon pri kultivado de ĉina angeliko. Tage li laboras sur la kampo; vespere li elsendas rekte per interreto por vendi la produktojn. Per simpla, rekta lingvaĵo, li montras al la mondo la pejzaĝojn de Minxian kaj la ecojn de loka ĉina angeliko, ĵetante en kelkajn anglalingvajn frazojn por amuzo. Retanoj ŝatas lin, ĉar li estas aŭtentika – li parolas el la koro, rekte el la kampo.
 
@@ -1029,8 +935,6 @@ Tiam, la Ruĝa Armeo marŝis tiun vojon, montrante sian fidon per ĉiu paŝo. Ho
 
 Verkis: Sheng Min
 
-El Popola Chinio
-
 
 ---
 
@@ -1042,23 +946,11 @@ El Popola Chinio
 
 **Categories:** Plej Freŝaj
 
-La 12 500-kilometra Longa Marŝo finiĝis antaŭ 90 jaroj. Pli ol strategia operaco de la ĉina Ruĝa Armeo inter 1934 kaj 1936, ĝi estis esenca por formi nuntempan Ĉinion. Por kompreni la heredaĵon de la Longa Marŝo, teamo de
-
-El Popola Ĉinio
-
-entreprenis vojaĝon al la provinco Gansu en nordorienta Ĉinio, kadre de la aktivaĵo Kune en la Longa Marŝo: 90-a Datreveno de Epopeo por viziti historiajn lokojn ligitajn al la Longa Marŝo kaj kolekti informojn pri la socia kaj ekonomia evoluo de tiuj regionoj ekde la alveno de la Ruĝa Armeo.
+La 12 500-kilometra Longa Marŝo finiĝis antaŭ 90 jaroj. Pli ol strategia operaco de la ĉina Ruĝa Armeo inter 1934 kaj 1936, ĝi estis esenca por formi nuntempan Ĉinion. Por kompreni la heredaĵon de la Longa Marŝo, teamo de El Popola Ĉinio entreprenis vojaĝon al la provinco Gansu en nordorienta Ĉinio, kadre de la aktivaĵo Kune en la Longa Marŝo: 90-a Datreveno de Epopeo por viziti historiajn lokojn ligitajn al la Longa Marŝo kaj kolekti informojn pri la socia kaj ekonomia evoluo de tiuj regionoj ekde la alveno de la Ruĝa Armeo.
 
 Kunigi la popolon kaj forĝi la estontecon
 
-Harrison E. Salisbury en sia libro
-
-La Longa Marŝo: Nerakontita Rakonto
-
-priskribis la Longan Marŝon kiel "grandan homan epopeon, kiu elprovis la volon, kuraĝon kaj forton de la viroj kaj virinoj de la ĉina Ruĝa Armeo". Edgar Snow en sia libro
-
-Ruĝa Stelo Super Ĉinio
-
-same esprimis sian admiron pri la kuraĝo, forto kaj sindediĉo de tiuj bravuloj, kiuj per sango kaj armiloj verkis modernan epopeon de la ĉina popolo.
+Harrison E. Salisbury en sia libro La Longa Marŝo: Nerakontita Rakonto priskribis la Longan Marŝon kiel "grandan homan epopeon, kiu elprovis la volon, kuraĝon kaj forton de la viroj kaj virinoj de la ĉina Ruĝa Armeo". Edgar Snow en sia libro Ruĝa Stelo Super Ĉinio same esprimis sian admiron pri la kuraĝo, forto kaj sindediĉo de tiuj bravuloj, kiuj per sango kaj armiloj verkis modernan epopeon de la ĉina popolo.
 
 Studentoj de la Elementa Lernejo Wenmiao deklamas la poemon "La Longa Marŝo", verkita de Mao Zedong
 
@@ -1070,11 +962,7 @@ En la gubernio Tongwei ni vizitis la Elementan Lernejon Wenmiao, historian instr
 
 Historiaj lokoj kaj ruĝa turismo
 
-La decido elekti nordan Shaanxi kiel la finan celon de la Longa Marŝo baziĝis sur informoj trovitaj en gazetoj. Post sia alveno en Hadapu, gubernio Dangchang, la Ruĝa Armeo trovis freŝajn gazetojn en la loka poŝtoficejo kaj ankaŭ konfiskis ekzempleron de la ĵurnalo
-
-Ta Kung Pao
-
-de oficiro de Kuomintango kaptita post lia alveno el Lanzhou. Per tiuj gazetoj, la gvidantoj de la Komunista Partio eksciis pri la daŭra ekzisto de revolucia bazo de la Ruĝa Armeo en norda Shaanxi, sub la gvido de Liu Zhidan kaj Xu Haidong, kiu povus provizi solidan fundamenton por plua revolucia laboro.
+La decido elekti nordan Shaanxi kiel la finan celon de la Longa Marŝo baziĝis sur informoj trovitaj en gazetoj. Post sia alveno en Hadapu, gubernio Dangchang, la Ruĝa Armeo trovis freŝajn gazetojn en la loka poŝtoficejo kaj ankaŭ konfiskis ekzempleron de la ĵurnalo Ta Kung Pao de oficiro de Kuomintango kaptita post lia alveno el Lanzhou. Per tiuj gazetoj, la gvidantoj de la Komunista Partio eksciis pri la daŭra ekzisto de revolucia bazo de la Ruĝa Armeo en norda Shaanxi, sub la gvido de Liu Zhidan kaj Xu Haidong, kiu povus provizi solidan fundamenton por plua revolucia laboro.
 
 Nun Hadapu estas populara celo de ruĝa turismo, kiel oni nomas la turismon pri la historioj de socialismo en la lando. La Memorigejo de la Longa Marŝo de la Ruĝa Armeo enhavas pli ol 600 historiajn objektojn kaj konservas sep revoluciajn lokojn laŭ la ruĝarmea strato, pitoreska vojo longa je 1 500 metroj, laŭ kiu la Ruĝa Armeo marŝis en 1936. Hodiaŭ Hadapu havas purajn stratojn kaj pli bonan infrastrukturon, dum komerco prosperas danke al ruĝa turismo.
 
@@ -1086,97 +974,37 @@ En septembro 1935, la Ruĝa Armeo, inter malamikaj fortoj antaŭe kaj malantaŭe
 
 Nuntempe turistoj en la regiono de Lazikou povas viziti la Memorhalon pri la Batalo de Lazikou por lerni pri tiu historia evento per antikvaj objektoj, batalmapoj, telegramoj kaj aĵoj postlasitaj de la Ruĝa Armeo. Elektronikaj sablotabloj kaj plurmediaj rimedoj faras la ekspozicion pli interesa kaj faciligas la komprenon de vizitantoj. La originala loko, kie la batalo okazis, siavice, konservas la geografion, kiu igis la batalon tiel malfacila kaj grava, kun flagoj sur la klifoj indikantaj la vojon uzitan de la elita taĉmento. La fortikaĵo uzita de Kuomintango estis detruita dum la batalo, sed rekonstruita versio nun staras por rakonti la historion.
 
+Proksime troviĝas la Monumento de la Batalo de Lazikou, starigita memore al la venko kaj al la soldatoj, kiuj tie perdis siajn vivojn. Apud ĝi vilaĝanoj vendas sekigitan jakviandon, mielon, herbojn, dolĉaĵojn kaj aliajn lokajn produktojn. Pago kutime okazas per WeChat aŭ Alipay, montrante, ke eĉ en montaraj kamparaj regionoj de Ĉinio homoj nuntempe havas facilan aliron al elektro, interreto kaj ciferecaj bankservoj. Kaj por atingi la lokon ne necesas marŝi longajn distancojn, kiel faris la Ruĝa Armeo: asfaltita vojo faciligas la alvenon.
+
 Disvolvado estas la kuracilo kontraŭ malriĉeco
 
-En 1935 kaj 1936, la Centra Ruĝa Armeo kaj la Dua kaj Kvara Avangardaj Armeoj trapasis la gubernion Minxian de la urbo Dingxi. La specifaj grund-klimataj kondiĉoj tie estas idealaj por kultivado de kuracherboj uzataj en tradicia ĉina medicino, precipe
-
-danggui
-
-. La kultivado de tiaj herboj en Minxian havas historion de pli ol 1 500 jaroj kaj estas registrita en la fama klasikaĵo
-
-Kompendio de Materia Medica
-
-. Nuntempe la gubernio respondecas pri pli ol 80% de la ĉina produktado de
-
-danggui
-
-.
+En 1935 kaj 1936, la Centra Ruĝa Armeo kaj la Dua kaj Kvara Avangardaj Armeoj trapasis la gubernion Minxian de la urbo Dingxi. La specifaj grund-klimataj kondiĉoj tie estas idealaj por kultivado de kuracherboj uzataj en tradicia ĉina medicino, precipe danggui. La kultivado de tiaj herboj en Minxian havas historion de pli ol 1 500 jaroj kaj estas registrita en la fama klasikaĵo Kompendio de Materia Medica. Nuntempe la gubernio respondecas pri pli ol 80% de la ĉina produktado de danggui.
 
 La lokanoj varme bonvenigis la Ruĝan Armeon kaj eĉ donacis herbojn al la soldatoj por helpi ilin kuraci iliajn vundojn kaj mildigi doloron kaj lacecon post tiom longa marŝado. Tiuj herboj fariĝis simbolo de la sincera amo de la lokaj homoj al la Ruĝa Armeo.
 
-Malgraŭ la longa historio kaj medicina graveco de
+Malgraŭ la longa historio kaj medicina graveco de danggui produktata en Minxian, la gubernio ne sukcesis eskapi el malriĉeco antaŭ la fondo de nova Ĉinio en 1949. Post la vizito de la Ruĝa Armeo, Minxian ekevoluigis kompletan industrion de tradicia ĉina medicino kiel ĉefan strategion por prosperigi la gubernion kaj plialtigi la enspezojn de la loĝantoj, kiuj forlasis malriĉecon kaj nun ĝuas pli bonan vivon.
 
-danggui
+Kamparanoj laboras en danggui-kampo en Minxian
 
-produktata en Minxian, la gubernio ne sukcesis eskapi el malriĉeco antaŭ la fondo de nova Ĉinio en 1949. Post la vizito de la Ruĝa Armeo, Minxian ekevoluigis kompletan industrion de tradicia ĉina medicino kiel ĉefan strategion por prosperigi la gubernion kaj plialtigi la enspezojn de la loĝantoj, kiuj forlasis malriĉecon kaj nun ĝuas pli bonan vivon.
+Proksime de la multaj firmaoj pri tradicia ĉina medicino kaj de la kampoj, kie oni plantas danggui-on, ofte pasas altrapidaj trajnoj, kies alt-tekniko estigas kontraston kun la trankvila kampara pejzaĝo, dum kamionoj kaj aŭtoj veturas laŭ longaj aŭtovojoj ligantaj Gansuon al la mondo. Tio estas ekzemplo de la infrastruktura plibonigo en Gansu, kiu faciligas ne nur vojaĝojn, sed ankaŭ komercon, interŝanĝojn kaj negocojn.
 
-Kamparanoj laboras en
+Lastatempe la gubernio ekdisvolvis prisanan turismon kiel duan fonton de enspezoj. Profitante sian danggui-on, listigitan kiel nacian nematerian kulturan heredaĵon, kaj sian reputacion kiel "unu el la cent plej kulturenhavaj gubernioj de Ĉinio" kaj "miljara hejmloko de kuracherboj", Minxian kreis tri turismajn itinerojn dediĉitajn al tradicia ĉina medicino kaj bonfarto. Estis konstruitaj 56 bonfartaj centroj kaj restoracioj de medicina kuirarto, evoluigitaj 46 kuracefikaj nutraj produktoj kaj 11 kosmetikaĵoj bazitaj sur danggui. Ekde 2025 la gubernio ricevis 860 mil vizitantojn kadre de prisana turismo, kiuj donis enspezon je 430 milionoj da juanoj al la gubernio.
 
-danggui
-
--kampo en Minxian
-
-Proksime de la multaj firmaoj pri tradicia ĉina medicino kaj de la kampoj, kie oni plantas
-
-danggui
-
--on, ofte pasas altrapidaj trajnoj, kies alt-tekniko estigas kontraston kun la trankvila kampara pejzaĝo, dum kamionoj kaj aŭtoj veturas laŭ longaj aŭtovojoj ligantaj Gansuon al la mondo. Tio estas ekzemplo de la infrastruktura plibonigo en Gansu, kiu faciligas ne nur vojaĝojn, sed ankaŭ komercon, interŝanĝojn kaj negocojn.
-
-Lastatempe la gubernio ekdisvolvis prisanan turismon kiel duan fonton de enspezoj. Profitante sian
-
-danggui
-
--on, listigitan kiel nacian nematerian kulturan heredaĵon, kaj sian reputacion kiel "unu el la cent plej kulturenhavaj gubernioj de Ĉinio" kaj "miljara hejmloko de kuracherboj", Minxian kreis tri turismajn itinerojn dediĉitajn al tradicia ĉina medicino kaj bonfarto. Estis konstruitaj 56 bonfartaj centroj kaj restoracioj de medicina kuirarto, evoluigitaj 46 kuracefikaj nutraj produktoj kaj 11 kosmetikaĵoj bazitaj sur
-
-danggui
-
-. Ekde 2025 la gubernio ricevis 860 mil vizitantojn kadre de prisana turismo, kiuj donis enspezon je 430 milionoj da juanoj al la gubernio.
-
-Danggui
-
-estas tiel grava por la loka ekonomio kaj kulturo, ke ĝi ricevas specialan protekton de la loka registaro. Estis fonditaj instituto por scienca esplorado pri
-
-danggui
-
-, protekta zono por ĝiaj genetikaj materialoj kaj normigitaj bazoj por plantidoj. Per normigado, grandskala produktado kaj markokonstruado, la industrio de
-
-danggui
-
-transformiĝis el tradicia disigita kultivado al moderna industrio de kuracherboj.
+Danggui estas tiel grava por la loka ekonomio kaj kulturo, ke ĝi ricevas specialan protekton de la loka registaro. Estis fonditaj instituto por scienca esplorado pri danggui, protekta zono por ĝiaj genetikaj materialoj kaj normigitaj bazoj por plantidoj. Per normigado, grandskala produktado kaj markokonstruado, la industrio de danggui transformiĝis el tradicia disigita kultivado al moderna industrio de kuracherboj.
 
 Evoluo rete kaj eksterrete
 
-En Minxian la loka produktado evoluis de tradiciaj medikamentoj, kiel koncentritaj piloloj el
-
-danggui
-
-kaj trinkaĵoj el astragalo kaj ĝinsengo, al kosmetikaĵoj kiel tonikoj kaj esencaj oleoj el
-
-danggui
-
-. Formiĝis grandskala prisana industrio ampleksanta tradician ĉinan medicinon, tranĉitajn kuracherbojn, funkciajn manĝaĵojn kaj ĉiutagajn sanproduktojn. Samtempe estis kreita kompleta sistemo por cerigi kvaliton kaj sekurecon tra la tuta industria ĉeno.
+En Minxian la loka produktado evoluis de tradiciaj medikamentoj, kiel koncentritaj piloloj el danggui kaj trinkaĵoj el astragalo kaj ĝinsengo, al kosmetikaĵoj kiel tonikoj kaj esencaj oleoj el danggui. Formiĝis grandskala prisana industrio ampleksanta tradician ĉinan medicinon, tranĉitajn kuracherbojn, funkciajn manĝaĵojn kaj ĉiutagajn sanproduktojn. Samtempe estis kreita kompleta sistemo por cerigi kvaliton kaj sekurecon tra la tuta industria ĉeno.
 
 Samtempe Minxian fariĝis forta ankaŭ en retkomerco, sektoro, kiu donas jaran enspezon je 508 milionoj da juanoj. Ĝiaj produktoj jam estas eksportataj al pli ol 20 landoj kaj regionoj. En 2024 la gubernio estis premiita kiel unu el la dek plej bonaj gubernioj pri agrikultura retkomerco en Ĉinio, kaj en 2025 ĝi estis elektita nacia gvida gubernio por komerca evoluo.
 
-Ĉar
-
-danggui
-
-estas la plej fama produkto de Minxian, multaj homoj serĉas ĝin rete. Samtempe, la reta videbleco de tiuj produktoj reklamas la gubernion kaj allogas turistojn interesatajn pri tradicia ĉina medicino, kampara turismo kaj sana vivstilo. Kiam turistoj kundividas siajn spertojn rete, ili plu reklamas la gubernion, kreante ciklon, en kiu retaj kaj eksterretaj agadoj reciproke plifortigas unu la alian.
+Ĉar danggui estas la plej fama produkto de Minxian, multaj homoj serĉas ĝin rete. Samtempe, la reta videbleco de tiuj produktoj reklamas la gubernion kaj allogas turistojn interesatajn pri tradicia ĉina medicino, kampara turismo kaj sana vivstilo. Kiam turistoj kundividas siajn spertojn rete, ili plu reklamas la gubernion, kreante ciklon, en kiu retaj kaj eksterretaj agadoj reciproke plifortigas unu la alian.
 
 Kiam Minxian estis malpli evoluinta, la manko de bonaj labor- kaj entrepreneblecoj instigis multajn loĝantojn migri al aliaj regionoj de Ĉinio. Tio okazis ankaŭ al Shen Jianmin, 38-jara kultivisto de kuracherboj el Minxian. Post diplomiĝo en mezlernejo li forlasis sian hejmlokon kaj iris al grandaj urboj de aliaj provincoj por labori en restoracioj, konstruado, fabrikoj, liverado de manĝaĵoj, kurieraj servoj, ŝoforado kaj nemoveblaĵa sektoro.
 
-Antaŭ du jaroj, zorgante pri siaj maljunaj gepatroj kaj sciigite pri tio, ke nun farmistoj en lia hejmloko enspezas pli multe ol antaŭe el la negoco pri kuracherboj, li decidis reveni hejmen kaj lui plurajn kampojn por kultivi, rikolti kaj prilabori
+Antaŭ du jaroj, zorgante pri siaj maljunaj gepatroj kaj sciigite pri tio, ke nun farmistoj en lia hejmloko enspezas pli multe ol antaŭe el la negoco pri kuracherboj, li decidis reveni hejmen kaj lui plurajn kampojn por kultivi, rikolti kaj prilabori danggui-on.
 
-danggui
-
--on.
-
-Ekde kelkaj jaroj li kreas filmetojn pri la ĉiutaga vivo de farmistoj en Minxian, la loka ekologio, la kultivado de
-
-danggui
-
-kaj la kvalito de lokaj herboj. Liaj rakontoj, forte markitaj de simpleco kaj sincereco, donis al li multajn sekvantojn en Ĉinio kaj eksterlande. "Kiam mi komencis fari filmetojn en la angla kaj ricevis mesaĝojn de eksterlandanoj, mi ekkomprenis, ke ankaŭ homoj eksterlande interesiĝas pri miaj rakontoj." Rakontante pri la bieno kaj ĉiutaga vivo kaj emfazante la ideon, ke bonaj montoj kaj bona akvo produktas bonan medikamenton, Shen fariĝis influhava figuro en sociaj retoj.
+Ekde kelkaj jaroj li kreas filmetojn pri la ĉiutaga vivo de farmistoj en Minxian, la loka ekologio, la kultivado de danggui kaj la kvalito de lokaj herboj. Liaj rakontoj, forte markitaj de simpleco kaj sincereco, donis al li multajn sekvantojn en Ĉinio kaj eksterlande. "Kiam mi komencis fari filmetojn en la angla kaj ricevis mesaĝojn de eksterlandanoj, mi ekkomprenis, ke ankaŭ homoj eksterlande interesiĝas pri miaj rakontoj." Rakontante pri la bieno kaj ĉiutaga vivo kaj emfazante la ideon, ke bonaj montoj kaj bona akvo produktas bonan medikamenton, Shen fariĝis influhava figuro en sociaj retoj.
 
 Heredi la spiriton de la Longa Marŝo
 
@@ -1189,8 +1017,6 @@ Kvankam la Ruĝa Armeo forlasis Gansu antaŭ naŭ jardekoj, tamen ĝia heredaĵo
 La industriaj parkoj de Gansu estas plenaj je inspiraj ekzemploj de novigado kombinita kun tradicio. De manĝaĵoj kaj kuraciloj ĝis energio kaj peza maŝinaro, Gansu atingis multajn progresojn sub la inspiro de la pionira kaj laborema spirito de la Longa Marŝo.
 
 Verkis kaj fotis: Rafael Henrique Zerbetto
-
-El Popola Chinio
 
 
 ---
@@ -1215,8 +1041,6 @@ La industria disvolviĝo de Ĉinio reflektas pozitivajn tendencojn en la tutmond
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -1239,8 +1063,6 @@ Pri la tiel nomata "favora komerca saldo", He Shaojun, direktoro de la fako pri 
 He Shaojun aldonis, ke en la unua duono de 2026, la sumo de vara importado de Ĉinio kreskis je 22.1%, pli rapide ol tiu de eksportado. Ĉinio daŭre estas la monde dua plej granda lando en importado. La granda merkato de Ĉinio donas fortan impulson al la komercaj partneroj.
 
 Redaktoro: Gao Shuyuan
-
-El Popola Chinio
 
 
 ---

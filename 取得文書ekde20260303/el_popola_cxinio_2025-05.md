@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-09-15T10:54:36.789122+00:00"
+generated_at: "2026-09-15T13:49:02.999793+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-05-02 – 2025-05-31"
 ---
@@ -66,8 +66,6 @@ Sporto nutras reciprokan admiron inter la du popoloj, estigante kompleksan rilat
 
 Verkis: Rafael Henrique Zerbetto
 
-El Popola Chinio
-
 
 ---
 
@@ -86,8 +84,6 @@ Xie Feng diris, ke Usono multe profitis de internacia komerco, ĝuante altkvalit
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -110,8 +106,6 @@ La estroj de EU diris, ke EU volas profundigi sian partnerecon kun Ĉinio, plif
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -126,8 +120,6 @@ El Popola Chinio
 Laŭ la anonco de la ĉina Ministerio de Eksterlandaj Aferoj, invitite de rusa prezidento Vladimir Putin, ĉina prezidanto Xi Jinping faros oficialan viziton al Rusio kaj ĉeestos en Moskvo la solenaĵon memore al la 80-a datreveno de la venko de Sovetio en la Granda Patriota Milito. Jen pejzaĝoj de bela Moskvo.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -145,8 +137,6 @@ El Popola Chinio
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -171,11 +161,7 @@ Tiu faktoro sola faras grandan diferencon en la laborokulturo. En brazilaj konst
 
 Ĉinio, male, disvolviĝis de antikveco kiel civilizacio bazita sur komerco inter siaj regionoj, stimulante interŝanĝojn kaj fortigante emociajn ligojn. Tio kreis unuiĝintan popolon profunde ligitan al sia lando kaj kulturo. Ni ankaŭ povus kompari la filozofiajn kaj religiajn fundamentojn de la eŭropa kulturo (transplantita al Ameriko) kun tiuj de la ĉina civilizo, sed tio estas temo por tezo. Mi iros rekte al la grava punkto: Ĉinoj havas disciplinon kaj fokusiĝas sur praktikaj bezonoj de la vivo, kaj amaraj historiaj spertoj instruis al ili rezistemon kaj diligentecon.
 
-En sia libro
-
-La Ruĝa Stelo super Ĉinio
-
-, la ĵurnalisto Edgar Snow detale priskribas sian viziton al Yan'an en 1936. La libro montras la ekstreme malbonajn vivkondiĉojn de laboristoj antaŭ socialismo, kio estis decida faktoro por la ĉina revolucio. Precipe la vivoj de kamparanoj estis tre malfacilaj: Sen ŝtata protekto, ili estis elpremataj de terposedantoj, kiuj prenis preskaŭ ĉion, kion ili produktis. En malespero por pagi ŝuldojn, multaj vendis eĉ la pordojn kaj fenestrojn de siaj loĝejoj.
+En sia libro La Ruĝa Stelo super Ĉinio, la ĵurnalisto Edgar Snow detale priskribas sian viziton al Yan'an en 1936. La libro montras la ekstreme malbonajn vivkondiĉojn de laboristoj antaŭ socialismo, kio estis decida faktoro por la ĉina revolucio. Precipe la vivoj de kamparanoj estis tre malfacilaj: Sen ŝtata protekto, ili estis elpremataj de terposedantoj, kiuj prenis preskaŭ ĉion, kion ili produktis. En malespero por pagi ŝuldojn, multaj vendis eĉ la pordojn kaj fenestrojn de siaj loĝejoj.
 
 Sed en regionoj regataj de komunistoj, la realo estis malsama: Infanlaboro kaj devigaj geedziĝoj estis malpermesitaj, egaleco inter viroj kaj virinoj estis certigita, tero estis distribuita al laboristoj, kaj regis forta spirito de unueco kaj kunlaboro. En ĉiu vilaĝo, komunistoj konstruis lernejon por senpage alfabetigi la loĝantaron. La Ĉina Popola Respubliko heredis multe de la antaŭa regadosperto de la Komunista Partio de Ĉinio (KPĈ), sed ankaŭ devis adapti leĝojn al novaj defioj. La reformo kaj pordmalfermo estas gravaj partoj de ĉi tiu procezo kaj ankoraŭ nuntempe influas la mondan percepton pri laborkondiĉo en Ĉinio.
 
@@ -215,13 +201,13 @@ Tiu zorgo de brazilaj aŭtoritatoj estas komprenebla: Dum plejparto de la landa 
 
 Kulturaj diferencoj
 
+Brazilo kaj Ĉinio havas tre malsamajn laborkulturojn. Ekzemple, brazilaj laboristoj havas la rajton je malkonekto, tio estas, la rajton ne prizorgi laborrilatajn taskojn ekster oficejhoroj, inkluzive de kontaktoj per telefono aŭ tujmesaĝilo. En Ĉinio, ricevi laborrilatajn mesaĝoj per WeChat estas kutima afero, eĉ dum festotagoj.
+
 Iuj eksterlandanoj sentas sin ĝenataj de tiu ĉina kutimo, sed mi persone neniam spertis misuzon de kontaktoj ekster labortempo — mi foje bezonis respondi simplajn demandojn aŭ plenumi formularojn, kaj ofte tiuj kontaktoj temas pri aferoj, kiuj persone interesas min. Tamen, ne ĉiuj alkutimiĝas al tio: Mi konis italan inĝenieron dungitan de ĉina firmao pri teknologio, kiu sentis sin kolera pro lastminutaj laborpetoj, kaj elektis reveni al Eŭropo.
 
 Resume, ĉiu homo havas siajn prioritatojn kaj kutimojn, kaj ĉiu kulturo estas malsama. Vivi en alia lando estas defio, kiu postulas adaptiĝon kaj malferman kapon. Perceptoj pri laboro kaj vivo en alia lando ofte spegulas nian enan mondon pli ol la landon, kie ni vivas. Por mi, veni al Ĉinio estis la plej bona decido kaj mi ĝojas pro la valoraj spertoj kaj ŝancoj, kiujn Ĉinio donis al mi, pro tio mi ŝatas dividi ilin kun miaj legantoj.
 
 Verkis kaj fotis: Rafael Henrique Zerbetto
-
-El Popola Chinio
 
 
 ---
@@ -244,8 +230,6 @@ Putin diris, ke Rusio kaj Ĉinio ĉiam helpis kaj subtenis unu la alian, kaj la 
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -266,8 +250,6 @@ Xi Jinping akcentis, ke Ĉinio kaj Rusio devas forte konservi la spiriton de la 
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -296,8 +278,6 @@ Putin diris, ke la rilatoj inter Rusio kaj Ĉinio baziĝas sur reciproka egaleco
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -323,8 +303,6 @@ Hodiaŭ, kiel antaŭ 50 jaroj, unuiĝinta Eŭropo restas forto de tutmonda bono,
 
 Arancha Gonzalez (eksa ministro pri eksterlandaj aferoj, Eŭropa Unio kaj Kunlaboro de Hispanio)
 
-El Popola Chinio
-
 
 ---
 
@@ -344,8 +322,6 @@ Laŭ la deklaro, Usono metos 90-tagan paŭzon sur 24 procentojn de la aldonita i
 
 Ĉinio forigos la modifitajn aldonitajn impostojn sur tiuj varoj truditajn de la anoncoj N-ro 5 kaj N-ro 6 eldonitaj de la Dogana Tarifa Komisiono de la Ŝtata Konsilantaro en la 9-a kaj la 11-a de aprilo respektive. Ĉinio ankaŭ adoptos ĉiujn necesajn administrajn rimedojn por suspendi aŭ forigi la ne-tarifajn kontraŭrimedojn prenitajn kontraŭ Usono ekde la 2-a de aprilo 2025.
 
-El Popola Chinio
-
 
 ---
 
@@ -362,8 +338,6 @@ La 13-an de majo ĉina prezidanto Xi Jinping diris en la malferma ceremonio de l
 En la venontaj tri jaroj, Ĉinio invitos 300 ĉefajn oficistojn de politikaj partioj el la membroŝtatoj de la komunumo viziti Ĉinion ĉiujare por interŝanĝi spertojn pri administrado.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -384,8 +358,6 @@ En la nova epoko, la landa sekureco de Ĉinio subtenas la sekurecan vojon kun ĉ
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -402,8 +374,6 @@ Posttagmeze de la 13-a de majo en Pekino ĉina prezidanto Xi Jinping interparo
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -438,8 +408,6 @@ Krom Ĉinio, BB ankaŭ havas operaciojn en Usono, Paragvajo, Argentino, Kajmana 
 
 Raportis: Rafael Henrique Zerbetto
 
-El Popola Chinio
-
 
 ---
 
@@ -460,8 +428,6 @@ En la lastaj jaroj, la nutraĵ-industrio de Shaanxi-provinco rapide disvolviĝis
 Kiel deirpunkto de la antikva Silka Vojo, Shaanxi, kun malfermeco kaj amplekseco, profunde integriĝas en la kernan areon de komuna konstruado de "La Zono kaj Vojo" kaj havas unikan avantaĝon en eksportado de manĝaĵoj. La ĉin-eŭropa kargotrajno malfermis entute 18 internaciajn ĉefajn liniojn kaj 26 muntoliniojn al la Okcidenta Eŭropo, kovrante la tutan eŭrazian kontinenton. La tria projekto de Xianyang-a Internacia Flughaveno de Xi'an estas ekfunkciigita, kaj la kvanto de kargoj kaj poŝtoj atingis 290 500 tunojn en 2024. La translandlima aŭtovoja linio TIR realigis ter-aeran multrimedan transportadon. La kanalo por eksportado pli kaj pli glatas, kio helpos la nutraĵ-eksportadon de la provinco.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -488,8 +454,6 @@ Verkita de Gilbert Morris (ambasadoro kaj akademiulo ĉe la Instituto Bahamas A
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -515,8 +479,6 @@ Lichtenberg emfazis la ŝlosilan rolon de Ĉinio en mildigo de streĉiĝoj kaj a
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -540,8 +502,6 @@ El la supro de universitata konstruaĵo oni havas panoraman rigardon de la urbo 
 
 Raportis kaj fotis: Rafael Henrique Zerbetto
 
-El Popola Chinio
-
 
 ---
 
@@ -558,8 +518,6 @@ Lastatempe la Informa Oficejo de la Ŝtata Konsilantaro de Ĉinio senvualigis e
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -588,8 +546,6 @@ La supraj faktoj kaj donitaĵoj montras, ke Ĉinio estis versence la ĉefa batal
 
 Redaktoro: Liu Zijia
 
-El Popola Chinio
-
 
 ---
 
@@ -605,17 +561,11 @@ La jaro 2025 markas la 80-an datrevenon de la venko de Ĉinio en la Kontraŭjapa
 
 De la 7-a ĝis la 10-a de majo, laŭ invito de rusa prezidento Vladimir Putin, ĉina prezidanto Xi Jinping vizitis Rusion kaj ĉeestis la celebradon de la 80-a datreveno de la Venko de Sovetio en la Granda Patriota Milito.
 
-Krome, li publikigis subskribitan artikolon titolitan "Prenante historion kiel gvidilon, kune krei estontecon" en la
-
-Rusa Gazeto
-
-.
+Krome, li publikigis subskribitan artikolon titolitan "Prenante historion kiel gvidilon, kune krei estontecon" en la Rusa Gazeto.
 
 La artikolo emfazas: "Ni devas ĉerpi saĝon kaj forton el la profundaj lecionoj de la dua mondmilito kaj la granda venko en la kontraŭfaŝisma milito, kontraŭstari ĉiujn formojn de hegemonismo kaj perforto, kaj kune krei pli belan estontecon por la homaro."
 
 Redaktoro: Gao Shuyuan
-
-El Popola Chinio
 
 
 ---
@@ -639,8 +589,6 @@ Boatoforma bazo kun ostroj por pliforigi ĝian strukturon
 Vizitanto fotas statuon de diino Mazu, protektanto de maristoj kaj ĉiuj homoj, kies vivo rilatas al la maro.
 
 Raportis kaj fotis: Rafael Henrique Zerbetto
-
-El Popola Chinio
 
 
 ---
@@ -671,8 +619,6 @@ La potencialo por reciproke utila kunlaboro, kiu estas alta, estas disvastigita 
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -697,8 +643,6 @@ En la aŭtomobila industrio, Slovenio aktive esploras partnerecojn kun ĉinaj el
 Li emfazis, ke Slovenio estas unu el la EU-landoj, kiuj publike kontraŭstaris la trudadon de tarifoj al ĉinaj elektraj veturiloj, kaj reasertis la deziron de Slovenio konstrui longdaŭrajn kaj fidindajn partnerecojn kun Ĉinio. "Temas ne nur pri merkata aliro, sed ankaŭ pri daŭripova kaj reciproke utila disvolvado," li diris. "Ni povas esti interesa kaj fidinda partnero kaj eŭropa ankrejo de grandaj landoj kiel Ĉinio."
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -725,8 +669,6 @@ En aprilo 2018, kiam ĉina prezidanto Xi Jinping kaj barata ĉefministro Narendr
 
 Verkis kaj fotis: Rafael Henrique Zerbetto
 
-El Popola Chinio
-
 
 ---
 
@@ -740,11 +682,7 @@ El Popola Chinio
 
 **Categories:** Plej Freŝaj
 
-Dum monatoj mi sekvis kun granda intereso per la amaskomunikiloj la furoron pri la brazila filmo
-
-Mi Ankoraŭ Estas Ĉi Tie
-
-(Portugale: Ainda Estou Aqui) en Brazilo kaj la mondo. Tiu filmobiografio pri la brazila advokatino kaj aktivulino Eunice Paiva, reĝisorita de Walter Salles, altiris mian atenton.
+Dum monatoj mi sekvis kun granda intereso per la amaskomunikiloj la furoron pri la brazila filmo Mi Ankoraŭ Estas Ĉi Tie (Portugale: Ainda Estou Aqui) en Brazilo kaj la mondo. Tiu filmobiografio pri la brazila advokatino kaj aktivulino Eunice Paiva, reĝisorita de Walter Salles, altiris mian atenton.
 
 Premiero de Mi Ankoraŭ Estas Ĉi Tie en Ĉinio
 
@@ -754,9 +692,7 @@ Dum la filmo ne estis havebla ĉi tie, mi akiris kopion de la samnoma libro, ver
 
 Ĉina premiero
 
-Mi Ankoraŭ Estas Ĉi Tie
-
-estis prezentita en speciala sesio dum la Pekina Kinofestivalo meze de aprilo. La biletoj rapide disvendiĝis, ĉiuj volis aĉeti ilin. Kiam mi eksciis, ili jam estis forvenditaj.
+Mi Ankoraŭ Estas Ĉi Tie estis prezentita en speciala sesio dum la Pekina Kinofestivalo meze de aprilo. La biletoj rapide disvendiĝis, ĉiuj volis aĉeti ilin. Kiam mi eksciis, ili jam estis forvenditaj.
 
 En la 11-a tago de ĉi tiu monato, kelkaj kinejoj ekmontris antaŭpremieron de la filmo. Tiam mi kaj kelkaj amikoj kune vizitis kinejon por spekti ĝin. La longa filmo estas prezentata en Ĉinio kun originala sono kaj ĉinlingvaj subtekstoj. Mi ĉeestis la sesion de la 17-a horo kaj 20 minutoj, kaj dum la tago mi ricevis mesaĝojn de ĉinaj amikoj, kiuj spektis pli fruan sesion. Estis interese rimarki la subitan intereson pri Brazilo kaj la deziron pli bone koni la landon kaj ĝian kulturon.
 
@@ -770,11 +706,7 @@ En la 15-a de majo la filmo estis lanĉita en ĉinaj kinejoj – montrata en pli
 
 Onidiroj pri Ĉinio evidentiĝis falsaj
 
-Dum la lastaj monatoj – kaj precipe en la semajno antaŭ la ĉina premiero de
-
-Mi Ankoraŭ Estas Ĉi Tie
-
-– mi ofte legis en ĉinaj sociaj retejoj demandojn kaj komentojn de brazilanoj pri supozata cenzuro de la filmo en Ĉinio. Multaj el ili eĉ asertis, ke la longa filmo fariĝus mallonga pro troaj tranĉoj. Estas vere, ke filmoj en Ĉinio bezonas aprobon de reguligaj instancoj, kiuj kontrolas ĉu la enhavo kongruas kun koncernaj leĝoj kaj regularoj. Sed male ol la antaŭjuĝoj de multaj eksterlandanoj, kutime oni forigas nur scenojn konsideratajn maldecaj aŭ kun tro da perforto – politikaj enhavoj mem ne estas problemo.
+Dum la lastaj monatoj – kaj precipe en la semajno antaŭ la ĉina premiero de Mi Ankoraŭ Estas Ĉi Tie – mi ofte legis en ĉinaj sociaj retejoj demandojn kaj komentojn de brazilanoj pri supozata cenzuro de la filmo en Ĉinio. Multaj el ili eĉ asertis, ke la longa filmo fariĝus mallonga pro troaj tranĉoj. Estas vere, ke filmoj en Ĉinio bezonas aprobon de reguligaj instancoj, kiuj kontrolas ĉu la enhavo kongruas kun koncernaj leĝoj kaj regularoj. Sed male ol la antaŭjuĝoj de multaj eksterlandanoj, kutime oni forigas nur scenojn konsideratajn maldecaj aŭ kun tro da perforto – politikaj enhavoj mem ne estas problemo.
 
 La sesio, kiun mi ĉeestis, komenciĝis precize je la 17-a horo kaj 20 minutoj. Kiam ĝi finiĝis, mia horloĝo montris jam post la 19-a kaj duono (mi ne bone memoras, sed estas preskaŭ certa, ke estis la 19-a kaj 35 minutoj). Hejmenirinte, mi kontrolis la oficialan daŭron de la filmo: 2 horoj kaj 15 minutoj. La filmo estas montrata sen tranĉoj – kio evidentigas malvera pri la malnova mito pri politika cenzuro en Ĉinio.
 
@@ -782,29 +714,17 @@ Ironie, la bildo de Ĉinio kiel "diktaturo, kiu subpremas publikan diskuton" dev
 
 Ĉiang Kai-ŝek havis bonajn rilatojn kun la brazilaj militistoj kaj eĉ havis agentojn en Brazilo. Tri tagojn post la puĉo de 1964, kiam naŭ ĉinoj senditaj de Pekino estis arbitre arestitaj kiel parto de fraŭdo por konvinki la publikon, ke la militistoj "savis Brazilon de komunismo", la agentoj de Ĉiang Kai-ŝek en Brazilo estis uzataj kiel interpretistoj – kaj, laŭ historiaj dokumentoj, kreis falsajn pruvojn kontraŭ la arestitoj.
 
-Eĉ post la historia vizito de Nixon al Ĉinio en 1972, la brazila reĝimo – fidele sekvanta Usonon – hezitis alproksimiĝi al Pekino. Kiel malkaŝis la ĵurnalistoj Ciça Guedes kaj Murilo Fiuza de Melo en la libro
-
-La Kazo de la Naŭ Ĉinoj
-
-, inter la altranguloj de la brazila reĝimo, pluraj estis kontraŭaj al estigo de diplomatiaj rilatoj kun socialisma Ĉinio, nuntempe la plej granda komerca partnero de Brazilo, kaj ili kaŝe agadis por malrapidigi plifortigon de dulandaj rilatoj.
+Eĉ post la historia vizito de Nixon al Ĉinio en 1972, la brazila reĝimo – fidele sekvanta Usonon – hezitis alproksimiĝi al Pekino. Kiel malkaŝis la ĵurnalistoj Ciça Guedes kaj Murilo Fiuza de Melo en la libro La Kazo de la Naŭ Ĉinoj, inter la altranguloj de la brazila reĝimo, pluraj estis kontraŭaj al estigo de diplomatiaj rilatoj kun socialisma Ĉinio, nuntempe la plej granda komerca partnero de Brazilo, kaj ili kaŝe agadis por malrapidigi plifortigon de dulandaj rilatoj.
 
 La libro kaj la filmo
 
-Rakontita unuapersone, la libro
-
-Mi Ankoraŭ Estas Ĉi Tie
-
-havas kiel kerna temo Alzheimer-malsano, kiu iom post iom formanĝas la memoron kaj racion de Eunice Paiva dum ŝiaj lastaj vivojaroj. Ŝia filo, Marcelo Rubens Paiva, verkis la libron kvazaŭ ĝi estas urĝa klopodo konservi tion, kion la malsano kaj tempo estis klopodantaj forviŝi. Sed en ĉi tiu peno rememori sian patrinon, Marcelo iras pli foren: li rekreas ne nur ŝian vivon, sed ankaŭ sian propran infanaĝon, la diktaturon, la malaperon de sia patro Rubens Paiva, kaj la lukton de la familio por vero, memoro kaj justico. Walter Salles brile tradukis la libron al la kinarta lingvaĵo. Li evitis la kliŝon uzi Marcelon kiel rakontanton kaj anstataŭe donis ĉefrolon al Eunice, ludita de du eksterordinaraj aktorinoj: Fernanda Torres (juna Eunice) kaj Fernanda Montenegro (maljuna Eunice).
+Rakontita unuapersone, la libro Mi Ankoraŭ Estas Ĉi Tie havas kiel kerna temo Alzheimer-malsano, kiu iom post iom formanĝas la memoron kaj racion de Eunice Paiva dum ŝiaj lastaj vivojaroj. Ŝia filo, Marcelo Rubens Paiva, verkis la libron kvazaŭ ĝi estas urĝa klopodo konservi tion, kion la malsano kaj tempo estis klopodantaj forviŝi. Sed en ĉi tiu peno rememori sian patrinon, Marcelo iras pli foren: li rekreas ne nur ŝian vivon, sed ankaŭ sian propran infanaĝon, la diktaturon, la malaperon de sia patro Rubens Paiva, kaj la lukton de la familio por vero, memoro kaj justico. Walter Salles brile tradukis la libron al la kinarta lingvaĵo. Li evitis la kliŝon uzi Marcelon kiel rakontanton kaj anstataŭe donis ĉefrolon al Eunice, ludita de du eksterordinaraj aktorinoj: Fernanda Torres (juna Eunice) kaj Fernanda Montenegro (maljuna Eunice).
 
 Legante la detalajn priskribojn pri la torturo suferita de Rubens Paiva en malliberejo, mi antaŭvidis filmon plenan de perfortaj scenoj. Sed Salles evitis tiun vojon kaj prefere fokusis sur la perspektivo de Eunice – la edzino, kiu ne sciis, kio okazis al sia edzo kaj luktis por akiri informojn pri li. La turmento de ne-scio pri la sorto de Rubens Paiva igas la filmon angorplena. Tiu angoro estas pliigita de la kamerao fukusanta sur la okuloj kaj vizaĝ-esprimoj, kiuj malkaŝas profundan emocian suferon. Scenoj pri fizika torturo estus malpli turmentaj ol la silentaj okuloj de Fernanda Torres.
 
 En la libro, la sango en la koridoro klare rilatas al la transporto de la kadavro de Rubens Paiva, kaj poste soldatoj haste lavas la plankon por forigi pruvojn. En la filmo, tiuj du scenoj aperas sen klarigo, sed subkonscie ni komprenas, ke la sango surplanke simbolas lian morton, kaj lavado de la planko reprezentas la klopodon forigi lin el nacia memoro. La sceno de lia filino rigardante la maron antaŭ la translokiĝo al San-Paŭlo, estas pli ol adiaŭo al Rio-de-Ĵanejro: ĝi estas senvorta adiaŭo al la patro, kies kadavro – laŭ rakontoj de kelkaj militistoj – estis ĵetita en la maron.
 
-La titolo
-
-Mi Ankoraŭ Estas Ĉi Tie
-
-en la libro rilatas al Eunice suferanta de Alzheimer-malsano, kio lasis ŝin vivanta plejparte de la tempo en sia ena mondo, sed foje interagante kun aliaj homoj kvazaŭ postulante sian ekziston: "Mi ankoraŭ estas ĉi tie." Sed la filmo ne eksplicite klarigas tion, donante al la titolo plurajn eblajn interpretojn, kiuj riĉigas ĝian signifon. Prava elekto, konsiderante, ke en la filmo la malsano ne havas kernan rolon.
+La titolo Mi Ankoraŭ Estas Ĉi Tie en la libro rilatas al Eunice suferanta de Alzheimer-malsano, kio lasis ŝin vivanta plejparte de la tempo en sia ena mondo, sed foje interagante kun aliaj homoj kvazaŭ postulante sian ekziston: "Mi ankoraŭ estas ĉi tie." Sed la filmo ne eksplicite klarigas tion, donante al la titolo plurajn eblajn interpretojn, kiuj riĉigas ĝian signifon. Prava elekto, konsiderante, ke en la filmo la malsano ne havas kernan rolon.
 
 En la libro, maljuna Eunice – spektante televidan raporton pri sia edzo – ekkrias "Vidu! Vidu!" kaj poste flustras "kompatinda". En la filmo, Fernanda Montenegro majstre rekreas tiun scenon senvorte, per rigardo tiel potenca, ke ĝi forskuas la koron de spektanto. La potenca silenta mesaĝo de ŝiaj okuloj kreas scenon emocie pli fortan ol tiu okazinta en reala vivo. Dum spektado de ĝi, mi vane atendis la frazojn "vidu" kaj "kompatinda".
 
@@ -812,11 +732,7 @@ Kaj la libro kaj la filmo esprimas indignon pri la senpuno al la torturistoj, ki
 
 Eĥo de la ĉina spektantaro
 
-La brazila filmo
-
-Mi Ankoraŭ Estas Ĉi Tie
-
-ricevis varman reagon en Ĉinio. Por plejparto de la spektantoj, ĝi prezentas rakonton, kiu miksas familiarecon kaj fremdecon – ne nur por ĉinoj, sed ankaŭ por azianoj ĝenerale. "Rigardante ĉion tra la okuloj de virino kaj patrino, mi sentis doloron eĉ pli profundan ol tiu de la viktimo mem. Mi komprenis, kion la diktaturo forprenis de la socio kaj familioj... Mi konservis esperon je la reveno de ŝia edzo. Antaŭ lia malapero, ilia familia vivo estis tiom bela," deklaris la japana studentino Ohori Rio, spektinte la filmon.
+La brazila filmo Mi Ankoraŭ Estas Ĉi Tie ricevis varman reagon en Ĉinio. Por plejparto de la spektantoj, ĝi prezentas rakonton, kiu miksas familiarecon kaj fremdecon – ne nur por ĉinoj, sed ankaŭ por azianoj ĝenerale. "Rigardante ĉion tra la okuloj de virino kaj patrino, mi sentis doloron eĉ pli profundan ol tiu de la viktimo mem. Mi komprenis, kion la diktaturo forprenis de la socio kaj familioj... Mi konservis esperon je la reveno de ŝia edzo. Antaŭ lia malapero, ilia familia vivo estis tiom bela," deklaris la japana studentino Ohori Rio, spektinte la filmon.
 
 En Ĉinio kaj verŝajne ankaŭ en aliaj landoj de Azio, spektantoj fokusiĝis sur Eunice kiel patrino kaj edzino. Ŝia duobla lukto por kreskigi siajn gefilojn kaj postuli justicon por sia edzo – igas ŝin admirinda figuro trans ĉiuj kulturoj. Same grandaj kiel la diferencoj inter la kulturoj de la mondo estas la similaĵoj inter ili. La granda vero estas, ke ni ĉiuj estas egale homaj.
 
@@ -828,33 +744,19 @@ Pluraj ĉinoj ankaŭ substrekis mesaĝon de optimismo en la filmo. Mia amiko Lan
 
 Favora momento por plifortigo de kulturaj interŝanĝoj
 
-La premiero de
-
-Mi Ankoraŭ Estas Ĉi Tie
-
-en Ĉinio koincidis kun la ŝtata vizito de prezidento Lula, kiam pluraj interkonsentoj estis subskribitaj, profundigante kunlaborojn en pluraj sektoroj. Mi delonge diras, kaj plu insistos en tio, ke kvankam Brazilo kaj Ĉinio estas gravaj partneroj en BRICS kaj tutmonda sudo, kulture ambaŭ daŭre estas fremdaj unu al alia. Averaĝa ĉino scias nenion pri Brazilo krom futbalo, karnavalo kaj rostita viando, dum averaĝa brazilano nenion scias pri Ĉinio krom tio, ke ĝi estas la lando de kungfuo, la Granda Muro kaj tabloteniso.
+La premiero de Mi Ankoraŭ Estas Ĉi Tie en Ĉinio koincidis kun la ŝtata vizito de prezidento Lula, kiam pluraj interkonsentoj estis subskribitaj, profundigante kunlaborojn en pluraj sektoroj. Mi delonge diras, kaj plu insistos en tio, ke kvankam Brazilo kaj Ĉinio estas gravaj partneroj en BRICS kaj tutmonda sudo, kulture ambaŭ daŭre estas fremdaj unu al alia. Averaĝa ĉino scias nenion pri Brazilo krom futbalo, karnavalo kaj rostita viando, dum averaĝa brazilano nenion scias pri Ĉinio krom tio, ke ĝi estas la lando de kungfuo, la Granda Muro kaj tabloteniso.
 
 Brazila aktorino Daniela Tassy, nome de la Konsilio de Brazilaj Civitanoj de Pekino, donas florojn al Dilma Rousseff kaj Janja Lula da Silva.
 
-Kiam mi transloĝiĝis al Pekino, nova mondo malfermiĝis antaŭ miaj okuloj, kaj mi konas ĉinojn, kiuj sentis la samon post iom da tempo en Brazilo. Kulture koni unu la alian estas esenca afero por faciligi negocojn kaj interŝanĝojn en ĉiuj kampoj. La sukceso de
-
-Mi Ankoraŭ Estas Ĉi Tie
-
-en Ĉinio multe kontribuas por veki pli grandan intereson pri la brazila kulturo kaj sekvas alian furoron pri Brazilo en la lando: la kapibaroj, kiuj fariĝis modo ĉi tie pasintjare, kvankam malmultaj ĉinoj scias, ke kapibaro estas sudamerika besto.
+Kiam mi transloĝiĝis al Pekino, nova mondo malfermiĝis antaŭ miaj okuloj, kaj mi konas ĉinojn, kiuj sentis la samon post iom da tempo en Brazilo. Kulture koni unu la alian estas esenca afero por faciligi negocojn kaj interŝanĝojn en ĉiuj kampoj. La sukceso de Mi Ankoraŭ Estas Ĉi Tie en Ĉinio multe kontribuas por veki pli grandan intereson pri la brazila kulturo kaj sekvas alian furoron pri Brazilo en la lando: la kapibaroj, kiuj fariĝis modo ĉi tie pasintjare, kvankam malmultaj ĉinoj scias, ke kapibaro estas sudamerika besto.
 
 La 12-an de majo, kelkajn horojn antaŭ la premiero de la filmo en Ĉinio, mi estis informita, ke ĉina eldonisto pristudas publikigi en la ĉina ĉeftero tradukon de la libro, kiu originis de la filmo. Mi forte apogas tiun projekton kaj esperas, ke ĝi efektiviĝos. Literaturo estas grava kampo por kulturaj interŝanĝoj inter Brazilo kaj Ĉinio, sed malgraŭ la grandega potencialo de kunlaboroj en tiu kampo, tre malmultaj verkoj de unu lando estas tradukataj kaj eldonataj en la alia lando.
 
-Ankaŭ gravas memori, ke 2026 estos la Kultura Jaro Brazil-ĉina. Nun estas la ĝusta tempo por profundigi kulturajn interŝanĝojn, ĉar necesas planti ĉijare por rikolti venontjare. Kaj subite la brazila aktorino Daniela Tassy, kiu vivas en Ĉinio, donis al mi bonegan novaĵon: la filmo
-
-Vaganta Tero 2
-
-, en kiu ŝi aktoras, finfine estos lanĉita en brazilaj kinejoj. Laŭ raporto publikigita en la brazila kinarta retejo Omelete, tiu ĉina sciencfikcia longfilmo debutos en brazilaj kinejoj en junio.
+Ankaŭ gravas memori, ke 2026 estos la Kultura Jaro Brazil-ĉina. Nun estas la ĝusta tempo por profundigi kulturajn interŝanĝojn, ĉar necesas planti ĉijare por rikolti venontjare. Kaj subite la brazila aktorino Daniela Tassy, kiu vivas en Ĉinio, donis al mi bonegan novaĵon: la filmo Vaganta Tero 2, en kiu ŝi aktoras, finfine estos lanĉita en brazilaj kinejoj. Laŭ raporto publikigita en la brazila kinarta retejo Omelete, tiu ĉina sciencfikcia longfilmo debutos en brazilaj kinejoj en junio.
 
 Verkis: Rafael Henrique Zerbetto
 
 Fotoj: HiShow
-
-El Popola Chinio
 
 
 ---
@@ -867,23 +769,9 @@ El Popola Chinio
 
 **Categories:** Plej Freŝaj
 
-La 26-an de majo 2025 forpasis en Jiangsu-provinco la veterana
-
-ĉina Esperanto-
-
-tradukisto Wang Chongfang. La estimata sinjoro naskiĝis en 1936 kaj esperantistiĝis en 1953. Dumvive li klopodis por edukado kaj Esperanta tradukado. Li kompilis du grandajn vortarojn ĉin-Esperantan kaj Esperanto-ĉinan, kaj esperantigis klasikaĵojn kiel
-
-Dao De Jing de Laŭzi
-
-,
-
-Analektoj de Konfuceo
-
-kaj aliaj. Li estis konsilanto de la Ĉina Esperanto-Ligo, vicprezidanto de Jiangsu-a Esperanto-Asocio kaj honora prezidanto de Zhenjiang-a Esperanto-Asocio. Lia forpaso estas grava perdo por la ĉina esperantujo. Funebrante lin, ĉinaj esperantistoj heredos lian spiriton kaj daŭre antaŭenigos la ĉinan Esperanto-movadon.
+La 26-an de majo 2025 forpasis en Jiangsu-provinco la veterana ĉina Esperanto-tradukisto Wang Chongfang. La estimata sinjoro naskiĝis en 1936 kaj esperantistiĝis en 1953. Dumvive li klopodis por edukado kaj Esperanta tradukado. Li kompilis du grandajn vortarojn ĉin-Esperantan kaj Esperanto-ĉinan, kaj esperantigis klasikaĵojn kiel Dao De Jing de Laŭzi, Analektoj de Konfuceo kaj aliaj. Li estis konsilanto de la Ĉina Esperanto-Ligo, vicprezidanto de Jiangsu-a Esperanto-Asocio kaj honora prezidanto de Zhenjiang-a Esperanto-Asocio. Lia forpaso estas grava perdo por la ĉina esperantujo. Funebrante lin, ĉinaj esperantistoj heredos lian spiriton kaj daŭre antaŭenigos la ĉinan Esperanto-movadon.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -908,8 +796,6 @@ Nun Ĉinio plie klopodas plibonigi la sistemojn por la elasteco kaj sekureco de 
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -926,8 +812,6 @@ Asit K. Biswas, akademiano kaj vizitanta profesoro ĉe la Universitato de Glasgo
 La obsedo de la usona registaro pri tarifoj jam metis pezan ŝarĝon sur usonajn konsumantojn kaj industriojn, kaj ĝi neniam gajnus en la tarifmilito. Dum la unuaj kvar monatoj post la enoficiĝo de usona prezidento, la nediskriminaciaj tarifoj de la usona registaro kaŭzis interrompojn kaj eroziis la fidon de investantoj en la usona merkato kaj la financa sektoro, kiel reflektite en la fluktuoj en la usona ekonomio.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -1004,8 +888,6 @@ La kvartalo estas pli bela kaj ĝia antikva arkitekturo restaŭrita refoje elsta
 
 Verkis kaj fotis: Rafael Henrique Zerbetto
 
-El Popola Chinio
-
 
 ---
 
@@ -1027,8 +909,6 @@ Por tiuj, kiuj scivolas pri la historio de la kanalo, oni prezentis la verkon --
 
 Redaktoro: Gao Shuyuan
 
-El Popola Chinio
-
 
 ---
 
@@ -1047,8 +927,6 @@ Per la kanalo, oni trairas la mondon, de unu loko al alia. Ĝi faciligas homojn 
 En nuna mondo plena de konfliktoj, plena de malamo. Tio havas tre fortan simbolan signifon, ke ni devas iri al paco, profundigi kunlaborojn kaj amikecon.
 
 Redaktoro: Gao Shuyuan
-
-El Popola Chinio
 
 
 ---
@@ -1115,8 +993,6 @@ Se evidentiĝos ekzisto de grava kialo por ke Brazilo ne akceptu senvizan vizito
 
 Verkis: Rafael Henrique Zerbetto
 
-El Popola Chinio
-
 
 ---
 
@@ -1133,8 +1009,6 @@ En la Dialogointer Pekino kaj Hangzhou pri la Grandkanala Kulturzono okazinta
 "Pri niaj grandaj kanaloj -- Suez-kanalo, Panama-kanalo, Pekin-Hangzhou-a Kanalo, ne necesa diskuti pri tio, ke kiu estas pli longa, kiu pli aĝa aŭ kiu havas pli grandan transportkapablon. Ili ĉiuj estas kreaĵoj de la homaro, por realigi interkomuniadon kaj  interligon. Ili spegulas la daŭran klopodon kaj saĝecon de homaro trapasi la naturajn limigojn, kaj enkorpigas la grandan spiriton de la homaro."
 
 Redaktoro: Gao Shuyuan
-
-El Popola Chinio
 
 
 ---
@@ -1173,81 +1047,25 @@ La ingredienco en la saketo inkludas ne nur artemiziajn aĵojn sed ankaŭ alia
 
 Realgara vino estas farita el muelita realgaro, antikvaj ĉinoj kutimis meti realgaran pulvoron en alkoholaĵon por trinki ĝin dum la Drakboata Festo por forpeli malbonon kaj eviti malsaniĝon. Ĉi tiu kutimo estis tre populara en la regiono de Jangzio. Realgaro estas mineralo, kies ĉefa komponanto estas arsenika sulfido kaj enhavas hidrargon. La realgara vino ne devas esti longtempe trinkata, ĉinoj konas tion bone. Tia vino havas la efikojn sterilizi kaj forpeli insektojn, povas esti uzata por trakti haŭtmalsanojn. Por infanoj, plenkreskuloj ŝmiras realgaran vinon sur iliajn fruntojn, orelojn, nazojn, manplatojn kaj plandojn por desinfekti kaj preventi malsanojn. Ŝprucigi realgaran vinon ĉe ĉambraj anguloj, sub la liton ktp povas forpeli insektojn.
 
-3. Drakboato kaj
+3. Drakboato kaj zongzi-o
 
-zongzi
-
--o
-
-Estas multaj moroj pri la festo, kaj la ĉefaj du estas manĝado de
-
-zongzi
-
--o (piramid-forma manĝaĵo farita el glueca rizo envolvita en bambuajn aŭ fragmitajn foliojn) kaj drakboata konkurso. Ili multe koncernas al la antikva poeto Qu Yuan.
+Estas multaj moroj pri la festo, kaj la ĉefaj du estas manĝado de zongzi-o (piramid-forma manĝaĵo farita el glueca rizo envolvita en bambuajn aŭ fragmitajn foliojn) kaj drakboata konkurso. Ili multe koncernas al la antikva poeto Qu Yuan.
 
 Qu Yuan (ĉ. 340 a.K.-ĉ. 278 a.K.) estis la unua granda patriota poeto en la historio de la ĉina literaturo. Qu Yuan kreis novan literaturan stilon de Ĉinio kaj multe pliriĉigis la esprim-povon de la ĉina poezio, kreante vastan novan kampon en poezio de la antikva Ĉinio. En 1953 Qu Yuan estis rekomendita kiel unu el la famaj personoj de la monda kulturo, honorita per vasta rememorado. Qu Yuan estis eminenta reprezentanto de romantikaj poetoj. Liaj verkoj karakteriĝas per belaj vortoj, senbridaj imagoj kaj mirindaj metaforoj, kaj la profunda enhavo tiel fariĝis unu el la fontoj de la ĉina literaturo.
 
 Kio okazis al Qu Yuan? Qu Yuan estas patriota poeto. Li enoficiĝis kiel kortegano de tiama reĝo de la regno Chu (?-223 a.K.). Por ke lia regno ne estu konkerita kaj okupita de tiama malamika regno Qin (ĝuste tiu ĉi regno sukcese unuigis tiaman Ĉinion kaj kreis la unuan ĉinan feŭdan dinastion de Qin), li multfoje admonis, sed la ŝtatoficistoj favoritaj de la reĝo kaj subaĉetitaj de la regno Qin kune ekziligis lin al fora loko ĉe la rivero Miluo. Finfine, kiam li aŭdis, ke la ĉefurbo de la regno Chu estis detruita de Qin, li korŝire verkis sian lastan poemon kaj sin ĵetis en la riveron Miluo.
 
-Laŭ la popola legendo, post kiam Qu Yuan sin mortigis en la rivero, lokanoj amasiĝis sur la rivero per boatoj, celante trovi la patrioton. En la sekvaj du mil jaroj, tio fariĝis ege ŝatata sporto de diversaj etnoj en la lando kaj nun jam popularas eksterlande. Kaj pro tio, ke ĉinoj ŝatas ornami siajn boatojn per draka formo, oni nomas la boatojn "drakboato" -- jen la nomo de la festo. La lokanoj fine ne trovis Qu Yuan, do por ke fiŝoj ne mordu kaj formanĝu la kadavron de la granda poeto, homoj faris
+Laŭ la popola legendo, post kiam Qu Yuan sin mortigis en la rivero, lokanoj amasiĝis sur la rivero per boatoj, celante trovi la patrioton. En la sekvaj du mil jaroj, tio fariĝis ege ŝatata sporto de diversaj etnoj en la lando kaj nun jam popularas eksterlande. Kaj pro tio, ke ĉinoj ŝatas ornami siajn boatojn per draka formo, oni nomas la boatojn "drakboato" -- jen la nomo de la festo. La lokanoj fine ne trovis Qu Yuan, do por ke fiŝoj ne mordu kaj formanĝu la kadavron de la granda poeto, homoj faris zongzi-ojn kaj ĵetis ilin en la riveron. Tiel ĉinoj havas la kutimon manĝi zongzi-on dum la festo.
 
-zongzi
+Zongzi-o estas tipa manĝaĵo de la Drakboata Festo, farita el glueca rizo kun diversaj farĉoj, kaj pakita per folioj de bambuo, fragmito aŭ aliaj plantoj. En antikveco, zongzi-o aspektis kiel bova korno. Antaŭ pli ol 1 700 jaroj zongzi-o fariĝis speciala manĝaĵo de la Drakboata Festo. Nun plej oftaj zongzi-oj estas triangulaj kaj kvarangulaj, krome estas ankaŭ pintaj, turformaj, tubformaj kaj aliaj.
 
--ojn kaj ĵetis ilin en la riveron. Tiel ĉinoj havas la kutimon manĝi
-
-zongzi
-
--on dum la festo.
-
-Zongzi
-
--o estas tipa manĝaĵo de la Drakboata Festo, farita el glueca rizo kun diversaj farĉoj, kaj pakita per folioj de bambuo, fragmito aŭ aliaj plantoj. En antikveco,
-
-zongzi
-
--o aspektis kiel bova korno. Antaŭ pli ol 1 700 jaroj
-
-zongzi
-
--o fariĝis speciala manĝaĵo de la Drakboata Festo. Nun plej oftaj
-
-zongzi
-
--oj estas triangulaj kaj kvarangulaj, krome estas ankaŭ pintaj, turformaj, tubformaj kaj aliaj.
-
-Pro malsamaj klimatoj kaj manĝkutimoj en diversaj lokoj,
-
-zongzi
-
--oj dividiĝas en la gustoj norda kaj suda.
-
-Zongzi
-
--oj en suda Ĉinio ĉefe estas salaj kaj en norda Ĉinio dolĉaj. Suda regiono estas riĉa je materialoj, do
-
-zongzi
-
--aj farĉoj estas buntaj, kiel freŝa porkaĵo, salita ovoflavo, salita porkaĵo, ŝinko kaj salikoko. La dolĉaj
-
-zongzi
-
--oj en la nordo entenas jujubojn, fazeolojn kaj aliajn dolĉaĵojn, kaj foje estas arakido, nukso, fabo kaj rozpetalo... Ekzistas ankaŭ tute senfarĉa
-
-zongzi
-
--o, oni manĝas ĝin kun sojo aŭ sukersuko.
+Pro malsamaj klimatoj kaj manĝkutimoj en diversaj lokoj, zongzi-oj dividiĝas en la gustoj norda kaj suda. Zongzi-oj en suda Ĉinio ĉefe estas salaj kaj en norda Ĉinio dolĉaj. Suda regiono estas riĉa je materialoj, do zongzi-aj farĉoj estas buntaj, kiel freŝa porkaĵo, salita ovoflavo, salita porkaĵo, ŝinko kaj salikoko. La dolĉaj zongzi-oj en la nordo entenas jujubojn, fazeolojn kaj aliajn dolĉaĵojn, kaj foje estas arakido, nukso, fabo kaj rozpetalo... Ekzistas ankaŭ tute senfarĉa zongzi-o, oni manĝas ĝin kun sojo aŭ sukersuko.
 
 En septembro 2009, Unesko aprobis la ĉinan Drakboatan Feston kiel mondan nematerian kulturan heredaĵon. Do la festo fariĝis la unua ĉina festo tutmonde agnoskata kiel nemateria kultura heredaĵo. La evento igis pli da homoj koni la feston kaj ekhavi la koncepton de heredigo pri la tradicia kulturo.
 
-Kial la Drakboata Festo estis enmetita en la listo de la Monda Nemateria Kultura Heredaĵo? Ĉar ĝi baziĝas sur la profundaj kulturaj ecoj, historia valoro kaj popola diverseco. Ĝi integras astronomion, kalendaron, medicinon kaj oferriton. Ĝia kerna spirito estas patriota amo, ekzemple la lojala animo de Qu Yuan kaj la nacia unuiĝeco transdonita, per kutimoj kiel drakoboatumo kaj manĝo de
-
-zongzi
-
--oj, de generacio al generacio. Ĝi jam fariĝis la komuna spirita riĉaĵo de la homaro, trans la limojn de regiono kaj tempo.
+Kial la Drakboata Festo estis enmetita en la listo de la Monda Nemateria Kultura Heredaĵo? Ĉar ĝi baziĝas sur la profundaj kulturaj ecoj, historia valoro kaj popola diverseco. Ĝi integras astronomion, kalendaron, medicinon kaj oferriton. Ĝia kerna spirito estas patriota amo, ekzemple la lojala animo de Qu Yuan kaj la nacia unuiĝeco transdonita, per kutimoj kiel drakoboatumo kaj manĝo de zongzi-oj, de generacio al generacio. Ĝi jam fariĝis la komuna spirita riĉaĵo de la homaro, trans la limojn de regiono kaj tempo.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---

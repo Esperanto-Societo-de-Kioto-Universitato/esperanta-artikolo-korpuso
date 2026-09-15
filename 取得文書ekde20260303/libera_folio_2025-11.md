@@ -1,6 +1,6 @@
 ---
 source: "Libera Folio (liberafolio.org)"
-generated_at: "2026-03-03T10:41:27.985577+00:00"
+generated_at: "2026-09-15T13:31:14.717970+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-11-04 – 2025-11-30"
 ---
@@ -229,13 +229,7 @@ La ”malnovaj” lingvoj de DeepL estas traktataj per klasika komputada modelo 
 
 Originala teksto en la angla: BUENOS AIRES, February 22, 2012 (AFP) – Around 340 people were injured, some of them seriously, Wednesday when a train derailed and struck a railway station platform in Buenos Aires, transport and health officials said. Around a dozen ambulances were sent to the accident in the west of the Argentine capital to treat those hurt, said Alberto Crescenti, a senior city official. Transportation Secretary Juan Pablo Schiavi gave the toll and said many of the passengers were badly injured, including some with multiple fractures and abrasions, adding that “there could be fatalities” among the casualties. Traduko de Google en 2012: Bonaero, februaro 22, 2012 (AFP) – Ĉirkaŭ 340 homoj estis vunditaj, kelkaj el ili serioze, merkredo kiam trajno elreliĝis kaj frapis fervoja stacidomo kajo en Buenos Aires, transporto kaj sano respondeculoj diris. Ĉirkaŭ dekduo ambulancoj estis senditaj al la akcidento en la okcidento de la argentina ĉefurbo trakti tiujn malfelicxan, diris Alberto Crescenti, altranga urbo oficiala. Transporto Sekretario Johano Paŭlo Schiavi donis la paspago kaj diris multajn el la pasaĝeroj estis grave vunditaj, inkludante iuj kun multnombraj frakturoj kaj abrasions, aldonante ke ”ne povis esti viktimoj” inter la viktimoj.
 
-Originala teksto en la angla: BUENOS AIRES, February 22, 2012 (AFP) – Around 340 people were injured, some of them seriously, Wednesday when a train derailed and struck a railway station platform in Buenos Aires, transport and health officials said. Around a dozen ambulances were sent to the accident in the west of the Argentine capital to treat those hurt, said Alberto Crescenti, a senior city official. Transportation Secretary Juan Pablo Schiavi gave the toll and said many of the passengers were badly injured, including some with multiple fractures and abrasions, adding that “there could be fatalities” among the casualties.
-
-Traduko de Google en 2012: Bonaero, februaro 22, 2012 (AFP) – Ĉirkaŭ 340 homoj estis vunditaj, kelkaj el ili serioze, merkredo kiam trajno elreliĝis kaj frapis fervoja stacidomo kajo en Buenos Aires, transporto kaj sano respondeculoj diris. Ĉirkaŭ dekduo ambulancoj estis senditaj al la akcidento en la okcidento de la argentina ĉefurbo trakti tiujn malfelicxan, diris Alberto Crescenti, altranga urbo oficiala. Transporto Sekretario Johano Paŭlo Schiavi donis la paspago kaj diris multajn el la pasaĝeroj estis grave vunditaj, inkludante iuj kun multnombraj frakturoj kaj abrasions, aldonante ke ”ne povis esti viktimoj” inter la viktimoj.
-
 Kvankam la teksto estas ĝenerale komprenebla, tuj evidentas pluraj fuŝoj, plej rimarkinde eble ”tiujn malfelicxan”, eĉ kun ikso, anstataŭ ”la vunditojn”, kaj ”ne povis esti viktimoj inter la viktimoj” anstataŭ ”povis esti mortintoj inter la viktimoj”. La nuna versio de la Google-tradukilo multe pli bone elturniĝas pri la sama teksto.
-
-Traduko de Google en 2025: BONAERO, 22-a de februaro 2012 (AFP) – Ĉirkaŭ 340 homoj vundiĝis, kelkaj el ili grave, merkrede kiam trajno dereliĝis kaj trafis kajon de fervoja stacio en Bonaero, diris transportaj kaj sanaj oficistoj. Ĉirkaŭ dekduo da ambulancoj estis senditaj al la akcidento en la okcidento de la argentina ĉefurbo por trakti la vunditojn, diris Alberto Crescenti, altranga urba oficisto. La ministro pri transportado Juan Pablo Schiavi donis la nombron kaj diris, ke multaj pasaĝeroj estis grave vunditaj, inkluzive de kelkaj kun multoblaj frakturoj kaj abrazioj, aldonante, ke ”povus esti mortoj” inter la viktimoj.
 
 Traduko de Google en 2025: BONAERO, 22-a de februaro 2012 (AFP) – Ĉirkaŭ 340 homoj vundiĝis, kelkaj el ili grave, merkrede kiam trajno dereliĝis kaj trafis kajon de fervoja stacio en Bonaero, diris transportaj kaj sanaj oficistoj. Ĉirkaŭ dekduo da ambulancoj estis senditaj al la akcidento en la okcidento de la argentina ĉefurbo por trakti la vunditojn, diris Alberto Crescenti, altranga urba oficisto. La ministro pri transportado Juan Pablo Schiavi donis la nombron kaj diris, ke multaj pasaĝeroj estis grave vunditaj, inkluzive de kelkaj kun multoblaj frakturoj kaj abrazioj, aldonante, ke ”povus esti mortoj” inter la viktimoj.
 
@@ -243,11 +237,7 @@ La nova tradukilo de DeepL elturniĝas sufiĉe bone pri la teksto, tamen ne tute
 
 Traduko de DeepL: BUENOSA ERO, la 22-an de februaro 2012 (AFP) – Ĉirkaŭ 340 homoj vundiĝis, iuj el ili grave, merkrede kiam trajno devojis de la trako kaj trafis platformon de fervoja stacidomo en Buenos Aires, diris transportaj kaj sanitaraj oficistoj. Ĉirkaŭ dekduo da ambulancoj estis senditaj al la akcidento en la okcidento de la argentina ĉefurbo por kuraci la vunditojn, diris Alberto Crescenti, altranga urba oficisto. La Transporta Sekretario Juan Pablo Schiavi konfirmis la nombron kaj diris, ke multaj el la pasaĝeroj estis grave vunditaj, inkluzive de iuj kun multoblaj frakturoj kaj skrapaĵoj, aldonante, ke ”povus esti mortintoj” inter la viktimoj.
 
-Traduko de DeepL: BUENOSA ERO, la 22-an de februaro 2012 (AFP) – Ĉirkaŭ 340 homoj vundiĝis, iuj el ili grave, merkrede kiam trajno devojis de la trako kaj trafis platformon de fervoja stacidomo en Buenos Aires, diris transportaj kaj sanitaraj oficistoj. Ĉirkaŭ dekduo da ambulancoj estis senditaj al la akcidento en la okcidento de la argentina ĉefurbo por kuraci la vunditojn, diris Alberto Crescenti, altranga urba oficisto. La Transporta Sekretario Juan Pablo Schiavi konfirmis la nombron kaj diris, ke multaj el la pasaĝeroj estis grave vunditaj, inkluzive de iuj kun multoblaj frakturoj kaj skrapaĵoj, aldonante, ke ”povus esti mortintoj” inter la viktimoj.
-
 Ni fine vidu, kiel funkcias la ĝisdata versio de la lingvomodelo de ChatGPT, kiu ja ne estas unuavice evoluigita por tradukoj. Jen la rezulto.
-
-Traduko de ChatGPT: BUENOS-AIRESO, la 22-an de februaro 2012 (AFP) – Ĉirkaŭ 340 homoj estis vunditaj, kelkaj el ili grave, merkredon kiam trajno elreliĝis kaj trafis la peronon de fervoja stacio en Bonaero, laŭ informoj de transportaj kaj sanaj oficialuloj. Ĉirkaŭ dekduo da ambulancoj estis senditaj al la akcidentloko en la okcidenta parto de la argentina ĉefurbo por prizorgi la vunditojn, diris Alberto Crescenti, supera urba funkciulo. La Transporta Sekretario Juan Pablo Schiavi donis la nombron de viktimoj kaj diris, ke multaj el la pasaĝeroj estis severe vunditaj, inter ili kelkaj kun multnombraj frakturoj kaj kontuziĝoj, aldonante ke ”povus esti mortintoj” inter la viktimoj.
 
 Traduko de ChatGPT: BUENOS-AIRESO, la 22-an de februaro 2012 (AFP) – Ĉirkaŭ 340 homoj estis vunditaj, kelkaj el ili grave, merkredon kiam trajno elreliĝis kaj trafis la peronon de fervoja stacio en Bonaero, laŭ informoj de transportaj kaj sanaj oficialuloj. Ĉirkaŭ dekduo da ambulancoj estis senditaj al la akcidentloko en la okcidenta parto de la argentina ĉefurbo por prizorgi la vunditojn, diris Alberto Crescenti, supera urba funkciulo. La Transporta Sekretario Juan Pablo Schiavi donis la nombron de viktimoj kaj diris, ke multaj el la pasaĝeroj estis severe vunditaj, inter ili kelkaj kun multnombraj frakturoj kaj kontuziĝoj, aldonante ke ”povus esti mortintoj” inter la viktimoj.
 
@@ -255,7 +245,7 @@ Estas amuze konstati, ke en ĉiuj tradukoj, krom la ĉi-jara versio de Google, l
 
 Sed la eraroj kaj strangaĵoj en aŭtomate tradukitaj tekstoj iĝas ĉiam malpli multaj, kaj almenaŭ por nebeletraj tekstoj ofte sufiĉas malmulta redaktado por ke la rezulto estu kontentiga, diras István Ertl.
 
-– Mi facile imagas ke, ene de kelkaj jardekoj aŭ eĉ jaroj, la profesio de tradukisto fairiĝos io simila al tio kio nun estas forĝisto au ĉapelfaristo: daŭre bezonata, sed malpli grandnombre ol iam, por taskoj apartaj kaj bezonantaj specifajn kapablojn.
+– Mi facile imagas ke, ene de kelkaj jardekoj aŭ eĉ jaroj, la profesio de tradukisto fariĝos io simila al tio kio nun estas forĝisto au ĉapelfaristo: daŭre bezonata, sed malpli grandnombre ol iam, por taskoj apartaj kaj bezonantaj specifajn kapablojn.
 
 
 ---

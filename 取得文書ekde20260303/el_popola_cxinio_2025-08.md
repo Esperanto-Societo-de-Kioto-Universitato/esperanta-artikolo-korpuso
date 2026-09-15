@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-09-15T10:54:36.831233+00:00"
+generated_at: "2026-09-15T13:49:03.015069+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-08-04 – 2025-08-31"
 ---
@@ -33,8 +33,6 @@ Do la venontan fojon, kiam estos debato pri tarifoj -- sur produktoj kiel aŭto
 Redaktoro: Xie Ruifeng
 
 *La aŭtoro estas profesoro pri ekonomiko en la fakultato de ekonomiko kaj statistiko, Universitato de Sieno.
-
-El Popola Chinio
 
 
 ---
@@ -104,8 +102,6 @@ Mi imagas la efikon, kiun havus en Ĉinio brazila turisma reklamo fokusita sur t
 Efika politiko por allogi ĉinajn turistojn postulas solvadon de problemoj en multaj kampoj, de donado de vizoj ĝis transporto, infrastrukturo kaj sekureco, sed la ĉefa punkto estas ja diskonigi al ĉina turisto tion, kion li volas vidi.
 
 Verkis kaj fotis: Rafael Henrique Zerbetto
-
-El Popola Chinio
 
 
 ---
@@ -180,8 +176,6 @@ Malriĉeco estas unu el la plej gravaj problemoj de nuna mondo, kaj interŝanĝo
 
 Verkis kaj fotis: Rafael Henrique Zerbetto
 
-El Popola Chinio
-
 
 ---
 
@@ -211,8 +205,6 @@ Redaktoro: Xie Ruifeng
 
 *Zamir Ahmed Awan estas la fondprezidanto de la Tutmonda Esplora Alianco pri la Silka Vojo (GSRRA). Li estas ĉinologo kaj iama diplomato, ankaŭ esploristo ĉe la Esplorcentro pri Ekonomia kaj Komerca Kunlaboro de la Tutmonda Sudo.
 
-El Popola Chinio
-
 
 ---
 
@@ -233,8 +225,6 @@ En la ceremonio, la roluloj lumigis la noktan ĉielon kune kun 12 simbolaj floro
 Lanĉitaj en 1981, la Mondaj Ludoj servas kiel platformoj por ne-olimpikaj sportoj, ampleksante mem-esprimon kaj kulturan inkluzivecon.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -265,8 +255,6 @@ Lastjare, ŝi kunlaboris kun multaj kompanioj. La verko "Senlima floro", kreita 
 
 Redaktoro: Gao Shuyuan
 
-El Popola Chinio
-
 
 ---
 
@@ -289,8 +277,6 @@ Li diris, ke la mondnivelaj sportejoj, efika transport-reto, gastigemo de lokano
 Li laŭdis la malferman ceremonion: "Ĝi estas sperto, kiun neniu el ni forgesos, kaj ĝi starigis novan normon por la resto de la historio de la Mondaj Ludoj."
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -325,8 +311,6 @@ Redaktoro: Xie Ruifeng
 
 *La aŭtoro estas fondinto de la konsult-serva kompanio Difference Group kaj li laboris ĉe la Instituto de Barato, Ĉinio kaj Usono.
 
-El Popola Chinio
-
 
 ---
 
@@ -348,8 +332,6 @@ Oni povas porti la du-flankan medalon ambaŭmaniere: aŭ memstare, aŭ kiel kol
 
 Redaktoro: Gao Shuyuan
 
-El Popola Chinio
-
 
 ---
 
@@ -366,8 +348,6 @@ Laŭ la buroo de la Ĉina Fervoja Grupo en Xi'an, ĉefurbo de Shaanxi-provinco, 
 Ma Jun, ĉefreguliganto de la supre menciita buroo, diris: "En la dua duono de la jaro, ni daŭrigos efikan, oportunan, sekuran, rezisteman, memregeblan kaj novigan ĉin-eŭropan kargotrajnon. Ni celas akceli la disvolviĝon de la strukturo 'koridoro + trafik-nabo + reto'."
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -388,8 +368,6 @@ Urtiin Duu estas lirika ĉanto, kiu karakteriziĝas per abundo da ornamado, fal
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -407,17 +385,11 @@ Laŭ Li Jingfen, kunorganizanto de la evento, en la forumo okazonta tiutage part
 
 Wang Jiefu, sponsoro de la kostuma prezentado kaj unu el la prezidantoj de la organiza komitato, posedas restoracion, kiu servas yunnan-stilan rizvermiĉelon en la golfa regiono. Li rakontis, ke antaŭ 80 jaroj soldatoj de la Flugantaj Tigroj foje manĝis rizvermiĉelon dum sia restado en Yunnan-provinco, Ĉinio. Tiu plado fariĝis simbolo de amikeco inter la lokaj loĝantoj kaj la usonaj soldatoj.
 
-Jonathan Ginsberg, direktoro de la Asocio de Monda Ĝemelaj Urboj, deklaris: "Antaŭ 80 jaroj, en epoko de granda suferado por la homaro, la usona kaj ĉina popoloj staris unuece. Ni memoru la heroajn pilotojn de la 'Flugantaj Tigroj', kiuj riskis siajn vivojn
-
-super yunnan-aj vilaĝoj,
-
-kaj la sindoneman ĉinan popolon, kiu subtenis la aliancanojn diversmaniere. Historio instruas al ni, ke vera interpopola amikeco naskiĝas ne nur en momentoj de venko, sed ankaŭ en la komuna batalado kontraŭ defioj -- kaj ĝi profundiĝas per reciproka respekto kaj komuna perspektivo pri estonteco."
+Jonathan Ginsberg, direktoro de la Asocio de Monda Ĝemelaj Urboj, deklaris: "Antaŭ 80 jaroj, en epoko de granda suferado por la homaro, la usona kaj ĉina popoloj staris unuece. Ni memoru la heroajn pilotojn de la 'Flugantaj Tigroj', kiuj riskis siajn vivojn super yunnan-aj vilaĝoj, kaj la sindoneman ĉinan popolon, kiu subtenis la aliancanojn diversmaniere. Historio instruas al ni, ke vera interpopola amikeco naskiĝas ne nur en momentoj de venko, sed ankaŭ en la komuna batalado kontraŭ defioj -- kaj ĝi profundiĝas per reciproka respekto kaj komuna perspektivo pri estonteco."
 
 La partoprenantoj esperas, ke ambaŭ landoj daŭrigos la heredaĵon de amikeco el la dua mondmilito, profundigos reciprokan komprenon, plifortigos konsenton kaj antaŭenpuŝos la amikecon inter la du popoloj.
 
 Redaktoro: Gao Shuyuan
-
-El Popola Chinio
 
 
 ---
@@ -440,13 +412,7 @@ Do kiel ĉi tiu urbo allogas turistojn, kiam proksime estas la fama antikva ĉef
 
 Parko Qingming Shanghe: Nacia trezoro fariĝis "check-in-turismejo"
 
-La sekreto kuŝas en la parko Qingming Shanghe -- 40-hektara turisma zono, kiu rekreas la majstran pentraĵon
-
-Laŭlonge de la Rivero dum Qingming-festo
-
-, farita antaŭ pli ol 900 jaroj kaj agnoskita kiel memoraĵo de monda registro de UNESKO.
-
-La pentraĵo longas je 5.28 metroj kaj larĝas je 24.8 centimetroj, prezentante 814 homojn, 60 bestojn, 20 ŝipojn kaj 30 konstruaĵojn de la ĉefurbo Bianjing. En Kaifeng, ĉi tiu pentraĵo estas "pligrandigita" al vivanta antikva urbo, inkluzive artefaritan river-sistemon, antikvajn konstruaĵojn, komercan straton kaj centojn da vidindaĵoj kaj artaj spektakloj. Ĉiuj konstruaĵoj kaj arkitekturoj estas rekonstruitaj laŭ la pentraĵo kaj historiaj dokumentoj, tio donas al vizitantoj la senton, ke ili paŝas en pentraĵo kaj vivas en antikva ĉina urbo.
+La sekreto kuŝas en la parko Qingming Shanghe -- 40-hektara turisma zono, kiu rekreas la majstran pentraĵon Laŭlonge de la Rivero dum Qingming-festo, farita antaŭ pli ol 900 jaroj kaj agnoskita kiel memoraĵo de monda registro de UNESKO. La pentraĵo longas je 5.28 metroj kaj larĝas je 24.8 centimetroj, prezentante 814 homojn, 60 bestojn, 20 ŝipojn kaj 30 konstruaĵojn de la ĉefurbo Bianjing. En Kaifeng, ĉi tiu pentraĵo estas "pligrandigita" al vivanta antikva urbo, inkluzive artefaritan river-sistemon, antikvajn konstruaĵojn, komercan straton kaj centojn da vidindaĵoj kaj artaj spektakloj. Ĉiuj konstruaĵoj kaj arkitekturoj estas rekonstruitaj laŭ la pentraĵo kaj historiaj dokumentoj, tio donas al vizitantoj la senton, ke ili paŝas en pentraĵo kaj vivas en antikva ĉina urbo.
 
 Transhistoria  sperto
 
@@ -459,8 +425,6 @@ La leciono de Kaifeng: Malnova sed ne kaduka
 Sen terakota armeo kiel Xi'an, sen grandaj palacoj kiel Pekino, Kaifeng tamen allogas 105 milionojn vizitantojn en 2024. La sekreto estas transformi "mankon" en "unikon". Ĉe ili eble mankas veraj historiaj restaĵoj, sed ili rekreas "historiajn spertojn". Kaifeng pruvas, ke heredaĵo ne estas la sola ŝlosilo por sukceso en kultura turismo. Kreema rakontado, bone planitaj investoj kaj respekto al klienta sperto estas la vera "magio". Rezulte, la urbo iam forgesita nun fariĝis la ĉefa "sorĉisto" de la ĉina turisma industrio -- kie la pasinteco ne nur konserviĝas, sed ankaŭ... renaskiĝas.
 
 Verkita de BUI HAI MUNG (Vjetnamio)
-
-El Popola Chinio
 
 
 ---
@@ -481,8 +445,6 @@ Antaŭ la ceremonio por la 60-jariĝo de la aŭtonoma regiono, Xi Jinping aŭsk
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -498,8 +460,6 @@ Depost la fondiĝo de Xizang-a Aŭtonoma Regiono, la lokaj nemateriaj kulturaj h
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -514,8 +474,6 @@ El Popola Chinio
 Ĉe la 60-a datreveno de fondiĝo de Xizang-a Aŭtonoma Regiono, oni fotis la pontojn sur la rivero de Lasao, ĉefurbo de la regiono de Ĉinio.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -546,8 +504,6 @@ La migrado de la tibetaj antilopoj estas malfacila, survoje estas ĝenoj de akre
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -570,8 +526,6 @@ Sun Kunpeng, lektoro ĉe la Kolegio pri Financo kaj Impostado sub la Centra Univ
 De silko, teo kaj tradiciaj porcelanaĵoj ĝis fasonaj ĉinaj varoj, kulturaj kaj kreivaj produktoj kaj altteknologiaj produktoj, fremduloj havas pli da aĉeteblecoj en Ĉinio. Serio de optimumigaj aplikoj por foriraj impost-repagoj, inkluzive de diversaj pagmanieroj, glata faktur-eldono kaj rapidaj impostrepagaj procezoj, fariĝis alia grava faktoro por konsumado de fremdaj vizitantoj.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -608,7 +562,11 @@ Kiam mi mendas taksion, mi uzas popularajn aplikaĵojn. La aplikaĵoj montras in
 
 Cifereca sekureco kaj protekto en la cifereca vivo
 
+Kvankam la interreto en Ĉinio havas siajn proprajn limigojn, mi rimarkis, ke homoj tre konscias pri protektado de personaj informoj. En aliaj landoj, oni ofte vidas Facebook- aŭ Instagram-kontojn kun vera nomo kaj foto. Sed en Ĉinio oni tre malofte vidas tion, homoj ofte elektas bildon de desegnaĵo aŭ pejzaĝo kiel profilbildon, kaj anstataŭ la vera nomo, ili uzas kromnomojn. Ĉi tio helpas malpliigi la riskon de falsa identeco, fraŭdo kaj persona inform-ŝtelo.
+
 Ĉinaj Wechat-kontoj
+
+Pagaj platformoj kiel WeChat Pay aŭ Alipay enhavas plurajn tavolojn de sekureco -- vizaĝrekono, identec-kontrolo, OTP-kodoj… Ĉio ĉi donas al mi sekurecan senton dum ĉiutagaj transakcioj.
 
 Kompreneble, interretaj fraŭdoj ankoraŭ ekzistas -- samkiel ĉie en la mondo -- sed la maniero kiel Ĉinio traktas ilin, pere de antaŭzorga propagando kaj rapida reagado de la aŭtoritatoj, igas min senti min protektata, eĉ kiel fremdulo.
 
@@ -644,8 +602,6 @@ Se vi pensas pri translokiĝo, studado aŭ vojaĝado al Ĉinio, la sekureco -- a
 
 Verkita de Bui Hai Mung
 
-El Popola Chinio
-
 
 ---
 
@@ -673,8 +629,6 @@ En Ĉinio, pagodo iom post iom ligiĝis al la ĉina arkitektura tradicio kaj gaj
 
 Raportis kaj fotis: Rafael Henrique Zerbetto
 
-El Popola Chinio
-
 
 ---
 
@@ -690,17 +644,11 @@ La amaskomunikila centro por la memoreventoj pri la 80-a datreveno de la Venko d
 
 La amaskomunikila centro prizorgas gazetarajn akreditaĵojn kaj donas intervjuajn oportunojn por kaj ĉinaj kaj eksterlandaj ĵurnalistoj. Ĝi ankaŭ liveros teknikan subtenon, referenc-materialojn kaj helpon pri raportaj aferoj.
 
-La ligilo de la anglalingva versio de la retejo, vizitebla de eksterlandanoj, estas
-
-https://www.kzjn80.cn/english/index.html
-
-.
+La ligilo de la anglalingva versio de la retejo, vizitebla de eksterlandanoj, estas https://www.kzjn80.cn/english/index.html.
 
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -731,8 +679,6 @@ Laŭ datumoj de la Komerca Oficejo de Tianjin, en 2024 la totala importa kaj eks
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -751,8 +697,6 @@ Parolante en regula gazetara konferenco, la proparolanto de la ministerio Guo Ji
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -819,8 +763,6 @@ Forirante el Shouhengcheng, mi kunportis senton de kaj admiro kaj zorgo. La admi
 
 Shouhengcheng montris al mi alian bildon de Ĉinio: Ne nur pri supermodernaj urboj aŭ gigantaj infrastrukturoj, sed ankaŭ pri silenta peno modernigi agrikulturon, sektoro ligita al milionoj da homoj. Kaj eble, ĝuste tio estas la plej valora leciono: Transformi agribazaron en la "cerbon" de la tuta nutra sistemo, kie farmistoj, entreprenoj kaj konsumantoj ĉiuj profitas.
 
-El Popola Chinio
-
 
 ---
 
@@ -835,8 +777,6 @@ El Popola Chinio
 Frue de aŭtuno, Tianjin, situanta ĉe Bohai-golfo, fariĝis altira. Kiel ŝlosila enirejo al norda Ĉinio, Tianjin gastigos la solenan pintkunvenon de la Ŝanhaja Kunlabora Organizo (ŜKO) en la 31-a de aŭgusto kaj la 1-a de septembro. Gvidantoj el pli ol 20 landoj kaj 10 internaciaj organizoj ĉeestos la eventon. La 600-jaraĝa antikva urbo Tianjin atestos gravan momenton de unueco, interfido kaj interkonsento.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -879,8 +819,6 @@ Redaktoro: Xie Ruifeng
 
 *La aŭtoro estas analizisto pri internaciaj aferoj, speciale pri la rilatoj inter Ĉinio kaj Usono
 
-El Popola Chinio
-
 
 ---
 
@@ -896,19 +834,7 @@ El Popola Chinio
 
 Malnova sidejo de Universitato Lu Xun pri Literaturo kaj Arto
 
-La memorhalo estis konstruita surbaze de la sidejo de Universitato Lu Xun pri Literaturo kaj Arto, kiu funkciis kiel grava kunvenejo de kulturaj kaj artaj talentuloj dum la epoko de la ĉina rezistmilito kontraŭ japana agreso. Fondita de la Komunista Partio de Ĉinio (KPĈ) en Yan'an en 1938, la universitato kunigis elstarajn muzikistojn, kiel Xian Xinghai kaj Li Huanzhi, kaj aperigis klasikaĵojn kiel
-
-Odo al Yan'an
-
-,
-
-Kantato pri la Flava Rivero
-
-kaj
-
-Nanniwan
-
-, kiuj disvastiĝis tra la tuta lando.
+La memorhalo estis konstruita surbaze de la sidejo de Universitato Lu Xun pri Literaturo kaj Arto, kiu funkciis kiel grava kunvenejo de kulturaj kaj artaj talentuloj dum la epoko de la ĉina rezistmilito kontraŭ japana agreso. Fondita de la Komunista Partio de Ĉinio (KPĈ) en Yan'an en 1938, la universitato kunigis elstarajn muzikistojn, kiel Xian Xinghai kaj Li Huanzhi, kaj aperigis klasikaĵojn kiel Odo al Yan'an, Kantato pri la Flava Rivero kaj Nanniwan, kiuj disvastiĝis tra la tuta lando.
 
 En tiu periodo Yan'an estis la politika gvidcentro de la Ĉina Popola Rezistmilito kontraŭ Japana Agreso. Alvenis amasoj da junaj intelektuloj kaj reprezentantoj de diversaj sociaj rondoj, allogitaj de la alvoko de KPĈ por nacia savado. La poeto He Qifang priskribis jene: "La pordegoj de Yan'an malfermiĝas ĉiutage, kaj alvenas junuloj el diversaj direktoj kun dorsosakoj surŝulte kaj flamanta espero en la koro, enirante tra tiuj pordegoj..."
 
@@ -918,35 +844,17 @@ Dum la Ĉina Popola Rezistmilito kontraŭ Japana Agreso, Yan'an estis konata kie
 
 Taktobastono kaj plumo uzitaj de Xian Xinghai, eksponitaj en la mMemorhalo pri Literaturo kaj Arto de Yan'an.
 
-Tempo forpasis. En la memorhalo, flaviĝintaj fotoj kaj valoraj objektoj denove vivigas la heroajn tagojn. Inter la eksponaĵoj, kupra taktobastono farita en Francio altiras rigardon. Xian Xinghai plurfoje uzis ĝin direkti la prezentadon de
-
-Kantato pri la Flava Rivero
-
-.
+Tempo forpasis. En la memorhalo, flaviĝintaj fotoj kaj valoraj objektoj denove vivigas la heroajn tagojn. Inter la eksponaĵoj, kupra taktobastono farita en Francio altiras rigardon. Xian Xinghai plurfoje uzis ĝin direkti la prezentadon de Kantato pri la Flava Rivero.
 
 Xian Xinghai iam servis kiel direktoro de la muzika fako ĉe la universitato, kaj li estis unu el la elstaraj artistoj en Yan'an.
 
-En malluksa kaverno, Xian Xinghai kompletigis la partituron de
+En malluksa kaverno, Xian Xinghai kompletigis la partituron de Kantato pri la Flava Rivero en ses tagoj. En aprilo 1939 la prezentado premieris kaj akiris grandan sukceson. Zhou Enlai skribe honoris la verkon per la vortoj: "La kanto hurlas por la popolo kontraŭ japana agreso!"
 
-Kantato pri la Flava Rivero
+Ekde tiam, la majesta kanto eĥis laŭte tra la lando. Liu Meng, profesoro ĉe la Shaanxi-a Altlernejo pri Administra Gvidado en Yan'an, diris, ke en la jaro 1940 Kantato pri la Flava Rivero estis prezentita pli ol cent fojojn en la regiono de Shaanxi, Qahar kaj Hebei. Per la Flava Rivero kiel simbolo de la nacia spirito, la kanto eligis potencan batalvokon al la ĉina popolo.
 
-en ses tagoj. En aprilo 1939 la prezentado premieris kaj akiris grandan sukceson. Zhou Enlai skribe honoris la verkon per la vortoj: "La kanto hurlas por la popolo kontraŭ japana agreso!"
+En 1939 Xian Xinghai direktis studentojn de la universitato por prezenti Kantato pri la Flava Rivero.
 
-Ekde tiam, la majesta kanto eĥis laŭte tra la lando. Liu Meng, profesoro ĉe la Shaanxi-a Altlernejo pri Administra Gvidado en Yan'an, diris, ke en la jaro 1940
-
-Kantato pri la Flava Rivero
-
-estis prezentita pli ol cent fojojn en la regiono de Shaanxi, Qahar kaj Hebei. Per la Flava Rivero kiel simbolo de la nacia spirito, la kanto eligis potencan batalvokon al la ĉina popolo.
-
-En 1939 Xian Xinghai direktis studentojn de la universitato por prezenti
-
-Kantato pri la Flava Rivero
-
-.
-
-Kantato pri la Flava Rivero
-
-kaj aliaj kantoj reflektantaj la starpunkton de KPĈ, glorantaj la nacian spiriton kaj unuigantaj la popolon estis kreitaj de instruistoj kaj lernantoj de la universitato. Ili ludis gravan rolon en la mobilizado de la amasoj kaj en la rezisto kontraŭ la malamikoj, kaj ilia influo daŭras ĝis nun.
+Kantato pri la Flava Rivero kaj aliaj kantoj reflektantaj la starpunkton de KPĈ, glorantaj la nacian spiriton kaj unuigantaj la popolon estis kreitaj de instruistoj kaj lernantoj de la universitato. Ili ludis gravan rolon en la mobilizado de la amasoj kaj en la rezisto kontraŭ la malamikoj, kaj ilia influo daŭras ĝis nun.
 
 La universitato, kie artistoj eligis sian pasion, jam fariĝis loko por disvastigi patriotismon kaj daŭrigi la spiriton de Yan'an. Dum la lastaj dek jaroj, la memorhalo kolektis pli ol 30 000 kulturajn restaĵojn, historiajn dokumentojn kaj artverkojn, kaj rilataj ekspozicioj estis prezentitaj tra la tuta lando. Sur la historia ejo de la universitato fondiĝis la Arta Centro pri Gravuraĵo en Yan'an, kiu transformiĝis en impona kaj interaktiva edukbazo por ideologia kaj politika instruado, alloginte pli ol 100 000 vizitantojn por artkreado kaj studado…
 
@@ -955,8 +863,6 @@ En la lastaj jaroj, la malnova sidejo akceptis averaĝe 540 000 vizitantojn jare
 "Dum pli ol sep jaroj en Yan'an, la universitato organizis ampleksajn aktivadojn inkluzive de rezistmilitaj kantoj, teatraĵoj kaj literaturaĵoj, kaj kreis multajn senmortajn verkojn. Post fondiĝo de la Ĉina Popola Respubliko, multaj ĝiaj artistoj kaj verkistoj fariĝis gvidaj figuroj en la kultura kaj arta vivo de nia lando," klarigis Liu Shuanping. Li aldonis, ke hodiaŭ la plej bona omaĝo al la pioniroj estas pli efike disvastigi la ruĝan kulturon kaj permesi al pli da homoj eligi saĝecon kaj akiri forton el la historio de la universitato.
 
 Redaktoro: Sheng Min
-
-El Popola Chinio
 
 
 ---
@@ -977,8 +883,6 @@ La ekspozicio estas kune organizita de la Artgalerio de la Novaĵagentejo Xinhua
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -997,8 +901,6 @@ Pli ol 100 specojn de plantoj estis aranĝitaj en 10 aroj da florbedoj, kun la t
 La ornamaĵoj restos en la sama loko post la parado kaj daŭros ĝis la Nacia Tago en oktobro.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---

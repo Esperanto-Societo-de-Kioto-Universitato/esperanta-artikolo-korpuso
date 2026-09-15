@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-09-15T11:04:52.459660+00:00"
+generated_at: "2026-09-15T13:49:03.234071+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-08-03 – 2026-08-12"
 ---
@@ -58,8 +58,6 @@ Jingdezhen, per sia porcelano, formis estetikojn, inspiris metiistojn kaj ornami
 
 Verkis kaj fotis: Rafael Henrique Zerbetto
 
-El Popola Chinio
-
 
 ---
 
@@ -95,37 +93,13 @@ Nuntempe, ekster Ĉinio, la lingvo pluvivas danke al sendependaj komunumoj kaj a
 
 Avantaĝoj longdaŭraj
 
-La Ĉina Popola Respubliko estis fondita en 1949, la revuo
+La Ĉina Popola Respubliko estis fondita en 1949, la revuo El Popola Ĉinio en 1950, kaj la Ĉina Esperanto-Ligo en 1951. La Ĉina Esperanto-Ligo nun celebras, dum la kongreso en Graz, sian 75-an datrevenon per ekspozicio, kiu rakontas ĝian historion. Ĉirkaŭ la turno de la jarmilo, El Popola Ĉinio ĉesis esti eldonata papere kaj debutis en interreto. Yu Tao, vicprezidanto de CICG, en sia parolado dum la programero Esperanto kaj Ĉinio de la ĉijara UK, atentigis la ĉeestantojn pri tio, ke El Popola Ĉinio ĉiam estis konsiderata "la plej bela revuo en la esperantista mondo".
 
-El Popola Ĉinio
-
-en 1950, kaj la Ĉina Esperanto-Ligo en 1951. La Ĉina Esperanto-Ligo nun celebras, dum la kongreso en Graz, sian 75-an datrevenon per ekspozicio, kiu rakontas ĝian historion. Ĉirkaŭ la turno de la jarmilo,
-
-El Popola Ĉinio
-
-ĉesis esti eldonata papere kaj debutis en interreto. Yu Tao, vicprezidanto de CICG, en sia parolado dum la programero Esperanto kaj Ĉinio de la ĉijara UK, atentigis la ĉeestantojn pri tio, ke
-
-El Popola Ĉinio
-
-ĉiam estis konsiderata "la plej bela revuo en la esperantista mondo".
-
-Antaŭ dek jaroj, intervjuante Luiz Fernando Dias Pita, profesoro pri latina lingvo ĉe la Ŝtata Universitato de Rio-de-Ĵanejro kaj membro de la Akademio de Esperanto, mi aŭdis de li la samon. Pita interesiĝis pri Esperanto dum vizito al ekspozicio pri la lingvo en biblioteko, en 1983, kaj la publikaĵo, kiu plej altiris lian atenton, estis ĝuste
-
-El Popola Ĉinio
-
-: "Dum la aliaj estis nigre-blankaj, ĝi estis tute kolora, kun multaj fotoj kaj presita sur altkvalita papero."
+Antaŭ dek jaroj, intervjuante Luiz Fernando Dias Pita, profesoro pri latina lingvo ĉe la Ŝtata Universitato de Rio-de-Ĵanejro kaj membro de la Akademio de Esperanto, mi aŭdis de li la samon. Pita interesiĝis pri Esperanto dum vizito al ekspozicio pri la lingvo en biblioteko, en 1983, kaj la publikaĵo, kiu plej altiris lian atenton, estis ĝuste El Popola Ĉinio: "Dum la aliaj estis nigre-blankaj, ĝi estis tute kolora, kun multaj fotoj kaj presita sur altkvalita papero."
 
 Investante en tiu publikaĵo kaj en tiu niĉo de la merkato, Ĉinio fariĝis ekzemplo de eldona elstareco kaj altkvalitaj publikaĵoj en niĉo, kie ĝi kapablis pruvi sin konkurenciva, eĉ en epoko, kiam la plimulto de ĝiaj eksportaĵoj estis nekapablaj konkuri, laŭ kvalito, kun siaj eksterlandaj rivaloj. Investante en Esperanto, Ĉinio investis en sia propra internacia bildo kaj fariĝis monda referenco en iu kampo.
 
-Tiu historia elstareco de
-
-El Popola Ĉinio
-
-, siavice, kune kun la ŝtata subteno kaj la fakto, ke ĝi havas profesian teamon de Esperantaj tradukistoj kaj redaktistoj, ebligis la subskribon, en 2020, de interkonsento kun UNESKO por eldoni la esperantan version de "UNESKO-
-
-Kuriero
-
-", kaj en cifereca kaj en papera formoj.
+Tiu historia elstareco de El Popola Ĉinio, siavice, kune kun la ŝtata subteno kaj la fakto, ke ĝi havas profesian teamon de Esperantaj tradukistoj kaj redaktistoj, ebligis la subskribon, en 2020, de interkonsento kun UNESKO por eldoni la esperantan version de "UNESKO-Kuriero", kaj en cifereca kaj en papera formoj.
 
 Estis ankaŭ danke al Esperanto, ke mi aliris la unuajn ĉinajn librojn, kiujn mi legis, preskaŭ jardekon antaŭ ol mia translokiĝo al Pekino. La Esperanta komunumo ja ne estas tiom granda, sed ĝi elstaras laŭ kapablo disvastigi informojn tra la mondo: kion mi lernis legante la ĉinan literaturon kaj filozofion, iel fariĝis temo de konversacioj kun amikoj kaj influis miajn akademiajn verkojn. Hodiaŭ mi tradukas kaj revizias ĉinajn librojn celantajn la brazilan kaj la Esperantan komunumojn. Kaj ĉio ĉi komenciĝis, kiam mi decidis lerni Esperanton.
 
@@ -138,8 +112,6 @@ Estas okulfrapa la fakto, ke kaj Ĉinio kaj la Esperanta movado, kompare kun cet
 En sia parolado, Yu Tao emfazis, ke "ĉinaj kaj alilandaj esperantisto-volontuloj, generacio-post-generacie, transdonas la verdan torĉon, konstruas interŝanĝajn platformojn. Tio estas viveca montrado de la origina aspiro de nia internacia lingvo: universala frateco kaj amikeca kunekzistado". Tiu ĉi parolo evidentigas, kiom la mondkoncepto de Ĉinio, forĝita per la interŝanĝoj de la Silka Vojo, per la spirito de unuiĝo kaj solidareco forĝita de la Longa Marŝo kaj de la lukto kontraŭ la japana invado, kaj per idealo de harmonio kaj paco enradikiĝinta en kultura heredaĵo – kiu sintezas konfuceismon, taoismon kaj aliajn tradiciojn – havas idealon proksiman al la pacema kaj homama idealo de Esperanto."
 
 Verkis: Rafael Henrique Zerbetto
-
-El Popola Chinio
 
 
 ---
@@ -164,11 +136,7 @@ En sia parolado, Yu Tao diris, ke la kongresa temo "Volontulado en la servo al d
 
 SO Jinsu parolas dum "Esperanto kaj Ĉinio". (fotita de Huang Xiaolong)
 
-SO Jinsu alte taksis la agadon "Esperanto kaj Ĉinio" en la kongreso de Graz, kaj plene agnoskis la daŭrajn pozitivajn kontribuojn de ĉinaj esperantistoj al la internacia Esperanto-movado. Li diris, ke la volontulaj agadoj en la kampo de Esperanto en Ĉinio starigis bonan ekzemplon por la tuta mondo. Ĉu temas pri la tradukado kaj eldonado de la revuo UNESKO-
-
-Kuriero
-
-, ĉu pri la organizado de diversaj internaciaj Esperanto-agadoj — ĉio tio plene montras la altan profesian kompetentecon kaj sindoneman spiriton de ĉinaj esperantistoj. Li esprimis esperon, ke ĈEL kaj UEA daŭre profundigos praktikan kunlaboron, kune ludigos la unikan pontan rolon de Esperanto, antaŭenigos transkulturan interŝanĝon kaj volontulan servon, kaj kune kontribuos al la realigo de la Celoj de Daŭripova Evoluigo.
+SO Jinsu alte taksis la agadon "Esperanto kaj Ĉinio" en la kongreso de Graz, kaj plene agnoskis la daŭrajn pozitivajn kontribuojn de ĉinaj esperantistoj al la internacia Esperanto-movado. Li diris, ke la volontulaj agadoj en la kampo de Esperanto en Ĉinio starigis bonan ekzemplon por la tuta mondo. Ĉu temas pri la tradukado kaj eldonado de la revuo UNESKO-Kuriero, ĉu pri la organizado de diversaj internaciaj Esperanto-agadoj — ĉio tio plene montras la altan profesian kompetentecon kaj sindoneman spiriton de ĉinaj esperantistoj. Li esprimis esperon, ke ĈEL kaj UEA daŭre profundigos praktikan kunlaboron, kune ludigos la unikan pontan rolon de Esperanto, antaŭenigos transkulturan interŝanĝon kaj volontulan servon, kaj kune kontribuos al la realigo de la Celoj de Daŭripova Evoluigo.
 
 Prezidanto de la loka kongresa komitato de Graz, Ewald Schick, varme bonvenigis la okazigon de "Esperanto kaj Ĉinio". Li emfazis, ke kiel historia kaj kultura urbo, Graz estas honorita gastigi la kulturan montron de ĉinaj esperantistoj. Samtempe okazanta ekspozicio de fotoj memoriganta la 55-an datrevenon de la starigo de diplomatiaj rilatoj inter Ĉinio kaj Aŭstrio retrorigardis la vojon de amikeco inter la du landoj kaj malfermis novan ĉapitron de homaj interŝanĝoj. La volontula spirito konstruas pontojn por dialogo inter civilizacioj; diversecaj kaj inkluzivaj intercivilizaciaj interŝanĝoj certe kontribuos al monda paco kaj komuna prospero.
 
@@ -182,11 +150,7 @@ Yu Tao kaj Yang Jianping donacas librojn al la Esperanto-Muzeo de la Aŭstria Na
 
 Dum la agado, oni projekciis specialan filmeton pri la ĉina Esperanto-movado en 2026. Gong Xiaofeng prezentis la funkciigan modelon de la interreta Esperanto-legklubo kaj la praktikan sperton pri lingvoinstruado. Jiao Xiyang, per surloka prezentado kaj prelego, rakontis al esperantistoj el diversaj landoj pri sia persona sperto de transkulturaj interŝanĝoj pere de Tajĝiĉjuano, kaj klarigis la orientan filozofion enhavitan en la ĉina Tajĝi-kulturo.
 
-Yu Tao dankas la volontulojn de UNESKO-
-
-Kuriero
-
-. (fotita de Huang Xiaolong)
+Yu Tao dankas la volontulojn de UNESKO-Kuriero. (fotita de Huang Xiaolong)
 
 Yang Jianping publikigas la Esperantan version de "Ŝlosila Vortoj por Kompreni Ĉinion: Origino kaj Nuntempa Signifo de Ĉina Filozofio".
 
@@ -197,8 +161,6 @@ La partoprenantoj diris, ke la programo "Esperanto kaj Ĉinio" de la kongreso es
 Komuna foto de la partoprenantoj (fotita de Huang Xiaolong)
 
 La 111-a Universala Kongreso de Esperanto okazas de la 1-a ĝis la 8-a de aŭgusto 2026 en Graz, Aŭstrio, kun la temo "Volontulado en la servo al daŭripova evoluigo". "Esperanto kaj Ĉinio" estas marka eksterlanda komunikada programo kreita de ĈEL sub ĈIKG. Ekde sia fondiĝo en 2009, ĝi dediĉas sin al montro de elstara ĉina kulturo kaj antaŭenigo de intercivilizaciaj interŝanĝoj inter Ĉinio kaj aliaj landoj. Dum pli ol dek jaroj, la agado, per sia zorge planita enhavo kaj diversecaj prezentformoj, rikoltis vastan aplaŭdon de esperantistoj el la tuta mondo, kaj ĝia marka altireco daŭre kreskas.
-
-El Popola Chinio
 
 
 ---
@@ -227,8 +189,6 @@ Ambaŭ lertas en uzado de buntaj ceramikaj fragmentoj, kaheloj kaj aliaj materia
 
 Redaktoro: Liu Zijia
 
-El Popola Chinio
-
 
 ---
 
@@ -256,11 +216,7 @@ La du katoj de s-ino Wang: Luna (maldekstre) kaj Doudou (dekstre) (Fotita de Wan
 
 Kial ĝuste nun?
 
-Se oni nur rigardas la kreskon de la dorlotbesta merkato, oni povus pensi, ke la ĉefa kialo estas simple la pliiĝo de vivnivelo. Sed enspezoj nur kreas la kondiĉojn. La pli profunda kialo troviĝas en la ŝanĝiĝanta familia strukturo kaj urba vivmaniero. Ĉinaj familioj fariĝas pli malgrandaj. Multaj junuloj geedziĝas pli malfrue, vivas solaj aŭ elektas ne havi infanojn. Laŭ raporto de
-
-Goldman Sachs
-
-, en 2024 la nombro de dorlotbestoj en Ĉinio jam superis la nombron de infanoj, kaj ĝis 2030 ĝi povus esti preskaŭ duobla. Tio ne signifas, ke dorlotbestoj anstataŭas infanojn. Ĝi montras, ke la formoj de familio kaj la bezono de kunuleco fariĝas pli diversaj.
+Se oni nur rigardas la kreskon de la dorlotbesta merkato, oni povus pensi, ke la ĉefa kialo estas simple la pliiĝo de vivnivelo. Sed enspezoj nur kreas la kondiĉojn. La pli profunda kialo troviĝas en la ŝanĝiĝanta familia strukturo kaj urba vivmaniero. Ĉinaj familioj fariĝas pli malgrandaj. Multaj junuloj geedziĝas pli malfrue, vivas solaj aŭ elektas ne havi infanojn. Laŭ raporto de Goldman Sachs, en 2024 la nombro de dorlotbestoj en Ĉinio jam superis la nombron de infanoj, kaj ĝis 2030 ĝi povus esti preskaŭ duobla. Tio ne signifas, ke dorlotbestoj anstataŭas infanojn. Ĝi montras, ke la formoj de familio kaj la bezono de kunuleco fariĝas pli diversaj.
 
 Kun la progreso de urbaniĝo, pli kaj pli da junuloj vivas solaj en malgrandaj apartamentoj kaj pasigas grandan parton de sia tempo ĉe laboro. Post longa labortago, la unua "persono", kiu atendas ilin ĉe la pordo, foje ne estas familiano, sed kato aŭ hundo. Tiu ĉi konstanta ĉeesto igas dorlotbestojn grava parto de la emocia vivo. Tiu tendenco ankaŭ rilatas al la disvolviĝo de la tiel nomata "emocia ekonomio". Se antaŭe konsumado ĉefe celis materialajn bezonojn, hodiaŭ multaj junuloj pretas elspezi monon por spertoj, kiuj alportas ripozon, ligon kun aliaj kaj emocian ekvilibron. De vojaĝoj kaj koncertoj ĝis dorlotbestaj servoj, la komuna punkto estas la emocia valoro, kiun ili donas.
 
@@ -268,19 +224,11 @@ Dum vojaĝoj, mi multfoje renkontiĝas kun hundoj, kiuj vojaĝas kune kun siaj m
 
 La fakto, ke dorlotbestoj estas traktataj kiel familianoj, videblas ankaŭ en ilia sanprizorgo. Laŭ bestkuracisto Zhang Hongxin, posedantoj iom post iom ŝanĝas sian konduton: de kuracado post malsaniĝo al antaŭzorgo. Vakcinado, kontraŭparazita prizorgo kaj regulaj sanekzamenoj fariĝis ĉiam pli oftaj, precipe inter junaj urbaj posedantoj. La postulo je altnivelaj bestkuracaj servoj ankaŭ rapide kreskas. Pli da posedantoj elektas precizan diagnozon per bildigaj teknikoj, kompleksajn operaciojn aŭ longtempan kuracadon. Se grava malsano povas postuli milojn aŭ eĉ dekmilojn da juanoj. La fakto, ke multaj homoj akceptas tiajn elspezojn, montras gravan ŝanĝon: dorlotbestoj ne plu estas konsiderataj facile anstataŭeblaj posedaĵoj, sed vivantaj estaĵoj bezonantaj zorgon kaj protekton.
 
-Alia rimarkinda ŝanĝo estas la kreskanta populareco de katoj kompare kun hundoj. Laŭ la
-
-Ĉina Blanka Libro pri Dorlotbesta Industrio de 2025
-
-, en urbaj regionoj Ĉinio havas ĉirkaŭ 72.9 milionojn da dorlotataj katoj, multe pli ol 53.4 milionoj da hundoj. Tiu elekto estas proksime ligita al la urba vivmedio. Katoj pli bone adaptiĝas al malgrandaj apartamentoj, ne bezonas ĉiutagan promenigon kaj estas malpli tuŝitaj de la pli striktaj reguloj pri hunda bredado en multaj urboj. La fakto, ke katoj superas hundojn laŭ nombro, do ne estas nur ŝanĝo de prefero. Ĝi montras, ke la loĝspaco kaj la ritmo de urba vivo influas la elektojn de homoj. Se hundoj iam estis ligitaj kun domoj kun kortoj, hodiaŭ katoj fariĝis ofta bildo en la apartamentoj de la grandaj ĉinaj urboj.
+Alia rimarkinda ŝanĝo estas la kreskanta populareco de katoj kompare kun hundoj. Laŭ la Ĉina Blanka Libro pri Dorlotbesta Industrio de 2025, en urbaj regionoj Ĉinio havas ĉirkaŭ 72.9 milionojn da dorlotataj katoj, multe pli ol 53.4 milionoj da hundoj. Tiu elekto estas proksime ligita al la urba vivmedio. Katoj pli bone adaptiĝas al malgrandaj apartamentoj, ne bezonas ĉiutagan promenigon kaj estas malpli tuŝitaj de la pli striktaj reguloj pri hunda bredado en multaj urboj. La fakto, ke katoj superas hundojn laŭ nombro, do ne estas nur ŝanĝo de prefero. Ĝi montras, ke la loĝspaco kaj la ritmo de urba vivo influas la elektojn de homoj. Se hundoj iam estis ligitaj kun domoj kun kortoj, hodiaŭ katoj fariĝis ofta bildo en la apartamentoj de la grandaj ĉinaj urboj.
 
 Dorlotbestoj ŝanĝas la familian vivon
 
-Kiam dorlotbestoj fariĝis familianoj, ankaŭ la ĉiutaga vivo de homoj komencas ŝanĝiĝi. Pli kaj pli da homoj konsideras siajn dorlotbestojn, kiam ili elektas loĝejon, planas vojaĝojn aŭ aranĝas sian labortempon. Servoj kiel dorlotbestaj hoteloj, hejma prizorgado kaj transportado de bestoj rapide disvolviĝas por respondi al novaj bezonoj. Por multaj familioj, elspezoj por dorlotbestoj jam fariĝis regula parto de la familia buĝeto, simile al elspezoj por sano aŭ distro. Laŭ la
-
-Ĉina Blanka Libro pri Dorlotbesta Industrio de 2025
-
-, la konsuma merkato de hundoj kaj katoj en urbaj regionoj atingis ĉirkaŭ 312.6 miliardojn da juanoj.
+Kiam dorlotbestoj fariĝis familianoj, ankaŭ la ĉiutaga vivo de homoj komencas ŝanĝiĝi. Pli kaj pli da homoj konsideras siajn dorlotbestojn, kiam ili elektas loĝejon, planas vojaĝojn aŭ aranĝas sian labortempon. Servoj kiel dorlotbestaj hoteloj, hejma prizorgado kaj transportado de bestoj rapide disvolviĝas por respondi al novaj bezonoj. Por multaj familioj, elspezoj por dorlotbestoj jam fariĝis regula parto de la familia buĝeto, simile al elspezoj por sano aŭ distro. Laŭ la Ĉina Blanka Libro pri Dorlotbesta Industrio de 2025, la konsuma merkato de hundoj kaj katoj en urbaj regionoj atingis ĉirkaŭ 312.6 miliardojn da juanoj.
 
 Tamen, la signifo de tiu nombro ne kuŝas nur en la grandeco de la merkato. Ĝi montras ŝanĝon en la maniero, kiel homoj elektas elspezi sian monon. Se antaŭe la familia buĝeto ĉefe estis uzata por loĝejo aŭ longdaŭraj havaĵoj, hodiaŭ pli kaj pli da homoj pretas investi en spertoj, kiuj alportas emocian ligon kaj internan ekvilibron. Kiel bestkuracisto Zhang Hongxin rimarkis, la disvolviĝo de la dorlotbesta merkato ne nur devenas de la kresko de la nombro de posedantoj, sed ankaŭ de tio, ke posedantoj pretas pli multe investi en la sano kaj vivkvalito de siaj bestoj. Tio montras gravan ŝanĝon en la pensmaniero: dorlotbestoj ne plu estas simple anstataŭigeblaj objektoj, sed vivantaj estaĵoj bezonantaj longtempan zorgadon. La dorlotbesta merkato ne kreis la ŝanĝon de la familio; male, la ŝanĝo de la familio kreis la dorlotbestan merkaton.
 
@@ -300,8 +248,6 @@ La infanĉareto kun kato en komerca centro eble surprizus multajn homojn antaŭ 
 
 Verkis kaj fotis: Bui Hai Mung
 
-El Popola Chinio
-
 
 ---
 
@@ -320,8 +266,6 @@ Yang Jianping prezentas la Esperantan version de "Ŝlosilaj Vortoj por Kompreni 
 Yang Jianping oficiale anoncis la aperon de la Esperanta versio de "Ŝlosilaj Vortoj por Kompreni Ĉinion: Origino kaj Nuntempa Signifo de Ĉina Filozofio". Li diris, ke la serio "Ŝlosilaj Vortoj por Kompreni Ĉinion" estas aŭtoritata kaj populara legaĵo, kiu helpas al la internacia komunumo kompreni la vojon de Ĉinio, la ĉinan kulturon kaj la ĉinajn ideojn. Inter ili, "Ŝlosilaj Vortoj por Kompreni Ĉinion: Origino kaj Nuntempa Signifo de Ĉina Filozofio" nun haveblas en 15 lingvaj versioj. La nove elbakia Esperantlingva eldono estas grava aldono al la multlingva familio de tiu ĉi libro. Li emfazis, ke utiligi Esperanton por disvastigi la ĉinajn civilizaciajn ideojn, kiuj havas profundan historian bazon, estas samtempe kaj plenumo de la origina misio de Esperanto — nome la serĉado de egaleco, inkluziveco kaj homara solidareco — kaj ankaŭ noviga komunikada praktiko, kiu pere de tiu ĉi neŭtrala internacia lingvo transdonas al la tutmonda publiko la spiritan esencon de la ĉina civilizacio.
 
 La serio "Ŝlosilaj Vortoj por Kompreni Ĉinion" estas ŝlosila publika scioprodukto de internacia komunikado kreita de la Ĉina Internacia Komunika Grupo, kaj estas rigardata kiel "punkto de ekiro por ke la mondo komprenu Ĉinion en la nova epoko". Ĝis nun ĝi haveblas en 20 lingvaj versioj kaj estas distribuata en pli ol 50 landoj. La Esperanta eldono de "Ŝlosilaj Vortoj por Kompreni Ĉinion: Origino kaj Nuntempa Signifo de Ĉina Filozofio", eldonita de la Novmonda Eldonejo (New World Press), plue riĉigas la Esperantan bibliotekon kaj provizas gravajn legomaterialojn al esperantistoj tra la tuta mondo por kompreni la valor-konceptojn de nuntempa Ĉinio.
-
-El Popola Chinio
 
 
 ---
@@ -343,8 +287,6 @@ Yu Tao kaj Yang Jianping (vicprezidanto de ĈEL kaj direktoro de la Ĉina Azia-P
 La donacitaj libroj inkludas "Ŝlosilajn Vortojn por Kompreni Ĉinion: Reciproka Lernado inter Civilizacioj" (ĉin-Esperanta versio) eldonitan de Flor-eldonejo (Blossom Press) kaj "Ŝlosilajn Vortojn por Kompreni Ĉinion: Origino kaj Nuntempa Signifo de Ĉina Filozofio" (ĉin-Esperanta versio) eldonitan de la Novmonda Eldonejo (New World Press). Tiuj du verkoj, en dulingva formo ĉin-Esperanta, klare kaj komprenige eksplikas la kernajn ideojn kaj valorojn de la ĉina civilizacio, provizante gravan lingvan ponton al eksterlandaj legantoj por kompreni la ĉinan kulturon. Krome, ankaŭ la Esperanta versio de la revuo UNESKO-Kuriero, tradukita kaj eldonita de la Ĉina Azia-Pacifika Centro de la Ĉina Internacia Komunika Grupo kaj la Ĉina Esperanto-Ligo, estis samtempe donacita al la muzeo, plue riĉigante la kolekton kaj helpante montri la multkulturan ekosistemon el tutmonda perspektivo per Esperanto.
 
 La Esperanto-Muzeo de la Aŭstria Nacia Biblioteko estas la plej malnova lingva muzeo en la mondo, kiu kolektas kaj prezentas diversajn amaskomunikilajn materialojn kaj aĵojn rilatajn al Esperanto kaj interlingvistiko. Tiu ĉi librodonaco ne nur reflektas la profundan amikecon inter Ĉinio kaj Aŭstrio en la kampo de Esperanto, sed ankaŭ malfermas novan fenestron al la loka publiko kaj internaciaj Esperanto-entuziasmuloj por kompreni la disvolviĝajn ideojn de nuntempa Ĉinio.
-
-El Popola Chinio
 
 
 ---
@@ -383,8 +325,6 @@ La Komitato ankaŭ elektis kiel Honoran Prezidanton de UEA je lia memoro Probal 
 
 Por decidi la Komitato anticipe kaj konfidence ricevis resumajn vivpriskribojn kaj informojn pri la gravaj datoj, verkoj kaj meritoj de la kandidatoj, nun publike arkivitajn en la komitata elŝutejo de UEA:  https://uea.org/teko/komitato.
 
-El Popola Chinio
-
 
 ---
 
@@ -408,8 +348,6 @@ Xi'an daŭre efektivigos la "tri-jaran agadplanon por protekti sovaĝajn birdojn
 
 Xi'an, kun pli firma decidemo kaj pli fortaj rimedoj, gardos ĉiun flugantan birdon kaj desegnos belan bildon de harmonio inter homo kaj naturo.
 
-El Popola Chinio
-
 
 ---
 
@@ -424,8 +362,6 @@ El Popola Chinio
 Laŭ la loka tempo la 5-an de aŭgusto okazis libro-prezento por la kvina volumo de "Xi Jinping: Regado de Ĉinio" en Duŝanbeo, ĉefurbo de Taĝikio. La temo de la evento estas "Kune antaŭenigi modernigon kaj konstrui ĉin-taĝikan komunumon de komuna estonteco".
 
 Redaktoro: Gao Shuyuan
-
-El Popola Chinio
 
 
 ---
@@ -458,8 +394,6 @@ Esperantigis: Rafael Henrique Zerbetto
 
 Fonto: Beijing Service
 
-El Popola Chinio
-
 
 ---
 
@@ -473,11 +407,7 @@ El Popola Chinio
 
 **Categories:** Plej Freŝaj
 
-Mi unuafoje informiĝis pri la historia batalo de Lazikou en 2021 dum legado de la libron
-
-Ruĝa Stelo super Ĉinio
-
-de Edgar Snow. La aŭtoro detale priskribas, kiel la ĉina Ruĝa Armeo, enirinte en la provincon Gansu, troviĝis en mallarĝa ravino, inter klifoj kaj dividante la spacon kun la forta fluo de la rivero Lazikou.
+Mi unuafoje informiĝis pri la historia batalo de Lazikou en 2021 dum legado de la libron Ruĝa Stelo super Ĉinio de Edgar Snow. La aŭtoro detale priskribas, kiel la ĉina Ruĝa Armeo, enirinte en la provincon Gansu, troviĝis en mallarĝa ravino, inter klifoj kaj dividante la spacon kun la forta fluo de la rivero Lazikou.
 
 Pentraĵo pri la Ruĝa Armeo apud la aŭtovojo al Lazikou
 
@@ -539,8 +469,6 @@ Sed la plej granda leciono estas, ke kiam la tradicia vojo por transiri Lazikou 
 
 Verkis: Rafael Henrique Zerbetto
 
-El Popola Chinio
-
 
 ---
 
@@ -555,8 +483,6 @@ El Popola Chinio
 Somere en Baiyangdian-lago de la Nova Areo Xiong'an, Hebei-provinco, lotusfloroj pompas en klara akvo, montrante la belecon de harmonio inter homoj kaj naturo. Post la establo de la Nova Areo Xiong'an, Baiyangdian-lago spertis grandskalan sisteman eko-restarigon. La akvokvalito boniĝis, kaj viciĝis en la aro de klarakvaj lagoj de Ĉinio.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---

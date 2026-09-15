@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-09-15T10:54:36.806347+00:00"
+generated_at: "2026-09-15T13:49:03.004978+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-06-04 – 2025-06-30"
 ---
@@ -16,27 +16,15 @@ time_range: "2025-06-04 – 2025-06-30"
 
 Shang-dinastio (1600 a.K.-1046 a.K.), la unua dinastio de Ĉinio konfirmita per arkeologiaj pruvoj kaj skribaj registroj, estis sinsekve gvidata de 31 reĝoj en pli ol 500 jaroj kaj markis ne nur la pinton de la bronza epoko en Ĉinio, kaj ludis ŝlosilan rolon en formigo de la frua ĉina civilizacio kaj ŝtato. La plej antikvaj praformoj de ĉinaj signoj, gravuritaj sur bronzaĵoj, ostoj kaj testudaj karapacoj, estas de tiu dinastio. Jen kelkaj interesaj antikvaĵoj de Shang-dinastio videblaj en speciala ekspozicio en la pekina Muzeo de la Granda Kanalo (orienta branĉo de la Ĉefurba Muzeo).
 
-Bronza
+Bronza Zun (vinujo) en formo de gufo
 
-Zun
-
-(vinujo) en formo de gufo
-
-Kompleto de tri bronzaj sonoriloj
-
-Nao
+Kompleto de tri bronzaj sonoriloj Nao
 
 Antikvaj skribaĵoj sur osto
 
-Antikva bronza
-
-Yue
-
-(ceremonia hakilo) kun ŝablono de besta masko
+Antikva bronza Yue (ceremonia hakilo) kun ŝablono de besta masko
 
 Raportis kaj fotis: Rafael Henrique Zerbetto
-
-El Popola Chinio
 
 
 ---
@@ -58,8 +46,6 @@ La ekspozicio unuafoje aranĝis zonon pri malalt-altituda ekonomio, kun kvin sub
 Partoprenantoj deziras efektivigi pli da projektoj kaj kunlaboraj kontraktoj, tio estas ankaŭ la celo de la ekspozicio. La datumoj jam atestas la fruktodonajn rezultojn de la ekspozicio: Ekde la okazigo de la ekspozicio, la totala investo de 56.776 miliardoj da usonaj dolaroj estis subskribita en kontraktoj por eksterlande financaj projektoj, kaj la totala investo de 9 713.925 miliardoj da juanoj estis subskribita en kontraktoj por enlandaj kunlaboraj projektoj.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -84,8 +70,6 @@ Iuj retanoj diris: "La aktiveco estas signifoplena. La infanoj povas heredi la t
 
 Redaktoro: Liu Zijia
 
-El Popola Chinio
-
 
 ---
 
@@ -100,8 +84,6 @@ El Popola Chinio
 En la lastaj jaroj, la modludila marko Pop Mart el Ĉinio rapide akiris popularecon en la eŭropa merkato. Fondita en 2010, ĝi kreskis de eta marko ĝis ĉefflua kultura fenomeno fervore sekvata de junuloj. Ĝiaj produktoj, kun treege rekoneblaj dezajnoj, famiĝis tutmonde.
 
 Redaktoro: Liu Zijia
-
-El Popola Chinio
 
 
 ---
@@ -139,8 +121,6 @@ La kvinageneracia farmisto Rick Kimberly rigardas terkultivadon ne nur kiel kome
 Randy Renze, duon-emerita farmisto el Manning, Iovao, kaj iama oficisto de John Deere, iam vojaĝis inter Usono kaj Ĉinio dum la jaroj por konstrui rilatojn kun entreprenoj kaj la registaro."Tarifoj kostas al la usona farmisto," diris Renze. Kvankam la 90-taga paŭzo iomete malaltigis la tarifojn, li rimarkigis, ke ili ankoraŭ estas multe super antaŭaj niveloj.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -201,8 +181,6 @@ Sur la modernaj vojoj de Xinjiang, trajnoj kaj kamionoj anstataŭas kamelojn kaj
 
 Verkis: Rafael Henrique Zerbetto
 
-El Popola Chinio
-
 
 ---
 
@@ -219,8 +197,6 @@ La 6-an de junio ĉina prezidanto Xi Jinping ricevis aŭdiencon de Panchen Erde
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -243,8 +219,6 @@ Donald Trump esprimis grandan respekton al prezidanto Xi Jinping kaj diris, ke l
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -263,8 +237,6 @@ La unua kunveno de la mekanismo pri ĉin-usona ekonomia kaj komerca interkonsili
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -289,8 +261,6 @@ Ekranego montras realtempan monitoradon de la medio.
 
 Raportis kaj fotis: Rafael Henrique Zerbetto
 
-El Popola Chinio
-
 
 ---
 
@@ -313,8 +283,6 @@ La tre atendata komerca intertraktado okazas nur kelkajn tagojn post telefona ko
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -349,8 +317,6 @@ La sekva agado estas grava. Ĝi devus esti mezurita, principa kaj inteligenta.
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -371,8 +337,6 @@ Li esprimis esperon, ke la progreso de la londona kunveno helpos plifortigi konf
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -395,8 +359,6 @@ Li faris la rimarkojn en la unua kunveno de la mekanismo pri ĉin-usona ekonomia
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -415,8 +377,6 @@ Ekde la unua Pintkunveno inter Ĉinio kaj Centra Azio, kunlaboro inter Ĉinio ka
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -437,8 +397,6 @@ Laŭ statistiko de doganoj, la importado kaj eksportado de Ĉinio al la kvin c
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -453,8 +411,6 @@ El Popola Chinio
 Astano estas la ĉefurbo de Kazaĥio, kun mirindaj vidindaĵoj kaj pejzaĝoj. Somere Astano havas smeraldan ĉielon, pompajn florojn kaj aparte belan horizonton. Ĉi tie ankaŭ okazos la 2-a Pintkunveno de Ĉinio kaj Centra Azio.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -476,8 +432,6 @@ Tokajev diris, ke Ĉinio estas amika najbaro, intima amiko kaj fidinda partnero 
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -505,8 +459,6 @@ La centraziaj landoj atingis konsenton, ke la kreskigo de laborantaro de special
 *Eksa ĉefministro de Kirgizio kaj profesoro ĉe la Lernejo "La Zono kaj Vojo" de la Pekina Instruista Universitato
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -537,8 +489,6 @@ Projektoj kadre de la "Cifereca Silka Vojo" celas krei komunan interregionan se
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -556,19 +506,13 @@ Konsiderante, ke tutmonda necerteco markas ĉi tiun epokon, la bezono de vera in
 
 La aliro de Uzbekio baziĝas sur la kredo, ke kulturo estas ne nur ponto inter popoloj, sed ankaŭ katalizilo por ekonomia disvolviĝo kaj socia progreso. Kun pli ol 60 procentoj de la loĝantaro de Uzbekio aĝanta sub 30 jaroj, kreskigi ekosistemon per kiu junaj uzbekoj povu prosperi kiel artistoj, kuratoroj kaj kulturaj gvidantoj, estas la kerno de nia misio. La nombro de studentoj en altlernejoj de Uzbekio triobliĝis ekde 2017, kun preskaŭ 1.43 milionoj da studentoj nun en universitatoj. Ni volas kontribui por pliigi tiun nombron.
 
-Nia kultura partnereco kun Ĉinio estas aparte grava, ĉar ĝi elstarigas la daŭran spiriton de la Silka Vojo. Lastatempe ni vidis kunlaborojn en kultura heredaĵo kaj arkeologio sub la kadro de la iniciato "La Zono kaj Vojo" ĉe la Palaca Muzeo (Malpermesita Urbo) en Pekino kaj "Kolora Azio: Ekspozicio de Aziaj Kostumoj" en Hangzhou de Ĉinio, prezentante kolekton de 140 pecoj kaj aroj da vestoj reprezentantaj 27 aziajn landojn kaj regionojn. Ni ankaŭ organizis la uzbekan baleton
-
-Lazgi
-
-kun la Nacia Pekina Operkompanio.
+Nia kultura partnereco kun Ĉinio estas aparte grava, ĉar ĝi elstarigas la daŭran spiriton de la Silka Vojo. Lastatempe ni vidis kunlaborojn en kultura heredaĵo kaj arkeologio sub la kadro de la iniciato "La Zono kaj Vojo" ĉe la Palaca Muzeo (Malpermesita Urbo) en Pekino kaj "Kolora Azio: Ekspozicio de Aziaj Kostumoj" en Hangzhou de Ĉinio, prezentante kolekton de 140 pecoj kaj aroj da vestoj reprezentantaj 27 aziajn landojn kaj regionojn. Ni ankaŭ organizis la uzbekan baleton Lazgi kun la Nacia Pekina Operkompanio.
 
 Per komunaj ekspozicioj, akademiaj partnerecoj kaj interŝanĝo de plej bonaj praktikoj en heredaĵa administrado, la du landoj estas en bona pozicio por formi pli inkluzivan kaj kreivan estontecon.
 
 *Prezidanto de la Uzbekia Arta kaj Kultura Disvolva Fonduso
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -584,8 +528,6 @@ El Popola Chinio
 Grandaj pandoj estas inter la plej raraj bestoj en la mondo. Konataj kiel "vivantaj fosilioj", ili estas ne nur trezoroj de Ĉinio, sed ankaŭ bestoj tre ŝatataj en la tuta mondo. La Esplorbazo de Grandaj Pandoj en Chengdu, Sichuan-provinco de Ĉinio, estas neprofitocela bredejo de grandaj pandoj financata de la ĉina registaro kaj ankaŭ esplorejo pri grandaj pandoj, malgrandaj pandoj kaj aliaj raraj bestoj. Ĝi troviĝas nur 10 kilometrojn for de la urbocentro de Chengdu kaj estis fondita en 1987 por prizorgado de ses grandaj pandoj savitaj el malsano kaj malsato. Nun en la bazo vivas 237 grandaj pandoj en malsamaj aĝoj.
 
 Raportis kaj fotis: Rafael Henrique Zerbetto
-
-El Popola Chinio
 
 
 ---
@@ -668,8 +610,6 @@ Antaŭ nelonge, kiam Brazilo inaŭguris la hidrelektran centralon Belo Monte, fo
 
 Verkis kaj fotis: Rafael Henrique Zerbetto
 
-El Popola Chinio
-
 
 ---
 
@@ -681,35 +621,17 @@ El Popola Chinio
 
 **Categories:** Plej Freŝaj
 
-Tiu ĉi filmeto montras du esencajn perkutilojn uzatajn en Nanyin-muziko. Maldekstre estas perkutilo nomita
-
-Paiban
-
-, kiu konsistas el du aŭ tri lignaj frapiloj tenataj vertikale. Frapado de tiuj perkutiloj rezultas en sono, kiu markas la ritmon de la muziko. Ĝia ludanto kutime ankaŭ rolas kiel ĉefkantisto. Dekstre estas
-
-Shuangzhong
-
-, du malgrandaj porcelanaj tetasoj, kiu estas frapataj kiel cimbaloj. Oni devas teni ilin ĉe la randoj kaj milde ilin frapi por produkti pli klaran kaj altan sonon. La uzo de tetasoj por fari muzikon spegulas la popoldevenon de Nanyin, devenigita el improviza uzo de ordinaraj objektoj kiel muzikiloj.
+Tiu ĉi filmeto montras du esencajn perkutilojn uzatajn en Nanyin-muziko. Maldekstre estas perkutilo nomita Paiban, kiu konsistas el du aŭ tri lignaj frapiloj tenataj vertikale. Frapado de tiuj perkutiloj rezultas en sono, kiu markas la ritmon de la muziko. Ĝia ludanto kutime ankaŭ rolas kiel ĉefkantisto. Dekstre estas Shuangzhong, du malgrandaj porcelanaj tetasoj, kiu estas frapataj kiel cimbaloj. Oni devas teni ilin ĉe la randoj kaj milde ilin frapi por produkti pli klaran kaj altan sonon. La uzo de tetasoj por fari muzikon spegulas la popoldevenon de Nanyin, devenigita el improviza uzo de ordinaraj objektoj kiel muzikiloj.
 
 Nanyin (南音), ankaŭ konata kiel "Nanguan" (南管), estas unu el la plej antikvaj stiloj de tradicia ĉina muziko, kun historio de pli ol mil jaroj. Ĝi originis en la regiono de la urbo Quanzhou, Fujian-provinco de Ĉinio dum la dinastioj Han kaj Tang kaj konservas elementojn de la muziko ludata en la kortegoj de Ĉinio en antikveco. En 2009 Nanyin estis aldonita al la listo de nemateria kultura heredaĵo de UNESKO.
 
-Nanyin estas konsiderata "vivanta fosilio" de la ĉina muzikhistorio. Ĝi estas populara en suda Fujian-provinco laŭ la sudorienta marbordo de Ĉinio. Ekde Han-dinastio (206 a.K.-220 p.K.), migrantoj el la centra regiono de Ĉinio enkondukis muzikon en la sudan regionon de Fujian, centritan ĉirkaŭ Quanzhou, miksante ĝin kun loka popolmuziko. La malrapidaj, simplaj kaj elegantaj melodioj estas ludataj per distingaj instrumentoj kiel bambua fluto nomata
-
-dongxiao
-
-kaj kurbkola liuto ludata horizontale nomata
-
-pipa
-
-, same kiel pli oftaj blovinstrumentoj, kordinstrumentoj kaj frapinstrumentoj. El la tri komponantoj de Nanyin, la unua estas pure instrumenta, la dua inkluzivas voĉon, kaj la tria konsistas el baladoj akompanataj de la ensemblo kaj kantataj en la dialekto de Quanzhou, ĉu de sola kantisto, kiu ankaŭ ludas klakinstrumentojn, ĉu de kvaropo, en kiu ĉiu kantisto ludas laŭvice.
+Nanyin estas konsiderata "vivanta fosilio" de la ĉina muzikhistorio. Ĝi estas populara en suda Fujian-provinco laŭ la sudorienta marbordo de Ĉinio. Ekde Han-dinastio (206 a.K.-220 p.K.), migrantoj el la centra regiono de Ĉinio enkondukis muzikon en la sudan regionon de Fujian, centritan ĉirkaŭ Quanzhou, miksante ĝin kun loka popolmuziko. La malrapidaj, simplaj kaj elegantaj melodioj estas ludataj per distingaj instrumentoj kiel bambua fluto nomata dongxiao kaj kurbkola liuto ludata horizontale nomata pipa, same kiel pli oftaj blovinstrumentoj, kordinstrumentoj kaj frapinstrumentoj. El la tri komponantoj de Nanyin, la unua estas pure instrumenta, la dua inkluzivas voĉon, kaj la tria konsistas el baladoj akompanataj de la ensemblo kaj kantataj en la dialekto de Quanzhou, ĉu de sola kantisto, kiu ankaŭ ludas klakinstrumentojn, ĉu de kvaropo, en kiu ĉiu kantisto ludas laŭvice.
 
 Nanyin estas ludata dum printempaj kaj aŭtunaj ceremonioj por adori la dion de muziko, ĉe geedziĝoj kaj entombigoj, kaj dum ĝojaj festadoj en kortoj, merkatoj kaj stratoj. La riĉa repertuaro de kantoj kaj partituroj konservas antikvan popolmuzikon kaj poemojn kaj influis operon, pupteatron kaj aliajn prezentartajn tradiciojn. Ekzistas ĝis nun pli ol 2 000 instrumentaj kaj voĉaj pecoj de Nanyin, kun kantotekstoj ĉefe el Tang-legendoj, popolaj rakontoj kaj rakontoj pri roluloj el la dinastioj Song, Yuan kaj Ming, tiuj melodioj estas belaj kaj kortuŝaj.
 
 Nanyin havas signifan akademian esplorvaloron en muzikologio, antropologio, lingvistiko, folkloraj studoj kaj la historio de kulturaj interŝanĝoj inter Ĉinio kaj aliaj landoj. Ĝi estas ankaŭ spirita ligo por transmaraj ĉinoj, ludante pozitivan rolon en plifortigo de la nacia identeco.
 
 Redaktoroj: Rafael Henrique Zerbetto kaj Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -736,8 +658,6 @@ Oni povas diri, ke Meshrepo konsistigas la plej gravan portanton de ujguraj kult
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -758,8 +678,6 @@ Li ankaŭ diris, ke ne ekzistas gajnintoj en tarifaj kaj komercaj militoj, kaj 
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -790,8 +708,6 @@ Kiel la plej reprezenta eksponejo pri antikva Shu-civilizacio, la Muzeo de Jinsh
 
 Raportis kaj fotis: Rafael Henrique Zerbetto
 
-El Popola Chinio
-
 
 ---
 
@@ -814,8 +730,6 @@ Preskaŭ 40 ekonomiaj kaj komercaj eventoj estas planitaj dum la ekspozicio, ink
 La unua ekspozicio okazis en Kunming en 2013, la saman jaron kiam Ĉinio prezentis la iniciaton "La Zono kaj Vojo". Ĝi de tiam faciligis pli ol 110 miliardojn da usonaj dolaroj en eksterlandaj komercaj transakcioj kaj servis pli ol 20 mil entreprenojn. En 2024, komercado inter Ĉinio kaj sudaziaj landoj atingis preskaŭ 200 miliardojn da usonaj dolaroj, duobliĝante en la pasinta jardeko kun averaĝa jara kreskorapideco de 6.3%.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -840,8 +754,6 @@ Post prezento de la tradicia maskoŝanĝado de Sichuan-a Opero, artisto salutas 
 
 Raportis kaj fotis: Rafael Henrique Zerbetto
 
-El Popola Chinio
-
 
 ---
 
@@ -864,8 +776,6 @@ Kiel unu el la muzikaj tradicioj, ekzistas diferencaj skoloj de ludarto de
 Antikvaj guĉinoj estis faritaj el ligno kaj kordoj el tordita silko. Ornamaĵoj inkluzivis inkrustitajn punktojn el perlamoto aŭ aliaj similaj materialoj. En 2010 guĉino el Song-dinastio estis vendita kontraŭ 22 milionoj da usonaj dolaroj, fariĝinte la plej multekosta muzikinstrumento iam vendita.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -894,8 +804,6 @@ Sen kredinda strategio, la komerca milito de la usona prezidento riskas subfosi 
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -907,29 +815,19 @@ El Popola Chinio
 
 **Categories:** Plej Freŝaj
 
-Kunĉju-opero (aŭ Kunqu) estas unu el la plej malnovaj ekzistantaj ĉinaj operoj. Ĝi evoluis el muzika stilo de Kunshan, parto de la kultura areo Wu, kaj poste furoris en ĉinaj teatrejo de la 16-a ĝis la 18-a jarcentoj. Konataj verkoj de tia opero inkluzivas
-
-La Peonian Pavilonon
-
-en la dinastio Ming.
+Kunĉju-opero (aŭ Kunqu) estas unu el la plej malnovaj ekzistantaj ĉinaj operoj. Ĝi evoluis el muzika stilo de Kunshan, parto de la kultura areo Wu, kaj poste furoris en ĉinaj teatrejo de la 16-a ĝis la 18-a jarcentoj. Konataj verkoj de tia opero inkluzivas La Peonian Pavilonon en la dinastio Ming.
 
 Prezentado de La Peonia Pavilono
 
 Ĝia melodio estas unu el la kvar grandaj karakterizaj melodioj en la ĉina opero. Ĝi estas konata pro la eleganta kantoteksto, gracia stilo kaj delikata prezentado. Ĝi estas unu el la operoj grupigitaj sub suda operaro, kaj ĝi estas konata kiel la "prapatro de cent operoj". Kunĉju-opero uzas fluton, tamburon kaj tabulon kaj tiel plu kiel ĉefaj akompanaj instrumentoj. En 2001 Kunĉju-opero estis proklamita unu el la majstraĵoj de la buŝa kaj nemateria heredaĵo de la homaro fare de UNESKO, kaj ĝi estis enskribita en la liston de nemateria kultura heredaĵo de UNESKO en 2008.
 
-Kunĉju-opero rilatas al kunshan-a melodio (昆山腔, Kūnshān qiāng). Oni ĝenerale kredas, ke la melodio estis evoluigita en la Ming-dinastio (1368-1644). La plej fama kunĉju-operaĵo estas
-
-La Peonia Pavilono
-
-verkita de Tang Xianzu en Ming-dinastio. Aliaj gravaj verkoj inkluzivas La Palacon de Eterna Vivo, verkita de Hong Sheng, kajLa Persikfloran Ventumilon de Kong Shangren, verkitan en frua Qing-dinastio (1616-1911). La operoj povas esti prezentitaj kiel eltiraĵoj aŭ kulminaĵoj nomitaj zhézixì (折子戲), kiuj fariĝis la normo antaŭ la 1760-aj jaroj kaj pli ol 400 pecoj de ĉi tiuj estis konataj. Kunĉju-opera prezentado influis la prezentadon de multaj aliaj stiloj de la ĉina muzika teatro, inkluzive de la Pekina Opero, kiu enhavas multon el kunĉju-repertuaro.
+Kunĉju-opero rilatas al kunshan-a melodio (昆山腔, Kūnshān qiāng). Oni ĝenerale kredas, ke la melodio estis evoluigita en la Ming-dinastio (1368-1644). La plej fama kunĉju-operaĵo estas La Peonia Pavilono verkita de Tang Xianzu en Ming-dinastio. Aliaj gravaj verkoj inkluzivas La Palacon de Eterna Vivo, verkita de Hong Sheng, kajLa Persikfloran Ventumilon de Kong Shangren, verkitan en frua Qing-dinastio (1616-1911). La operoj povas esti prezentitaj kiel eltiraĵoj aŭ kulminaĵoj nomitaj zhézixì (折子戲), kiuj fariĝis la normo antaŭ la 1760-aj jaroj kaj pli ol 400 pecoj de ĉi tiuj estis konataj. Kunĉju-opera prezentado influis la prezentadon de multaj aliaj stiloj de la ĉina muzika teatro, inkluzive de la Pekina Opero, kiu enhavas multon el kunĉju-repertuaro.
 
 Komence de la 20-a jarcento, la kultura elito provis restarigi Kunĉju-operon, kaj akademio estis fondita en 1921 por trejni geaktorojn. Ekde 1949 ĝi estas subvenciita de la registaro, kaj komencis reviviĝi meze de la 1990-aj jaroj.
 
 Hodiaŭ, Kunĉju-opero estas profesie prezentita en sep gravaj urboj de Ĉinio: Pekino, Ŝanhajo, Suzhou, Nankino, Chenzhou, Wenzhou kaj Hangzhou, kaj ankaŭ en Taibei de Taiwan de la lando. Neprofesiaj operaj societoj estas aktivaj en multaj aliaj urboj en Ĉinio kaj eksterlande, kaj operkompanioj foje turneas.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -942,21 +840,13 @@ El Popola Chinio
 
 **Categories:** Plej Freŝaj
 
-La 19-an de junio okazis lanĉ-ceremonio de la dulingva (ĉina kaj islanda) libro
-
-Danco de glacio kaj fajro
-
-dum la Pekina Internacia Librofoiro okazigata en la Ŝtata Konferenca Centro en Pekino.
+La 19-an de junio okazis lanĉ-ceremonio de la dulingva (ĉina kaj islanda) libro Danco de glacio kaj fajro dum la Pekina Internacia Librofoiro okazigata en la Ŝtata Konferenca Centro en Pekino.
 
 La libro el 40 poemoj estas kunlaborita de Ragnar Baldursson, eksa konsilisto de islanda ambasadorejo en Ĉinio kaj konata ĉina poeto Zhao Lihong. Ambaŭ verkis20 poemojn en la ĉina lingvo, kaj Ragnar ilin tradukis al la islanda lingvo. Ragnar, filo de fama islanda Esperanta poeto, aldonis Esperantan poemon Espera sonĝo al la libro.
 
 Thorir Ibsen, ambasadoro de Islando en Ĉinio, parolis en la ceremonio. Li diris, ke la libro estas eldonata ĉe la 30-jariĝo de la fondiĝo de islanda ambasadorejo en Ĉinio kaj atestas la kulturajn interŝanĝojn inter la du landoj.
 
-En la lanĉ-ceremonio, Ragnar prezentis al la partoprenantoj la ideon de Esperanto. Li klarigis al
-
-El Popola Ĉini
-
-o, kial li speciale aldonas Esperantan poemon:
+En la lanĉ-ceremonio, Ragnar prezentis al la partoprenantoj la ideon de Esperanto. Li klarigis al El Popola Ĉinio, kial li speciale aldonas Esperantan poemon:
 
 "Mi volas tiumaniere esprimi la esperon de esperantistoj pri kunlaboro inter diversaj kulturoj. Tio estas sama kun la ideo de la libro surbaze de la konfuceisma idealismo -- Oni povas harmonie kunlabori konservante sian unikecon". Li kredas, ke la ideo helpas homojn solvi la konfliktojn de la nuntempa mondo kaj kontribuas por estigo de la paca mondo.
 
@@ -967,8 +857,6 @@ En la libro, estas kunpentraĵa manuskripto de Zhao Lihong kaj 17 pentraĵoj de 
 Kun patro el Islando kaj patrino el Ĉinio, Eirdis kreskis sub la du kulturoj kaj estas atesto de la amikeco inter Islando kaj Ĉinio. Pri la simileco inter la du kulturoj, ŝi diris: "Fakte, estas granda malsameco inter la islanda kaj ĉina kulturoj, kaj foje tiu malsameco konfuzas min. Per arto mi provas kompreni la kulturojn, trovi similecojn inter ili kaj kuraci min mem."
 
 Redaktoro: Gao Shuyuan
-
-El Popola Chinio
 
 
 ---
@@ -993,8 +881,6 @@ La rakonto de Wang Shengjuan montras al ni la malfacilaĵojn kaj belecon de nema
 
 Redaktoro: Sheng Min
 
-El Popola Chinio
-
 
 ---
 
@@ -1016,11 +902,7 @@ La libro enhavas pli ol 10 000 skribsignojn, kiujn neniu rekonas aŭ scias kiel 
 
 Beleco de skribaĵoj per pentrado
 
-Kiel pentristo, Han Meilin kontaktiĝis kun kaligrafio pli frue ol pentrado. En infanaĝo, li unue konis
-
-li
-
--kaligrafion. Antaŭ pli ol 30 jaroj, dum promenado surstrate li hazarde vidis amason da malnovaj libroj. Li sentis, ke tiuj antikvaj skribsignoj "manskuis", "ridetis" kaj "palpebrumis" al li -- li tuj enamiĝis en antikvajn skribaĵojn kaj komencis sian kredadon de "Ĉiela Libro".
+Kiel pentristo, Han Meilin kontaktiĝis kun kaligrafio pli frue ol pentrado. En infanaĝo, li unue konis li-kaligrafion. Antaŭ pli ol 30 jaroj, dum promenado surstrate li hazarde vidis amason da malnovaj libroj. Li sentis, ke tiuj antikvaj skribsignoj "manskuis", "ridetis" kaj "palpebrumis" al li -- li tuj enamiĝis en antikvajn skribaĵojn kaj komencis sian kredadon de "Ĉiela Libro".
 
 Kolekto de antikvaj skribsignoj
 
@@ -1033,8 +915,6 @@ Kultura interpreto de skribaĵoj
 La ĉina verkisto kaj pentristo Feng Jicai diris: "Kvankam la ĉinaj skribaĵoj senĉese evoluas, ilia kvadrata formo konservas videblan pentr-genon. Tio estas la kaŭzo, kial la ĉinaj ideogramoj povas transformiĝi en unikan kaligrafian arton." Li laŭdis: "Danke al la amo de la artisto, la preskaŭ mortintaj antikvaj skribsignoj reviviĝas. Ili estas fremdaj kaj familiaraj, misteraj kaj intimaj, profundaj kaj proksimaj, bizaraj kaj belaj. Per lia majstra tuŝo, ili ricevis belan renaskiĝon."
 
 Redaktoro: Liu Zijia
-
-El Popola Chinio
 
 
 ---
@@ -1054,8 +934,6 @@ Al la malferma ceremonio ĉeestis ĉina ĉefministro Li Qiang. Li diris, ke Ĉin
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -1132,8 +1010,6 @@ João Batista Magalhães, ministro-konsilanto ĉe la brazila ambasadorejo en Pek
 
 Verkis: Rafael Henrique Zerbetto
 
-El Popola Chinio
-
 
 ---
 
@@ -1157,8 +1033,6 @@ Entute vigla kaj turisma urbo, kun unika strukturo por vizitantoj kaj tradicia k
 
 (el UEA.org)
 
-El Popola Chinio
-
 
 ---
 
@@ -1173,8 +1047,6 @@ El Popola Chinio
 Inventita de Bi Sheng ĉirkaŭ la jaro 1040, dum la dinastio Norda Song (960-1127), la tekniko de movebla presado per lignopecoj estas unu el la kvar grandaj inventoj de Ĉinio, kune kun pulvo, papero kaj kompaso. Kompare kun la malnova prestekniko de Tang-dinastio (618-907), kio postulis unu tutan lignoblokon por ĉiu paĝo, la tekniko de moveblaj pecoj ebligas redaktadon de la teksto presota kaj post presado oni povas reuzi la tipojn. La vilaĝo Dongyuan de la urbo Ruian en la provinco Zhejiang de Ĉinio, estas la nura loko, kie la tekniko de presado per lignaj moveblaj tipoj daŭre estas heredata pro sia historia kaj kultura graveco. En 2011 tiu tekniko estis sukcese enmetita en la liston de Unesko pri Nemateria Kultura Heredaĵo Bezonanta Urĝan Protekton.
 
 Verkis kaj fotis: Rafael Zeerbetto
-
-El Popola Chinio
 
 
 ---
@@ -1191,8 +1063,6 @@ Sur la strato Zhongyi de la urbo Ruian, Ĉinio, la aktoroj de Nanxi-opero preze
 
 Redaktoro: Sheng Min
 
-El Popola Chinio
-
 
 ---
 
@@ -1207,8 +1077,6 @@ El Popola Chinio
 La farado de papera rondventumilo de Wenzhou estas tradicia ĉina metiarto, kiu kombinas paperfaradon kaj presteknikojn. Ĝia produkttekniko estas nemateria kultura heredaĵo de la urbo Wenzhou. La papero farita el pura morusŝelo havas unikan teksturon, donante al la ventumilo artan belecon kiel murpentraĵo.
 
 Redaktoro: Sheng Min
-
-El Popola Chinio
 
 
 ---

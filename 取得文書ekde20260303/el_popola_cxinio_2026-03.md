@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-03-03T10:42:50.570545+00:00"
+generated_at: "2026-09-15T13:49:03.050891+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-03-01 – 2026-03-02"
 ---
@@ -21,8 +21,6 @@ La 2 890-metre longa ponto, kun alteco de 625 metroj super akvareo, estis desegn
 Datumoj montras, ke depost la ekfunkcio de la ponto, ĝi kreskigis pli ol 200 restoraciajn kaj loĝajn entreprenojn en ĉirkaŭa regiono, kio rekte kreis preskaŭ 1 000 laborpostenojn. Laŭ la inĝeniero de ponda konstruado, la signifo de konstruado de pontoj kaj vojoj ne nur estas konektado de fizikaj spacoj, sed ankaŭ akceligo de loka ekonomio kaj kampara prosperigo per la harmonia kunekzisto inter inĝenierado, medio kaj kulturo.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -46,8 +44,6 @@ La konstanta ekspozicio dividiĝas en du ĉefajn sekciojn: "Trezoroj de Brila Ep
 Tiuj objektoj ne nur montras la teknikan nivelon de antikvaj ĉinaj metiistoj kaj la daŭran valoron de tradicia kulturo, sed ankaŭ atestas la historian procezon, per kiu Ĉinio interligiĝis kun la mondo. La muzeo tiele fariĝis grava platformo por kompreni la artan, historian kaj kulturan signifon de la reciproka lernado inter civilizacioj.
 
 Verkis: Bui Hai Mung
-
-El Popola Chinio
 
 
 ---
@@ -82,11 +78,7 @@ Kiel ĉiu el tiuj festoj estas celebrata?
 
 La antikvaj grek-romiaj paganaj festoj, kiuj estigis la karnavalon, kiel la grekaj dionizaj festoj kaj la romiaj saturnaj festoj, estis markitaj de portempa ŝanĝo de la socia ordo, granda konsumado de manĝaĵoj kaj trinkaĵoj, kaj la liberigo de deziroj. Kun la popularigo de kristanismo en la romia imperio, tiuj festoj estigis la "Carnelevale" (adiaŭo al viando), festo karakterizita per amuziĝo kaj konsumado de viando antaŭ la komenco de Karesmo, periodo de memreflekto kaj fastado, dum kiu estis malpermesite manĝi viandon kaj amuziĝi.
 
-Unidos do Viradouro, ĉampiono de ĉijara karnaval-parado en Rio-de-Ĵanejro, uzas leonon similan al tiuj de ĉina leondanco kaj ankaŭ teknikon pri vestaĵ-ŝanĝado simila al tiu de la ĉina tradicia opero
-
-wuju
-
-.
+Unidos do Viradouro, ĉampiono de ĉijara karnaval-parado en Rio-de-Ĵanejro, uzas leonon similan al tiuj de ĉina leondanco kaj ankaŭ teknikon pri vestaĵ-ŝanĝado simila al tiu de la ĉina tradicia opero wuju.
 
 La ĉina Printempa Festo, siaflanke, havas originon en antikvaj oferaj ceremonioj faritaj komence aŭ fine de ĉiu jaro ekde la dinastio Shang (1600-1046 a.K.), por omaĝi praajn diaĵojn, danki kaj beni la rikoltojn. Dum la jarcentoj, la tradicio, kiu komenciĝis per ritoj de danko kaj protekto, estis riĉigita per novaj tradicioj kaj signifoj, ekinkluzivante ankaŭ rolojn rilatajn al distro kaj al socia kaj familia vivo.
 
@@ -111,8 +103,6 @@ Dume, en Brazilo, la reganta kaoso en la homamaso de la karnaval-grupoj kontrast
 Kaj kun tiu pripenso mi adiaŭis tiun duoblan feston. En la ĉina organizemo estas spaco por la brazila improvizo kaj inverse. En ĉio la du landoj estas komplementaj: Sudo kaj nordo, oriento kaj okcidento, jino kaj jango. Kaj ĉi-foje la rideto de ĉino rekuniĝinta kun sia familio kompletigis tiun de la brazilano sin amuzanta surstrate.
 
 Verkis: Rafael Henrique Zerbetto
-
-El Popola Chinio
 
 
 ---

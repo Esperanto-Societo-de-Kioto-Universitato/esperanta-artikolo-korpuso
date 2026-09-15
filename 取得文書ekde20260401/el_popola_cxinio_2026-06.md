@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-09-15T11:04:52.400931+00:00"
+generated_at: "2026-09-15T13:49:03.165246+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-06-01 – 2026-06-30"
 ---
@@ -76,8 +76,6 @@ El la perspektivo de homo el Sudorienta Azio — regiono, kiu rapide urbaniziĝa
 
 Verkis kaj fotis: Bui Hai Mung
 
-El Popola Chinio
-
 
 ---
 
@@ -112,8 +110,6 @@ Hodiaŭ, en Quanzhou (Fujian-provinco) kaj Shantou (Guangdong-provinco), oni kon
 Qiaopi registris tiaman vivon de transmaraj ĉinoj en Azio, Nord-Ameriko kaj Oceanio, same kiel la historian kaj kulturan evoluon de iliaj loĝlandoj en la 19-a kaj 20-a jarcentoj. Ili konsistigas pruvon pri la ĉina internacia migrada historio kaj la interkultura kontakto kaj interagado inter la Oriento kaj Okcidento.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -188,8 +184,6 @@ En ĉi tiu kunteksto, la koncepto de "ĉin-laosa homara komunumo de komuna eston
 
 Verkis kaj fotis: Bui Hai Mung
 
-El Popola Chinio
-
 
 ---
 
@@ -201,6 +195,8 @@ El Popola Chinio
 
 **Categories:** Plej Freŝaj
 
+En la aĝo de 72 jaroj en Kolkato, Barato, subite forpasis Probal Dasgupta, prezidanto de la Akademio de Esperanto, prezidanto de Universala Esperanto-Asocio en la jaroj 2007-2013. Pri tio informis la familio en Facebook.
+
 Probal Dasgupta (1953-2026) estis profesia lingvisto, doktoriĝis en Novjorko kaj instruis en pluraj universitatoj en diversaj landoj. Li estis la sola infano de du universitataj instruistoj. En 1983 li edziĝis al Malasree Sircar kaj en 1990 naskiĝis ilia filo Abir.
 
 Esperanton li lernis en 1967, en la aĝo de 14 jaroj. En la sekva jaro li aliĝis al Hinda Instituto de Esperanto kaj al UEA. Li instruis Esperanton kaj prelegis en multaj landoj kaj poste estis reprezentanto de UEA ĉe Unuiĝintaj Nacioj en Novjorko.
@@ -209,37 +205,13 @@ De januaro ĝis septembro 1980, gravan signifon havis lia volontulado en la Cent
 
 Li korespondis junaĝe kun Kalocsay, kaj profunde konis nian literaturan tradicion. Mem li kontribuis unuavice per tradukoj, precipe el la bengala, inkluzive de poemoj de Rabindranath Tagore.
 
-Ekde la fondo en 2007 Probal Dasgupta estis unu el la redaktoroj de la revuo
+Ekde la fondo en 2007 Probal Dasgupta estis unu el la redaktoroj de la revuo Beletra Almanako.
 
-Beletra Almanako
+Li estis aŭtoro de la libroj La lingvo kaj la rajto je komunikado (kun R. Corsetti kaj H. Tonkin, 1978), Towards a dialogue between the sociolinguistic sciences and Esperanto culture (1987) kaj Loĝi en homaj lingvoj: la substancisma perspektivo (2011).
 
-.
+La forpaso estis tute neatendita. Vespere de dimanĉo Probal Dasgupta ankoraŭ aktivis en Facebook. Pri lia morto informis en lia propra Facebook-paĝo liaj edzino kaj filo en lundo, la 1-a de junio. Li forpasis en sia dormo, ŝajne pro apopleksia atako, "sen sufero".
 
-Li estis aŭtoro de la libroj
-
-La lingvo kaj la rajto je komunikado
-
-(kun R. Corsetti kaj H. Tonkin, 1978),
-
-Towards a dialogue between the sociolinguistic sciences and Esperanto culture
-
-(1987) kaj
-
-Loĝi en homaj lingvoj: la substancisma perspektivo
-
-(2011).
-
-(el
-
-Libera Folio
-
-kaj
-
-La Balta Ondo
-
-)
-
-El Popola Chinio
+(el Libera Folio kaj La Balta Ondo)
 
 
 ---
@@ -264,8 +236,6 @@ Antaŭenrigardante, ŝi diris, ke UN-Habitat celas profundigi sian partnerecon k
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -286,8 +256,6 @@ Dum la vizito de brazila prezidento Lula al la Ĉina Popola Respubliko en majo 2
 Tradukis: Rafael Henrique Zerbetto
 
 Fonto: EBC
-
-El Popola Chinio
 
 
 ---
@@ -316,8 +284,6 @@ Besprozvannykh ankaŭ laŭdis la aŭtan industrion de Ĉinio, dirante, ke ĉinaj
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -338,8 +304,6 @@ En 2016, Ĉinio lanĉis la planon "Sana Ĉinio 2030", kiu difinas longperspektiv
 "Ĉinio estas kaj daŭre estos gravega merkato por Bayer. Ĝi estas nia dua plej granda merkato en la mondo," li diris.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -363,8 +327,6 @@ Bokova laŭdis la kvar tutmondajn iniciatojn proponitajn de Ĉinio, priskribante
 Ŝi aldonis, ke la iniciatoj, precipe la Mondregada Iniciato, konformas al la perspektivo de UN. Ŝi ankaŭ plene subtenis la Mondan Civilizacian Iniciaton, kiu respektas la diversecon de mondaj civilizacioj.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -455,8 +417,6 @@ Por iu, kiu konstruas hejmon malproksime de sia naskiĝlando, la trankvilo scii,
 
 Verkis: Rafael Henrique Zerbetto
 
-El Popola Chinio
-
 
 ---
 
@@ -471,8 +431,6 @@ El Popola Chinio
 La 8-an de junio ĉina prezidanto Xi Jinping atingis Pjongjangon -- ĉefurbo de la Korea Popoldemokratia Respubliko. Kim Jong Un, ĝenerala sekretario de la Laborista Partio de la lando, okazigis bonvenigan ceremonion por Xi Jinping.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -529,8 +487,6 @@ La historio de ekonomia evoluo montras, ke neniu lando fariĝis teknologia poten
 
 Verkis: Bui Hai Mung
 
-El Popola Chinio
-
 
 ---
 
@@ -554,8 +510,6 @@ Muhriddin emfazis, ke glaĉero estas la ĉefa fonto de dolĉakvo por Centra Azio
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -575,8 +529,6 @@ Xi Jinping diris, ke Ĉinio kaj la Korea Popoldemokratia Respubliko estas social
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -594,31 +546,11 @@ Dum multaj jaroj, surbaze de ekologia restarigo, la urbo Xi'an de Shaanxi-provin
 
 Krome, infraruĝaj fotiloj estas metitaj en profundaj arbaroj. Dum la kvar sezonoj, tage kaj nokte, ili precize registras la manĝadon, ludadon, reproduktadon kaj migradon de sovaĝaj bestoj, provizante abundajn datumojn por ekologia protektado.
 
-Tra la lensoj, Qinling estas plena de viglo kaj intereso: Ĉina pantero (
-
-Panthera pardus japonensis
-
-) lerte saltas sur la nebulecan deklivon; arbara moskulo (
-
-Moschus berezovskii
-
-) kuras en densaj arbedaroj; orhara simio (
-
-Rhinopithecus
-
-) vokas siajn amikojn; budorkaso (
-
-Budorcas taxicolor
-
-) marŝas grupe kaj malrapide manĝante herbojn... Jen la ĉiutaga vivo de la loĝantoj en la montaro Qinling.
+Tra la lensoj, Qinling estas plena de viglo kaj intereso: Ĉina pantero (Panthera pardus japonensis) lerte saltas sur la nebulecan deklivon; arbara moskulo (Moschus berezovskii) kuras en densaj arbedaroj; orhara simio (Rhinopithecus) vokas siajn amikojn; budorkaso (Budorcas taxicolor) marŝas grupe kaj malrapide manĝante herbojn... Jen la ĉiutaga vivo de la loĝantoj en la montaro Qinling.
 
 Ĉina pantero lerte saltas sur deklivon. (fotita per infraruĝa fotilo)
 
-Orfazano (
-
-Chrysolophus pictus
-
-) manĝas en la arbaro. (fotita per infraruĝa fotilo)
+Orfazano (Chrysolophus pictus) manĝas en la arbaro. (fotita per infraruĝa fotilo)
 
 Budorkasoj ludas en la arbaro. (fotita per infraruĝa fotilo)
 
@@ -629,8 +561,6 @@ Orharaj simioj ludas sur branĉoj. (fotita per infraruĝa fotilo)
 Pro la efektivigo de ekologi-protektaj politikoj, la vilaĝoj en Qinling estas enorde translokigataj. En iuj vilaĝoj, kie antaŭe loĝis centoj da homoj, nun restas nur kelkdekaj vilaĝanoj. Tiel, trankvilo rekovras la montaron, kaj la sovaĝaj bestoj povas ĝui vastan vivejon. La infraruĝaj fotiloj montras, ke arbara moskulo, nigra urso kaj orfazo aperas multe pli ofte. Estas eĉ surpriza ŝanĝiĝo: la altitudo por la agado de sovaĝaj grandaj pandoj daŭre malpliiĝas, tio signifas, ke la vivejo de grandaj pandoj vastiĝas de la iama altitudo je super 2 200 metroj ĝis ĉirkaŭ 1 800 metroj.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -661,8 +591,6 @@ Kiel afrika lando kaj membro de la Araba Ligo, Komoroj celas "servi kiel ponto" 
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -684,15 +612,7 @@ De Brodowski al la mondo
 
 Filo de italaj enmigrintoj venintaj al Brazilo por labori en la kafobieno, Cândido Portinari naskiĝis en Brodowski, landinterno de San-Paŭlio en 1903. Lia infanaĝo en tiu urbo profunde markis lian vivon kaj verkaron. "Estis ĝuste eksterlande, sub la lumo de Parizo en la 1920-aj jaroj, ke li komprenis, ke li devas turni siajn okulojn al sia eta Brodowski por fine povi vidi la mondon," asertis João Cândido Portinari, filo de la artisto, en sia parolo dum la malfermo de la ekspozicio en Pekino.
 
-Kreskinte meze de la ruĝa tero — itale
-
-terra rossa
-
-, miskomprenita de brazilanoj kiel
-
-terra roxa
-
-(viola tero) — destinita al plantado de kafo, Portinari frue konis ne nur la ekspluatadon de laboristoj kaj socian malegalecon, sed ankaŭ la feliĉon alportitan de la pajacoj de migrantaj cirkoj kaj de simplaj ludaĵoj, kiel flugigi kajtojn kaj ludi futbalon. Tiu feliĉo ĉeestas en la inaŭgura sekcio de ĉi tiu ekspozicio, kun verkoj, kiuj prezentas lian familion kaj rememorojn de infaneco por riveli universalan poezion, kiu karakterizas la verkaron de la artisto.
+Kreskinte meze de la ruĝa tero — itale terra rossa, miskomprenita de brazilanoj kiel terra roxa (viola tero) — destinita al plantado de kafo, Portinari frue konis ne nur la ekspluatadon de laboristoj kaj socian malegalecon, sed ankaŭ la feliĉon alportitan de la pajacoj de migrantaj cirkoj kaj de simplaj ludaĵoj, kiel flugigi kajtojn kaj ludi futbalon. Tiu feliĉo ĉeestas en la inaŭgura sekcio de ĉi tiu ekspozicio, kun verkoj, kiuj prezentas lian familion kaj rememorojn de infaneco por riveli universalan poezion, kiu karakterizas la verkaron de la artisto.
 
 Plurmediaj rimedoj aldonas movojn kaj sonon al figuroj kaj scenoj pentritaj de Portinari por familiarigi ĉinan publikon kun la kunteksto de liaj verkoj.
 
@@ -708,71 +628,39 @@ El eta Brodowski, Portinari gajnis la mondon. La artisto, kiu komencis portretan
 
 "Portinari estis kronikisto de la doloroj kaj espero de nia popolo. Li transformis mizeron en denuncon, sed konservante la dignon de siaj roluloj," deklaris Márcio Tavares, plenuma sekretario de la Ministerio pri Kulturo de Brazilo, en sia parolado. Denuncante socian malegalecon, ekspluatadon de laboristoj, la batalon por vivo kaj la morton de infanoj, viktimoj de sekeco kaj malsato, Portinari ne nur krude prezentas al ni homan suferon, sed ankaŭ celebras la forton, rezistemon kaj dignon de sia popolo.
 
-Ĉinaj vizitantoj rigardas la pentraĵon
-
-Kafo
-
-, unu el la plej famaj verkoj de Portinari. La fortikaj korpoj emfazas la forton kaj la suferadon de laboristoj kaj kritikas ilian ekspluatadon.
+Ĉinaj vizitantoj rigardas la pentraĵon Kafo, unu el la plej famaj verkoj de Portinari. La fortikaj korpoj emfazas la forton kaj la suferadon de laboristoj kaj kritikas ilian ekspluatadon.
 
 "Multaj demandas, kiel pentristo naskita inter la kafoplantejoj de la ruĝa tero de la brazila landinterno povis atingi tiel universalan lingvaĵon. La respondo kuŝas en fundamenta vero: Portinari ne pentris nur figurojn; li pentris la esencon mem de la homa kondiĉo," aldonas João Cândido. "En liaj verkoj, la ruĝa tero estas la fonkoloro, kaj la laboristoj estas la spino: en liaj penikstrekoj kondensiĝas la spirado de la brazila tero kaj la destino de ĝia popolo," rimarkis Luo Wenli, direktoro de la Nacia Muzeo de Ĉinio.
 
-João Cândido klarigis, ke la verko
+João Cândido klarigis, ke la verko La Forpelitoj, prezentante suferon kaj mizeron, montras bluan azenon en la fono. Kiam oni demandis lin, kial tie estas blua azeno, Portinari respondis: "Ĉar poezio devas ekzisti."
 
-La Forpelitoj
-
-, prezentante suferon kaj mizeron, montras bluan azenon en la fono. Kiam oni demandis lin, kial tie estas blua azeno, Portinari respondis: "Ĉar poezio devas ekzisti."
-
-Membro de la Brazila Komunista Partio kaj aktivulo por socia justeco, Portinari vidis sian arton kiel ilon por transformado, kiu devas ne nur montri la problemojn, sed ankaŭ antaŭenigi la esperon, ke ni kapablas solvi ilin. Plie, Portinari estis granda humanisto, engaĝita en la misio antaŭenigi pacon kaj solidarecon inter la popoloj de la mondo: "La absoluta engaĝiĝo de mia patro al la homaro kulminis per la monumenta duopo
-
-Milito kaj Paco
-
-ĉe la Unuiĝintaj Nacioj, etika manifesto kaj pledo por harmonio inter la popoloj," diris João Cândido.
+Membro de la Brazila Komunista Partio kaj aktivulo por socia justeco, Portinari vidis sian arton kiel ilon por transformado, kiu devas ne nur montri la problemojn, sed ankaŭ antaŭenigi la esperon, ke ni kapablas solvi ilin. Plie, Portinari estis granda humanisto, engaĝita en la misio antaŭenigi pacon kaj solidarecon inter la popoloj de la mondo: "La absoluta engaĝiĝo de mia patro al la homaro kulminis per la monumenta duopo Milito kaj Paco ĉe la Unuiĝintaj Nacioj, etika manifesto kaj pledo por harmonio inter la popoloj," diris João Cândido.
 
 Milito kaj paco
 
-"La monumentaj murpentraĵoj
-
-Milito kaj Paco
-
-, kreitaj por la sidejo de Unuiĝintaj Nacioj, delonge transiris naciajn limojn, fariĝinte unu el la plej profundaj kaj sinceraj aspiroj de la homaro por paco," asertis Luo Wenli en sia parolado. Konsistanta el du grandaj paneloj, ĉiu proksimume 14 metrojn alta kaj 10 metrojn larĝa,
-
-Milito kaj Paco
-
-estis pentrita inter 1952 kaj 1955. En tiu sama epoko, la brazila verkisto Jorge Amado, ankaŭ komunisto, faris sian unuan vojaĝon al Ĉinio.
+"La monumentaj murpentraĵoj Milito kaj Paco, kreitaj por la sidejo de Unuiĝintaj Nacioj, delonge transiris naciajn limojn, fariĝinte unu el la plej profundaj kaj sinceraj aspiroj de la homaro por paco," asertis Luo Wenli en sia parolado. Konsistanta el du grandaj paneloj, ĉiu proksimume 14 metrojn alta kaj 10 metrojn larĝa, Milito kaj Paco estis pentrita inter 1952 kaj 1955. En tiu sama epoko, la brazila verkisto Jorge Amado, ankaŭ komunisto, faris sian unuan vojaĝon al Ĉinio.
 
 Engaĝita al denuncado de sociaj mizeroj kaj al la lukto de laboristoj por digna vivo, Jorge Amado fariĝis konata en la lando kaj ankoraŭ estas la brazila verkisto kun la plej granda nombro da verkoj publikigitaj en la ĉina lingvo. Kiel do klarigi la kontraston inter la populareco de Jorge Amado kaj la nekonateco de la ĉina publiko pri Portinari? La respondo kuŝas en milito kaj paco — ne la monumentaj paneloj ĉe UN ĉefsidejo en Novjorko, sed tiuj en reala vivo.
 
 En la 1950-aj jaroj, la mondo estis en Malvarma Milito kaj Ĉinio estis sub internaciaj sankciumoj. En tiu kunteksto, estis multe pli facile traduki kaj publikigi libron ol alporti artaĵekspozicion. Krome, la engaĝita literaturo de Jorge Amado estis utila por konsolidi la ĵus-instalitan socialismon en epoko de granda internacia tensio. Portinari, siavice, devis atendi la finon de la Malvarma Milito por esti prezentita al la ĉina publiko: la starigo de diplomatiaj rilatoj inter la du landoj kaj la integriĝo de Ĉinio en mondan komercon ebligis la loĝistikon necesan por brazila arta ekspozicio en Pekino.
 
-Tamen, ekzistas historia maljusteco riparinda. Portinari perdis la fidon de ambaŭ flankoj de la Malvarma Milito: pro tio, ke li estis komunisto, li estis malpermesita ĉeesti la inaŭguron de
-
-Milito kaj Paco
-
-ĉe la sidejo de UN en Novjorko kaj neniam vidis sian majstroverkon instalitan en sia definitiva loko. Samtempe, en socialismaj rondoj leviĝis suspektemo pri lia sincereco rilate al socialismo pro tio, ke lia plej granda verko estis instalita en Usono.
+Tamen, ekzistas historia maljusteco riparinda. Portinari perdis la fidon de ambaŭ flankoj de la Malvarma Milito: pro tio, ke li estis komunisto, li estis malpermesita ĉeesti la inaŭguron de Milito kaj Paco ĉe la sidejo de UN en Novjorko kaj neniam vidis sian majstroverkon instalitan en sia definitiva loko. Samtempe, en socialismaj rondoj leviĝis suspektemo pri lia sincereco rilate al socialismo pro tio, ke lia plej granda verko estis instalita en Usono.
 
 La estonteco, kiun Portinari revis por Brazilo
 
 Portinari mortis en 1962, pro veneniĝo per pezaj metaloj el la farboj preparitaj de li mem por pentrado, sed lia verkaro restas aktuala, pruvante, ke homa civilizacio malmulte progresis rilate al homa evoluo.
 
-Malkovro de la Lando
-
-: Portinari pentris plenkreskajn indiĝenojn mirigitajn pri la alveno de portugalaj karaveloj, dum infano rifuzas vidi ilin.
+Malkovro de la Lando: Portinari pentris plenkreskajn indiĝenojn mirigitajn pri la alveno de portugalaj karaveloj, dum infano rifuzas vidi ilin.
 
 Ĉinio estas la sola escepto: ĝi sukcesis malaperigi malriĉecon, kio signifas, ke la lando sukcese plenumis la taskon certigi al ĉiu el siaj civitanoj manĝaĵon, vestaĵon kaj loĝejon, krom aliron al deviga edukado kaj baza kuracado. "La evoluo de Ĉinio estas tio, kion mia patro revis por Brazilo," asertas João Cândido dum komento pri la evoluo de la lando en la lastaj jardekoj.
 
-La socia realeco montrata sur la kanvasoj de Portinari tre similas al Ĉinio antaŭ longa tempo, kiel tiu priskribita de Edgar Snow en sia libro
-
-Ruĝa Stelo Super Ĉinio
-
-, kiu detale prezentas la malriĉecon de la vasta plimulto de ĉinoj en la 1930-aj jaroj. De tiam, la lando havis rimarkindan socian progreson.
+La socia realeco montrata sur la kanvasoj de Portinari tre similas al Ĉinio antaŭ longa tempo, kiel tiu priskribita de Edgar Snow en sia libro Ruĝa Stelo Super Ĉinio, kiu detale prezentas la malriĉecon de la vasta plimulto de ĉinoj en la 1930-aj jaroj. De tiam, la lando havis rimarkindan socian progreson.
 
 Portinari alvenis al Ĉinio alportante bildojn de malegaleco al lando, kiu nun celas redukti malegalecojn inter siaj regionoj kaj inter urboj kaj kamparo. En tiu ĉi kunteksto, la kanvasoj de la brazila pentristo povas alporti inspiron por la kampara revigligo kaj komuna prospero de ĉiuj ĉinoj.
 
 La 56 eksponataj verkoj ankaŭ spegulas la komunan deziron pri frateco kaj paco, kiu ligas la popolojn de Brazilo kaj Ĉinio kaj instigas ilin festi la Ĉin-Brazilan Kulturan Jaron 2026. Plie, ili ankaŭ spegulas la komunan sonĝon de ĉiuj popoloj havi pacan kaj dignan vivon.
 
 Verkis: Rafael Henrique Zerbetto
-
-El Popola Chinio
 
 
 ---
@@ -795,8 +683,6 @@ La unua tago de la ekspozicio estas rezervita por profesiaj vizitantoj, kaj la s
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -815,8 +701,6 @@ La du volumoj inkludas 134 artikolojn el la plej gravaj kaj fundamentaj verkoj d
 La publikigo de la verkoj estas grava por rezolute protekti la suverenecon, sekurecon kaj evoluajn interesojn de Ĉinio, formi novan kadron por la rilatoj de Ĉinio kun aliaj landoj, disvastigi la internacian influon, altiron kaj formiĝpovon de la lando al nova nivelo, kaj malfermi novajn vojojn en la diplomatio de granda lando kun ĉinaj trajtoj.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -841,8 +725,6 @@ Li emfazis, ke Ĉinio estas ekzemplo de tiu transiro. Li diris, ke la atingoj de
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -856,11 +738,7 @@ El Popola Chinio
 
 **Categories:** Plej Freŝaj
 
-"Gaokao" okazas nur dum kelkaj tagoj ĉiujare, sed ĝi povas influi la estontecon de milionoj da junaj ĉinoj. 13.35 milionoj da kandidatoj partoprenis la ekzamenon lastjare. En 2026, la nombro restis ĉirkaŭ 12.9 milionoj. Malantaŭ
-
-kelkaj horoj da ekzamenoj
-
-troviĝas ne nur konkurado por universitata loko, sed ankaŭ la fido de la ĉina socio al edukado kiel vojo por ŝanĝi la vivon.
+"Gaokao" okazas nur dum kelkaj tagoj ĉiujare, sed ĝi povas influi la estontecon de milionoj da junaj ĉinoj. 13.35 milionoj da kandidatoj partoprenis la ekzamenon lastjare. En 2026, la nombro restis ĉirkaŭ 12.9 milionoj. Malantaŭ kelkaj horoj da ekzamenoj troviĝas ne nur konkurado por universitata loko, sed ankaŭ la fido de la ĉina socio al edukado kiel vojo por ŝanĝi la vivon.
 
 De malgranda distrikto en Hebei ĝis pli vastaj horizontoj
 
@@ -909,8 +787,6 @@ Pli ol simpla ekzameno
 Kiam sinjorino Wang estis demandita pri la signifo de "Gaokao" por ŝia vivo, ŝi respondis: "'Gaokao' similas al ŝtuparo konstruita el akraj klingoj. La supreniro estas tre malfacila kaj postulas larmojn kaj oferon. Sed kiam vi rerigardas, tiuj larmoj kaj oferoj fariĝis solidaj ŝtupoj, kiuj povas konduki vin al lokoj, kiujn vi antaŭe eĉ neniam imagis." Eble ĝuste pro tio, preskaŭ duonjarcenton post sia restarigo, "Gaokao" ankoraŭ havas specialan lokon en la ĉina socio. Ĝi estas ne nur universitata enirekzameno. Ĝi reflektas la longdaŭran fidon de la ĉina socio al scio, al persona penado kaj al la ideo, ke edukado povas ŝanĝi la vivon. Kaj dum Ĉinio eniras novan fazon de evoluo bazitan pli kaj pli sur novigado, "Gaokao" frontas novan taskon: Ne nur malfermi ŝancojn por milionoj da junuloj, sed ankaŭ helpi trovi la talentulojn, kiuj povos respondi al la bezonoj de la estonteco.
 
 Verkis: Bui Hai Mung
-
-El Popola Chinio
 
 
 ---
@@ -975,8 +851,6 @@ Enla tempo, kiam Ĉinio aktive antaŭenigas novajn produktivajn fortojn bazitajn
 
 Verkis kaj fotis Bui Hai Mung
 
-El Popola Chinio
-
 
 ---
 
@@ -1038,8 +912,6 @@ Tio klarigas, kial ĉiam pli da teknologiaj projektoj el Pekino elektas Tianjin:
 
 Verkis kaj fotis: Bui Hai Mung
 
-El Popola Chinio
-
 
 ---
 
@@ -1089,8 +961,6 @@ En la mondo, kie tutmondaj rimedoj estas ĉiam pli sub premo, la konstruo de nor
 
 Raportis: Bui Hai Mung
 
-El Popola Chinio
-
 
 ---
 
@@ -1118,8 +988,6 @@ La stacio alportas al Shaanxi ne nur stabilan elektroprovizon en urbocentro, sed
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -1131,51 +999,21 @@ El Popola Chinio
 
 **Categories:** Plej Freŝaj
 
-Matene de la 17-a de junio, dum la Internacia Librofoiro de Pekino, estis lanĉita la portugallingva eldono de la libro
+Matene de la 17-a de junio, dum la Internacia Librofoiro de Pekino, estis lanĉita la portugallingva eldono de la libro Ekologia Perspektivo de la Ĉina Modernigo, verkita de la ekonomikisto Zhang Yongsheng, ĝenerala direktoro de la Instituto de Studoj pri Ekocivilizacio de la Ĉina Akademio de Sociaj Sciencoj.
 
-Ekologia Perspektivo de la Ĉina Modernigo
+Ĉi tiu verko estas la unua el serio de ses libroj titolita Ses Perspektivoj de la Ĉina Modernigo, lanĉita en 2023 de Chongqing-a Eldonejo. Ĝi estas tradukata kaj publikigata en Brazilo danke al partnereco kun la Fondaĵo Maurício Grabois.
 
-, verkita de la ekonomikisto Zhang Yongsheng, ĝenerala direktoro de la Instituto de Studoj pri Ekocivilizacio de la Ĉina Akademio de Sociaj Sciencoj.
+Organizita de la fama esploristo Jiang Hui, fakulo pri socialismo kun ĉinaj trajtoj kaj eksa vicprezidanto de la Ĉina Akademio de Sociaj Sciencoj, Ses Perspektivoj de la Ĉina Modernigo estas la unua ĉina libroserio dediĉita al sistema interpreto de la ĉina modernigo, el ses dimensioj, en simpla kaj didaktika maniero.
 
-Ĉi tiu verko estas la unua el serio de ses libroj titolita
-
-Ses Perspektivoj de la Ĉina Modernigo
-
-, lanĉita en 2023 de Chongqing-a Eldonejo. Ĝi estas tradukata kaj publikigata en Brazilo danke al partnereco kun la Fondaĵo Maurício Grabois.
-
-Organizita de la fama esploristo Jiang Hui, fakulo pri socialismo kun ĉinaj trajtoj kaj eksa vicprezidanto de la Ĉina Akademio de Sociaj Sciencoj,
-
-Ses Perspektivoj de la Ĉina Modernigo
-
-estas la unua ĉina libroserio dediĉita al sistema interpreto de la ĉina modernigo, el ses dimensioj, en simpla kaj didaktika maniero.
-
-Krom la ĵus publikigita
-
-Ekologia Perspektivo de la Ĉina Modernigo
-
-, estas antaŭvidita la traduko kaj publikigo de la ceteraj titoloj:
-
-Civilizacia Perspektivo de la Ĉina Modernigo, Historia Perspektivo de la Ĉina Modernigo, Perspektivo pri la Mondkoncepto de la Ĉina Modernigo, Perspektivo pri la Valoroj de la Ĉina Modernigo
-
-kaj
-
-Demokratia Perspektivo de la Ĉina Modernigo
-
-.
+Krom la ĵus publikigita Ekologia Perspektivo de la Ĉina Modernigo, estas antaŭvidita la traduko kaj publikigo de la ceteraj titoloj: Civilizacia Perspektivo de la Ĉina Modernigo, Historia Perspektivo de la Ĉina Modernigo, Perspektivo pri la Mondkoncepto de la Ĉina Modernigo, Perspektivo pri la Valoroj de la Ĉina Modernigo kaj Demokratia Perspektivo de la Ĉina Modernigo.
 
 "La tutmonda publika opinio ankoraŭ estas dominata de simplisma ekvacio, kiu egaligas modernigon al okcidentiĝo, kaj multaj landoj miskomprenas la disvolvan vojon de Ĉinio. Disponigante ĉi tiun kolekton al la mondo, ni celas prezenti aŭtoritatan, alireblan kaj objektivan klarigon pri la teoriaj fundamentoj kaj la praktikoj de la ĉina modernigo," klarigis, dum sia parolo, Li Bingren, membro de la Partia Komitato kaj vicĝenerala direktoro de Chongqing-a Xinhua-a Publishing Group.
 
-Siavice, Walter Sorrentino, prezidanto de la Fondaĵo Maurício Grabois, emfazis la gravecon de la brazila eldono de
-
-Ekologia Perspektivo de la Ĉina Modernigo
-
-: "Ĉi tiu verko en la portugala lingvo vastigos la atingon de la debato pri modernigo en Brazilo, antaŭenigante koĥeran pripensadon pri la rilato inter ekonomia evoluo, nacia suvereneco, ŝtata planado, socia egaleco kaj media daŭripovo."
+Siavice, Walter Sorrentino, prezidanto de la Fondaĵo Maurício Grabois, emfazis la gravecon de la brazila eldono de Ekologia Perspektivo de la Ĉina Modernigo: "Ĉi tiu verko en la portugala lingvo vastigos la atingon de la debato pri modernigo en Brazilo, antaŭenigante koĥeran pripensadon pri la rilato inter ekonomia evoluo, nacia suvereneco, ŝtata planado, socia egaleco kaj media daŭripovo."
 
 Per la iniciato publikigi ĉi tiun libroserion en la portugala, la eldonistoj esperas oferti aron da referencaj verkoj al brazilaj legantoj, kiuj volas kompreni la ĉinstilan modernigon.
 
 Raportis: Rafael Henrique Zerbetto
-
-El Popola Chinio
 
 
 ---
@@ -1198,8 +1036,6 @@ He emfazis, ke Ĉinio seninterrompe perfektigas financan leĝordigon kaj rezolut
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -1220,8 +1056,6 @@ La blanka libro diris, ke tutmonda administrado estas komuna klopodo, kiu rilata
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -1248,8 +1082,6 @@ Yiwu, "monda superbazaro", denove montras sian potencan proviz-ĉenan kapablon. 
 
 Redaktoro: Liu Zijia
 
-El Popola Chinio
-
 
 ---
 
@@ -1274,8 +1106,6 @@ Abdul Latif Rashid laŭdis la klopodojn de Ĉinio plibonigi internaciajn rilatoj
 "La rajto al disvolviĝo devas esti rigardata kiel komuna rajto de la tuta homaro, ne kiel privilegio monopoligita de kelkaj landoj," li diris. Li esperas, ke Ĉinio ĝuos plian progreson kaj prosperon, kaj ke pli da landoj povos profiti de la progresoj de Ĉinio en ekonomio, scienco kaj kulturo.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -1322,8 +1152,6 @@ La ekzemplo de la Akvokubo montras al ni, ke grandaj sportaj turniroj ja povas e
 
 Verkis kaj fotis: Rafael Henrique Zerbetto
 
-El Popola Chinio
-
 
 ---
 
@@ -1338,8 +1166,6 @@ El Popola Chinio
 La 22-an de junio okazis la malferma ceremonio de la 4-a Ĉina Internacia Provizĉena Ekspozicio en Pekino, Ĉinio, kun la temo "konekti la mondon por komuna estonteco".
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -1386,8 +1212,6 @@ La kombino de AI kaj ĉina herba medicino en Tianjin montras, ke modernigo ne si
 
 Raportis: Bui Hai Mung
 
-El Popola Chinio
-
 
 ---
 
@@ -1431,8 +1255,6 @@ En Ĉinio, tiu estonteco, kiun ni alkutimiĝis vidi en scienc-fikciaj filmoj, en
 
 Verkis kaj fotis: Rafael Henrique Zerbetto
 
-El Popola Chinio
-
 
 ---
 
@@ -1448,8 +1270,6 @@ Inter la 23-a kaj la 25-a de junio daŭras la 17-a Somera Davos-Forumo en la urb
 
 Redaktoro: Xie Ruifeng
 
-El Popola Chinio
-
 
 ---
 
@@ -1464,8 +1284,6 @@ El Popola Chinio
 La 17-a Somera Davos-Forumo malfermiĝis la 23-an de junio en la urbo Dalian de Ĉinio. La forumo, kun la temo "grandskaleca novigo", altiras 1 700 invititojn el pli ol 90 landoj kaj regionoj. La havena urbo Dalian mem estas grava punkto sur martransporta linio laŭ "La Zono kaj Vojo" kaj posedas longan historion de fabrikadaj industrioj. Kaj en la nova epoko la novaj industrioj, kiel artefarita intelekto kaj pura energio, prosperas ĉi tie.
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -1487,8 +1305,6 @@ Li Qiang diris, ke por integriĝi kun la monda ekonomio, Ĉinio kontinue sin ded
 (el ĈRI)
 
 Redaktoro: Xie Ruifeng
-
-El Popola Chinio
 
 
 ---
@@ -1520,8 +1336,6 @@ La amfibia veturado estas alia neforgesebla sperto: pasaĝeroj povas sperti la u
 Por viziti la aŭtodromon kaj sperti la lokajn amuzajn aktivaĵojn, necesas rete mendi pakaĵon de aktivaĵoj. Por komencanto kaj sperta ŝoforo, pakaĵoj kiel "Baza Enirnivelo" kaj "Altnivela Sperto" ebligas al homoj elekti sian propran aventuron.
 
 Raportis kaj fotis: Rafael Henrique Zerbetto
-
-El Popola Chinio
 
 
 ---
@@ -1570,8 +1384,6 @@ Laŭ EHang, ĉiu eVTOL, kapabla transporti du pasaĝerojn, kun maksimuma ŝarĝo
 
 Verkis kaj fotis: Rafael Henrique Zerbetto
 
-El Popola Chinio
-
 
 ---
 
@@ -1589,15 +1401,9 @@ Komuna foto post la inaŭguro de la festo
 
 La nomo de la festo helpas popularigi ĝin, ĉar ĝi kreas en la memoro de ĉinoj kaj eksterlandanoj loĝantaj en la urbo la rememoron, ke la evento okazas en junio, kaj komence de la monato ĉiam pli da homoj spontanee serĉas informojn pri la festo.
 
-Ĉi-foje, la eldonejo Blossom Press havis budon en la evento, ofertante je duono de la normala prezo la ĉinan eldonon de
+Ĉi-foje, la eldonejo Blossom Press havis budon en la evento, ofertante je duono de la normala prezo la ĉinan eldonon de La Brazila Popolo de Darcy Ribeiro, kaj kelkajn ĉinajn librojn en la portugala, por pli forte nutri la kulturajn interŝanĝojn inter la du landoj.
 
-La Brazila Popolo
-
-de Darcy Ribeiro, kaj kelkajn ĉinajn librojn en la portugala, por pli forte nutri la kulturajn interŝanĝojn inter la du landoj.
-
-Kuirartaj tradicioj alproksimigas Brazilon kaj Ĉinio
-
-n
+Kuirartaj tradicioj alproksimigas Brazilon kaj Ĉinion
 
 Adaptiĝante al la somera varmego de Pekino, la festo anstataŭigas la varmigan Quentão (Varmego), trinkaĵo el zingibro, per la malvarmiga kaipirinjo, tipa de brazila somero, sed la tipaj brazilaj manĝaĵoj, aparte tiuj tipaj de la juniaj festoj ja ne mankis: pastelo, koŝinjo (fritaĵo kun kokaĵa farĉo), sandviĉoj kun rostita viando aŭ kolbaso, maizkaĉo, verda maizo, pamonjo (vaporumita maizaĵo volvita en maizfolioj), kaj kukoj el maizo, kokoso, maizfaruno, interalie, oni kune faris bongustan manĝokarton por la festo.
 
@@ -1605,27 +1411,11 @@ La junia festo de ĉi tiu jaro okazis ĝuste unu semajnon post la feriado de la 
 
 Vidante, ke lia regno estus baldaŭ konkerota de la najbara regno Qin, la poeto ĵetis sin en la riveron Miluo, forprenante sian propran vivon. Sciinte tion, multaj homoj prenis siajn boatojn kun skulptitaj drakokapoj – kiuj, parenteze, tre similas al la tradiciaj boatoj sur la rivero San-Francisko en Brazilo – kaj remis serĉante la korpon de la poeto, dum aliaj envolvis rizon en aromaj folioj kaj ĵetis ĝin al la fiŝoj por satigi ilin, por ke ili ne voru la korpon de la poeto.
 
-Tiel kreiĝis la tradicio de la Drakboata Festo, markita de drakoboatkonkuroj kaj la konsumo de
+Tiel kreiĝis la tradicio de la Drakboata Festo, markita de drakoboatkonkuroj kaj la konsumo de zongzi-o, la "ĉina pamonjo" farita el rizo, kun dolĉa aŭ sala farĉo, envolvita en folioj de bambuo aŭ junko.
 
-zongzi
+Unu semajnon post tiu tradicia ĉina festo, estis la vico de multaj ĉinoj gustumi la brazilan pamonjon, kiu malgraŭ la simileco kun zongzi-o, estas de brazila indiĝena origino kaj populariĝis en la kampara brazila kuirarto dum la kolonia periodo.
 
--o, la "ĉina pamonjo" farita el rizo, kun dolĉa aŭ sala farĉo, envolvita en folioj de bambuo aŭ junko.
-
-Unu semajnon post tiu tradicia ĉina festo, estis la vico de multaj ĉinoj gustumi la brazilan pamonjon, kiu malgraŭ la simileco kun
-
-zongzi
-
--o, estas de brazila indiĝena origino kaj populariĝis en la kampara brazila kuirarto dum la kolonia periodo.
-
-La origino de pastelo, siavice, rilatas al la unua ondo de ĉina enmigrado en Brazilo, komence de la 19-a jarcento, kiam multaj enmigrintoj el la provinco Guangdong, alportitaj al Brazilo por tekultivado, decidis vendi la kantonan
-
-jiaozai
-
--on kiel stratmanĝaĵon, modifante ĝian grandecon kaj plenigaĵon laŭ la haveblaj ingrediencoj kaj la gusto de la brazilaj klientoj, kiuj preferas salajn farĉojn, dum
-
-jiaozai
-
--o kutime estas dolĉa.
+La origino de pastelo, siavice, rilatas al la unua ondo de ĉina enmigrado en Brazilo, komence de la 19-a jarcento, kiam multaj enmigrintoj el la provinco Guangdong, alportitaj al Brazilo por tekultivado, decidis vendi la kantonan jiaozai-on kiel stratmanĝaĵon, modifante ĝian grandecon kaj plenigaĵon laŭ la haveblaj ingrediencoj kaj la gusto de la brazilaj klientoj, kiuj preferas salajn farĉojn, dum jiaozai-o kutime estas dolĉa.
 
 Amuziĝo, kiu ne konas limojn
 
@@ -1674,8 +1464,6 @@ La evento fermiĝis per koncerto de la brazila muzikisto Di Ramos, kiu ludis rep
 La junia festo finiĝis, sed la mondpokalo ne. La frazo "ek al la sesa titolo", dirita plurfoje dum la festo, daŭre estas en la buŝoj de brazilanoj kaj ankaŭ de multaj ĉinoj.
 
 Verkis kaj fotis: Rafael Henrique Zerbetto
-
-El Popola Chinio
 
 
 ---
