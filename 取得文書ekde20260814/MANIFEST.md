@@ -1,6 +1,6 @@
 # MANIFEST — 取得文書ekde20260814
 
-- 生成日: 2026-09-16 08:00
+- 生成日: 2026-09-16 08:02
 - 総記事数: **86**
 - 各記事は md / txt / csv / jsonl の4形式で保存（記事数は jsonl 行数）
 - 記事本文はコーパスリポジトリ esperanta-artikolo-korpuso で管理（コード用リポジトリ kolektilo には含めない）
