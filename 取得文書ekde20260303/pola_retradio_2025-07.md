@@ -1,6 +1,6 @@
 ---
 source: "Pola Retradio (pola-retradio.org)"
-generated_at: "2026-09-15T16:02:39.683492+00:00"
+generated_at: "2026-09-16T16:23:18.966315+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-07-05 – 2025-07-31"
 ---
@@ -548,7 +548,7 @@ El la elsendo 25.07.2025. Legas Gabi – 01′ 44″
 
 # E_elsendo el la 26.07.2025
 
-**Published:** 2025-07-27
+**Published:** 2025-07-26
 
 **URL:** https://pola-retradio.org/2025/07/e_elsendo-el-la-26-07-2025/
 

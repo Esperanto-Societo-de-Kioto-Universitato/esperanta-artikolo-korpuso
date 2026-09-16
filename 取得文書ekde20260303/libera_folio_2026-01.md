@@ -1,6 +1,6 @@
 ---
 source: "Libera Folio (liberafolio.org)"
-generated_at: "2026-09-15T16:02:39.001615+00:00"
+generated_at: "2026-09-16T16:23:46.875321+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-01-06 – 2026-01-29"
 ---
@@ -145,6 +145,8 @@ Kun sia kunulino Armela Lequint li instruis en Alĝerio dum kelkaj jaroj. Dum mu
 Ĵak kaj Armela ankaŭ foje partoprenis surscenigon de Teatro Esperanto de Parizo (TESPA) en 1976 en Bordozo. Temis pri Andromaka de Jean Racine, tradukita de Georges Lagrange. TESPA estis jam prezentinta kelkajn scenojn de ĝi, kaj la tradukisto penis prezenti surscenigon de pli granda parto de tiu klasika tragedio kaj pro tio sukcesis instigi Ĵakon, Armelon kaj la gefratojn Ternant elpaŝi sceneje.
 
 Kun Armela Ĵak faris kvarmane grandajn tradukojn interalie de Vojaĝo ĝis noktofino de Louis-Ferdinand Céline. Ĵak kun Jo-Petro Danvy ankaŭ kunordigis vortaron franca-Esperantan, Le Grand Dictionaire Français-Espéranto, eldonitan de Espéranto-France en 1992. Mi aŭdis ke ili ŝerce diris pri la antaŭe aperinta vortaro de Léger [leĵe’] kaj Albault [albo’], ne trovinte ĝustan tradukon de serĉata vorto : ”Ve! tiu vortaro ne nur estas albault, sed ĝi fakte estas tre léger!” ”Léger” en la franca signifas ”malpeza”.
+
+Arno Lagrange
 
 
 ---

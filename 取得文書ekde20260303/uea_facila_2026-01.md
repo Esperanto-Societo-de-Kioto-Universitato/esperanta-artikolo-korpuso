@@ -1,6 +1,6 @@
 ---
 source: "UEA Facila (uea.facila.org)"
-generated_at: "2026-09-15T16:17:07.085917+00:00"
+generated_at: "2026-09-16T16:26:31.633305+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-01-05 – 2026-01-31"
 ---
@@ -113,7 +113,7 @@ trejnado: instruado kaj ekzercado por konduki al dezirata nivelo de kapablo.
 
 **URL:** https://uea.facila.org/artikoloj/lega%C4%B5oj/antibiotikoj-la-mirinda-kuracilo-r504
 
-**Author:** Luigi Fraccaroli
+**Author:** Luigi Fraccaroli, Debora Rossetti
 
 **Categories:** Legaĵoj
 

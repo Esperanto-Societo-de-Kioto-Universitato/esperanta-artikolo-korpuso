@@ -2,15 +2,11 @@ Islanda majstroverko dronis en kafo
 
 Granda taso da laktokafo malaperigis gigantan Esperantan tradukon de islanda Nobel-premiito. La tradukinto Baldur Ragnarsson forpasis kaj la teksto dum jaroj ŝajnis neretrovebla. Ulrich Becker tamen konservis la detruitan komputilon, kaj fine oni sukcesis ekstrakti el ĝi la dosierojn. Nun aperis en Esperanto ”Sonorilo de Islando” de Halldór Laxness, kaj eble aperos pliaj perditaj verkoj.
 
-Misverŝita kafo preskaŭ iĝis la sorto de la granda traduklaboro de Baldur Ragnarsson.
-
 Baldur Ragnarsson, kiu forpasis en la kristnaska tago de 2018 en la aĝo de 88 jaroj, estis unu el la pintaj poetoj en Esperanto, sed ankaŭ estrarano kaj vicprezidanto de UEA, membro de la Akademio de Esperanto – kaj tradukinto de multaj gravaj verkoj de la islanda literaturo. Krome li tradukis el Esperanto al la islanda.
 
 Unu el liaj plej gravaj tradukoj tamen riskis perdiĝi por ĉiam pro granda taso da kafo kun lakto. En unu el siaj lastaj retmesaĝoj al la eldonisto Ulrich Becker en junio 2016 Baldur Ragnarsson sendis la tradukon de la granda historia romano Sonorilo de Islando de la Nobel-premiita verkisto Halldór Laxness. La traduko poste dum jaroj ŝajnis eterne perdita.
 
 Jam pli frue, en 2007, la eldonejo de Ulrich Becker aperigis tradukon de alia konata verko de Halldór Laxness, Sendependaj homoj.
-
-Ulrich Becker.
 
 – Sendependaj homoj temas pri la komplika, malfacila vivo de etaj farmistoj en Islando. Ĝi donas bildon pri la Islando de tiu tempo kaj la vivo de simplaj homoj, kiel oni trovas en multaj literaturoj pri siaj landoj, rakontas Ulrich Becker.
 
@@ -29,8 +25,6 @@ Sed tiu majstroverko ŝajne por ĉiam estis detruita, kiam li akcidente verŝis 
 – Li skribis nur, ke li havas la senton ke li devas sendi tiujn manuskriptojn kuŝantajn en lia komputilo al iu, kaj ĉar mi antaŭe publikigis unu el liaj romanoj (Malamu vin, unu la alian), li do sendis al mi. Temis pri ses dosieroj: prozaĵoj, poemoj kaj eseoj.
 
 Post la kafoakcidento la komputilo komplete ĉesis funkcii kaj neniel eblis eligi el ĝi la dosierojn.
-
-La libro aperis ĉe la eldonejo Mondial kaj aĉeteblas en multaj retaj vendejoj.
 
 – Dum kelkaj monatoj, mi donis la tekokomputilon al diversaj amikoj kaj profesiaj riparistoj de tiaj aĵoj, sed ĉiuj tiam diris, ke nenio fareblas kaj la komputilo estas nur forĵetebla. Mi tamen ne emis fari tion, pro la literaturaj trezoroj en ĝi. Ĝi kuŝis dum jaroj en mia librobretaro.
 

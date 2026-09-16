@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-09-15T16:12:44.531837+00:00"
+generated_at: "2026-09-16T16:27:25.189006+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-06-01 – 2026-06-30"
 ---
@@ -14,7 +14,7 @@ time_range: "2026-06-01 – 2026-06-30"
 
 **Author:** Bui Hai Mung
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 Dum la vizito al Ĉinio de la prezidento de Vjetnamio To Lam aprile 2026, unu el la unuaj vizitlokoj estis Nova Areo Xiong'an. Li alvenis per rapidtrajno kaj poste, dum renkontiĝo kun la vjetnama komunumo en Ĉinio, li parolis pri siaj impresoj pri la moderna transportsistemo, la "miljara" urboplanado, kaj la uzo de teknologio en urba administrado kaj ĉiutaga vivo.
 
@@ -87,7 +87,7 @@ Verkis kaj fotis: Bui Hai Mung
 
 **URL:** http://esperanto.china.org.cn/2026-06/02/content_118519303.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 Lastatempe, la filmo "Dear You" en la chaoshan-a dialekto, kiu kostis nur iom pli ol 10 milionojn da juanoj kun ĉefroloj de tute neprofesiaj aktoroj, estas varme projekciata en Ĉinio. Ĝis nun, la giĉeta enspezo superis 1 000 milionojn da juanoj, kaj laŭ AI-prognozoj, ĝi povus atingi 1.6 miliardojn da juanoj.
 
@@ -124,7 +124,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Bui Hai Mung
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio, Kulturo,Scienco kaj Sporto
 
 Laoso ofte estas rigardata kiel lando situanta ĉe la intersekco de historiaj, kulturaj kaj geopolitikaj fluoj en kontinenta Sudorienta Azio. Mia vojaĝo al Laoso por partopreni serion de eventoj pri la "ĉin-laosa homara komunumo de komuna estonteco" donis al mi ŝancon observi kiel malgranda lando provas trovi sian pozicion, kiam la regiono rapide transformiĝas.
 
@@ -197,7 +197,7 @@ Verkis kaj fotis: Bui Hai Mung
 
 **URL:** http://esperanto.china.org.cn/2026-06/03/content_118529133.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** E-novaĵoj
 
 En la aĝo de 72 jaroj en Kolkato, Barato, subite forpasis Probal Dasgupta, prezidanto de la Akademio de Esperanto, prezidanto de Universala Esperanto-Asocio en la jaroj 2007-2013. Pri tio informis la familio en Facebook.
 
@@ -226,7 +226,7 @@ La forpaso estis tute neatendita. Vespere de dimanĉo Probal Dasgupta ankoraŭ a
 
 **URL:** http://esperanto.china.org.cn/2026-06/04/content_118530802.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 La transformiĝo de Ĉinio pri grandskala urba ekspansio al kvalit-direkta kaj hom-centra modelo de disvolviĝo estas "tre signifa" kaj enhavas valorajn spertojn por la mondo, diris la Administra Direktoro de la Programo de Unuiĝintaj Nacioj pri Homaj Setlejoj (UN-Habitat) Anaclaudia Rossbach lastatempe.
 
@@ -249,7 +249,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-06/04/content_118530813.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 La registaro de Ĉinio anoncis la 2-an de junio, ke Ĉinio agnoskas la tutan brazilan teritorion kiel zonon liberan de aftozo, malsano, kiu afektas bestojn tra la mondo kaj igas la viandon maltaŭga por homa konsumado.
 
@@ -270,7 +270,7 @@ Fonto: EBC
 
 **URL:** http://esperanto.china.org.cn/2026-06/05/content_118530830.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 Lastatempe Aleksej Besprozvannykh, guberniestro de la rusa regiono Kaliningrado, diris, ke la rus-ĉina kunlaboro rapide disvolviĝis en diversaj kampoj en la lastaj jaroj, markite de kreskanta duflanka profundigo de komerco, teknologiaj interŝanĝoj kaj investaj ligoj. Kaliningrado volas profundigi ampleksan kunlaboron kun ĉinaj partneroj kaj plie kontribui por longdaŭra disvolvado de la rus-ĉinaj rilatoj.
 
@@ -297,7 +297,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-06/05/content_118530837.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 Stefan Oelrich, membro de la estraro de germana kompanio Bayer AG, diris lastatempe, ke la rapideco de la progreso de Ĉinio en vivosciencoj kaptis la atenton eĉ de delongaj industriaj observantoj. Li diris, ke Ĉinio fariĝis grava forto en tutmonda biofarmacia novigado kun sia industrio rapide evoluanta kaj subtenata de longperspektiva politika planado.
 
@@ -318,7 +318,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-06/08/content_118530931.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 Irina Bokova, eksa ĝenerala direktoro de UNESKO kaj ĉefa konsilisto de la estraro de la Eŭrop-Azia Centro, diris lastatempe, ke plurflankismo kaj pli profunda internacia dialogo kaj kunlaboro estas efikaj manieroj por trakti la kreskantajn tutmondajn defiojn.
 
@@ -343,7 +343,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, E-novaĵoj
 
 de Rafael Henrique Zerbetto
 
@@ -430,7 +430,7 @@ Verkis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2026-06/08/content_118537048.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 La 8-an de junio ĉina prezidanto Xi Jinping atingis Pjongjangon -- ĉefurbo de la Korea Popoldemokratia Respubliko. Kim Jong Un, ĝenerala sekretario de la Laborista Partio de la lando, okazigis bonvenigan ceremonion por Xi Jinping.
 
@@ -447,7 +447,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Bui Hai Mung
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 12.9 milionoj — tiom da kandidatoj partoprenas la nacian universitatan enirekzamenon en Ĉinio de la 7a ĝis la 9a de junio 2026. Tiu nombro estas pli granda ol la loĝantaro de multaj eŭropaj landoj. Sed la plej interesa afero ne estas la grandeco de la ekzameno, sed la studfakoj elektataj de ĉi tiu generacio. Se oni volas scii, kiel aspektos la lando post dudek jaroj, oni povas observi kiajn homojn ĝi edukas hodiaŭ.
 
@@ -500,7 +500,7 @@ Verkis: Bui Hai Mung
 
 **URL:** http://esperanto.china.org.cn/2026-06/09/content_118530856.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Naturo kaj Mediprotekto
 
 Taĝika ministro pri eksterlandaj aferoj Sirojiddin Muhriddin diris lastatempe, ke Taĝikio kaj Ĉinio konstante plivastigas kunlaboron pri ekologio kaj akvoresursoj per komunaj projektoj pri akvokonservado, glaĉera protektado kaj verda energio.
 
@@ -523,7 +523,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-06/09/content_118539035.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 Posttagmeze de la 8-a de junio Xi Jinping, ĝenerala sekretario de la Centra Komitato de la Komunista Partio de Ĉinio kaj ĉina prezidanto, faris interparolon kun Kim Jong Un, ĝenerala sekretario de la Laborista Partio de Koreio kaj prezidanto de la Ŝtataj Aferoj de la Korea Popoldemokratia Respubliko.
 
@@ -542,7 +542,9 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-06/10/content_118541366.htm
 
-**Categories:** Plej Freŝaj
+**Author:** Jiang Chenrong
+
+**Categories:** Naturo kaj Mediprotekto
 
 de Jiang Chenrong
 
@@ -575,7 +577,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-06/11/content_118543387.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio
 
 La komora prezidento Azali Assoumani lastatempe diris: "Ni dankas Ĉinion, kiu ĉiam estis ĉe nia flanko, ĉu en sociekonomio ĉu en disvolviĝo." Rigardante antaŭen, Komoroj esperas profundigi la strategian partnerecon kun Ĉinio kaj kune plani longperspektivan vojon por la kresko de duflankaj rilatoj.
 
@@ -606,7 +608,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 Matene de la 9-a de junio, la ekspozicio "La Brazilo de Portinari" estis inaŭgurita en la Nacia Muzeo de Ĉinio en Pekino per ceremonio, kiun ĉeestis fakuloj pri arto kaj aŭtoritatoj el Brazilo kaj Ĉinio. Kvankam Cândido Portinari estas unu el la plej reprezentaj brazilaj artistoj, tutmonde konata kaj respektata, ĉi tiu estas la unua fojo, ke la ĉina publiko havas la ŝancon viziti ekspozicion de verkoj liaj, kio faras de tiu ĉi ekspozicio unu el la plej gravaj eventoj de kultura diplomatio iam okazintaj inter la du landoj.
 
@@ -620,7 +622,7 @@ Kreskinte meze de la ruĝa tero — itale terra rossa, miskomprenita de brazilan
 
 Plurmediaj rimedoj aldonas movojn kaj sonon al figuroj kaj scenoj pentritaj de Portinari por familiarigi ĉinan publikon kun la kunteksto de liaj verkoj.
 
-Mi, naskiĝinta en la sama regiono, kie naskiĝis Portinari, vidis mian propran infanaĝon prezentitan en tiuj bildoj de infanoj ludantaj sur baskulo, flugigantaj kajtojn kaj ludantaj futbalon sur improvizitaj kampoj, kaj de la cirkaj artistoj, kiuj ĝojigis nin, kiam ili alvenis al la urbo.  Poste estis la vico de mia amiko José Medeiros, profesoro ĉe la Universitato pri Internaciaj Studoj de Zhejiang en Hangzhou, konfidi al mi, ke lia infanaĝo en la nordorientbrazila subŝtato Norda Riogrando estis simila, kun la samaj ĝojoj kaj ludoj, kvankam geografie tiel malproksime.
+Mi, naskiĝinta en la sama regiono, kie naskiĝis Portinari, vidis mian propran infanaĝon prezentitan en tiuj bildoj de infanoj ludantaj sur baskulo, flugigantaj kajtojn kaj ludantaj futbalon sur improvizitaj kampoj, kaj de la cirkaj artistoj, kiuj ĝojigis nin, kiam ili alvenis al la urbo. Poste estis la vico de mia amiko José Medeiros, profesoro ĉe la Universitato pri Internaciaj Studoj de Zhejiang en Hangzhou, konfidi al mi, ke lia infanaĝo en la nordorientbrazila subŝtato Norda Riogrando estis simila, kun la samaj ĝojoj kaj ludoj, kvankam geografie tiel malproksime.
 
 Brazilo, eĉ kun tiel vasta teritorio, sukcesis atingi surprize komunan kulturan bazon, en kiu la pilko kaj la kajto estas elementoj de la fruaj jaroj de ĉiu infano, ĉi-lasta estante ĉina inventaĵo, kiu populariĝis en Brazilo dum kolonia epoko. "La granda ĉina majstro Lu Xun iam skribis: 'Nur tio, kio estas profunde karakteriza de iu lando, povas vere aparteni al la mondo.' Estas en tiu spirito, ke ni alportas hodiaŭ al Pekino la potencan epopeon de Cândido Portinari, kiu tradukas en kolorojn kaj formojn la animon mem de la brazila popolo," konkludis João Cândido.
 
@@ -675,7 +677,7 @@ Verkis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2026-06/12/content_118545368.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio
 
 La 11-an de junio la 10-a Ĉin-sudazia Ekspozicio malfermiĝis en la urbo Kunming, ĉefurbo de la provinco Yunnan en sudokcidenta Ĉinio. La ekspozicio celas plifortigi la regionan komercon kaj industrian kunlaboron sub la temo "solidareco kaj kunordigo por komuna disvolviĝo".
 
@@ -696,7 +698,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-06/12/content_118545370.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 La unua kaj dua volumoj de Elektitaj Verkoj de Xi Jinping, ĉina prezidanto kaj ĝenerala sekretario de la Centra Komitato de la Komunista Partio de Ĉinio (KPĈ), pri diplomatio estis publikigitaj kaj aĉeteblaj en Ĉinio kaj eksterlande.
 
@@ -715,7 +717,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-06/15/content_118543394.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Naturo kaj Mediprotekto
 
 Simon Stiell, plenuma sekretario de UN pri Klimatŝanĝiĝo, diris lastatempe, ke la kreskantaj klimata efiko kaj geopolita malstabileco pliigas la urĝecon por solvi la problemojn de klimatŝanĝiĝo. "Ĉie en la mondo, komunumoj kaj ekonomioj sentas la efikojn de klimatŝanĝiĝo — de ekstremaj varmego, sekeco kaj inundoj ĝis manĝaĵa nesekureco kaj ekonomia interrompo" kaj "pli rapida vastigo de renoviĝantaj energioj nun estas centra afero por la energia sekureco, stabileco kaj nacia suvereneco de ĉiu lando".
 
@@ -740,7 +742,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Bui Hai Mung
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Kulturo,Scienco kaj Sporto
 
 "Gaokao" okazas nur dum kelkaj tagoj ĉiujare, sed ĝi povas influi la estontecon de milionoj da junaj ĉinoj. 13.35 milionoj da kandidatoj partoprenis la ekzamenon lastjare. En 2026, la nombro restis ĉirkaŭ 12.9 milionoj. Malantaŭ kelkaj horoj da ekzamenoj troviĝas ne nur konkurado por universitata loko, sed ankaŭ la fido de la ĉina socio al edukado kiel vojo por ŝanĝi la vivon.
 
@@ -803,7 +805,7 @@ Verkis: Bui Hai Mung
 
 **Author:** Bui Hai Mung
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 Meze de ĉiam pli intensa teknologia konkurenco, la urbo Tianjin konstruas evoluan modelon bazitan sur la kunigo de supera edukado, scienca esplorado kaj altteknologia industrio. Unu el la plej reprezentaj simboloj de ĉi tiu strategio estas la Ekspozicia Centro de la Scienca kaj Teknologia Parko Tiankai por Supera Edukado. Ĉi tiu centro prezentas ne nur sciencajn atingojn, sed ankaŭ la mekanismojn por transformi ilin en praktikajn aplikojn.
 
@@ -868,7 +870,7 @@ Verkis kaj fotis Bui Hai Mung
 
 **Author:** Bui Hai Mung
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 En la evolua bildo de la regiono Pekino-Tianjin-Hebei, la demando ne plu estas, kiu loko altiras pli da projektoj, sed kian rolon ĉiu loko povas ludi en la ĉeno de novigado. Tianjin, anstataŭ rekte konkuri kun Pekino pri scienca esplorado aŭ altiri talentulojn, elektas alian vojon: fariĝi loko, kie teknologio estas transformata el laboratorioj en produktojn kaj merkatojn.
 
@@ -931,7 +933,7 @@ Verkis kaj fotis: Bui Hai Mung
 
 **Author:** Bui Hai Mung
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 En la kunteksto de antaŭenigo de la cirkla ekonomio kaj la celo atingi karbonan neŭtralecon en Ĉinio, la koncepto pri "rubaĵoj" fundamente ŝanĝiĝas. Anstataŭ esti konsiderataj kiel mediaj ŝarĝoj, ĉiam pli multaj specoj de rubo – aparte elektronikaj aparatoj – estas rigardataj kiel formo de "urba rimedminejo" kun strategia valoro.
 
@@ -980,7 +982,9 @@ Raportis: Bui Hai Mung
 
 **URL:** http://esperanto.china.org.cn/2026-06/18/content_118555076.htm
 
-**Categories:** Plej Freŝaj
+**Author:** Li Yang
+
+**Categories:** Socia Vivo, Kulturo,Scienco kaj Sporto
 
 de Li Yang
 
@@ -1009,7 +1013,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 Matene de la 17-a de junio, dum la Internacia Librofoiro de Pekino, estis lanĉita la portugallingva eldono de la libro Ekologia Perspektivo de la Ĉina Modernigo, verkita de la ekonomikisto Zhang Yongsheng, ĝenerala direktoro de la Instituto de Studoj pri Ekocivilizacio de la Ĉina Akademio de Sociaj Sciencoj.
 
@@ -1036,7 +1040,7 @@ Raportis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2026-06/18/content_118555597.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Plej Freŝaj, Novaĵoj, Aktuala temo
 
 La 17-an de junio estis inaŭgurita Lujiazui-forumo 2026 en Ŝanhajo, Ĉinio. He Lifeng, membro de la Politika Buroo de la Centra Komitato de la Komunista Partio de Ĉinio kaj ĉina vicĉefministro, ĉeestis la inaŭguron kaj faris paroladon. Pan Gongsheng, estro de la Centra Banko de Ĉinio, ĉeestis la eventon.
 
@@ -1057,7 +1061,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-06/18/content_118555659.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 La 17-an de junio la Informa Oficejo de la Ŝtata Konsilantaro de Ĉinio publikigis la blankan libron titolitan "Pli Justa kaj Egaleca Tutmonda Administrado: Principoj, Proponoj kaj Agoj de Ĉinio".
 
@@ -1078,7 +1082,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-06/22/content_118551630.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 Frumatene de la 12-a de junio laŭ la pekina tempo komenciĝis la malferma matĉo de la Futbala Mondpokalo 2026 en Meksik-Urbo. Kvankam la ĉina vira nacia teamo ne sukcesis kvalifikiĝi por ĉi tiu mondpokalo, ĉinaj elementoj ne mankis. Oni povas diri, ke Ĉinio, per profunda integriĝo de kulturo, teknologio kaj fabrikado, enpaŝis en ĉi tiun tutmondan sportan festenon.
 
@@ -1103,7 +1107,7 @@ Redaktoro: Liu Zijia
 
 **URL:** http://esperanto.china.org.cn/2026-06/22/content_118552971.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 Lastatempe eksa iraka prezidento Abdul Latif Rashid diris en intervjuo, ke la praktiko de Ĉinio pri antaŭenigo de homaj rajtoj per disvolviĝo estas vere admirinda.
 
@@ -1130,7 +1134,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Kulturo,Scienco kaj Sporto
 
 Nuntempe oftas plendoj kontraŭ grandaj sportaj eventoj, kiel la Futbala Mondpokalo de FIFA kaj la Someraj kaj Vintraj Olimpikoj kaj Paralimpikoj. La kritikantoj asertas, ke tiuj eventoj fariĝis tro multekostaj kaj postlasas nenion pozitivan al la popolo de la lando, kiu gastigis ilin.
 
@@ -1175,7 +1179,7 @@ Verkis kaj fotis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2026-06/23/content_118562244.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 La 22-an de junio okazis la malferma ceremonio de la 4-a Ĉina Internacia Provizĉena Ekspozicio en Pekino, Ĉinio, kun la temo "konekti la mondon por komuna estonteco".
 
@@ -1239,7 +1243,7 @@ Raportis: Bui Hai Mung
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio
 
 Dum la pandemio de KOVIM-19, la bezono redukti fizikan kontakton inter homoj por eviti riskojn de infektiĝo akcelis la robotan industrion, kaj robotoj fariĝis oftaj en hoteloj, fervojaj stacioj, flughavenoj, hospitaloj, kunvenejoj kaj aliaj lokoj, plenumante taskojn kiel transportado de objektoj, seninfektigo, monitorado kaj disvastigo de informoj.
 
@@ -1282,7 +1286,7 @@ Verkis kaj fotis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2026-06/24/content_118564577.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 Inter la 23-a kaj la 25-a de junio daŭras la 17-a Somera Davos-Forumo en la urbo Dalian de Ĉinio. La forumo, kun la temo "grandskaleca novigo", altiras 1 700 invititojn el pli ol 90 landoj kaj regionoj por kune diskuti pri la nova vojo de disvolvigo al tutmonda ekonomio.
 
@@ -1297,7 +1301,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-06/25/content_118564571.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 La 17-a Somera Davos-Forumo malfermiĝis la 23-an de junio en la urbo Dalian de Ĉinio. La forumo, kun la temo "grandskaleca novigo", altiras 1 700 invititojn el pli ol 90 landoj kaj regionoj. La havena urbo Dalian mem estas grava punkto sur martransporta linio laŭ "La Zono kaj Vojo" kaj posedas longan historion de fabrikadaj industrioj. Kaj en la nova epoko la novaj industrioj, kiel artefarita intelekto kaj pura energio, prosperas ĉi tie.
 
@@ -1312,7 +1316,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-06/25/content_118566544.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 Ĉina ĉefministro Li Qiang faris paroladon en inaŭguro de la 17-a Somera Davos-Forumo en la 24-a de junio. Li diris, ke la ĉina ekonomio montris stabilecon, novigon, vivecon kaj integriĝon kun la resto de la mondo dum la komenco de la periodo de la 15-a Kvinjara Plano (2026-2030).
 
@@ -1335,7 +1339,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio, Kulturo,Scienco kaj Sporto
 
 La aŭtomobila testejo de BYD en Hefei donas al homoj la ŝancon sperti la plej novan teknologion de novenergiaj aŭtoj. Konstruita kontraŭ 5 miliardoj da juanoj, ĝi estas la tutmonde unua profesia ĉiuterena aŭtodromo speciale konstruita por novenergiaj aŭtoj.
 
@@ -1368,7 +1372,7 @@ Raportis kaj fotis: Rafael Henrique Zerbetto
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio, Kulturo,Scienco kaj Sporto
 
 Lastatempe la ĉina registaro emfazas la evoluigon de la malaltaltituda ekonomio, kiu ampleksas civilajn agadojn realigatajn en la aerspaco alta je malpli ol mil metroj, sed povante atingi tri mil metrojn en specifaj koridoroj, transformante subuzatan aerspacon en ĉefrolulo por teknologia novigado kaj industria disvolvado.
 
@@ -1417,7 +1421,7 @@ Verkis kaj fotis: Rafael Henrique Zerbetto
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 Organizita de la Konsilio de Brazilaj Civitanoj de Pekino, la Junia Festo, tradicia kultura evento de Brazilo, okazis por la tria sinsekva jaro en la ĉefurbo de Ĉinio, kreante tradicion, kiu krom esti amuza, ankaŭ promocias brazilajn kulturon kaj kuirarton en Ĉinio.
 

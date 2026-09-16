@@ -1,6 +1,6 @@
 ---
 source: "Global Voices en Esperanto (eo.globalvoices.org)"
-generated_at: "2026-09-15T22:51:26.406314+00:00"
+generated_at: "2026-09-16T16:23:52.203030+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-08-26 – 2026-08-30"
 ---
@@ -34,6 +34,8 @@ Esti pasiaj pri mentorado de homoj en la lingvo
 
 Se vi ŝatus esti konsiderata, bonvolu sendi kelkajn vortojn pri via fono kaj motivoj al Lauren L. Finch, la direktoro de la Lingua projekto, ĉe lauren.finch@globalvoices.org.
 
+Lernu pli pri la rolo de tradukmanaĝero ĉi tie (anglalingva)
+
 
 ---
 
@@ -43,7 +45,9 @@ Se vi ŝatus esti konsiderata, bonvolu sendi kelkajn vortojn pri via fono kaj mo
 
 **URL:** https://eo.globalvoices.org/2026/08/15862/
 
-**Categories:** Angla, Civitanaj komunikiloj, Komunikiloj kaj ĵurnalismo, Lingvo, Teknikaro, Ĉefaĵo
+**Author:** Aza Delgado Orduño
+
+**Categories:** Angla, Civitanaj komunikiloj, Komunikiloj kaj ĵurnalismo, Lingvo, Teknikaro, Ĉefaĵo, The Bridge
 
 Bildo de Zhendong Wang. Uzata laŭ permesilo de Unsplash.
 

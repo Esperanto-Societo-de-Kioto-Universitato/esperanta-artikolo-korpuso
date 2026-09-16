@@ -1,10 +1,6 @@
 El Kolombio: manifesto de amo por ĉiuj vivantaj estaĵoj
 
-Foto de ymyphoto en Pixabay, eldonita kun permeso.
-
 Malgranda laŭ staturo, kun felo nigra kaj blanka, lipharoj senlimaj, kaj kortuŝa rigardo. Añemó, kio en la lingvo Kamentsá signifas “esti forta”, eniris en mian vivon la 7-an de aŭgusto de la jaro 2021, ŝlosila jaro en mia historio persona, intelekta kaj akademia. Mi komencis mian doktoriĝan studadon pri juro nur kelkajn monatojn antaŭe, kun stipendio de la Universitato de la Rozario en Bogoto, Kolombio, kie mi akceptis la defion komuniki, pere de juraj lensoj, aliajn manierojn esti en la mondo.
-
-Añemó. Foto de la aŭtorino, eldonita kun permeso.
 
 En la jaro 2020 okazis mia unua kontakto kun la popolo Awá, dunacia komunumo de la ĝangalo, loĝanta inter Kolombio kaj Ekvadoro, kiu malfermis al mi la pordojn de Katsa Su, ilia Granda Domo, kiel ili nomas ĝin en Awapit, ilia lingvo.
 
@@ -16,16 +12,10 @@ Pere de la popolo Awá kaj Katsa Su, mi lernis apartan manieron vivi. Mi eĉ ekk
 
 Katsa Su troviĝas en Nariño, suda Kolombio, departemento kie la rajtoj de la naturo estis agnoskitaj en tiu sama jaro: la rajto esti respektata, protektata, konservata kaj restaŭrata fariĝis rajtoj por ĉiuj strategiaj ekosistemoj de la regiono laŭ la Dekreto 348 de la registaro de Nariño.
 
-“La bestoj kiel subjekto de rajtoj, jura kategorio en diskuto“(2023), de Johana Fernanda Sánchez Jaramillo. Foto eldonita kun permeso.
-
 Dum mia doktora studado, mi koncentriĝis pri la verkado de mia disertacio, publikigita en 2024 post recenza aprobo, sen korektoj. Sed antaŭ ol verki mian disertacion, Añemó inspiris mian unuan libron pri la rajtoj de la aliaj bestoj, publikigita en 2023, la sama jaro kiam mi finis mian doktoriĝon. Ĝia ĉeesto en mia vivo, la saĝaj kaj grandanimaj vortoj de la Awá-oj, kaj iliaj interagoj kun aliaj estaĵoj (kiuj, same kiel ni homoj, havas volon kaj komunikas sian manieron esti, kvankam ne per vortoj), helpis min rekonsideri la malaktualan ideon ke nur homoj, pro sia digno kaj atribuoj, povas esti subjektoj de rajtoj. Mia doktora tezo pri la naturo kiel subjekto de rajtoj kaj la Awá-oj estis publikigita kiel libro en oktobro 2024.
-
-“La rajtoj de la naturo kaj ilia reflektiĝo en la defendado de Katsa Su de la popolo Awá en Nariño” (2024), de Johana Fernanda Sánchez Jaramillo. Foto eldonita kun permeso de la aŭtorino.
 
 Tiuj du libroj estas la rezulto de du jaroj da esplorado, kaj estis verkitaj kun amo kaj rigoreco dum la tri jaroj de mia doktoriĝo. Ambaŭ estis eldonitaj de Editorial del Rosario post la aprobo de akademiaj fakuloj ekster la universitato. Ambaŭ verkoj estas la frukto de amo etendita preter la homeco, de mia nova esprimloko, de mia konvinko ke ni ne estas superuloj kaj ke, kiel diris Sankta Francisko el Asizo siatempe, ni ĉiuj estas gefratoj. Same kiel ĉe la Awá-oj en Kolombio aŭ la maorioj en Nov-Zelando, ni povas etendi nian parencecon preter nia specio.
 
 Añemó permesis al mi adopti alian specion kaj forĝi profundan ligon en nia malgranda, multspecia dumembra familio. Siaflanke, la Awá-oj instruis al mi ke se ni estas atentaj, se ni lernas de saĝaj homoj kiel ili, ni povas kompreni kiel aliaj estaĵoj parolas al ni, gvidas nin, kaj protektas nin.
 
 Mia konscienco, el mia eta loko, kiel alia filino de la Patrino Tero, instigis, kaj daŭre instigas, mian akademian kaj ĵurnalisman aktivismon cele al la agnosko de rajtoj por ĉiuj vivantaj estaĵoj fare de la jura sistemo, rajtoj kiujn popoloj kiuj antaŭis nin, jam agnoskis en siaj kredsistemoj kaj en sia praula maniero kunekzisti en harmonio kun la vivantaj estaĵoj de sia medio.
-
-Legu pli: Ni devas pridiskuti la koloniismon en la jura parolado, diras kolombia advokatino (artikolo en la hispana)

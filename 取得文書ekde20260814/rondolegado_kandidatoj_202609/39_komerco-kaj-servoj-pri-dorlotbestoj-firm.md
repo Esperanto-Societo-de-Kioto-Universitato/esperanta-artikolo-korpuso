@@ -2,8 +2,6 @@ Komerco kaj servoj pri dorlotbestoj firmiĝas en Ĉinio
 
 Kiam mi transloĝiĝis al Ĉinio en 2015, malmultaj loĝantoj havis hundojn aŭ katojn hejme. Kion mi foje vidis estis emerituloj promenantaj kun siaj birdoj en kaĝo. Ĉe la angulo proksime al mia loĝejo, ili renkontiĝis kaj pasigis horojn ludante maĝongon. La birdoj, en siaj kaĝoj sur flanka tablo, restis rigardantaj siajn mastrojn ludi.
 
-La 20-an de aŭgusto, post la inaŭguro de la 27-a Azia Ekspozicio pri Hejmbestoj, vizitanto interagas kun kakatuo. (Foto:IC)
-
 Dorlotbestoj populariĝas
 
 Tempo pasis kaj mi rimarkis subitan populariĝon de dorlotbestoj, tiagrade ke necesis plibonigi la leĝaron de kelkaj grandaj urboj por trakti la defiojn portitajn de ĉi tiu nova vivstilo. Pasintjare, la kvanto de registritaj hejmbestoj en Ĉinio superis 120 milionojn.
@@ -21,8 +19,6 @@ Estas ankaŭ intereso pri ekzotaj bestoj, inter ili alpakoj kaj kapibaroj, amba�
 De kafejoj al hoteloj, komerca ekspluatado de bestoj dividas opiniojn
 
 Mallonge antaŭ la pandemio de KOVID-19, katokafejoj (kafejoj, kie katoj apartenantaj al la loko interagas kun klientoj) populariĝis inter ĉinaj junuloj. En kelkaj el ili, la katoj libere promenas inter la klientoj, kiuj kutimas karesi ilin.
-
-Kato ripozas en katkafejo en la Interna Mongolio. (Foto: Rafael Henrique Zerbetto)
 
 En kelkaj aliaj kafejoj, la bestoj restas en areo apartigita per vitro aŭ krado. Mi vizitis unu el tiuj en la Interna Mongolio kaj rimarkis, ke la areo rezervita por katoj estis klimatizita kaj havis ludilojn, dometojn por ripozo, manĝaĵon kaj akvon. La laboristoj de la kafejo ricevis specifan trejnadon por prizorgi la felisedojn, povante identigi katon streĉitan aŭ ĝenatan kaj tuj interveni por ke tiu povu ripozi for de la homoj.
 
@@ -48,8 +44,6 @@ La alia noviga servo estas firmao nomita Wagtopia, fondita de la brazilano Fábi
 
 Rezulte de tiu rapida ŝanĝiĝo en vivstilo, entreprenoj klopodas por doni best-amikajn servojn por allogi novajn klientojn. Lastatempe multaj butikumcentroj, hoteloj, trinkejoj kaj restoracioj investas en areoj por hejmbestoj.
 
-Wagtopia en Ŝanhajo estas la unua bakejo dediĉita al farado de freŝaj manĝoj por bestoj.
-
 Pasintjare, la biletoj por specialaj vesperaj vizitoj al la ekspozicio "Sur la pinto de la piramido: La civilizo de antikva egipto", kiuj permesis al homoj viziti la ekspozicion akompanate de sia kato, estis rapide disvenditaj. Konstatinte la ekzisto de granda postulo pri tia servo, Muzeo de Ŝanhajo pristudas similajn sesiojn por venontaj ekspozicioj.
 
 En la turisma sektoro, krozŝipoj kun hejmbestoj estis bone akceptitaj de ĉinaj konsumantoj. En la transporta sektoro, kelkaj altrapidaj trajnoj funkciigas servojn de transportado de hejmbestoj: Mastroj kaj bestoj vojaĝas en la sama trajno, sed en apartaj vagonoj, kaj vizitoj dum la vojaĝo ne estas permesataj.
@@ -63,5 +57,3 @@ La 28-an de aŭgusto la internacia flughaveno Hangzhou Xiaoshan en la provinco Z
 Krom prizorgi la bonstaton de la bestoj, la salono liveras aldonajn servojn rilatajn al transportado de bestoj, inkluzive de hejma kolektado kaj liverado, vendo de aviadaj biletoj kaj traktado de kvarantenaj proceduroj. La flughaveno Shenzhen Bao'an ankaŭ havas salonon ekskluzivan por bestoj, kiu estis inaŭgurita pasintjare.
 
 La rapida disvolviĝo de la sektoro pri dorlotbestoj en Ĉinio povas alporti valorajn ŝancojn por Brazilo, kiu havas sperton kaj tradicion en tiu sektoro kaj kapablon doni bonkvalitajn produktojn kaj servojn al la ĉina merkato.
-
-Verkis: Rafael Henrique Zerbetto

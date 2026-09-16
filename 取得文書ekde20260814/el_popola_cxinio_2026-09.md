@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-09-15T16:12:44.640316+00:00"
+generated_at: "2026-09-16T16:27:25.408765+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-09-01 – 2026-09-14"
 ---
@@ -12,7 +12,7 @@ time_range: "2026-09-01 – 2026-09-14"
 
 **URL:** http://esperanto.china.org.cn/2026-09/01/content_118674695.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 La 31-an de aŭgusto ĉina prezidanto Xi Jinping intervidiĝis kun uzbeka prezidento Shavkat Mirziyoyev okaze de la Pintkunveno de Ŝanhaja Kunlabora Organizo (ŜKO) 2026 en Biŝkeko, Kirgizio. Xi Jinping diris, ke sub gvidado de la du ŝtatestroj, la dulandaj rilatoj daŭre pliboniĝas kaj leviĝas kun fruktodona kunlaboro en diversaj kampoj kaj rimarkinda progreso en konstruado de ĉin-uzbeka komunumo de komuna estonteco.
 
@@ -31,7 +31,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-09/01/content_118674706.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 La 31-an de aŭgusto Xi Jinping renkontiĝis kun mongola prezidento Ukhnaa Khurelsukh okaze de la Pintkunveno de la Ŝanhaja Kunlabora Organizo 2026 en Biŝkeko, Kirgizio. Xi Jinping diris, ke Ĉinio kaj Mongolio estas proksimaj najbaroj ligitaj per montoj kaj riveroj, kaj paca kunekzistado, reciproka subteno, solidareco kaj reciprokprofita kunlaboro ĉiam estas la ĉefaj kaj difinaj trajtoj de duflankaj rilatoj. Ĉinio volas labori kun Mongolio por plie kreskigi reciprok-profitajn kunlaborojn kaj antaŭeniri man-en-mane laŭ la respektivaj vojoj de modernigo.
 
@@ -50,7 +50,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-09/01/content_118674733.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 La 31-an de aŭgusto ĉina prezidanto Xi Jinping renkontiĝis kun rusa prezidento Vladimir Putin okaze de la Pintkunveno de la Ŝanhaja Kunlabora Organizo (ŜKO) 2026 en Biŝkeko, Kirgizio. Xi Jinping diris, ke dum la sukcesa ŝtata vizito de Putin al Ĉinio en majo, li kaj Putin faris aranĝojn por konduki duflankajn rilatojn al pli altkvalita kaj pli altnivela disvolviĝo el strategia kaj longtempa perspektivo, kaj atingis komunan konsenton pri profundigo de kunlaboro inter Ĉinio kaj Rusio en diversaj sektoroj sub la novaj cirkonstancoj.
 
@@ -69,7 +69,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-09/01/content_118674740.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 La 31-an de aŭgusto ĉina prezidanto Xi Jinping intervidiĝis kun kirgiza prezidento Sadyr Japarov en Kirgizio. Li diris, ke Ĉinio pretas labori kun Kirgizio por pli bone aranĝi disvolvajn strategiojn, profundigi interŝanĝojn de spertoj pri administrado, liveri pli da veraj kaj alireblaj rezultoj de praktika kunlaboro, kaj fari esencan progreson en konstruado de ĉin-kirgiza komunumo kun komuna estonteco.
 
@@ -88,7 +88,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-09/01/content_118675016.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 Lastatempe nepala ministro pri scienco, teknologio kaj novigado Mahabir Pun esprimis dankon al la ĉina registaro pro la sendo de krizhelpaj provizaĵoj kaj savteamoj al la regionoj trafitaj de la katastrofo. Li diris, ke la helpo servos al livero de loĝejoj, subteno de rekonstruado kaj malblokado al enirejoj de tuneloj en konstruejoj de hidroelektra centralo, kie homoj estas enfermitaj.
 
@@ -105,7 +105,7 @@ Redaktoro: Gao Shuyuan
 
 **URL:** http://esperanto.china.org.cn/2026-09/01/content_118675026.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 La 31-an de aŭgusto post la malblokado de la ŝtata ŝoseo 216, ĉina konstrua kompanio AnNeng instalis ŝnurŝtuparan evakuan koridoron, kio ligante plurajn rifuĝejojn, sekurigas la savistojn kontraŭ subitaj inundoj, ŝlimfluoj kaj aliaj danĝeroj.
 
@@ -120,7 +120,7 @@ Redaktoro: Gao Shuyuan
 
 **URL:** http://esperanto.china.org.cn/2026-09/02/content_118676352.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 Ĉina prezidanto Xi Jinping atingis Kairon por ŝtata vizito al Egiptio en la 1-a de septembro laŭ la loka tempo.
 
@@ -137,7 +137,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-09/02/content_118676383.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 La 1-an de septembro ĉina prezidanto Xi Jinping ĉeestis al la pintkunveno de la Konsilio de Ŝtatestroj de la Ŝanhaja Kunlabora Organizo (ŜKO) en Biŝkeko, Kirgizio, kaj faris gravan paroladon.
 
@@ -158,7 +158,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-09/02/content_118676390.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 Egipta aktoro Sherif Sobhy lastatempe estis intervjuita de ĉina amaskomunikilo. Li diris, ke lia sperto aktori en la ĉina filmo "Iam en Mezoriento" (angle: Once Upon a Time in the Middle East; ĉine kaj arabe: Bonvenon al restoracio Loong) montris, kiel kino povas servi kiel ponto por plifortigi kulturajn interŝanĝojn inter Egiptio kaj Ĉinio.
 
@@ -209,7 +209,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-09/02/content_118677078.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 La 1-an de septembro, medicinistoj de ĉina armeo en Xizang-a Aŭtonoma Regiono, sudokcidenta Ĉinio, faris sanekzamenojn al la lokanoj kaj disinfektis ŝlimfluotrafitajn lokojn por garantii por la sano de lokanoj kaj savistoj.
 
@@ -230,7 +230,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-09/03/content_118678880.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 La 2-an de septembro ĉina prezidanto Xi Jinping intervidiĝis kun egipta prezidento Abdel Fattah El-Sisi en Kairo, Egiptio.
 
@@ -249,7 +249,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-09/03/content_118679250.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 Matene de la 2-a de septembro, ekalireblis la 3-kilometra sekcio de la ĉina ŝtata ŝoseo 216 blokita pro ŝlimfluo. Laŭ la ĵus riparita vojo, savistoj, krizhelpaj provizaĵoj kaj ekipaĵoj povas atingi la plej trafitan regionon por plenumi savadon.
 
@@ -268,7 +268,7 @@ Redaktoro: Gao Shuyuan
 
 **URL:** http://esperanto.china.org.cn/2026-09/03/content_118679271.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 Laŭ gazetara konferenco okazigita de la registaro de Xizang-a Aŭtonoma Regiono, sudokcidenta Ĉinio, ĝis la tagmezo de la 2-a de septembro, 21 homoj pereis, 541 homoj restas en senkontakto pro la ŝlimfluo trafinta Gyirong. Nuntempe la sav- kaj katastrofaj respondaj laboroj estas enorde kaj efike plenumataj.
 
@@ -285,7 +285,7 @@ Redaktoro: Gao Shuyuan
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio
 
 Dum internaciaj konfliktoj kaj malamikecoj alprenas danĝerajn konturojn, kun ebleco de eskalado, Ĉinio, per la lastatempaj ŝtatvizitoj de prezidanto Xi Jinping al Kirgizio kaj Egiptio, klopodas antaŭenigi mesaĝon de paco kaj internacia kunlaboro.
 
@@ -358,6 +358,8 @@ Verkis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2026-09/07/content_118683725.htm
 
+**Author:** Igor Ŝestakov
+
 **Categories:** Novaĵoj
 
 de Igor Ŝestakov*
@@ -407,7 +409,7 @@ Projektita de Chen Ji
 
 **URL:** http://esperanto.china.org.cn/2026-09/07/content_118684047.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 La 6-an de septembro, la finala taksado de ĉi-jara Orkide-premio okazis en Pekino. Ĉeestis 23 juĝistoj el dek landoj, inkluzive de Ĉinio, Aŭstralio, Barato, Italio, Kazaĥio, Libano, Malio, Tajlando, Britio kaj Usono, kaj ili elektis dek rekomenditajn kandidatojn por la premio, inter kiuj une por la Dumviva Honoro, tri por la Elstara Atingo kaj ses por la Amikeca Ambasadoro. La fina listo de la dek gajnintoj estos oficiale anoncita en la premidona ceremonio en la kuranta jaro.
 
@@ -422,7 +424,7 @@ Dum la taksado kaj interŝanĝo, la juĝistoj diris, ke la Tutmonda Civilizacia 
 
 **URL:** http://esperanto.china.org.cn/2026-09/08/content_118685342.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 "Ĉinio kunhavigas al Nepalo la realtempajn informojn, por ke ni atentu pri eblaj estontaj katastrofoj," diris nepala ministro pri eksterlandaj aferoj Shisir Khanal lastatempe. Laŭ Khanal, la satelitaj kaj aliaj monitoraj datumoj, kiujn Ĉinio dividas post la ruinigaj ŝlimfluoj, subtenas la daŭrantan katastrofan respondon de Nepalo kaj helpas homojn spuri pliajn riskojn, kiuj povus kaŭzi kromajn damaĝojn.
 
@@ -449,7 +451,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-09/08/content_118685843.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 La Ĉina Internacia Foiro por Komerco de Servoj (mallongigo de la angla: CIFTIS) estas grava platformo por ekonomioj kaj entreprenoj por trovi novajn ŝancojn en la komerco de servoj, ĉar scio kaj datumoj fariĝis pli kaj pli gravaj motoroj de tutmonda kresko. "CIFTIS ne estas nur simpla ekspozicio, sed ankaŭ merkato por ideo, teknologio, investo kaj internacia partnereco," diris Simphiwe Madikizela, profesoro pri ekonomiko ĉe la Universitato de Sud-Afriko.
 
@@ -476,7 +478,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 La Nacia Akrobata Trupo de la Korea Popol-Demokratia Respubliko estas prestiĝa arta trupo kun pli ol 70-jara historio, mondkonata pro sia teknika rafiniteco kaj kapablo en multnombraj tipoj de akrobataĵoj.
 
@@ -495,7 +497,7 @@ Raportis kaj fotis: Rafael Henrique Zerbetto
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 La vilaĝo Xuanwo en montara regiono de la ĉina provinco Gansu ludis gravan rolon en la historio de la Longa Marŝo, ĉar la vilaĝo situas inter la loko de la historia Batalo de Lazikou – kiu rompis la armean ĉirkaŭadon de la Ruĝa Armeo -- kaj Hadapu, kie norda Shaanxi estis difinita kiel celloko de la marŝo.
 
@@ -576,7 +578,7 @@ Verkis kaj fotis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2026-09/09/content_118687620.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 La 9-an de septembro en Pekino estis inaŭgurita la Ĉina Internacia Foiro por Komerco de Servoj en 2026. La foiron ĉeestas pli ol 1 800 entreprenoj en- kaj eksterlandaj, inkluzive de pli ol 456 entreprenoj en la listo Fortune 500 kaj grandaj industriaj kompanioj.
 
@@ -593,7 +595,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Bui Hai Mung
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 En Pekino okazas la Ĉina Internacia Foiro por Komerco de Servoj 2026. Ĉi-jare nova ekspozicia sekcio altiris la atenton de multaj vizitantoj. Ĝia nomo estas "ĉinaj servoj". Estas la unua fojo, ke tia sekcio troviĝas en la centra parto de la ekspozicio. Ĝi prezentas pli ol 140 ekzemplajn kazojn el diversaj regionoj, entreprenoj kaj organizoj de Ĉinio. La kazoj kovras 12 kampojn de la komerco de servoj. Ili temas pri spac-tempa informado, translima loĝistiko, farmacia esplorado, inteligenta produktado, kulturo, turismo kaj servoj por la ĉiutaga vivo. Teknologio ludas gravan rolon. Preskaŭ 40% de la kazoj uzas artefaritan intelekton, grandajn lingvomodelojn aŭ inteligentajn agentojn kiel kernajn teknologiojn. Sed novaj teknologioj ne estas la sola interesaĵo. Pli grava estas alia demando: kiel transformi teknologion kaj profesian scion en servojn uzeblajn en la reala vivo? Kelkaj el tiuj servoj jam celas internaciajn merkatojn.
 
@@ -648,7 +650,7 @@ Verkis kaj fotis: Bui Hai Mung
 
 **URL:** http://esperanto.china.org.cn/2026-09/10/content_118689311.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 De la 4-a ĝis la 12-a de septembro okazis en Malajzio la 9-a Interreta Simpozio de Azia-Pacifikaj Geoparkoj. La Monda Geoparko Zhongnan-monto de la urbo Xi'an, la provinco Shaanxi, estis invitita ĉeesti kaj kune diskuti kun la reprezentantoj el aliaj 22 landoj kaj regionoj de la mondo.
 
@@ -667,7 +669,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-09/11/content_118691353.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Plej Freŝaj, Novaĵoj, Aktuala temo
 
 La 10an de septembro, la proparolanto de ĉina Ministerio pri Eksterlandaj Aferoj anoncis, ke ĉina prezidanto Xi Jinping ĉeestos la 18an BRICS-pintkunvenon okazontan en la 12a kaj la 13a de septembro en Nov-Delhio, Barato, laŭ la invito de barata ĉefministro Narendra Modi.
 
@@ -686,7 +688,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 La 7-an de septembro la brazila ambasadorejo en Pekino okazigis akcepton por invititoj, kun ĉeesto de reprezentantoj de la ĉina registaro, de diversaj diplomatiaj misioj en Ĉinio kaj de reprezentantoj de la civila socio, por festi la 204-an datrevenon de la sendependiĝo de Brazilo.
 
@@ -731,7 +733,7 @@ Raportis: Rafael Henrique Zerbetto
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 Konstruita en 1982 okaze de la 70-a naskiĝdatreveno de la prezidanto Kim Il-sung, la Triumfa Arko de Pjongjango estas impona monumento ĉe la piedo de Monto Moran kaj simbolas la korean reziston kontraŭ la japana okupado, same kiel la "triumfan revenon" de Kim Il-sung en 1945.
 
@@ -758,7 +760,9 @@ Raportis kaj fotis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2026-09/14/content_118691413.htm
 
-**Categories:** Plej Freŝaj
+**Author:** Qin Dian
+
+**Categories:** Socia Vivo
 
 de Qin Dian
 
@@ -785,7 +789,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-09/14/content_118695045.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 La 12-an de septembro, ĉina prezidanto Xi Jinping anoncis en la 18a Pintkunveno de BRICS en Nov-Delhio, Barato, ke Ĉinio transprenos la deĵorantan prezidantecon de BRICS en 2027.
 
@@ -800,7 +804,7 @@ Redaktoro: Gao Shuyuan
 
 **URL:** http://esperanto.china.org.cn/2026-09/14/content_118695051.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 La 13-an de septembro, ĉina prezidanto Xi Jinping proponis kvin iniciatojn pri la kunlaboro de grandigita BRICS en la kampoj de AI, komerco kaj investa faciligo, cifereca industrio, inteligenta fabrikado kaj evoluigo de talentuloj.
 
@@ -817,7 +821,7 @@ Redaktoro: Gao Shuyuan
 
 **URL:** http://esperanto.china.org.cn/2026-09/14/content_118695063.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 Ĉina prezidanto Xi Jinping kaj barata ĉefministro Narendra Modi sabate faris sinceran kaj profundan interŝanĝon de opinioj, kaj atingis gravan konsenton, ke Ĉinio kaj Barato devas esti partneroj. La du gvidantoj renkontiĝis okaze de la 18a Pintkunveno de BRICS en Nov-Delhio.
 
@@ -840,7 +844,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Bui Hai Mung
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 En la speciala zono por servoj al entreprenoj irantaj eksterlanden ĉe la Ĉina Internacia Foiro por Komerco de Servoj (CIFTIS) 2026 en Pekino, oni povas vidi tre malsamajn servojn. Unu kompanio helpas ĉinajn entreprenojn partopreni ekspoziciojn en Germanio, Italio kaj aliaj landoj. Alia ofertas servojn pri registrado de kompanioj, kontado, revizio kaj impostoj en Hongkongo. Ne malproksime, kompanio pri intelekta proprieto helpas ĉinajn teknologiojn trovi partnerojn eksterlande. KPMG parolas pri strategio, plenumo de reguloj kaj loka adaptiĝo. La servoj estas malsamaj, sed ili havas ion komunan: iliaj klientoj estas ĉinaj entreprenoj, kiuj iras al internaciaj merkatoj.
 

@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-09-15T16:12:44.576943+00:00"
+generated_at: "2026-09-16T16:27:25.254703+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-07-01 – 2026-07-31"
 ---
@@ -12,7 +12,7 @@ time_range: "2026-07-01 – 2026-07-31"
 
 **URL:** http://esperanto.china.org.cn/2026-07/01/content_118575220.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 Lastatempe Farai Marapira, direktoro de Informado kaj Publikeco de zimbabva partio ZANU-PF, diris, ke la radikoj de la monumentaj atingoj de Ĉinio kuŝas en la Komunista Partio de Ĉinio (KPĈ), ĝi estas disciplina, bone organizita kaj popol-fokusa partio. KPĈ restas la kerno de evoluo de Ĉinio, konservante sian grandegan vivecon per daŭra memrevolucio kaj firma sindevotiĝo al plena kaj rigora memregado. "La forto de KPĈ estas la forto de la lando," diris Marapira. "Ĝi estas brila modelo por politikaj partioj tutmonde."
 
@@ -41,7 +41,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-07/01/content_118577566.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 Antaŭtagmeze de la 1-a de julio solene okazis kunveno celebre al la 105-a datreveno de la fondiĝo de la Komunista Partio de Ĉinio (KPĈ) en la Granda Popola Halo de Pekino, Ĉinio.
 
@@ -62,7 +62,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-07/01/content_118577571.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 La 1-an de julio okazis kunveno celebre al la 105-a datreveno de la fondiĝo de la Komunista Partio de Ĉinio (KPĈ) en Pekino, Ĉinio. Xi Jinping, ĝenerala sekretario de la Centra Komitato de KPĈ, faris gravan paroladon.
 
@@ -83,7 +83,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-07/01/content_118577638.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio
 
 En la 1820-aj jaroj aperis en Anglio la unua vaporlokomotiva fervojo. Poste, ĉi tiu tute nova transportmaniero rapide etendiĝis al la Oriento.
 
@@ -106,7 +106,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-07/01/content_118577817.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio
 
 La 30-an de junio ekfunkciis la ±800 kV superalttensia kontinua kurento de elektrotranssenda projekto de norda Shaanxi al Anhui, kiel nova arterio al la "okcident-orienta elektrotranssendo" de Ĉinio. Tio estas la unua superalttensia kontinu-kurenta projekto ekfunkciita depost la komenciĝo de la 15-a Kvinjara Plano de Ĉinio, kaj ankaŭ la tria ĉi-speca elektrotranssenda kanalo el Shaanxi.
 
@@ -129,7 +129,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Bui Hai Mung
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio, Kulturo,Scienco kaj Sporto
 
 En multaj sciencfikciaj filmoj, flugantaj taksioj, glitantaj inter nubskrapuloj, simbolas estontecajn urbojn. En Hefei, ĉefurbo de la provinco Anhui, tiu vizio jam ne apartenas nur al la kinejo. En la parko Luogang, du-loka elektra vertikala starta kaj surteriĝa aviadilo (eVTOL) senbrue leviĝas vertikale kaj sekvas antaŭprogramitan flugvojon. En la kajuto ne troviĝas piloto. La tuta flugo estas regata de surtera operacia centro. Por Ĉinio tio ne estas simpla teknologia demonstraĵo, sed provo konstrui tute novan ekonomian sektoron. Oni nomas ĝin "malaltaltituda ekonomio" – iniciato por transformi la aerospacon sub 1 000 metroj en novan kampon por transporto, loĝistiko, krizhelpo kaj diversaj urbaj servoj.
 
@@ -218,7 +218,7 @@ Verkis kaj fotoj: Bui Hai Mung
 
 **URL:** http://esperanto.china.org.cn/2026-07/03/content_118581476.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 La 1-an de julio okazis diskonigo por la kvina volumo de "Xi Jinping: Regado de Ĉinio" en Ankaro, Turkio. En la evento, invititoj sinsekve faris paroladojn pri la libroj.
 
@@ -245,7 +245,7 @@ Redaktoro: Gao Shuyuan
 
 **URL:** http://esperanto.china.org.cn/2026-07/07/content_118552979.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 Petr Parkhomchik, prezidanto de la Regiona Plenuma Komitato de Bresto, Belorusio, diris lastatempe, ke kun multaj sukcesaj komunaj projektoj, Belorusio kaj Ĉinio povas pli profundigi kunlaborojn.
 
@@ -268,7 +268,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-07/09/content_118590931.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 Nasim Mahmmud, plenuma direktoro de la Centro por Orient-Azia Fondaĵo en Bangladeŝo, diris lastatempe, ke la reĝimaj avantaĝoj de Ĉinio, kiuj radikas en la gvidado de la Komunista Partio de Ĉinio (KPĈ), helpis la landon transformi la longdaŭrajn planojn en konkretajn atingojn, liverante realigeblan modelon por landoj de Tutmonda Sudo, kiuj serĉas akcelitan modernigon. La landa sistemo provizis la esencan kadron por la sukcesa efektivigo de la kvinjaraj planoj de Ĉinio, certigante strategian stabilecon, efikan praktikigon kaj kunordigitan plenumon tra ĉiuj niveloj de la lando.
 
@@ -293,7 +293,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-07/10/content_118590995.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 La 970-jara lignoturo de Yingxian-gubernio en Shanxi-provinco, Ĉinio, estas okangula ĉina pagodo, kun kvin videblaj kaj kvar kaŝitaj tavoloj. Ĝi estas la monde plej malnova kaj plej alta ligna pavilona konstruaĵo kun enirebleco. Sed ĉi tiu trezoro, pro milita atako kaj misrekonstruo, daŭre kliniĝas. Por ĝin protekti, la kulturrestaĵaj departementoj de loka registaro jam malpermesis vizitantojn eniĝi kaj grimpi la ŝtuparon por pli ol dek jaroj.
 
@@ -318,7 +318,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-07/13/content_118563004.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 Miklos Bornemissza, vicprezidanto de la Komerca kaj Industria Ĉambro de Budapeŝto, lastatempe diris, ke Hungario esperas vastigi kunlaboron kun Ĉinio. Laŭ li, la konstanta kresko de duflanka komerco estas antaŭenpuŝata de strategia politika kunlaboro kaj ekonomia komplemento de la du landoj. Hungario ludas pontan rolon inter la Oriento kaj la Okcidento kaj aktive partoprenas en la iniciato "La Zono kaj Vojo", kiel stabila fundamento por longdaŭra kunlaboro.
 
@@ -339,7 +339,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-07/13/content_118596886.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Naturo kaj Mediprotekto, Vojaĝo tra Ĉinio
 
 Kiam la somera varmego atingas la montaron Qinling en Shaanxi-provinco de Ĉinio, la montaro eniras la plej gravan periodon de ekologia aktiveco de la jaro.
 
@@ -362,7 +362,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-07/14/content_118598212.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 La 13-an de julio okazis diskoniga kunveno por la 5-a volumo de "Xi Jinping: Regado de Ĉinio" en Biŝkeko, ĉefurbo de Kirgizio.
 
@@ -385,7 +385,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-07/15/content_118599983.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** E-movado, E-novaĵoj
 
 Antaŭtagmeze de la 11-a de julio la 59-a Kongreso de Internacia Ligo de Esperantistaj Instruistoj (ILEI) malfermiĝis en Zaozhuang-a Universitato, Shandong-provinco, Ĉinio. La kongreso estas organizita de ILEI kaj la universitato, kun la temo "eduki profesiajn esperantistojn kaj protekti Esperanto-kulturon". Preskaŭ 200 homoj el 18 landoj partoprenis en la evento surloke aŭ interrete.
 
@@ -410,13 +410,13 @@ La okazigo de la kongreso ne nur provizas altnivelan akademian platformon por es
 
 **URL:** http://esperanto.china.org.cn/2026-07/15/content_118600716.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Kulturo,Scienco kaj Sporto
 
 La 13-an de julio en Lanzhou-urbo oficiale komenciĝis la Gansu-sekcio de la programo "Kune sur la Longa Marŝo". La programo estas kune okazigita de la Azi-Pacifika Centro de Ĉina Internacia Komunika Grupo kaj la Gansu-a Internacia Komunika Centro.
 
 Gansu estas grava regiono sur la itinero de la Longa Marŝo. Ĝi estas la sola provinco, tra kiu ĉiuj kvar trupoj de la Longa Marŝo trapasis. Krome, la lokoj Huining kaj Jiangtaipu (nuntempe apartenanta al la Ningxia-a Huja Aŭtonoma Regiono) spertis la sukcesan kunigon de la Unua, la Dua kaj la Kvara Frontaj Armeoj de la Ruĝa Armeo, kio markis la finan venkon de la Longa Marŝo.
 
-Sekve, preskaŭ 40 ĉinaj kaj eksterlandaj fakuloj kaj ĵurnalistoj, kune vizitos la ŝlosilajn lokojn survoje de la Longa Marŝo por dokumenti la grandegajn ŝanĝiĝojn de la  regionoj dum la pasintaj 90 jaroj.
+Sekve, preskaŭ 40 ĉinaj kaj eksterlandaj fakuloj kaj ĵurnalistoj, kune vizitos la ŝlosilajn lokojn survoje de la Longa Marŝo por dokumenti la grandegajn ŝanĝiĝojn de la regionoj dum la pasintaj 90 jaroj.
 
 
 ---
@@ -427,7 +427,7 @@ Sekve, preskaŭ 40 ĉinaj kaj eksterlandaj fakuloj kaj ĵurnalistoj, kune vizito
 
 **URL:** http://esperanto.china.org.cn/2026-07/15/content_118600723.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio, Kulturo,Scienco kaj Sporto
 
 En la programo "Kune sur la Longa Marŝo", la raportistoj de la revuo El Popola Ĉinio vizitis konservan kaj kultivan bazon de kurac-plantaĵoj en Minxian-gubernio, Gansu-provinco. La loko estas produktejo de danggui (Angelica sinensis) kaj multaj aliaj tradiciaj ĉinaj kurac-herboj. Ili vizitis ankaŭ inteligentajn forcejojn, kie temperaturo, humideco, lumo kaj irigacio estas precize aranĝataj por helpi la kreskadon de la herboj.
 
@@ -444,7 +444,7 @@ Antaŭ preskaŭ 90 jaroj, Minxian estis unu el la gravaj lokoj sur la itinero de
 
 **URL:** http://esperanto.china.org.cn/2026-07/16/content_118602278.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Kulturo,Scienco kaj Sporto
 
 La 15-an de julio okazis libro-prezento por la kvina volumo de "Xi Jinping: Regado de Ĉinio" en Astano, ĉefurbo de Kazaĥio.
 
@@ -465,7 +465,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-07/16/content_118602721.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 En la tria tago de la programo "Kune sur la Longa Marŝo", ĵurnalistoj de El Popola Ĉinio vojaĝis al Lazikou kaj Hadapu, du gravaj lokoj en la historio de la Longa Marŝo en Gansu-provinco. Ĉe Lazikou, ni vidis la krutajn montojn kaj la mallarĝan valon, kie okazis unu el la ŝlosilaj bataloj. Starante tie, estis malfacile imagi, kiel la Ruĝa Armeo sukcesis trapasi tian danĝeran terenon antaŭ preskaŭ 90 jaroj.
 
@@ -482,7 +482,7 @@ Por multaj membroj de la internacia delegacio, la vizito estas ne nur historia l
 
 **URL:** http://esperanto.china.org.cn/2026-07/17/content_118604987.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio
 
 La 17-an de julio en Ŝanhajo, ĉina prezidanto Xi Jinping ĉeestis la malferman ceremonion de la Monda Konferenco pri Artefarita Intelekto (AI) kaj Alt-nivela Konferenco pri Tutmonda Administrado de Artefarita Intelekto kaj faris gravan paroladon.
 
@@ -501,7 +501,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-07/20/content_118608364.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 Pro la pintperiodoj de somera elektrokonsumo, la elektroŝarĝo de elektra reto daŭre altiĝas. La Baoji-a Elektroproviza Kompanio sub Shaanxi-a Elektrokompanio konstruis ĉiuflankan kaj realtempan sistemon por elektra reto, plibonigante la efikecon kaj stabilecon de elektroprovizo dum la somero.
 
@@ -522,7 +522,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-07/21/content_118575214.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 Maziar Mike Doustdar, prezidanto kaj ĉefoficisto de dana farmacia kompanio Novo Nordisk, diris lastatempe, ke la kompanio, vidinte la grandegan merkatan potencialon de Ĉinio, volas plu integri la ĉinan merkaton en sian tutmondan kompanian strategion.
 
@@ -549,7 +549,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Bui Hai Mung
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 Matene de la 9-a de julio, en la urbo Guigang de Guangxi-a Zhuang-a Aŭtonoma Regiono en suda Ĉinio, motorizita pramo estis deplojita en inundita areo por evakui 6 000 instruistojn kaj studentojn, kiuj restis kaptitaj de la inundo. Samtempe, en aliaj lokoj de Guangxi, flugrobotoj senĉese ekflugis. Iuj portis manĝaĵojn kaj akvon al izolitaj lokoj. Aliaj transportis elektrogeneratorojn al komandocentro. Kelkaj flugis super la katastrofejo por helpi restarigi komunikadon kaj sendi bildojn de la inunditaj regionoj al la komandocentro. Krome, sistemoj de AI prilaboris datumojn pri pluvegoj, inundoj, la elektra reto kaj satelitaj bildoj. Satelitoj urĝe observis la trafitajn regionojn. AI helpis analizi bildojn, identigi inunditajn areojn kaj kunigi informojn por taksi riskojn. La okazaĵoj en Guangxi montras, ke teknologio nun partoprenas en multaj kampoj de la reago al naturaj katastrofoj. AI ne funkcias aparte, sed kune kun satelitoj, flugrobotoj, komunikaj retoj kaj savrimedoj. De datumoj ĝis la katastrofejo, ĉiu teknologio plenumas sian propran taskon.
 
@@ -610,7 +610,7 @@ Verkita de Bui Hai Mung
 
 **URL:** http://esperanto.china.org.cn/2026-07/23/content_118614714.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** E-movado, E-novaĵoj
 
 De la 6-a ĝis la 9-a de julio, la 8-a Tutlanda Esperanta Legokunsido okazis en Qingdao-a Universitato. Kunvenis 27 esperantistoj (inkluzive de iliaj familianoj) el Pekino, Tianjin, Hubei, Jiangxi, Zhejiang, Jiangsu, Henan, Guangdong, Jilin kaj Qingdao. Retrorigardinte la progreson de la legokunsido dum la pasintaj dek jaroj, ili ankaŭ diskutis pri "Per Esperanto konatiĝi kun Lusin — Omaĝe al la 90-a datreveno de la forpaso de Lusin", kunlegante la esperantigitan verkon "Noveloj de Lusin, Plena kolekto".
 
@@ -625,7 +625,7 @@ Redaktoro: Gao Shuyuan
 
 **URL:** http://esperanto.china.org.cn/2026-07/23/content_118614723.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** E-novaĵoj
 
 La 30-an de junio, okazis lanĉ-ceremonio de la Esperanto-laborgrupo kaj la Ekspozicio de Esperanto-poŝtmarkoj en Linyi-a Metia Kolegio. Partoprenis en la evento membraro de la laborgrupo, lernantoj de la nedevigaj Esperanto-kursoj de la kolegio kaj reprezentantoj de Linyi-a Esperanto-Asocio.
 
@@ -642,7 +642,7 @@ Redaktoro: Gao Shuyuan
 
 **URL:** http://esperanto.china.org.cn/2026-07/24/content_118614687.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 La Futbala Mondpokalo 2026 de FIFA (Internacia Federacio de Futbala Asocio), kunorganizita de Usono, Kanado kaj Meksiko, fermiĝis lastatempe. Venkinte Argentinon, Hispanio denove levis la pokalon post 16-jara atendo. Daŭrante 39 tagojn, la turniro, kun entute 104 matĉoj, altiris pli ol 6.25 milionojn da surlokaj spektantoj. Rilata cifereca enhavo generis pli ol 20 miliardojn da vidoj – rompante rekordojn pri surreta ciferec-engaĝiĝo. Nuntempe la evento estas ne nur futbala spektaklo, sed ankaŭ tutmonda batalkampo de kapitaloj ĉiukvarjare.
 
@@ -673,7 +673,7 @@ Redaktoro: Gao Shuyuan
 
 **URL:** http://esperanto.china.org.cn/2026-07/27/content_118620341.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 La 25-an de julio UNESKO aldonis la ĉinajn metiajn porcelan-industriajn ejojn de Jingdezhen (angle: China's Jingdezhen Handicraft Porcelain Industry Sites) al listo de monda heredaĵo en la 48-a kunsido de la Monda Heredaĵa Komitato okazinta en Busano, la Korea Respubliko.
 
@@ -692,7 +692,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Bui Hai Mung
 
-**Categories:** Plej Freŝaj
+**Categories:** Plej Freŝaj, Novaĵoj, Aktuala temo
 
 "Mi volas preni tason da akvo."
 
@@ -745,7 +745,7 @@ Verkis kaj fotis: Bui Hai Mung
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio
 
 En maja mateno de ĉi tiu jaro, ĵurnalistoj iom post iom amasiĝis en ĉambro de hospitalo en Pekino por raporti pri grava okazaĵo. Antaŭ ili, kuracista teamo estis interparolanta kun Wang Zhiming, paraplegia paciento, kiu en tiu tago celebris la unujariĝon de la operacio, kiu donis al li esperon refoje stariĝi kaj paŝi: la 16-an de majo 2025 li ricevis operacion por elektra stimulado de mjelo kaj cerbo.
 
@@ -803,7 +803,7 @@ La aldono de cerbo-maŝina interfaco en la liston de ses grandaj estontaj indust
 
 Ŝi diras, ke esploroj pri cerbo-maŝina interfaco komenciĝis en la medicina kampo, celante helpi pacientojn resaniĝi, sed ĝia aplika amplekso estas multe pli vasta: "En ĉi tiu momento, la aplika kampo tute vastiĝas. Ekzemple, en estonta fabriko, laboristo povos uzi cerbo-maŝinan interfacan aparaton kaj moviĝi tra la koridoroj kontrolante la ĉirkaŭajn maŝinojn. Tiel eblas produkti, monitori kaj ankaŭ pliigi la efikecon de hom-maŝina kunlaboro."
 
-Krom industrio, Wenjing antaŭvidas aplikajn scenarojn en nia ĉiutaga vivo: "Per neinvaziva cerbo-maŝina interfaca aparato, ni povus pensi pri lum-ŝalto kaj la lumo ŝaltiĝas. Se ni volus kontroli la temperaturon de la klimatizilo al 26 gradoj, ĝi agordiĝas al 26 gradoj. Mi pensas pri  televidil-ŝalto kaj ĝi ŝaltiĝas. Tio estas sufiĉe futurisma ideo, sed kun daŭra maturiĝo de ĉi tiu teknologio en Ĉinio, kune kun ĝia efektivigo en industria skalo kaj la plua vastiĝo de aplikaj scenaroj, tia estonteco ne estas malproksima."
+Krom industrio, Wenjing antaŭvidas aplikajn scenarojn en nia ĉiutaga vivo: "Per neinvaziva cerbo-maŝina interfaca aparato, ni povus pensi pri lum-ŝalto kaj la lumo ŝaltiĝas. Se ni volus kontroli la temperaturon de la klimatizilo al 26 gradoj, ĝi agordiĝas al 26 gradoj. Mi pensas pri televidil-ŝalto kaj ĝi ŝaltiĝas. Tio estas sufiĉe futurisma ideo, sed kun daŭra maturiĝo de ĉi tiu teknologio en Ĉinio, kune kun ĝia efektivigo en industria skalo kaj la plua vastiĝo de aplikaj scenaroj, tia estonteco ne estas malproksima."
 
 Verkis: Rafael Henrique Zerbetto
 
@@ -818,7 +818,7 @@ Verkis: Rafael Henrique Zerbetto
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio, Kulturo,Scienco kaj Sporto
 
 En aprilo de ĉi tiu jaro, mi unuafoje vizitis la gubernion Minxian en la ĉina provinco Gansu por la pretiga laboro por dokumenta filmo pri la 90-a datreveno de la Longa Marŝo; poste mi revenis meze de julio por la filmado. Per tiuj du vojaĝoj, mi profunde konis la ŝanĝojn, kiujn la gubernio spertis ekde la alveno de la ĉina Ruĝa Armeo tie.
 
@@ -889,7 +889,7 @@ Verkis kaj fotis: Rafael Henrique Zerbetto
 
 **Author:** Sheng Min
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 Kiel aspektas la spirito de la Longa Marŝo en nia epoko? Kun tiu demando, mi partoprenis en la vojaĝo al la provinco Gansu en nordorienta Ĉinio, kadre de la programo "Kune en la Longa Marŝo: 90-a Datreveno de Epopeo". De Minxian tra Lazikou ĝis Huining, mi sekvis la vojon, sur kiu la Ruĝa Armeo iam marŝis. Survoje mi renkontis homojn vivplenajn kaj bonkorajn. Neniu el ili menciis la esprimon "spirito de la Longa Marŝo", sed el iliaj vivoj kaj rakontoj, mi iom post iom ekvidis la respondon.
 
@@ -954,7 +954,7 @@ Verkis: Sheng Min
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio, Kulturo,Scienco kaj Sporto
 
 La 12 500-kilometra Longa Marŝo finiĝis antaŭ 90 jaroj. Pli ol strategia operaco de la ĉina Ruĝa Armeo inter 1934 kaj 1936, ĝi estis esenca por formi nuntempan Ĉinion. Por kompreni la heredaĵon de la Longa Marŝo, teamo de El Popola Ĉinio entreprenis vojaĝon al la provinco Gansu en nordorienta Ĉinio, kadre de la aktivaĵo Kune en la Longa Marŝo: 90-a Datreveno de Epopeo por viziti historiajn lokojn ligitajn al la Longa Marŝo kaj kolekti informojn pri la socia kaj ekonomia evoluo de tiuj regionoj ekde la alveno de la Ruĝa Armeo.
 
@@ -1037,7 +1037,7 @@ Verkis kaj fotis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2026-07/30/content_118590954.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 Kiam la varmego atakas Eŭropon kaj klimatŝanĝiĝo restas problemo en la tutmonda tagordo, nobel-premiita fizikisto kaj eksa usona ministro pri energio Steven Chu diris, ke homaro ankoraŭ povas eviti la plej malbonajn sekvojn de la klimata krizo, sed oni devas agi rapide.
 
@@ -1060,7 +1060,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-07/31/content_118628112.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 La 28-an de julio la Ministerio pri Komerco de Ĉinio publikigis dokumenton titolitan "La starpunkto de Ĉinio pri la tiel nomata demando de 'troa produktokapacito'" por klarigi la fakton kaj pozicion de Ĉinio.
 

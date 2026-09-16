@@ -1,6 +1,6 @@
 ---
 source: "UEA Facila (uea.facila.org)"
-generated_at: "2026-09-15T16:17:07.122423+00:00"
+generated_at: "2026-09-16T16:26:31.675752+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-04-05 – 2026-04-26"
 ---
@@ -105,19 +105,6 @@ sub-skribi: skribi sian nomon fine de dokumento por montri, ke oni mem verkis ĝ
 **Categories:** Filmetoj
 
 [Embed] https://www.youtube.com/embed/dPCR3xyGonA?width=100%25&height=86.25
-
-
----
-
-# Lingva Provoko n-ro 61 (PROTEKTI kaj ŜIRMI)
-
-**Published:** 2026-04-16
-
-**URL:** https://uea.facila.org/filmetoj/lingva-provoko-n-ro-61-protekti-kaj-%C5%9Dirmi-r387
-
-**Categories:** Filmetoj
-
-[Embed] https://www.youtube.com/embed/qyruwX9-3wY?width=100%25&height=86.25
 
 
 ---

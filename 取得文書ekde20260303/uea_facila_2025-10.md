@@ -1,6 +1,6 @@
 ---
 source: "UEA Facila (uea.facila.org)"
-generated_at: "2026-09-15T16:17:07.078424+00:00"
+generated_at: "2026-09-16T16:26:31.627326+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-10-04 – 2025-10-29"
 ---
@@ -218,7 +218,7 @@ Alessandra Madella
 
 **Categories:** Kongresoj kaj kunvenoj
 
-**Audio:** https://uea.facila.org/uploads/monthly_2025_10/VKplena.mp3.389884c35b9279c2bd1c54f35b70c65a.mp3, https://www.vinilkosmo-mp3.com/eo/
+**Audio:** https://uea.facila.org/uploads/monthly_2025_10/VKplena.mp3.389884c35b9279c2bd1c54f35b70c65a.mp3
 
 Eblas aŭskulti ĉi tiun artikolon, kiun voĉlegis Márcia Rego.
 

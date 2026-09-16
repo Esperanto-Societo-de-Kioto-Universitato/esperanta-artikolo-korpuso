@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-09-15T16:12:44.475117+00:00"
+generated_at: "2026-09-16T16:27:24.993320+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-04-01 – 2026-04-30"
 ---
@@ -12,7 +12,7 @@ time_range: "2026-04-01 – 2026-04-30"
 
 **URL:** http://esperanto.china.org.cn/2026-04/01/content_118411765.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio, Kulturo,Scienco kaj Sporto
 
 La 30-an de marto la Monda Datuma Organizo (MDO) okazigis sian unuan ĝeneralan kunvenon en Pekino, markante sian oficialan establiĝon.
 
@@ -31,7 +31,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-04/02/content_118414417.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** E-novaĵoj
 
 Hej, samideano! Ĉu vi…
 
@@ -96,7 +96,7 @@ Se vi havas demandojn pri Pasporta Servo, kontaktu nin ĉe saluton@pasportaservo
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio, Kulturo,Scienco kaj Sporto
 
 La nokta bazaro Shazhou de la urbo Dunhuang en la provinco Gansu de Ĉinio estas vizitinda loko. Ĝi troviĝas je kelkminuta piedira distanco de la ĉefaj hoteloj de la urbo kaj liveras al vizitanto merĝan sperton de la kulturo de la antikva Silka Vojo per metiartoj kaj manĝaĵoj. La bazaro estis fondita en 1991, kun arkitekturo inspirita de tiu en Tang-dinastio (618-907), kiam la Silka Vojo spertis sian plej viglan momenton.
 
@@ -119,7 +119,7 @@ Raportis kaj fotis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2026-04/03/content_118411956.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Vojaĝo tra Ĉinio
 
 Printempo venas, floroj pompas unu post alia. Do kiam trajnoj traveturas pitoreskajn lokojn, formiĝas interesa sceno de modernaj feraĵoj kaj floranta printempo.
 
@@ -134,7 +134,9 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-04/07/content_118414394.htm
 
-**Categories:** Plej Freŝaj
+**Author:** John Huang
+
+**Categories:** Plej Freŝaj, Novaĵoj, Aktuala temo
 
 de John Huang
 
@@ -171,7 +173,7 @@ https://globalnews.ca/news/11391273/southern-alberta-residents-face-loss-of-bord
 
 **URL:** http://esperanto.china.org.cn/2026-04/08/content_118425194.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio, Vojaĝo tra Ĉinio
 
 La 7-an de aprilo la Ministerio pri Kulturo kaj Turismo de Ĉinio publikigis datumojn pri la kultura kaj turisma merkato de la lando dum la Qingming-festado. Laŭ kalkulo, en la tritaga feriado, ene de Ĉinio sume 135 milionoj da homfojoj vojaĝis ekter sian loĝurbon, la nombro pliiĝis je 6.8% kompare kun tiu de la pasinta jaro; kaj la vojaĝ-konsumado estis entute 61 367 milionoj da juanoj, je 6.6% pli multe ol tiu de la pasinta jaro.
 
@@ -188,7 +190,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio, Kulturo,Scienco kaj Sporto
 
 En Aprilo 1960 estis fondita Braziljo, ĉefurbo de Brazilo. Ĝi fariĝis historia marko pri urboplanado, kunkreita de la urboplanisto Lucio Costa kaj la arkitekto Oscar Niemeyer, kun tiu ĉi lasta prizorganta por ke ĉiu konstruaĵo estu en harmonio kun la desegno de la urbo.
 
@@ -261,7 +263,9 @@ Verkis kaj fotis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2026-04/10/content_118425280.htm
 
-**Categories:** Plej Freŝaj
+**Author:** John Huang
+
+**Categories:** Kulturo,Scienco kaj Sporto
 
 de John Huang
 
@@ -302,7 +306,7 @@ https://www.cbsnews.com/news/air-canada-ceo-michael-rousseau-retiring-english-on
 
 **URL:** http://esperanto.china.org.cn/2026-04/10/content_118429813.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 La 10-an de aprilo Xi Jinping, ĝenerala sekretario de la Centra Komitato de la Komunista Partio de Ĉinio (KPĈ), renkontiĝis kun Cheng Li-wun, prezidantino de la ĉina partio Kuomintango (KMT), en Pekino.
 
@@ -319,7 +323,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-04/10/content_118430105.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 La 9-an de aprilo okazis en Pekino lanĉceremonio pri la libro La Brazila Popolo: Signifo kaj formiĝo de Brazilo (O povo brasileiro: A formação e o sentido do Brasil). La ceremonio estas gvidata de la Ĉina Internacia Komunika Grupo kaj brazila ambasadorejo en Ĉinio, kunorganizita de la Eldonejo Blossom Press kaj la eldona centro pri ĉin-latinamerika kulturo, kaj subtenata de la Fondaĵo Darcy Ribeiro (Fundação Darcy Ribeiro) kaj la Instituto Guimarães Rosa. Tio estas la dua programo kadre de la Kultura Jaro inter Ĉinio kaj Brazilo.
 
@@ -336,7 +340,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 Posttagmeze de la 9-a de aprilo, en la sidejo de la Ĉina Internacia Komunika Grupo (ĈIEG) estis lanĉita la ĉina versio de la libro La Brazila Popolo (Portugale: O Povo Brasileiro) de Darcy Ribeiro, tradukita de Yan Qiaorong, asociita profesoro de la fakultato pri internaciaj studoj de la Komunika Universitato de Ĉinio kaj direktoro de la Centro pri Brazilaj Studoj de la Instituto pri Regionaj Studoj kaj Internacia Komunikado.
 
@@ -419,7 +423,7 @@ Verkis: Rafael Henrique Zerbetto
 
 **Author:** Bui Hai Mung
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio, Vojaĝo tra Ĉinio
 
 Inter verdaj montetoj kaj trankvilaj akvoj en la marborda regiono de Zhejiang-provinco, la 15-a Ĉina Internacia Ĝardena Ekspozicio en Wenzhou aperas ne nur kiel loko por montri ĝardenojn, sed kiel longa dialogo inter naturo, arkitekturo kaj homoj. La ekspozicia areo kovras pli ol 2.3 kvadratajn kilometrojn kaj harmonias kun la ekzistanta pejzaĝo. Inter montetoj, malnovaj arboj kaj lago, internaciaj ĝardenoj kreas trankvilan scenon. Vizitantoj el diversaj landoj renkontiĝas, dum la pejzaĝo silente rakontas pri kulturoj. La beleco troviĝas en harmonio inter naturo kaj homa kreado. Sed se oni rigardas nur la belecon, oni povas perdi pli gravan ideon: Ĉi tiu ekspozicio estas eksperimento pri nova urba modelo, kie "verdo" ne estas nur dekoracio, sed baza logiko – de planado ĝis longa funkciado.
 
@@ -482,7 +486,7 @@ Verkis: Bui Hai Mung
 
 **Author:** Bui Hai Mung
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Kulturo,Scienco kaj Sporto
 
 Aprilo en Ĉinio havas tre apartan etoson, ne nur pro la florantaj arboj, sed ankaŭ pro "sezono de legado", kiu disvastiĝas tra urboj kaj kamparoj. Dum la Semajno de Tutlanda Legado, publikaj bibliotekoj ricevas pli da vizitantoj, librovendejoj organizas kulturajn eventojn, kaj en metrooj aŭ busoj, homoj kun libroj fariĝis oftaj vidaĵoj. En 2026 ĉi tiu tendenco atingis gravan mejloŝtonon: La Regularo pri Antaŭenigo de Tutlanda Legado oficiale ekvalidis. Por la unua fojo, la instigo al legado ne restas nur socia movado, sed funkcias kiel parto de nacia jura kadro – paŝo malofte vidata en multaj aliaj landoj.
 
@@ -520,7 +524,7 @@ Biblioteko de Pekino
 
 Legspacoj inter ŝtato kaj socio
 
-Jam en la Okcidenta Han-dinastio,  Huaishi-merkato apud la Imperia Akademio estis loko, kie studentoj kunvenis por interŝanĝi librojn. Poste aperis retoj de librovendejoj kaj privataj bibliotekoj kun spirito de malfermo al la publiko, same kiel familiaj "bibliotekoj" servantaj lokajn komunumojn. Hodiaŭ, krom publikaj bibliotekoj, kune ekzistas kaj evoluas urbaj legĉambroj, sendependaj librovendejoj kaj ciferecaj legplatformoj. Kompare kun Eŭropo kaj Nord-Ameriko, kie publikaj bibliotekoj ludas centran rolon (subtenataj de organizoj kiel UNESKO), en Ĉinio la kombino de ŝtata gvidado kaj socia partopreno kreas legspacon samtempe unuigitan kaj tre dinamikan.
+Jam en la Okcidenta Han-dinastio, Huaishi-merkato apud la Imperia Akademio estis loko, kie studentoj kunvenis por interŝanĝi librojn. Poste aperis retoj de librovendejoj kaj privataj bibliotekoj kun spirito de malfermo al la publiko, same kiel familiaj "bibliotekoj" servantaj lokajn komunumojn. Hodiaŭ, krom publikaj bibliotekoj, kune ekzistas kaj evoluas urbaj legĉambroj, sendependaj librovendejoj kaj ciferecaj legplatformoj. Kompare kun Eŭropo kaj Nord-Ameriko, kie publikaj bibliotekoj ludas centran rolon (subtenataj de organizoj kiel UNESKO), en Ĉinio la kombino de ŝtata gvidado kaj socia partopreno kreas legspacon samtempe unuigitan kaj tre dinamikan.
 
 Ampleksa atento kaj defioj en la cifereca epoko
 
@@ -545,7 +549,7 @@ Verkis kaj fotis: Bui Hai Mung
 
 **URL:** http://esperanto.china.org.cn/2026-04/13/content_118434429.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 La 6-a Ĉina Internacia Ekspozicio de Konsumaĵoj daǔras en la provinco Hainan, suda Ĉinio, ekde la 13-a de aprilo. La ekspozicio estas la unua landnivela ekspozicio pri konsumaĵoj depost la lanĉo de insul-vasta sendependa dogan-operacio de Hainan. Ĝi altiris pli ol 3 400 markojn de pli ol 60 landoj kaj regionoj, kaj funkcias kiel internacia platformo por eksponado kaj negocado de altkvalitaj konsumaĵoj tra la tuta mondo.
 
@@ -560,7 +564,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-04/14/content_118434661.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 La Teknologia Instrumentpanelo de EPO 2025, publikigita lastatempe, montris, ke ĉinaj kompanioj kaj esploristoj registris rekordajn 22 031 patentpetojn ĉe la Eŭropa Patenta Oficejo (EPO) en 2025, kaj Ĉinio fariĝis la tria plej granda fonto de patentpetoj de la oficejo por la unua fojo.
 
@@ -583,7 +587,9 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-04/15/content_118434698.htm
 
-**Categories:** Plej Freŝaj
+**Author:** John Huang
+
+**Categories:** E-novaĵoj
 
 de John Huang
 
@@ -612,7 +618,7 @@ La reta enirejo de la vortaro troviĝas ĉe https://www.sinoatlantic.com/v1/inde
 
 **URL:** http://esperanto.china.org.cn/2026-04/15/content_118438159.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 Ĉina prezidanto Xi Jinping la 14-an de aprilo en Pekino renkontiĝis kun hispana ĉefministro Pedro Sanchez, kiu restas en Ĉinio por oficiala vizito.
 
@@ -635,7 +641,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 Mogao-grotaro, ankaŭ konata kiel "Grotaro de Mil Budhoj," situas ĉe la orienta deklivo de Mingsha-monto, sudoriente de la urbo Dunhuang en la provinco Gansu, okcidenta Ĉinio. Tie troviĝas pli ol 700 grotoj elfositaj rekte en la krudan klifon, etendiĝante je 1 680 metroj de nordo al sudo, kiuj estis enlistigitaj kiel monda kulturheredaĵo de UNESKO en 1987 pro sia elstara universala valoro.
 
@@ -666,7 +672,7 @@ Verkis kaj fotis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2026-04/16/content_118438964.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 Laŭ invito de la ĉina ĉefministro Li Qiang, hispana ĉefministro Pedro Sanchez faris oficialan viziton al Ĉinio, kio estas la kvara vizito de la ĉefministro al Ĉinio ene de kvar jaroj kaj alia grava altnivela interŝanĝo inter Ĉinio kaj Hispanio post la pasintjaraj vizitoj al Ĉinio fare de la hispana reĝo kaj la ĉefministro.
 
@@ -689,7 +695,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-04/16/content_118444084.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 La 15-an de apriro, Xi Jinping, ĝenerala sekretario de la Centra Komitato de la Komunista Partio de Ĉinio (KPĈ) kaj ĉina prezidanto, interparolis kun To Lam, ĝenerala sekretario de la Centra Komitato de la Komunista Partio de Vjetnamio (KPV) kaj vjetnama prezidanto, en Pekino.
 
@@ -708,7 +714,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-04/17/content_118434669.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 Nature estas la ĉefa plurfaka scienca revuo de la mondo. Magdalena Skipper estas la unua ĉefredaktorino de ĝi. Lastatempe Skipper diris, ke la 15-a Kvinjara Plano de Ĉinio povas provizi direkton por scienca disvolviĝo.
 
@@ -735,7 +741,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-04/17/content_118438845.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 Kiel grava evento post la lanĉo de insul-vasta sendependa dogan-operacio de Hainan en decembro de 2025, la 6-a Ĉina Internacia Ekspozicio de Konsumaĵoj komenciĝis en Haikou, ĉefurbo de la provinco Hainan en suda Ĉinio, altirante pli ol 3 400 markojn de pli ol 60 landoj kaj regionoj.
 
@@ -768,9 +774,9 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-04/18/content_118443379.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Plej Freŝaj, Novaĵoj, Aktuala temo
 
-La 19-an de aprilo komenciĝos la Pekina Yizhuang-a Duonmaratono kaj Duonmaratono de Homaspekta Roboto en 2026. Dum la plenproceza kaj ĉiuelementa provkurado komencita vespere de la 11-a de aprilo, pli ol 70 teamoj de homaspektaj robotoj montris evidentan rapidecon en pli ol dek teraspektoj, kelkaj jam povas atingi la  rapidecon de ordinara homa kurado, kaj unu el ili eĉ rompis la homan duonmaratonan rekordon.
+La 19-an de aprilo komenciĝos la Pekina Yizhuang-a Duonmaratono kaj Duonmaratono de Homaspekta Roboto en 2026. Dum la plenproceza kaj ĉiuelementa provkurado komencita vespere de la 11-a de aprilo, pli ol 70 teamoj de homaspektaj robotoj montris evidentan rapidecon en pli ol dek teraspektoj, kelkaj jam povas atingi la rapidecon de ordinara homa kurado, kaj unu el ili eĉ rompis la homan duonmaratonan rekordon.
 
 Fakte, laŭ la reguloj, la roboto, kiu unue transiros la cellinion, ne nepre estas la ĉampiono. La konkurso prioritatigas teknologion: la duonmaratono de homaspekta roboto fokusiĝas sur elementoj kiel neta fintempo, pezbalancitaj koeficientoj por respondaj kontrolreĝimoj, kaj akumulitaj puntempoj dum la kurado. Tamen, la homaspektaj robotoj kuras simile al homoj kaj progresas je videbla rapideco — pasintjare aperis la slogano"kompletigi la vetkuron estas heroeco", kaj nun oni jam diras"kuri la tutan vojon rapide kaj stabile, kun plena aŭtonomeco" — tia progreso estas vere entuziasmiga. La valoro de pli rapidaj robotoj ne estas limigita al kurado, ĝi kuŝas sur adaptiĝo al ĉiutagaj scenaroj kiel urĝsavo, liverado de medikamentoj kaj prizorgado de maljunuloj.
 
@@ -789,7 +795,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-04/20/content_118434672.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 Sheradil Baktygulov, direktoro de la Kirgiza Instituto pri Monda Politiko, diris, ke altkvalita disvolviĝo kadre de la iniciato "La Zono kaj Vojo" celas kreskigi verdan, justan kaj malferman tutmondan ekonomion."Nuntempe, kreskas la postuloj por egala kaj justa aliro al internaciaj financaj kaj komercaj mekanismoj," li klarigis kial la iniciato estas aparte altira por evoluantaj landoj.
 
@@ -810,7 +816,7 @@ Redaktorto: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-04/20/content_118443503.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Plej Freŝaj, Novaĵoj, Aktuala temo
 
 La 19-an de aprilo komenciĝis la Pekina Yizhuang-a Duonmaratono kaj Duonmaratono de Homaspekta Roboto en 2026. Vespere de la 11-a de aprilo en Yizhuang oni organizis provkuradon de la robota duonmaratono. Multaj bildoj de la robotoj kurantaj nokte estis kaptitaj per fotilo kaj disvastigitaj en diversaj amaskomunikiloj.
 
@@ -837,7 +843,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-04/20/content_118443674.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** E-movado, E-novaĵoj
 
 La Aŭstra Komisiono de UNESKO formale agnoskis Esperanton kiel parton de la nemateria kultura heredaĵo de Aŭstrio. La oficiala anonco aperis hodiaŭ, la 16-an de aprilo 2026:
 
@@ -862,7 +868,7 @@ Speciala momento pro tiu agnosko okazos en la 111-a UK. Por aliĝi aliru https:
 
 **URL:** http://esperanto.china.org.cn/2026-04/20/content_118448025.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 La 19-an de aprilo komenciĝis la Pekina Yizhuang-a Duonmaratono kaj Duonmaratono por Homaspektaj Robotoj en 2026. La konkurso okazis en du kategorioj: aŭtonoma kaj teleregata.
 
@@ -879,7 +885,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-04/22/content_118434675.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 Rob Smith, ĉefoficisto de germana grupo KION, diris pri sia opinio de la malfermeco kaj la disvolviĝo de novkvalitaj produktivaj fortoj de Ĉinio. Li diris, ke "ni kredas, ke la daŭra fokuso de Ĉinio pri verda disvolviĝo kreos medion, kie internaciaj kompanioj kiel KION povos novigi, lokalizi kaj kontribui al altkvalita, daŭripova kresko".
 
@@ -900,7 +906,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-04/23/content_118454399.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 Radoslaw Grzelaczyk, kunfondinto de la pola robota kompanio MERA Robotics, lastatempe komentis pri la gvida rolo de Ĉinio en la rapide evoluanta sektoro de homaspektaj robotoj. Li diris, ke ĉinaj homaspektaj robotoj fariĝas la "ĉefa elekto" por tutmondaj kompanioj, pro la alta disponebleco, rapida teknologia progreso kaj konkurencivaj prezoj.
 
@@ -923,7 +929,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Kulturo,Scienco kaj Sporto
 
 La 14-an de aprilo de ĉi tiu jaro, la Universitato Renmin de Ĉinio gastigis la Brazil-Ĉinan Junularan Festivalon kaj la 40-jaran Datrevenon de Amikeco inter la urboj Pekino kaj Rio-de-Ĵanejro. En la programo, sin prezentis la Orkestro Forte de Copacabana, la Studenta Artisma Grupo de la Universitato Renmin de Ĉinio kaj la Robota Bando Linkerbot. La evento estis parto de la agadoj de la Ĉin-Brazila Kultura Jaro.
 
@@ -990,7 +996,7 @@ Verkis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2026-04/27/content_118456777.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 En marto iu robotika kompanio en Shenzhen ekkunlaboris kun loka servoplatformo kaj lanĉis la tutmonde unuan robotan servon pri hejma purigado. Kontraŭ 149 juanoj, en tri horoj la roboto prizorgas bazajn ordigajn kaj purigajn taskojn, inkluzive de kolektado de rubaĵoj, organizado de ŝu-ŝrankoj, stokado de ludiloj kaj ŝanĝo de rubsakoj. La purigistino zorgas pri profunda purigado de kuirejo, banĉambro kaj dormoĉambro, kaj respondecas pri komunikado kun la kliento kaj surloka decido de taskoj.
 
@@ -1017,7 +1023,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 La brazila pianisto Clélia Iruzun, kiu loĝas en Britio, venis al Ĉinio por turneo kun siaj britaj kolegoj Nick Roberts (violonĉelo) kaj Shelley Levy (klarneto). La turneo en Ĉinio prezentis al la ĉina publiko klasikaĵojn de tutmonda muziko, famajn kanzonoj kiuj estis temoj de filmoj, tangojn de Astor Piazzola kaj, kompreneble, ankaŭ brazila muziko, ĉar la koncertoj ankaŭ estis parto de la programo pri la Ĉin-Brazila Kultura Jaro. Muziko, fine, estas mirindaĵo, kiu alproksimigas la popolojn.
 
@@ -1042,7 +1048,7 @@ Raportis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2026-04/29/content_118467426.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio, Naturo kaj Mediprotekto
 
 En la monta regiono de Yaoshi-urbeto, Shangluo-urbo, Shaanxi-provinco, Ĉinio, ekzistas vicoj da sunpaneloj. Ili apartenas al Guangyu-a Sunenergia Elektrejo, la plej granda monta sunenergia elektrejo en la provinco. Pro la kruta deklivo kaj malfacilaj naturaj kondiĉoj, dum la konstruado kaj funkciado, grupo da laboristoj restas tie por gardi la verdan elektrejon.
 
@@ -1061,7 +1067,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-04/29/content_118469316.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 La 28-an de aprilo okazis libroprezento por la angla versio de la kvina volumo de "Xi Jinping: Regado de Ĉinio" en Ĝakarto, Indonezio. La eventon ĉeestis pli ol 200 invititoj de la du landoj, inkluzive de Ahmad Muzani, prezidanto de la Popola Konsulta Asembleo de Indonezio, Chang Bo, prezidanto de la Ĉina Internacia Komunika Grupo, Muhammad Iftitah Sulaiman Suryanagara, ministro pri transmigrado de Indonezio, Wang Lutong, ĉina ambasadoro en Indonezio, kaj reprezentantoj de la rondoj de eldonado, pensfabrikoj, edukado kaj amaskomunikado.
 
@@ -1084,7 +1090,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 La 1-an de majo, la tuta mondo celebras la Internacian Tagon de Laboristoj. En ĉi tiu tago, ni festas la forton de tiuj, kiuj per sia ŝvito kaj dediĉo konstruas la mondon ĉirkaŭ ni — de la kamparo ĝis la urbo, de la fabrikoj ĝis la oficejoj, de la hejmoj ĝis la hospitaloj. Estas momento por honori la pasintajn luktojn, kiuj kontribuis por doni al laboristoj pli dignan vivon, kaj ankaŭ por renovigi la engaĝiĝon al pli justa estonteco, kie laboro estu valorata, laboristoj respektataj kaj malegalecoj superataj. Celebre al tiu ĉi dato, jen kelkaj fotoj de laboristoj dum iliaj okupoj.
 

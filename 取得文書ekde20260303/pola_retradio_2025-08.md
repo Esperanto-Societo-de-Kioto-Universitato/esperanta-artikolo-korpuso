@@ -1,6 +1,6 @@
 ---
 source: "Pola Retradio (pola-retradio.org)"
-generated_at: "2026-09-15T16:02:39.688851+00:00"
+generated_at: "2026-09-16T16:23:18.981037+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-08-01 – 2025-08-30"
 ---
@@ -139,7 +139,7 @@ En la 1418-a E_elsendo el la 10.08.2025 ĉe www.pola-retradio.org:
 
 ---
 
-# Ekspertoj pri  rotacia sismologio debatis en Pollando
+# Ekspertoj pri rotacia sismologio debatis en Pollando
 
 **Published:** 2025-08-10
 

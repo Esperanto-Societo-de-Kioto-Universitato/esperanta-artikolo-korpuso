@@ -2,8 +2,6 @@
 
 Ĉu Esperanto estas lingvo sen historio kaj kulturo? Ĉu Esperanto fiaskis, aŭ ĉu male ĝi jam sukcesis? En vidpunkta artikolo Liu Xiaozhe pripensas, kion povas fari la Esperantista komunumo por adaptiĝi al la aktuala mondo.
 
-Liu Xiaozhe (Solis).
-
 En certa amplekso kaj grado, Esperanto sukcesis. Tamen ĝi ne fariĝos ĉies dua lingvo por ĉiuj homoj, kiel revis la iniciatinto Zamenhof. Plej multaj homoj en la mondo tute ne zorgas pri lingvaj problemoj. Sufiĉas por ili nur la denaska lingvo. Sub la premo de potencaj lingvoj, Esperanto restos kiel minoritata lingvo kaj hobio de malmultaj homoj. Sed kiel komunikilo, Esperanto ludos neanstataŭeblan rolon en internacia ne-registara kontaktado dum longa historia epoko estontece, pro la vasta dissemiĝo de esperantistoj en la tuta mondo.
 
 Realiĝas ne ĉiuj belaj idealoj. Pasis jam pli ol 130 jaroj post la apero de Esperanto, dume okazis en la mondo grandegaj ŝanĝiĝoj en socio, politiko, ekonomio, scienco, tekniko kaj aliaj flankoj, pro kio Esperanto jam ne plu havas ŝancon fariĝi ĉies dua lingvo. Esperantistoj devas akcepti la realon, forlasante nerealisman iluzion, kaj denove ekzameni Esperanton, revizii la celon kaj strategion de la Esperanto-movado, adaptiĝante al la aktuala situacio.

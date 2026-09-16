@@ -1,7 +1,5 @@
 Ĉu birdaj monbiletoj en Eŭropo?
 
-Eblas aŭskulti ĉi tiun artikolon, kiun voĉlegis Patrick Morando.
-
 Eŭro, la ĉefa monunuo de Eŭropa Unio, naskiĝis la 1-an de januaro 1999. Tial, komence de la jaro 2025, uea.facila aperigis jenan artikolon : Eŭro aĝas 25 jarojn. Tamen dum siaj unuaj tri jaroj la nova monunuo restis nevidebla en la ĉiutaga vivo. Fakte ĝi estis uzata nur por fari komercajn kalkulojn kaj por bankaj transpagoj. La naciajn monerojn kaj monbiletojn komencis anstataŭigi la eŭrop-unia mono nur la 1-an de januaro 2002.
 
 La eŭrop-uniaj moneroj havas unu eŭropan flankon kaj unu nacian flankon. Ekzemple, la itala monero de du eŭroj montras la vizaĝon de la fama poeto Danto. La aŭstra monero de unu eŭro montras la vizaĝon de la komponisto Mozarto. La biletoj, male al la moneroj, montras neniun nacian simbolon. Oni ne reklamu iun landan kulturon per la novaj monbiletoj. Tial oni preferis ne montri famajn homojn aŭ konstruaĵojn el difinitaj landoj, kaj anstataŭe ornamis la biletojn per bildoj montrantaj la evoluon de la arkitekturo en Eŭropo. Ekzemple la 20-eŭra bileto vidigas gotikan vitralon sur unu flanko kaj gotikan ponton sur la alia. Sekve la konstruaĵoj desegnitaj sur la biletoj apartenis al neniu membro-ŝtato.
@@ -33,8 +31,6 @@ estraro: la grupo de homoj, kiuj direktas la agadon de asocio aŭ alia organiza�
 eŭro (€): la mon-unuo uzata en multaj eŭropaj landoj.
 
 gotika: difinita maniero fari konstruaĵojn kaj artaĵojn, uzata en iuj eŭropaj landoj dum la 12-a ĝis la 15-a jarcentoj.
-
-Archangel12 - York Minster, York, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=31860761
 
 heredaĵo: tio, kion la nuntempaj homoj trans-donas al la homoj, kiuj vivos en la estonteco; tio, kion la nuntempaj homoj ricevis de siaj antaŭuloj, aŭ trans-donas al siaj poste-uloj.
 

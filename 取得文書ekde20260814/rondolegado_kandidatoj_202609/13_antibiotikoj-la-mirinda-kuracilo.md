@@ -1,7 +1,5 @@
 Antibiotikoj: la mirinda kuracilo
 
-Eblas aŭskulti ĉi tiun artikolon, kiun voĉlegis Patrick Morando.
-
 Antibiotikoj: la mirinda kuracilo
 
 Imagu vivi en la jaro 1800: simpla infekto ĉe fingro povus mortigi vin. Eĉ malgranda vundo povus esti mortiga. La kuracistoj ofte estas senpovaj. Oni uzas rimedojn kiel hirudojn, sorĉojn, herbojn, aŭ oni fortranĉas brakon pro simpla infekto.
@@ -52,8 +50,6 @@ antibiotiko: tre grava kaj efika kuracilo vaste uzata ekde la 20-a jarcento.
 
 Arkto: la plej norda, frosta regiono de nia Tero.
 
-Heraldry, Isochrone CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=134827897
-
 arseniko: tre danĝera aĵo, kiu plej ofte mortigas tiun kiu manĝas ĝin, tamen uzata en tre malgrandaj kvantoj kiel kuracilo.
 
 bakterio: tre simpla malgranda vivanta estaĵo, kiu troviĝas ĉie sur la tero, sed ankaŭ en kaj sur la korpo de homoj kaj bestoj, kun diversaj funkcioj utilaj sed ankaŭ malutilaj; iuj specoj povas kaŭzi malsanojn.
@@ -66,11 +62,7 @@ hazarde: neantaŭvideble, okazinte sen plano aŭ intenco.
 
 hirudo: malgranda besto uzata de kuracistoj en la malnovaj tempoj por eltiri sangon el malsanuloj.
 
-Wikipedia/GlebK CC BY-SA 3.0
-
 infekto: malsano kaŭzata de eniro de malsanigaj estaĵoj en la korpon.
-
-Wikipedia / Marc CAT CC BY-SA 3.0
 
 intestoj: tre longa interna parto de la korpo, kie la korpo traktas manĝaĵojn kaj eltiras la utilan parton antaŭ ol forigi la ceteron.
 
@@ -99,8 +91,6 @@ puto: tre profunda sed malvasta truo fosita en la tero, kiu entenas akvon.
 rezisto: kontraŭstaro kontraŭ ekstera forto.
 
 RNA (ribonuklea acido): grava kaj tre malgranda aĵo trovebla ĉie en la korpo, necesa por ties funkciado.
-
-Yikrazuul - Propra verko, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=10312097
 
 sorĉo: ago aŭ diraĵo, per kiu oni esperas kaŭzi rezulton per la helpo de super-naturaj fortoj.
 

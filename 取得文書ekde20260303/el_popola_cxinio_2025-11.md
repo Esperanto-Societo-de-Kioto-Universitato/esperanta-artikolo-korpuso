@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-09-15T16:12:44.423150+00:00"
+generated_at: "2026-09-16T16:27:24.742585+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-11-03 – 2025-11-28"
 ---
@@ -14,7 +14,7 @@ time_range: "2025-11-03 – 2025-11-28"
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 Kiam mi alvenis en Ĉinio fine de oktobro 2015, la fokusa temo estis la 13-a Kvinjara Plano, efektivigita de 2016 ĝis 2020. Mi ankaŭ akompanis la sekvan kvinjaran planon, kiu finiĝas ĉi-jare, kaj ĝoje informiĝis pri la fokusoj de la 15-a Kvinjara Plano ĵus prilaborita okaze de la Kvara Plena Sesio de la 20-a Centra Komitato de la Komunista Partio de Ĉinio (KPĈ), okazinta en Pekino de la 20-a ĝis la 23-a de oktobro.
 
@@ -81,7 +81,7 @@ Verkis: Rafael Henrique Zerbetto
 
 **Author:** Bui Hai Mung
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio
 
 La Ekspozicia kaj Komerca Centro pri Importitaj Varoj de Hongqiao (Hongqiao IP Mart) estas grava punkto en la internacia ekonomia strategio de Ŝanhajo. Kreita laŭ la modelo "6 tagoj + 365 tagoj", la centro ne nur etendas la efikon de la Ĉina Internacia Importa Ekspozicio (ĈIIE), sed ankaŭ fariĝis ampleksa komerca platformo, kiu kunligas varojn, entreprenojn kaj kulturojn el la tuta mondo.
 
@@ -106,7 +106,7 @@ Teksto kaj fotoj: Bui Hai Mung
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 Komence de la pasinta jarcento, Japanio invadis kaj aneksis la korean duoninsulon por poste invadi Ĉinion. Koreoj aktive partoprenis la lukton por liberigi sin de la japana regado, kaj dum mia vizito al la ambasadejo de la Korea Popol-Demokratia Respubliko (KPDR) por akiri mian vizon, mi foliumis broŝuron pri ĉi tiu temo.
 
@@ -205,7 +205,7 @@ Verkis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2025-11/04/content_118159123.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** E-movado, E-novaĵoj
 
 La 1-an de novembro en Shanxi-a Universitato pri Financo kaj Ekonomioinaŭguriĝis la 15-a Ĉina Kongreso de Esperanto. Kun la ĉeftemo "Origina aspiro, estonteco, interŝanĝoj kaj kunlaboroj -- Kontribuu per Esperanta forto por konstrui la ĉinan modernigon kaj la homaran komunumon de komuna estonteco", la kongreso estas gvidata de la Ĉina Internacia Komunika Grupo (ĈIKG), organizita de la Ĉina Esperanto-Ligo (ĈEL) kaj la Azi-Pacifika Centro de ĈIKG, kaj estas subtenata de Fremdlingva Eldonejo kaj Shanxi-a Esperanto-Asocio.
 
@@ -246,7 +246,7 @@ Antaŭ la kongreso, estis inaŭgurita ekspozicio de E-libroj "Kompreni Ĉinion
 
 **URL:** http://esperanto.china.org.cn/2025-11/04/content_118159215.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** E-movado, E-novaĵoj
 
 La 1-an de novembro okaze de la 15-a Ĉina Kongreso de Esperanto malfermiĝis la libroekspozicio "Kompreni Ĉinion en lernado de civilizacioj" en la urbo Taiyuan de la provinco Shanxi. Yu Tao, vicprezidanto de la Ĉina Internacia Komunika Grupo (ĈIKG), Liu Dawei, prezidanto de la Ĉina Esperanto-Ligo (ĈEL), Ding Zhitao, vicĉefredaktorino de la Fremdlingva Eldonejo, Li Jianglong, ĉefa konsultisto de Shanxi-a Esperanto-Asocio, kaj koncernaj gvidantoj de la provinco ĉeestis la ceremonion. Pli ol 200 esperantistoj el 25 provincoj, municipoj, aŭtonomaj regionoj kaj Hongkongo partoprenis. Chen Ji, ĝenerala sekretario de la ĈEL kaj prezidanto de Azi-Oceania Komisiono de UEA (KAOEM), prezidis la ceremonion.
 
@@ -265,7 +265,7 @@ Vizitantoj diris, ke la ekspozicio ne nur estas libra festeno, sed ankaŭ proviz
 
 **URL:** http://esperanto.china.org.cn/2025-11/04/content_118159342.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** E-movado, E-novaĵoj
 
 Posttagmeze de la 1-a de novembro okazis seminario pri Esperanta eldonado pri "ĉinaj temoj". En la seminario opiniojn interŝanĝis pli ol 40 reprezentantoj el la kampoj de eldonado, E-tradukado kaj verkado.
 
@@ -286,7 +286,7 @@ La seminario estas fruktodona, partoprenantoj estis tre kuraĝigitaj kaj inspiri
 
 **URL:** http://esperanto.china.org.cn/2025-11/04/content_118159363.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 La Departamento de Plasta kaj Rekonstrua Ĥirurgio ĉe la Naŭa Popola Hospitalo de la Medicina Lernejo de Universitato Ŝanhajo Jiaotong (sube mallongigita kiel Naŭa Hospitalo de Ŝanhajo) sukcese plenumis kirurgion por korekti makrodaktilion sur la maldekstra piedo de brazila pacientino, helpante ŝin eviti la riskon de amputado kaj atingante -- unuafoje -- normalan piedfunkciadon kaj aspekton.
 
@@ -313,7 +313,7 @@ Fonto: Xinmin Evening News
 
 **URL:** http://esperanto.china.org.cn/2025-11/05/content_118160851.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 Lastatempe proparolanto de la rusa Ministerio pri Eksterlandaj Aferoj Maria Zakharova respondis demandojn de ĉina raportisto en regula gazetara konferenco. Ŝi diris, ke la 8-a Ĉina Internacia Importa Ekspozicio (ĈIIE) alportos novajn ŝancojn por ke rusaj entreprenistoj montru siajn atingojn, plivastigu komercajn rilatojn kun Ĉinio, serĉu fidindajn partnerojn kaj aliru la internacian merkaton.
 
@@ -334,7 +334,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-11/05/content_118161229.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 La 5-an de novembro malfermiĝis la 8-a Ĉina Internacia Importa Ekspozicio (ĈIIE) en Ŝanhajo. Ĉina ĉefministro Li Qiang faris paroladon en la malferma ceremonio de ĈIIE kaj la Hongqiao-a Internacia Ekonomia Forumo.
 
@@ -351,7 +351,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-11/06/content_118163860.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 La 8-a Ĉina Internacia Importa Ekspozicio (ĈIIE) malfermiĝis la 5-an de novembro en Ŝanhajo. En ĉi-jara ĈIIE partoprenas homoj el 155 landoj, regionoj kaj internaciaj organizoj, kaj eksponadas 4 108 eksterlandaj kompanioj. Entute alvenos 43 komercaj delegacioj kaj proksimume 450 mil registritaj vizitantoj. La ekspozicia areo superas 430 mil kvadratajn metrojn. La 8-a ĈIIE starigis novajn rekordojn kaj por ekspozicia areo kaj por nombro de partoprenantaj kompanioj.
 
@@ -366,7 +366,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-11/06/content_118163917.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 Dum la 8-a Ĉina Internacia Importa Ekspozicio (ĈIIE), kiu malfermiĝis en Ŝanhajo la 5-an de novembro, 461 novaj produktoj, teknologioj kaj servoj estos lanĉitaj. Por la unua fojo, la ekspozicio enkondukis estontajn industriojn kiel malalt-altitudan ekonomion kaj homformajn robotojn, kaj novajn temojn kiel por-maljunulan ekonomion kaj vintrosportan ekonomion. Ekde la unua ĈIIE en 2018, en la ekspozicioj jam estis lanĉitaj pli ol 3 000 programoj.
 
@@ -381,7 +381,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-11/06/content_118163928.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 La 8-a Ĉina Internacia Importa Ekspozicio (ĈIIE) unuafoje starigis eksponejon por la produktoj el malplej evoluintaj landoj, alvenis 163 kompanioj el tiuj landoj, la nombro pliiĝis je 23.5% kompare kun la pasinta jaro. Ĉi-jara ĈIIE ankaŭ novige kreis eksponejon de ĝemelaj urboj, kun partopreno de entute 67 landoj kaj internaciaj organizoj. Kaj la nove establitaj "translandlima e-komerca platformo de bonkvalitaj produktoj" kaj "translandlima e-komerca servo-areo" utiligas la ciferecan forton de ĈIIE por helpi produktojn precize konektiĝi kun la ĉina merkato.
 
@@ -396,7 +396,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-11/06/content_118163941.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 En la pavilonoj de la 8-a ĈIIE troviĝas pintnivelaj teknologioj kiel artefarita intelekto, malalt-altituda ekonomio, homformaj robotoj kaj preciza medicino, kaj ili jam ne estas konceptoj, sed realaĵoj.
 
@@ -417,7 +417,7 @@ Redaktoroj: Gao Shuyuan kaj Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-11/07/content_118166218.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 Budo de brazila centro en la noviga zono de la 8-a CIIE [Foto: He Yixuan/Ŝanhajaj Internaciaj Servoj]
 
@@ -454,7 +454,7 @@ Fonto: https://portuguese.shanghai.gov.cn/po-UpcomingExpos/20251105/ae493b89b79b
 
 **URL:** http://esperanto.china.org.cn/2025-11/07/content_118166221.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 Vizitantoj ekkonas produktojn ĉe la budo pri brazilaj agrikulturaj varoj. [Foto: He Yixuan/Ŝanhaja Portalo pri Internaciaj Servoj]
 
@@ -481,7 +481,7 @@ Fonto: https://portuguese.shanghai.gov.cn/po-UpcomingExpos/20251104/127bf853f05
 
 **Author:** Bui Hai Mung
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio, Naturo kaj Mediprotekto
 
 Ĉiuj konas la Grandan Muron kiel simbolon de la ĉina civilizacio, sed malmultaj scias, ke en Ĉinio ekzistas ankaŭ alia "Granda Muro" -- Verda Muro. Tiu "muro" komenciĝas en Heilongjiang oriente kaj etendiĝas ĝis Xinjiang okcidente, kun longeco de ĉirkaŭ 8 000 kilometroj, kovrante 45% de la teritorio de la lando. Ĝia celo estas defendi kontraŭ sabloŝtormoj, erozio kaj protekti vastajn ekosistemojn de nordokcidenta, norda kaj nordorienta Ĉinio (tri nordoj). La projekto ne nur kontraŭbatalas dezertiĝon kaj protekti agrikulturajn terojn, sed ankaŭ antaŭenigas daŭripovan ekonomian kaj socian disvolviĝon.
 
@@ -542,7 +542,7 @@ Verkita de Bui Hai Mung
 
 **Author:** Bui Hai Mung
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 Ĉe la Ĉina Internacia Importa Ekspozocio (ĈIIE) de ĉi tiu jaro, s-ro Zhu Peijing, ĝenerala direktoro de la sekcio pri strategia komerco kaj direktoro pri novkomerca disvolvado de la grupo Mitsubishi Electric, dividis siajn spertojn pri la ok sinsekvaj jaroj de partopreno en ĈIIE kaj klarigis la disvolvan strategion de la grupo fronte al la ĉiam pli akra merkata konkurenco en Ĉinio.
 
@@ -599,7 +599,7 @@ Raportita de Bui Hai Mung
 
 **Author:** Bui Hai Mung
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 La Ĉina Internacia Importa Ekspozocio (ĈIIE) ĉi-jare denove pruvis sian pozicion kiel la "ora pordo", kiu malfermas la vojon por ke tutmondaj varoj eniru la ĉinan merkaton. Por la unua fojo, la Komerco kaj Investa Promocia Centro de Ho-Ĉi-Min-urbo (ITPC) de Vjetnamio gvidis delegacion de vjetnamaj entreprenoj al la ekspozocio, kunigante 24 elstarajn kompaniojn el la kampoj de agrikulturaj produktoj, prilaboritaj manĝaĵoj kaj sanzorgaj varoj.
 
@@ -664,7 +664,7 @@ Raportita de Bui Hai Mung
 
 **URL:** http://esperanto.china.org.cn/2025-11/10/content_118169288.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 Forgesu trafikŝtopiĝojn – via sekva taksio en Ŝanhajo eble ekflugos vertikale. Laŭ raporto de Ŝanhaja Televido, ĉi-jare ĉe la Ĉina Internacia Importa Ekspozicio (ĈIIE), vizitantoj ekvidis la urban estontecon de "flugtaksio": 10-minuta flugo inter la flughavenoj Hongqiao kaj Pudong povus kosti nur 59 juanojn.
 
@@ -691,7 +691,7 @@ Fonto: 上海日报
 
 **URL:** http://esperanto.china.org.cn/2025-11/10/content_118169298.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 Vespere de la 9-a de novembro en la Guangdong-a Olimpika Sport-Centro malfermiĝis la 15-a Nacia Sportkunveno de Ĉinio. Xi Jinping, prezidanto de Ĉinio, ĉeestis la ceremonion kaj anoncis la inaŭguron.
 
@@ -710,7 +710,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 Dum preskaŭ unu monato la brazila kantistino kaj muzikverkistino Tulipa Ruiz, unu el la plej elstaraj nomoj de la nova generacio de brazila popolmuziko, turneis tra Ĉinio. De la 18-a de oktobro ĝis la 7-a de novembro ŝi koncertis en Hangzhou, Suzhou, Guangzhou, Ŝanhajo kaj Pekino, inkluzive de muzikfestivaloj kiel JZ Festival de Ŝanhajo kaj Montreaux Jazz Festival de Suzhou.
 
@@ -737,7 +737,7 @@ Raportis kaj fotis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2025-11/12/content_118171789.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 La 9-an de novembro okazis en Kantono la solena malferma ceremonio de la 15-a Nacia Sportkunveno de Ĉinio. Al la ceremonio ĉeestis Kirsty Coventry, prezidanto de la Internacia Olimpika Komitato. En la intervjuo farita de ĉinaj raportistoj, ŝi diris, ke la malferma ceremonio estis mirinda, kaj la sportkunveno posedas unikan ĉarmon. Ĉinio sendube estas vera mondpotenco en sportoj.
 
@@ -756,7 +756,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-11/12/content_118173442.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** E-novaĵoj
 
 Mi petas esperantistojn helpi nin disvastigi ĉi tiun novan informon en siaj landaj diskut-listoj, inter siaj konatoj, inter personoj kiuj volas lerni, se tio eblas.
 
@@ -776,7 +776,7 @@ Limdato por aliĝi: 17-a de novembro 2025 aŭ poste, laŭ disponeblaj lokoj.
 
 Pli da informoj troviĝas ĉe: https://bit.ly/37MIYye (aŭ https://docs.google.com/document/d/1JvimMeNl-nc3VJhi44f6NjbzDuaZvepiVRl0BYdEW5c/preview)
 
-Se, leginte ĉiujn informojn en la ĉi-supraj retpaĝoj, vi decidas ALIĜI, bonvole skribu al:  esperanto.instruado.jag.univ.pl(ĉe)gmail.com.
+Se, leginte ĉiujn informojn en la ĉi-supraj retpaĝoj, vi decidas ALIĜI, bonvole skribu al: esperanto.instruado.jag.univ.pl(ĉe)gmail.com.
 
 Invitas kore,
 
@@ -791,7 +791,7 @@ Maria Majerczak (Gvidantino de la Esperanto-instruado en la Jagelona Universitat
 
 **URL:** http://esperanto.china.org.cn/2025-11/13/content_118173627.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 La urbo Yangzhou, unu el la histori-kulturaj trezoroj de Ĉinio, estis prezentita en la brazila urbo San-Paŭlo la 10-an de novembro, dum la Kunveno por Kultura kaj Turisma Diskonigo de la Urbo Yangzhou 2025. La evento, okazinta en la hotelo Grand Mercure, kunigis reprezentantojn de la registaro de la urbo Yangzhou kaj brazilajn aŭtoritatojn, kun la celo plifortigi la ligojn inter la du landoj kaj instigi brazilanojn turismi en Ĉinio.
 
@@ -824,7 +824,7 @@ Fonto: Brasil247
 
 **URL:** http://esperanto.china.org.cn/2025-11/14/content_118175331.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 "Ĉinio verŝajne estas nuntempe la lando, kiu plej multe investas en verda ekonomio kaj energia transiro. Entreprenoj kaj negocaj modeloj, kiuj povas kontribui al la celoj de Ĉinio pri nuligo de karbonellasado kaj verda ekonomio, estas la modeloj, kiuj prosperos en Ĉinio," diris Pablo Machado, tutmonda vicprezidanto por komerco kaj strategio en Ĉinio de Suzano, ĉefa brazila produktanto kaj tutmonda gvidanto en la industrio pri celulozo kaj papero.
 
@@ -875,7 +875,7 @@ Fonto: Xinhua-novaĵagentejo
 
 **Author:** Bui Hai Mung
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 En komenco de novembro en Ŝanhajo, la Nacia Ekspozicia kaj Kunvena Centro denove fariĝis la fokuso de la tutmonda ekonomio. Kiam la 8-a Ĉina Internacia Importa Ekspozicio (ĈIIE) ĵus finiĝis, ankaŭ estis tempo por rekordaj nombroj kaj sukcesaj rakontoj esti prezentitaj, kiuj ne nur konfirmas la fortan allogon de la ĉina merkato, sed ankaŭ malfermas strategian perspektivon por la nova evolua fazo -- la 15-a Kvinjara Plano (2026-2030). Kiel fremda ĵurnalisto ĉeestinta ĈIIE unuafoje, mi vere surpriziĝis pri la amplekso kaj tio, kio estis montrata ĉi tie.
 
@@ -930,7 +930,7 @@ Raportis: Bui Hai Mung
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** E-novaĵoj
 
 La 13-an de novembro en Varsovio forpasis Roman Dobrzyński, eminenta esperantisto, honora membro de UEA kaj Pola Esperanto-Asocio (PEA). Laŭ noto diskonigita de PEA, Roman forpasis dum vojaĝo al Bjalistoko. Naskiĝinta en Varsovio dum la jubilea UK okaze de la 50-jariĝo de Esperanto en 1937, Roman diplomiĝis duoble en Varsovia Universitato, unue pri juro kaj poste pri ĵurnalismo. En 1967 li edziĝis kun germana esperantistino Erika, kaj Esperanto fariĝis ilia hejma lingvo. La paro havis filon, filinon kaj du nepinojn.
 
@@ -953,7 +953,7 @@ Verkis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2025-11/17/content_118180504.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 La 13-an de novembro ĉina vicministro pri eksteraj aferoj Sun Weidong faris aŭdiencon al la japana ambasadoro en Ĉinio Kenji Kanasugi, kaj akcentis, ke tiu, kiu kuraĝas interveni en la reunuiĝan aferon de Ĉinio en iu ajn formo, certe ricevos pezan baton de Ĉinio. Sun Weidong diris, ke Ĉinio denove urĝas Japanion profunde pripensi siajn historiajn krimojn kaj respondecojn, tuj pripensi kaj korekti siajn erarojn, retiri siajn malbonajn agojn, kaj ne plu iri laŭ la malĝusta vojo. Alie, ĉiujn sekvojn devas porti Japanio.
 
@@ -972,7 +972,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Naturo kaj Mediprotekto
 
 La grandaj riveroj de la mondo estis luliloj de grandaj civilizacioj, pro la natura bezono de homoj havi aliron al akvo kaj manĝaĵo por propra vivtenado. Grandaj riveroj ankaŭ faciligas navigadon kaj komercajn interŝanĝojn. Sekve, tra monda historio, riveroj kunligis homajn setlejojn, antaŭenigante interŝanĝojn kaj komunan progreson inter malsamaj civilizacioj.
 
@@ -1045,7 +1045,7 @@ Verkis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2025-11/18/content_118182679.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Plej Freŝaj, Novaĵoj, Aktuala temo
 
 La 17-an de novembro Mao Ning, proparolanto de laĈina Ministerio pri Eksterlandaj Aferoj, diris, ke Ĉinio urĝas Japanion ĉesigi transpason de la limo, retiri siajn erarajn parolojn kaj agojn kaj efektivigi sian promeson al Ĉinio kun konkretaj agoj.
 
@@ -1064,7 +1064,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-11/18/content_118183009.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 La 9-an de novembro en Ĉinio la ultraalt-tensia aparato kun malfermita cirkvito de 800kV/80 kA sukcese trapasis taksadon. Tio signifas, ke tia tekniko, kune evoluigita de Shaanxi-a Elektropova Kompanio State Grid, Henan-a Elektra Kompanio Pinggao kaj aliaj partneroj, atingis mondkapan nivelon.
 
@@ -1083,7 +1083,7 @@ Redaktoroj: Gao Shuyuan kaj Xie Ruifeng
 
 **Author:** Anatolij Ionesov (Uzbekio)
 
-**Categories:** Plej Freŝaj
+**Categories:** E-movado, E-novaĵoj
 
 Lastatempe sukcese finiĝis la dumonata projekto "Vorto pri Samarkando 2025", okazigita honore al la Tago de Samarkando (la 18-a de oktobro) kaj al la 43-a sesio de la Ĝenerala Konferenco de UNESKO. La projekto estas iniciatita kaj prizorgata de uzbeka esperantisto Anatolij Ionesov, direktoro de la Scienc-kleriga Centro "Homo, Kulturo, Paco" de Samarkanda Internacia Teknologia Universitato (SIUT) kaj aŭtoro de la enciklopedia projekto "Samarkandiana", kaj liaj samideanoj.
 
@@ -1104,7 +1104,7 @@ Raportita de Anatolij Ionesov (Uzbekio)
 
 **URL:** http://esperanto.china.org.cn/2025-11/20/content_118186528.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** E-movado, E-novaĵoj
 
 La 16-an de novembro okazis la 7-a Esperanto-Forumo inter Seulo kaj Ŝanhajo en Hongkou-a kampuso de la Ŝanhaja Universitato de Internaciaj Studoj. La forumo estis okazigita de la Ŝanhaja Esperanto-Asocio kaj la seula filio de la Korea Esperanto-Asocio (KEA), kaj gastigita de la Ŝanhaja Fremdlingva Aŭdvida Eldonejo. Krome, la forumo estas parto de la programo de la 19-a Akademia Monato, aranĝita de la Ŝanhaja Federacio de Soci-Sciencaj Asocioj. En la forumo partoprenis 90 esperantistoj el Ĉinio, la Korea Respubliko kaj Irano, inkluzive de SO Jinsu, vicprezidanto de Universala Esperanto-Asocio (UEA), Gong Xiaofeng, estrarano de UEA kaj membro de la Akademio de Esperanto, Wang Hanping, vicdirektoro de Azi-Pacifika Centro de Ĉina Internacia Komunika Grupo kaj vicprezidanto de Ĉina Esperanto-Ligo (ĈEL), Chen Ji, prezidanto de Azi-Oceania Komisiono de UEA kaj ĝenerala sekretario de ĈEL, Lu Hongqing, esploristo de Ŝanhaja Federacio de Soci-Sciencaj Asocioj, Zhou Tianhao, vicprezidanto de ĈEL kaj prezidanto de Ŝanhaja Esperanto-Asocio (ŜEA), KANG Hongu, prezidanto de KEA, LI Hyonsuk, vicprezidanto de KEA, CHOI Sukhee, estro de seula filio de KEA. La forumo estis prezidita de Zhang Han, konsiliano de ĈEL kaj vicprezidanto de ŜEA.
 
@@ -1133,7 +1133,7 @@ Estis anoncita, ke la 8-a forumo okazos en Busan de la Korea Respubliko en 2026.
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 Matene de la 16-a de novembro en Zhangjiajie, turisma urbo de la ĉina provinco Hunan, estis inaŭgurita la tria Ĉina (Zhangjiajie) Fotoekspozicio pri Monda Heredaĵo, organizita sub gvido de la Nacia Komisiono de Ĉinio por UNESKO kune kun la Internacia Montar-Turisma Alianco, la Ĉina Fondaĵo por Paco kaj Evoluo kaj la Ĉina Asocio de Naciaj Parkoj kaj Turismaj Lokoj.
 
@@ -1200,7 +1200,7 @@ Verkis kaj fotis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2025-11/21/content_118189081.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** E-movado, E-novaĵoj
 
 La 20-an de novembro SO Jinsu, vicprezidanto de Universala Esperanto-Asocio (UEA), KANG Hongu, prezidanto de Korea Esperanto-Asocio (KEA), kaj aliaj 13 koreaj esperantistoj vizitis la sidejon de la Ĉina Esperanto-Ligo (ĈEL) en Pekino, Ĉinio. Ilin bonvenigis ĉirkaŭ 20 esperantistoj, inkluzive de membroj de ĈEL kaj Pekina Esperanto-Asocio.
 
@@ -1223,7 +1223,7 @@ Redaktoroj: Gao Shuyuan kaj Xie Ruifeng
 
 **Author:** Bui Hai Mung
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 Nun en Pekino promenante tra stratoj, oni facile renkontas impresajn scenojn: Grupoj de junuloj bicikle ĉirkaŭiras, portante tradicajn kostumojn, sunokulvitrojn kaj fotilojn, transirante la ruĝajn murojn de palacoj. Historio kaj moderno ŝajnas renkontiĝas antaŭ niaj okuloj. Tiuj bildoj jam ne estas raraj, sed fariĝis distingaj elementoj en la urbobildo de moderna Ĉinio.
 
@@ -1294,7 +1294,7 @@ Verkis: Bui Hai Mung
 
 **URL:** http://esperanto.china.org.cn/2025-11/25/content_118194618.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Kulturo,Scienco kaj Sporto
 
 La infrastrukturaj programoj konstruitaj de Ĉinio en aliaj landoj estis presitaj sur monbiletoj de iuj landoj. Tio estas ne nur honorado pri teknologia forto de la lando, sed ankaŭ atesto pri la kunhavigo de disvolvaj atingoj kaj amikeco transmara.
 
@@ -1325,7 +1325,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-11/27/content_118198281.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 Konata kiel la hejmurbo de la lig-tinktura tekniko de la etno baj, Zhoucheng-vilaĝo havas pli ol 200 vilaĝanojn okupiĝantajn pri tinkturaj entreprenoj, kun pli ol 4 000 dungitoj.
 
@@ -1370,7 +1370,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-11/28/content_118201108.htm
 
-**Categories:** Novaĵoj
+**Categories:** Kulturo,Scienco kaj Sporto, UK-oj, E-movado
 
 En somero, kiam ni renkontiĝis en Brno, la belaj fotoj estis eksponataj en la kongresejo de nia Universala Kongreso (UK), kiel unu el la bildekspozicioj de la grava programoĈina Tago. Ĉu vi ankoraŭ memoras ilin? Jen la belaj bildoj kun rakontoj pri nemateriaj kulturaj heredaĵoj ĉinaj kaj ĉeĥaj estas videblaj ĉi tie!
 

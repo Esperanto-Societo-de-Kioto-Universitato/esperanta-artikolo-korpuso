@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-09-15T16:12:44.414320+00:00"
+generated_at: "2026-09-16T16:27:24.658624+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-10-09 – 2025-10-31"
 ---
@@ -14,7 +14,7 @@ time_range: "2025-10-09 – 2025-10-31"
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto, E-novaĵoj
 
 La Ĉina Registara Amikeca Premio, donata al eksterlandaj fakuloj, kiuj signife kontribuis al la soci-ekonomia evoluo de la lando kaj al la disvolviĝo de amikecaj rilatoj inter Ĉinio kaj aliaj landoj, estas honorigo kutime transdonata al la premiitoj fine de septembro, ĵus antaŭ la Nacia Tago, celebrata ĉiujare la 1-an de oktobro.
 
@@ -109,7 +109,7 @@ Verkis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2025-10/10/content_118116590.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio
 
 La Informa Oficejo de la Ŝtata Konsilantaro de Ĉinio lastatempe okazigis gazetaran konferencon. Datumoj publikigitaj en konferenco montris, ke dum la feriado de la Nacia Tago, multaj lokoj lanĉis rimedojn por antaŭenigi kulturan kaj turisman konsumon. Diversaj regionoj daŭre akcelas turismadon de naturo kaj kulturejoj, reunuiĝojn de familianoj en la Aŭtunmeza Festo, distron de la tuta familio kaj noktan konsumadon. Oni ankaŭ proponas muzeojn kaj pitoreskejojn plilongigi siajn malfermhorojn, optimumigis sinanoncan sistemon por la turismaj cellokoj kaj lanĉis pli bonkvalitajn kulturajn, komercajn, turismajn kaj sportajn aktivadojn kun malaltaj prezoj.
 
@@ -130,7 +130,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-10/11/content_118116613.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio
 
 Laŭ la granddatuma monitorado de la Ministerio pri Komerco de Ĉinio, vendoj de ŝlosilaj podetalaj varoj kaj restoracioj kreskis je 2.7% kompare kun la pasinta jaro dum la feriado de la Nacia Tago kaj la Aŭtunmeza Festo. De la 1-a ĝis la 7-a de oktobro, nombroj de vizitantoj kaj enspezoj ĉe 78 piediraj stratoj (komercaj distriktoj) monitoritaj de la ministerio respektive kreskis je 8.8% kaj 6.0% kompare kun la pasinta jaro.
 
@@ -149,7 +149,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-10/11/content_118118873.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 La 10-an de oktobro Xi Jinping, ĝenerala sekretario de la Centra Komitato de la Komunista Partio de Ĉinio, sendis gratulmesaĝon al Kim Jong Un, ĝenerala sekretario de la Laborista Partio de Koreio (LPK), pro la 80-a datreveno de la fondiĝo de LPK.
 
@@ -166,7 +166,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-10/11/content_118118889.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 La 9-an de oktobro okazis en Kantono, suda Ĉinio, ceremonio por kolekti la flamon por la 15-aj Naciaj Sportludoj, la 12-aj Naciaj Sportludoj por Handikapuloj kaj la 9-aj Naciaj Specialaj Olimpikoj de Ĉinio.
 
@@ -185,7 +185,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-10/13/content_118121128.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 La 9-an de oktobro la Ministerio de Komerco kaj la Ĝenerala Administracio de Dogano de Ĉinio anoncis pri eksportkontrolaj rimedoj al rilataj elementoj de rara tero. Ĵurnlisto faris demandon pri tio en tiutaga gazetara konferenco.
 
@@ -202,7 +202,7 @@ Redaktoro: Gao Shuyuan
 
 **URL:** http://esperanto.china.org.cn/2025-10/13/content_118121157.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** E-novaĵoj
 
 Posttagmeze de la 19-a de aŭgusto Liu Haitao, membro de la Akademio de Esperanto kaj profesoro de Fudan-universitato, vizitis la redakcion de El Popola Ĉinio kaj faris prelegon titolitan "De lingvaj datumaroj al intelekto". La aktivado estis organizita de la Ĉina Internacia Komunika Grupo (ĈIEG) kaj la Ĉina Esperanto-Ligo.
 
@@ -231,7 +231,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-10/13/content_118121205.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** E-novaĵoj
 
 En la 30-a de septembro, unu tago antaŭ la Nacia Tago de Ĉinio, interrete okazis la 2-a kantprezentado "Kanti ĉinajn kantojn Esperante". La aktivado estas organizita de la Ĉina Esperanto-Ligo (ĈEL). Al la prezentado ĉeestis Wang Hanping, vicprezidanto de ĈEL, kaj pli ol 40 esperantistoj de Pekino, Ŝanhajo, Chongqing, Xiamen kaj aliaj lokoj de la lando. Wang Hanping faris salutparolon, kaj Chen Ji, ĝenerala sekretario de ĈEL, prezidis la aktivadon.
 
@@ -248,7 +248,7 @@ Wang Hanping diris, ke la aktivado povas funkcii kiel ŝanco por tutlandaj esper
 
 **URL:** http://esperanto.china.org.cn/2025-10/13/content_118121244.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** E-novaĵoj
 
 La 10-an de oktobro profesorino Ilona Koutny, hungara lingvisto kaj fondinto de la Interlingvistikaj Studoj en la Universitato Adam Mickiewicz en Poznano, Pollando, vizitis la ĉefsidejon de El Popola Ĉinio (EPĈ) kaj la Ĉina Esperanto-Ligo. Ŝi salutis la tutan redakcion de EPĈ kaj faris prelegon en la halo de la Ĉina Internacia Komunika Grupo (ĈIKG). La prelego kun la titolo "Esperanto-lingva bildo de la mondo" montris al la aŭskultantoj la diferencojn kiel la mondo speguliĝas en iuj lingvoj kaj la Esperantan aliron.
 
@@ -271,7 +271,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-10/13/content_118122972.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 La 13-an de oktobro en la malferma ceremonio de la Tutmonda Kunveno de Gvidantoj pri Virinoj okazinta en Pekino Xi Jinping, prezidanto de Ĉinio, faris gravan paroladon.
 
@@ -292,7 +292,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-10/13/content_118152879.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 La arto de kukurba ĉizado havas longan historion ĉe la bordoj de la Flava Rivero. En la urbo Lanzhou ĉe la rivero, tiu arto, kune kun bovaĵ-nudela kuirarto kaj farado de ŝaffela floso, estas konata kiel la tri trezoroj de Lanzhou. En 2006 ĝi estis enlistigita en la liston de nemateria kultura heredaĵo de la provinco Gansu. Ruan Xiyue, heredanto de la arto, ĉiam zorgeme ĉizas ĉinan kulturojn kun pasio sur la sekigitaj fruktoj, ŝia metiarto vivigas la kukurbojn.
 
@@ -307,7 +307,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-10/14/content_118122984.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio, Kulturo,Scienco kaj Sporto
 
 Ĉinio kunlaboris kun landoj tutmonde por povigi virinojn. De Azio ĝis Afriko, inspiraj rakontoj pri komunaj klopodoj por konstrui pli bonan mondon akcelis la tutmondan antaŭenigon de la afero de virinoj.
 
@@ -355,7 +355,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Bui Hai Mung
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio
 
 Tra la fluado de historio, la "kvar grandaj inventoj" de Ĉinio -- la kompaso, pulvo, papero kaj presarto -- formis la fundamenton de la homa civilizacio. En la cifereca epoko, la mondo denove atestas la aperon de la "kvar novaj grandaj inventoj" de la lando: altrapida fervojo, poŝtelefona pago, reta aĉetado kaj kunluebla biciklo. Inter ili, la kunluebla biciklo leviĝis kiel tutmonda urba fenomeno, kiu ne nur solvas la problemon de la "lasta kilometro" al la celloko, sed ankaŭ lasas profundajn lecionojn pri novigo kaj socia administrado.
 
@@ -428,7 +428,7 @@ Verkis Bui Hai Mung
 
 **URL:** http://esperanto.china.org.cn/2025-10/15/content_118152931.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 En la lastaj jaroj, la distrikto Boshan de la urbo Zibo, la provinco Shandong, aktive enkondukas la metiartojn de lokaj nemateriaj kulturaj heredaĵoj, ekzemple ŝtof-aplikado, ceramik-farado kaj papertranĉado, en lernejojn. Ĝis nun la distrikto jam enkondukis 18 metiartojn, kaj 13 lernejoj integrigis elementojn de nemateriaj kulturaj heredaĵoj en sian instruplanon. Per projektado al lecionoj, ili certigas la regulan transdonon de nemateriaj kulturaj heredaĵoj kaj antaŭenigas la organikan integriĝon de edukado pri nemateriaj kulturaj heredaĵoj en ĉiutagan instruadon.
 
@@ -443,7 +443,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-10/16/content_118123368.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 Hodiaŭ ni esploros kune misterajn skribaĵojn kun pli ol 3 000-jara historio -- jen la unuaj maturaj ĉinaj skriboj, kreitaj en la dinastioj Shang (1600-1046 a.K.) kaj Zhou (1046-256 a.K.). Ili estis origine skribitaj sur testudaj karapacoj kaj bestaj ostoj. Per ili oni registris riĉajn enhavojn, inkluzive antaŭdirojn, oferadojn kaj astronomiajn fenomenojn. Ili estas gravaj por esplori la originon de la ĉina civilizacio.
 
@@ -462,7 +462,7 @@ Redaktoro: Gao Shuyuan
 
 **URL:** http://esperanto.china.org.cn/2025-10/16/content_118127063.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 La 15-an de oktobro estis inaŭgurita la 138-a Ĉina Importa kaj Eksporta Foiro (Kantona Foiro) en Kantono, suda Ĉinio. En ĉi-foja foiro partoprenas pli ol 32 mil firmaoj okupante 74.6 mil budojn, ambaŭ ciferoj estas rekordoj. Pli ol 240 mil aĉetistoj sin registris por la foiro, kaj alvenos pli ol 400 plej elstaraj aĉetfirmaoj.
 
@@ -512,7 +512,7 @@ Xi Jinping postulis: "La gvidaj oficialuloj de diversaj niveloj devas doni bonaj
 
 **Author:** Bui Hai Mung
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio
 
 Ĉu vi scias, ke inter la "kvar novaj grandaj malkovroj" de Ĉinio troviĝas ankaŭ retkomerco? Laŭ datumoj de la Nacia Statistika Oficejo de la lando, en 2024 la totala valoro de ĉinaj retkomercaj transakcioj atingis 46.41 duilionojn da juanoj, kio reprezentas kreskon je 3.9% kompare kun 2023. Kiel eksterlandano loĝanta en Pekino, mi persone spertas la mirindan disvolviĝon de la ĉina retkomerco, kiu ne nur transformis la ekonomion, sed ankaŭ profunde ŝanĝis la konsum-kulturon.
 
@@ -560,7 +560,7 @@ Krome, ĉi tiuj platformoj montras rimarkindan lertan adaptadon laŭ merkatoj. E
 
 Diferenco
 
-La evoluo de la ĉina interreta komerco estas sur unika vojo, kio igas ĝin klare diferenca disde la resto de la mondo. La ĉefa diferenco kuŝas en la regado de "super-aplikoj" -- kie WeChat kaj Alipay ne estas nur pagplatformoj, sed ciferecaj enirejoj al ĉiuj flankoj de vivo. Uzantoj povas fari ĉion: Babili, mendi manĝon, aĉeti aŭ plenumi administrajn procedurojn, sen forlasi la aplikaĵon. Kontraŭe, la tutmonda merkato restas dividita laŭ modelo de "unu aplikaĵo -- unu funkcio": Amazon por aĉetado, PayPal por pagado, Uber por transporto --  malpli kunligitan ekosistemon.
+La evoluo de la ĉina interreta komerco estas sur unika vojo, kio igas ĝin klare diferenca disde la resto de la mondo. La ĉefa diferenco kuŝas en la regado de "super-aplikoj" -- kie WeChat kaj Alipay ne estas nur pagplatformoj, sed ciferecaj enirejoj al ĉiuj flankoj de vivo. Uzantoj povas fari ĉion: Babili, mendi manĝon, aĉeti aŭ plenumi administrajn procedurojn, sen forlasi la aplikaĵon. Kontraŭe, la tutmonda merkato restas dividita laŭ modelo de "unu aplikaĵo -- unu funkcio": Amazon por aĉetado, PayPal por pagado, Uber por transporto -- malpli kunligitan ekosistemon.
 
 Ankaŭ en la kampo de vivtranssenda vendo, la diferenco estas granda. En Ĉinio, ĉi tio jam fariĝis ĉefa vendokanalo, kie KOL-oj kapablas gajni cent milionojn da dolaroj dum unu sola elsendo. Kontraŭe, internaciaj platformoj kiel Amazon Live aŭ TikTok Shop ankoraŭ troviĝas en eksperimenta fazo kun malgranda skalo.
 
@@ -597,7 +597,7 @@ Verkis Bui Hai Mung
 
 **URL:** http://esperanto.china.org.cn/2025-10/17/content_118127370.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Naturo kaj Mediprotekto
 
 Ekde la praktikado de la 14-a Kvinjara Plano, Ĉinio akiris riĉajn fruktojn en la kampo de mediprotekto. En 2024 la nombro de tagoj kun bonkvalita aero atingis 87.2% de tiuj dum la tuta jaro. La proporcio de pura surfaca akvo atingis 90.4%, kaj la terkovra procento de arbaroj superis 25%, je 2% pli alte kompare kun tiu en 2020.
 
@@ -641,7 +641,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Bui Hai Mung
 
-**Categories:** Plej Freŝaj
+**Categories:** Naturo kaj Mediprotekto, Vojaĝo tra Ĉinio
 
 Profitante la ok-tagan feriadon de la Nacia Tago de Ĉinio, mi decidis vojaĝi al la legenda diverformfolia poplarbaro (Popular diversifolia) de Ejina en la Interna Mongolio. Por atingi tiun lokon, mi veturis pli ol 1 500 kilometrojn per buso de Pekino ĝis la fora nordokcidento. Kvankam la vojaĝo estis longa kaj lacega, sed la mirinda pejzaĝo, kiu malfermiĝis antaŭ miaj okuloj, igis ĉion tute inda.
 
@@ -662,7 +662,7 @@ Verkis kaj fotis Bui Hai Mung
 
 **URL:** http://esperanto.china.org.cn/2025-10/20/content_118132799.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 La 20-an de oktobro en Pekino inaŭguriĝis la kvara plena sesio de la 20-a Centra Komitato de la Komunista Partio de Ĉinio (KPĈ). Xi Jinping, ĝenerala sekretario de la Centra Komitato de KPĈ, faris laborraporton nome de la Politika Buroo de la Centra Komitato de KPĈ. Li ankaŭ faris klarigojn pri skiza proponado por la 15-a Kvinjara Plano pri Naciekonomia kaj Socia Disvolvado.
 
@@ -679,7 +679,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Bui Hai Mung
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio
 
 Mi neniam forgesos miajn unuajn spertojn pri reta aĉetado en Ĉinio. Kiam mi ĵus alvenis kaj komencis uzi la retajn aĉetaplikaĵojn ĉi tie, mi mendis T-ĉemizon per Pinduoduo je la 22-a horo kontraŭ nur 25 juanoj (ĉirkaŭ 3.5 USD) kaj mirinde, ĝi estis liverita al mia pordo en la sekva tago. En tiu sama nokto, kiam mi sentis min malsata, mi provis mendi manĝaĵon per Meituan (24-hora manĝmenda aplikaĵo). Nekredeble, post malpli ol 30 minutoj la liveristo jam atingis mian pordon. Tiuj spertoj, ekde "nokta livero" ĝis "morgaŭa livero", ne estas esceptoj sed ĉiutaga normo. Ili mirigis min kaj igis min demandi: Kiel eblas tion fari je preskaŭ neimagebla kosto?
 
@@ -738,7 +738,7 @@ Verkis Bui Hai Mung
 
 **URL:** http://esperanto.china.org.cn/2025-10/21/content_118134806.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio
 
 En la pasintaj kvin jaroj, dum la realigo de 14-a Kvinjara Plano, Ĉinio konstante sin dediĉis al komuna disvolviĝo kaj kungajna kunlaboro kun diversaj landoj, inkluzive de evoluantaj landoj, kaj provizis novajn ŝancojn por la tutmonda ekonomio per novaj atingoj dum la ĉina modernigo.
 
@@ -761,7 +761,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-10/21/content_118134839.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Naturo kaj Mediprotekto, Kulturo,Scienco kaj Sporto
 
 Poŝparko estas malgranda, diverseca kaj distra parketo malfermita al la publiko, ordinare kun terareo de 400 ĝis 10 000 kvadrataj metroj. La poŝparkoj estas "verdejoj ĉe la fenestro" de urbanoj, por ke ili povu ĝui la naturon tre proksime. Rilate al plibonigo de urba vivmedio, dum la periodo de la 14-a Kvinjara Plano, Ĉinio konstruis pli ol 18 000 "poŝparkojn" kaj 25 000 kilometrojn da enurbaj verdaj vojoj.
 
@@ -776,7 +776,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-10/22/content_118132816.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 En la lastaj jaroj merg-spektaklaj projektoj prosperis en la provinco Fujian de Ĉinio. La projektoj utiligante AI-teknikon, transformas la abstraktajn historion kaj rakontojn en palpeblajn kaj kortuŝajn prezentadojn, donante spektantojn panoramecajn spertojn.
 
@@ -797,7 +797,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-10/22/content_118134867.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio
 
 La sperto de Ĉinio pri urba transformiĝo donas al ni komprenojn por trakti urĝajn tutmondajn defiojn kiel klimatŝanĝiĝon, malriĉecon kaj malegalecon, diris Anaclaudia Rossbach, vicĝenerala sekretario de UN kaj administra direktoro de la Programo pri Homaj Setlejoj de Unuiĝintaj Nacioj.
 
@@ -818,7 +818,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-10/22/content_118135896.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio
 
 La kvara plena sesio de la 20-a Centra Komitato de la Komunista Partio de Ĉinio (KPĈ) daŭras en Pekino de la 20-a ĝis la 23-a de oktobro. La kunveno ekzamenas la "Proponon de la Centra Komitato de KPĈ pri formulado de la 15-a Kvinjara Plano pri Naciekonomia kaj Socia Disvolvado" kaj difinos skizon por disvolvado de Ĉinio en la venontaj kvin jaroj.
 
@@ -841,7 +841,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Bui Hai Mung
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio, Kulturo,Scienco kaj Sporto
 
 Sub la brilaj laserlumoj, la muroj de Yingtianmen en Luoyang (Ĉinio) kvazaŭ reviviĝas por rakonti la miljaran historion de la feŭdaj dinastioj. Je pli ol 2 600 kilometroj for, en la varma kaj intimeca koncertejo apud la rivero Perfuma (Hương), la melodioj de Huế-popolkanto kondukas la animon de la vizitantoj reen al la ora epoko de la vjetnama feŭda kortego.
 
@@ -910,7 +910,7 @@ Verkis: Bui Hai Mung
 
 **URL:** http://esperanto.china.org.cn/2025-10/23/content_118134878.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio
 
 En la venontaj kvin jaroj, la vojo de reformado de Ĉinio plilarĝiĝos.
 
@@ -931,7 +931,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Lan Tianhong
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 En Pekino, la Pekina Bonfara Fonduso de Zheng Jie kunligite kun la delegitaro de la aŭstralia Tenisakademio Margaret Court, la grupo Kooyong International Management kaj la bonfara entrepreno Inpeto organizis unikan kulturinterŝanĝan eventon -- kungrimpado sur la Grandan Muron. Ĉi tiu evento ne nur transdonis la spiriton de sporto, sed ankaŭ fariĝis festo de internacia amo kaj amikeco. Sub varma aŭtuna suno, la grupo, kun la ĉeesto de la 64-foja grand-slam-ĉampionino Margaret Court, surgrimpis la majestan Mutianyu-sekcion de la Granda Muro. La antikva muro, serpentumanta laŭ la montopintoj, atestis ĉi tiun kortuŝan momenton, kiu kunligis sporton kun publika bonfaro, teknologio kaj kulturo.
 
@@ -956,7 +956,7 @@ Esperantigis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2025-10/23/content_118152958.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 La urbo Ruzhou en la provinco Henan estas grava naskiĝloko de ru-porcelana fararto. En la lastaj jaroj, Ruzhou sisteme antaŭenigis la heredigon kaj disvolviĝon de la ru-porcelana industrio, kaj ĝis nun pli ol 400 kompanioj en la urbo entreprenas pri la produktado kaj vendado de ru-porcelanaĵo, dungante pli ol 5 000 homojn. Ru-porcelano, kun antikva ĉarmo kaj integrante la viglecon de moderna industrio, montras la kreivan transforman povon kaj novigan disvolviĝon.
 
@@ -971,7 +971,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-10/24/content_118150506.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 La brodarto de la etno Ji en la aŭtonoma subprovinco Chuxiong de la provinco Yunnan havas historion de pli ol 1700 jaroj. En la lastaj jaroj, la loko ekspluatis la industrian potencialon de siaj kulturaj rimedoj kaj establis komercan centron por brodaĵoj. En 2024 la produktvaloro de ji-brodarto jam superis 1.13 miliardojn da juanoj, kreante laborpostenojn kaj pliigante enspezojn por pli ol 60 mil brodistoj, inkluzive de pli ol 2 000 handikapaj brodistoj, kiuj povas gajni stabilan enspezon per sia brodkapablo. En la unua duono de 2025, la produktvaloro de tiu sektoro superis 700 milionojn da juanoj, kun jara kresko je 10.9%.
 
@@ -990,7 +990,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-10/24/content_118152961.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 Tibeta opero, integrante rakontadon, prezentadon, kantadon kaj dancadon kaj literaturon, havas la historion de pli ol 600 jaroj. La tibeta opero de Huangnan de la provinco Qinghai estis enlistigita en la liston de nemateria kultura heredaĵo de Ĉinio en majo 2006. Dum la pasintaj 10 jaroj, la opertrupo de Qinghai jam ellaboris 36 grandskalajn prezentadojn, atingante novan rekordon.
 
@@ -1007,7 +1007,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-10/27/content_118141756.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 Proparolanto de la ĉina ministerio pri eksteraj aferoj anoncis en la 24-a de oktobro, ke laŭ invito de Lee Jae-myung, prezidento de la Korea Respubliko, Xi Jinping, ĉina prezidanto, ĉeestos la 32-an Kunvenon de Ekonomiaj Gvidantoj de Azi-Pacifika Ekonomia Kunlaboro (APEK) en Gyeongju kaj faros ŝtatan viziton al la Korea Respubliko de la 30-a de oktobro ĝis la 1-a de novembro.
 
@@ -1018,7 +1018,7 @@ Redaktoro: Xie Ruifeng
 
 ---
 
-# "Kvar novaj grandaj inventoj" de Ĉinio丨Sperto pri  vojaĝo je 350 km/h
+# "Kvar novaj grandaj inventoj" de Ĉinio丨Sperto pri vojaĝo je 350 km/h
 
 **Published:** 2025-10-27
 
@@ -1026,7 +1026,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Bui Hai Mung
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio
 
 Mi ankoraŭ klare memoras la unuan fojon, kiam mi eniris la altrapidan trajnon (HSR) Fuxing el Pekino al Ŝanhajo. Ĉio estis tute malsama ol mi imagis pri "trajno": Nenia bruo, nenia skuado, nenia odoro de oleo. Dum kurado de la trajno, la ekrano montris 350 km/h -- la plej alta komerca rapido en la mondo. Tra la fenestro, la pejzaĝo flugas tiel rapide, ke la okuloj ne povis sekvi. Mi rimarkis, ke mi ne nur vojaĝas inter du urboj, sed ankaŭ malkovras la krean potencon de moderna Ĉinio. Tiam mi komprenis, kial ĉinoj nomas altrapidan trajnon kiel unu el siaj "kvar novaj grandaj inventoj".
 
@@ -1083,7 +1083,7 @@ Verkis Bui Hai Mung
 
 **URL:** http://esperanto.china.org.cn/2025-10/27/content_118152995.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 La teknikoj pri arĝenta kaj kupra prilaborado kaj orumado en Huangzhong, Qinghai, nordokcidenta Ĉinio, havas historion de pli ol jarcento. En 2011 la metio estis enskribita en la nacia listo de nemateria kultura heredaĵo de Ĉinio. En 2021 la distrikto Qixia de la urbo Nankino de la provinco Jiangsu donis subtenon al Huangzhong, planante kamparan revivigon per tiu ĉi metiarto kaj establis etnan metiartan bazon en la loko laŭ la modelo "akcia kooperativo inter bazo kaj familioj". Preskaŭ 40% el pli ol 400 lokanoj pliigis sian enspezon kaj riĉiĝis.
 
@@ -1100,7 +1100,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Bui Hai Mung
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio
 
 Ĉinio estas la plej granda konsumanto de elektro en la mondo, kun enorma postulo venanta de hejmaj konsumantoj kaj la "monda fabriko". Kiel ĝi kapablas plenumi tiun postulon per stabila kaj relative malmultekosta elektroprovizo? La kialo kuŝas en unika elektra sistemo kun rimarkindaj trajtoj.
 
@@ -1183,7 +1183,7 @@ Verkis: Bui Hai Mung
 
 **Author:** Wei Yubin (Jado)
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio, Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 En 2024 aperis ĉina videoludo Nigra mito: Wukong, kiu ne nur revigligis la intereson pri la tradicia ĉina kulturo, sed ankaŭ kaŭzis grandan alfluon de turistoj en Shanxi-provinco, riĉa je historiaj kaj kulturaj vidindaĵoj. La videoludo, inspirita de la klaskika romano Pilgrimo al la Okcidento de Wu Cheng'en, prezentas multajn realajn historiajn lokojn, el kiuj 27 troviĝas en Shanxi.
 
@@ -1241,7 +1241,7 @@ Verkis Wei Yubin (Jado)
 
 **Author:** Bui Hai Mung
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 La Pekina Internacia Fotografia Semajno estas festo de bilda arto, kiu ĉiujare okazas aŭtune en Pekino. Ĝi estas kvazaŭ vasta fenestro, tra kiu la rakontoj de ĉinaj bildoj iras al la mondo, kaj la diversaj kulturoj de la mondo kuniĝas ĉi tie. Ĉi-jare la evento okazas de la 18-a ĝis la 27-a de oktobro 2025 kun la temo "Bildo: Civilizacio kaj nova kvalito", alfrontas la transformon de la bilda industrio kaŭzitan de la novkvalitaj produktfortoj de artefarita intelekto (AI) kaj cifereca teknologio.
 
@@ -1262,7 +1262,7 @@ Verkis Bui Hai Mung
 
 **URL:** http://esperanto.china.org.cn/2025-10/30/content_118150740.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 La 30-an de oktobro ĉina prezidanto Xi Jinping renkontiĝis kun usona prezidento Donald Trump okaze de la 32-a Kunveno de Ekonomiaj Gvidantoj de Azi-Pacifika Ekonomia Kunlaboro (APEK) en la Korea Respubliko.
 
@@ -1279,7 +1279,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-10/30/content_118153010.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 Lastatempe komenciĝis la ĉiujara farbado de la Potala Palaco en Xizang. Laborantoj kaj volontuloj miksas farbmaterialojn laŭ tradiciaj receptoj, filtras ilin kaj poste ŝprucas ilin sur la murojn de la Potala Palaco, igante la konstruaĵon pli bela.
 
@@ -1296,7 +1296,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 Inter la 7-a kaj la 14-a de oktobro mi estis en la Korea Popol-Demokratia Respubliko (KPDR), neformale konata Nord-Koreio. Ĝi estas tre malmulte komprenata lando, kiu pro tio fariĝis preferata celo de konspiroj kaj sensacio. Ĉi tiu mistera etoso, kune kun malnovaj rakontoj pri malriĉeco, aŭtoritatismo kaj trudlaboro, profundigas antaŭjuĝon kontraŭ la lando, kiu ekde sia fondiĝo firme batalas por sia rajto ekzisti, malgraŭ la internaciaj embargoj truditaj de la grandaj potencoj, kaj evoluas celante memsufiĉon.
 
@@ -1353,7 +1353,7 @@ Verkis kaj fotis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2025-10/31/content_118152431.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 La 30-an de oktobro ĉina prezidanto Xi Jinping intervidiĝis kun usona prezidento Donald Trump okaze de la 32-a Kunveno de Ekonomiaj Gvidantoj de Azi-Pacifika Ekonomia Kunlaboro (APEK) en la Korea Respubliko.
 
@@ -1376,7 +1376,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-10/31/content_118152782.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 La 31-an de oktobro ĉina prezidanto Xi Jinping partoprenis en la 32-a Kunveno de Gvidantoj de la Azi-Pacifika Ekonomia Kunlaboro (APEK) kaj faris gravan paroladon. Li prezentis kvin proponojn pri antaŭenigo de universale profita kaj inkluziva ekonomia tutmondiĝo kaj konstruado de la azi-pacifika komunumo.
 
@@ -1395,7 +1395,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-10/31/content_118153020.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 Kiam ĉina prezidanto Xi Jinping inspektis diversajn lokojn, li plurfoje laŭdis tradiciajn teksajn kaj brodajn teknikojn kun ĉinaj trajtoj.
 

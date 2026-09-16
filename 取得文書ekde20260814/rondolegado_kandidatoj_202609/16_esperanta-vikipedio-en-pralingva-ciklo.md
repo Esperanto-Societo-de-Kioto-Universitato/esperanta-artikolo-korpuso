@@ -2,11 +2,9 @@ Esperanta Vikipedio en pralingva ciklo
 
 Vikipediaj artikoloj en la plej multaj lingvoj fine kondukas al la temo ”filozofio”, se oni sufiĉe profunde esploras la ligilojn en ili. Tio tamen ne validas pri la Esperanta Vikipedio. Anstataŭ filozofio, la esperantistaj vikipediistoj ŝajnas trovi la lingvon bazo de ĉio. Eĉ se Esperanto fidele ĉiam rekondukas al si mem, skribas Marc van Oostendorp.
 
-La verda stelo en la Platona akademio de Rafaelo.
-
 Ekzistas amuza ludo, kiun oni povas ludi per Vikipedio. Elektu iun ajn artikolon, alklaku la unuan ligilon en la teksto, poste la unuan ligilon de la nova paĝo, kaj tiel plu. En la angla Vikipedio okazas io surpriza: preskaŭ ĉiuj artikoloj, pli aŭ malpli frue, alvenas al unu sama paĝo – ”filozofio”.
 
-Vikipediisto malkovris tion ĉirkaŭ 2011, kaj la afero fariĝis fama kiam ĝi aperis en konata retbildstrio. Antaǔ kelkaj semajnoj aperis filmeto pri la fenomeno en la YouTube-a kanalo de Vikipedio. Komputila kontrolo montras ke en 2011 pli ol 90 procentoj de la artikoloj kondukis al ”filozofio”, kaj en 2016 jam ĉirkaŭ 97 procentoj.
+Vikipediisto malkovris tion ĉirkaŭ 2011, kaj la afero fariĝis fama kiam ĝi aperis en konata retbildstrio. Antaŭ kelkaj semajnoj aperis filmeto pri la fenomeno en la YouTube-a kanalo de Vikipedio. Komputila kontrolo montras ke en 2011 pli ol 90 procentoj de la artikoloj kondukis al ”filozofio”, kaj en 2016 jam ĉirkaŭ 97 procentoj.
 
 La klarigo verŝajne estas ke la unua ligilo de artikolo kutime kondukas al iom pli ĝenerala nocio. La artikolo pri hundo kondukas al ”mamulo”, de tie al ”besto”, poste al ”organismo”, kaj tiel oni paŝo post paŝo grimpas de la konkreto al la abstrakto, ĝis oni atingas la plej abstraktan nocion de ĉiuj, la filozofion.
 

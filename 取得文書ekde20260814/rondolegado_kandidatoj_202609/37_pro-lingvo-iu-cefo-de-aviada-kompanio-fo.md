@@ -17,15 +17,3 @@ Rousseau nun "retiriĝas"; sed en la okuloj de multaj homoj, lia foriro pli simi
 Do, formiĝis unu el la ironiaj publikaj rakontoj en nuntempo: la akcidento en novjorka flughaveno origine estis afero de aviada sekureco, sed ĝi fine en Kanado transformiĝis en politikan ŝtormon pri lingvo; kaj la sorton de grandkompania ĉefo finfine decidis nek la merkato, nek la financaj raportoj, nek la estraro, sed la kondolenca mesaĝo ne dirita en la franca.
 
 Nun, ni ne povas ne suspiri: se la tuta homaro povus uzi komunan lingvon kiel Esperanton, eble tiaj strangaj okazintaĵoj, en kiuj oni perdas prestiĝon, reputacion, postenon, eĉ oficon pro lingvo, simple ne estus.
-
-Fonto:
-
-https://apnews.com/article/air-canada-ceo-crash-english-french-resign-02da899607c92b8ecb31dc01085e4980
-
-https://www.reuters.com/world/carney-slams-air-canada-ceo-english-only-remarks-after-crash-2026-03-25/
-
-https://www.reuters.com/world/americas/air-canada-express-plane-hits-ground-vehicle-new-yorks-la-guardia-airport-2026-03-23/
-
-https://www.reuters.com/business/aerospace-defense/laguardia-controller-staffing-may-have-violated-procedures-night-collision-2026-03-31/
-
-https://www.cbsnews.com/news/air-canada-ceo-michael-rousseau-retiring-english-only-message/

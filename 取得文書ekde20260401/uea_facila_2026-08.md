@@ -1,6 +1,6 @@
 ---
 source: "UEA Facila (uea.facila.org)"
-generated_at: "2026-09-15T10:54:37.115519+00:00"
+generated_at: "2026-09-16T16:26:31.776606+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-08-02 – 2026-08-09"
 ---
@@ -15,19 +15,6 @@ time_range: "2026-08-02 – 2026-08-09"
 **Categories:** Filmetoj
 
 [Embed] https://www.youtube.com/embed/auXap706gYk?width=100%25&height=86.25
-
-
----
-
-# ESPERANTISTO
-
-**Published:** 2026-08-09
-
-**URL:** https://uea.facila.org/filmetoj/esperantisto-r405
-
-**Categories:** Filmetoj
-
-[Embed] https://www.youtube.com/embed/WDzt0IJrRUU?width=100%25&height=86.25
 
 
 ---

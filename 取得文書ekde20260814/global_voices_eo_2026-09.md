@@ -1,6 +1,6 @@
 ---
 source: "Global Voices en Esperanto (eo.globalvoices.org)"
-generated_at: "2026-09-15T22:51:26.411259+00:00"
+generated_at: "2026-09-16T16:23:52.206534+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-09-05 – 2026-09-13"
 ---
@@ -12,7 +12,9 @@ time_range: "2026-09-05 – 2026-09-13"
 
 **URL:** https://eo.globalvoices.org/2026/09/15964/
 
-**Categories:** Blogo, Civitanaj komunikiloj, En- kaj elmigrado, Homaj rajtoj, Internaciaj rilatoj, Regado, Rifuĝintoj, Ĉefaĵo
+**Author:** Herman Dekeŭnink
+
+**Categories:** Blogo, Civitanaj komunikiloj, En- kaj elmigrado, Homaj rajtoj, Internaciaj rilatoj, Regado, Rifuĝintoj, Ĉefaĵo, The Bridge
 
 Reprezentantoj de diversaj senŝtatecaj komunumoj kunvenis en Malto en marto por kundividi spertojn kaj diskuti la realaĵojn de vivo sen civitaneco. Foto ĝentile cedita de la Apatride Network.
 
@@ -44,6 +46,8 @@ Nia renkontiĝo en Malto memorigis nin, ke dum senŝtateco izolas homojn, la kun
 
 Nek civitaneco nek nacieco devus iam determini ĉu la identeco de persono estas agnoskita aŭ kiel ili estas perceptitaj de aliaj. Dokumentoj konfirmas juran ligon al la ŝtato, sed ili ne povas nei la vivon, historion, familion kaj ligon de persono al la loko, kie ili loĝas. Por milionoj da senŝtatecaj homoj tra la mondo, ne temas nur pri akiri pasporton. Ili volas, ke la ŝtato kaj la socio agnosku, ke ili ĉiam estis ĉi tie, ĉiam apartenis al siaj komunumoj, kaj meritas la samajn rajtojn kaj traktadon kiel ĉiuj aliaj en la lando, kiun ili nomas hejmo.
 
+Apatride Network (La Senŝtateca Reto) estas organizaĵo gvidata de senŝtatecaj personoj, kiu funkcias en la Eŭropa Unio. Ĝi efektivigas ŝanĝo-orientitajn projektojn, provizas juran asistadon, kondukas strategiajn procesojn, kaj kreskigas konscion pri senŝtateco. Ĝia laboro rezultigis ŝanĝojn en bankaj regularoj por trakti la bezonojn de vundeblaj grupoj, forigon de administraj baroj al dungado por senŝtatecaj personoj ĉe UNHCR kaj la UN-Sekretariejo. Krome, ĉeĥa tribunalo agnoskis latvajn “necivitanojn”, la plej grandan grupon de senŝtatecaj personoj en Eŭropo, kiel jure senŝtatecaj.
+
 
 ---
 
@@ -52,6 +56,8 @@ Nek civitaneco nek nacieco devus iam determini ĉu la identeco de persono estas 
 **Published:** 2026-09-13
 
 **URL:** https://eo.globalvoices.org/2026/09/15879/
+
+**Author:** Aza Delgado Orduño
 
 **Categories:** Blogo, Civitanaj komunikiloj, Ekvadoro, Kolombio, Laboro, Latinameriko, Meksiko, Venezuelo, Ĉefaĵo, Ĉilio
 
@@ -73,9 +79,9 @@ Sindikataj gvidantoj kondamnas la politikon kiel trompa, argumentante ke laboris
 
 Kubo: Alproprigitaj laboristaj rajtoj
 
-View this post on Instagram
+GALERIO “LA PATRUJO SIN DEFENDAS” LA KUBA POPOLO SURSTRATE ĈI 1-AN DE MAJO
 
-GALERIO “LA PATRUJO SIN DEFENDAS” LA KUBA POPOLO SURSTRATE ĈI 1-AN DE MAJO #Galerio | Popola respondo al agreso: ĉi 1-an de majo la kubanoj kaj kubaninoj marŝas por suvereneco, sendependeco kaj paco sen kondiĉoj. Ni kunhavigas el #AlmaPlusTv elekton de la momentoj antaŭ la komenco de la marŝo antaŭ la Kontraŭiimperisma Tribunalo en Havano. Ankaŭ inkluziviĝas fotoj de la unuaj momentoj de la parado, kun la unuaj blokoj kiuj trapasas la urbon kaj alvenas antaŭ la ambasadejo de Usono por reaserti per sia ĉeesto ke la kuba popolo defendas pacon sen kondiĉoj. Ni aldonas ankaŭ kelkajn momentfotojn pri la partopreno de la solidarecgrupoj kun Kubo, kiuj, kiel ĉiujare, revenas, sed ĉi-jare aparte, por kunhavigi kun la kubanoj ilian sorton kaj per siaj klopodoj reaserti sian dediĉon al #CubaNoEstáSola (KuboNeEstasSola).
+#Galerio | Popola respondo al agreso: ĉi 1-an de majo la kubanoj kaj kubaninoj marŝas por suvereneco, sendependeco kaj paco sen kondiĉoj. Ni kunhavigas el #AlmaPlusTv elekton de la momentoj antaŭ la komenco de la marŝo antaŭ la Kontraŭiimperisma Tribunalo en Havano. Ankaŭ inkluziviĝas fotoj de la unuaj momentoj de la parado, kun la unuaj blokoj kiuj trapasas la urbon kaj alvenas antaŭ la ambasadejo de Usono por reaserti per sia ĉeesto ke la kuba popolo defendas pacon sen kondiĉoj. Ni aldonas ankaŭ kelkajn momentfotojn pri la partopreno de la solidarecgrupoj kun Kubo, kiuj, kiel ĉiujare, revenas, sed ĉi-jare aparte, por kunhavigi kun la kubanoj ilian sorton kaj per siaj klopodoj reaserti sian dediĉon al #CubaNoEstáSola (KuboNeEstasSola).
 
 La 1-a de majo en Kubo okazas en momento de ekstrema streĉo kaj necerteco. Kubanoj alfrontas severan ekonomian, politikan kaj socian krizon sub aŭtoritata komunisma reĝimo, kiu rezistas strukturan ŝanĝon. Samtempe, deklaroj de figuroj kiel prezidanto Donald Trump kaj aliaj altrangaj oficialuloj nutris spekuladojn pri ebla usona interveno. La etoso sentiĝas streĉa, ŝarĝita de interna malfacilo kaj ekstera premo.
 
@@ -84,8 +90,6 @@ Tamen, la 1-a de majo neniam estis ordinara tago sur la insulo. En multaj landoj
 Sed tiu epoko malaperis, kaj partopreno akre falis. La daŭranta krizo, kombinita kun publika seniluziiĝo, malfortigis la allogon de tiuj mobilizadoj. Por multaj, la premo ĉeesti — ĉu pro timo perdi sian laboron aŭ parton de la monata salajro de 15 usonaj dolaroj — jam ne havas la saman efikon. Responde, la registaro translokis la eventon al pli malgranda loko apud la usona ambasadejo. La skalo ŝanĝiĝis, sed la intenco restas: konservi la bildon de unueco, eĉ dum la surloka realo fariĝas pli kompleksa.
 
 Ĉilio: Laboristoj kontraŭ neoliberalaj publikaj politikoj
-
-View this post on Instagram
 
 Manifestacioj kaj marŝo por la tago de la laboristo, ĉi 1-an de majo, en la urbo Santiago de Ĉilio. (Cristóbal Basaure/SOPA IMAGES)
 
@@ -99,6 +103,8 @@ Kolombio: Decan laboron, ne prekarajn laborpostenojn
 
 Foto de la amaskunveno en Medeĝino, Kolombio. De Simón Cabrera por Tutmondaj Voĉoj [eoj]. Uzita kun permeso.
 
+La 1-a de majo 2026 en Kolombio fariĝis ŝlosila politika momento antaŭ la prezidantaj elektoj okazontaj poste ĉi-monate. La tago rompis tradicion kiam prezidanto Gustavo Petro movis sian ĉefan paroladon al Medeĝino, la plej forta opozicia bastiono de la lando kaj hejmo de multaj el liaj plej akraj kritikistoj.
+
 Parolante post la marŝoj antaŭ grandaj homamasoj kiuj entuziasme subtenis lin, Petro uzis la publikan kunvenon por antaŭenigi kampanjon por Nacia Konstitucia Asambleo, celante preteriri la reziston de la kongreso al siaj proponitaj reformoj. Lia apero pliigis streĉiĝojn kun lokaj aŭtoritatoj kaj intensigis nacian politikan debaton.
 
 Tra ĉefaj urboj de Kolombio, la registaro klopodis montri sian mobilizan kapablon dum opoziciaj grupoj dominis sociajn amaskomunikilojn kaj novaĵraportadon per kritiko de la konstitucia propono de Petro.
@@ -111,6 +117,8 @@ Meksiko: Pli da homeco, malpli da Mondpokalo
 
 Sindikataj gvidantinoj en Iguala [eo], Meksiko, 2026. Foto de Karla Ivette Méndez, uzita kun permeso.
 
+En Meksiko, miloj da laboristoj protestis en pluraj subŝtatoj [ndlt. La listo de la subŝtatoj esperantigite nomataj estas: Malsupra Kalifornio, Suda Malsupra Kalifornio, Ĥalisko, Gerero, Tlaŝkalo, Oaĥako, Moreloso, Novleono, Sanktludoviko Potosio, Meksikŝtato kaj Zakateko] meze de kunteksto formita de laborreformoj kaj longdaŭra socia malkontento. Kvankam la registaro enkondukis signifajn mezurojn (inkluzive de plialtigo de la minimuma salajro, laŭgrada redukto de la laborsemajno, kaj efektivigo de la tiel nomata “Seĝa Leĝo” celanta plibonigi laborejajn kondiĉojn), multaj meksikanoj argumentas ke tiuj ŝanĝoj ankoraŭ ne sufiĉas por vere dignigi laboron.
+
 La marŝoj reflektis tiun streĉiĝon. Sub la slogano “Pli da homeco, malpli da Mondpokalo“, edukaj laboristoj protestis kontraŭ nepagitaj salajroj, troa impostado, kaj reformoj, kiuj, laŭ ili, serioze minacas pensiojn, sekurecon post emeritiĝo kaj aliron al sanservo. Sanlaboristoj ankaŭ aliĝis al la manifestacioj, denuncante severajn mankojn de medikamentoj kaj personaro.
 
 Kio distingis la protestojn de 2026 estis la videbla gvidado de virinoj el regionoj konsiderataj altriskaj. En Iguala, Gerero — urbo sub aktiva Viola Alerto kaj Genra perforta Alerto — sindikatigitaj instruistinoj mobiliziĝis por postuli respekton de siaj laborrajtoj kaj finon de la konstanta ĉikanado, mistraktado kaj diskriminacio, kiujn ili diras alfronti de la direktoro de sia laborejo.
@@ -120,6 +128,8 @@ Ilia protesto elstarigis ke dum laborrajtoj povas progresi sur papero, struktura
 Ekvadoro: La efiko de perforto sur la vivoj de laboristoj
 
 La flago kun kranio portanta ĉapon fariĝis simbolo de ribelo, rezisto kaj libereco dum la protestoj de 2025 en Nepalo [eo]. En Ekvadoro, la sama simbolo aperis dum la marŝo de la 1-a de majo kiel aludo al respekto de la Konstitucio, kiu ne permesas, ke elektaj procezoj estu antaŭtempigitaj laŭ la volo de la plenuma povo. Sur la foto dekstre legeblas “Nia patrujo bezonas nin unuigitajn. For Noboa”. Foto de Gina Yauri por Tutmondaj Voĉoj.
+
+En Kito, la ĉefurbo de Ekvadoro, la 1-a de majo kunvenigis milojn da homoj, kiuj plenigis Avenuon 10 de Agosto en marŝo etendiĝanta pli ol unu kilometron. Laboraj sindikatoj, sociaj kaj mediaj organizoj, kontraŭminaj grupoj, virinaj kolektivoj, artistoj, junularaj movadoj, GLATKI+ [eoj] komunumoj kaj aliaj civitanoj kuniĝis en potenca manifestacio kontraŭ kreskanta laborprecareco kaj la malpliiĝantaj vivkondiĉoj alfrontataj de granda parto de la loĝantaro.
 
 Sub la skandado “Noboa for, for”, protestantoj esprimis sian malakcepton de la kreskanta vivkosto kaŭzita de la plialtigo de la aldonvalora imposto (AVI) de 12% al 15%, kaj ankaŭ kontraŭ kreskanta perforto kaj malsekureco, nesufiĉa investo en sanservo kaj edukado, kaj la subita maldungo de kuracistoj, instruistoj kaj publikaj oficistoj. Manifestaciantoj ankaŭ denuncis kion ili priskribas kiel kreskantajn signojn de aŭtoritatismo, kiuj malhelpas la ŝtaton funkcii efike.
 

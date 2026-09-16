@@ -1,6 +1,6 @@
 ---
 source: "Libera Folio (liberafolio.org)"
-generated_at: "2026-09-15T16:02:39.080060+00:00"
+generated_at: "2026-09-16T16:23:46.882399+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-06-01 – 2026-06-23"
 ---
@@ -142,7 +142,7 @@ La sola teksto pri libro en Esperanto aperis en la junia numero, kun la titolo �
 
 Jam laŭ la titolo eblas konkludi, ke temas ne pri recenzo, kaj apenaŭ temas pri la plej grava lastatempe aperinta verko en Esperanto. Aŭ eble tamen jes, laŭ la aŭtoro de la artikolo:
 
-La eldono de la ĉina-Esperanta ver­sio de Xunzi ebligas, ke la orienta saĝeco enhavita en la verko disvastiĝos al la mondo pere de Esperanto. Ĝi konstruas solidan ponton por interkultura interŝanĝo inter Ĉinio kaj eksterlando, kaj faras gravan kontribuon al reciproka lernado inter civilizacioj kaj konstruado de homa komuna estonteco.
+La eldono de la ĉina-Esperanta versio de Xunzi ebligas, ke la orienta saĝeco enhavita en la verko disvastiĝos al la mondo pere de Esperanto. Ĝi konstruas solidan ponton por interkultura interŝanĝo inter Ĉinio kaj eksterlando, kaj faras gravan kontribuon al reciproka lernado inter civilizacioj kaj konstruado de homa komuna estonteco.
 
 Tiu eventuale grava libro tamen ne estas aĉetebla ĉe la libroservo de UEA.
 

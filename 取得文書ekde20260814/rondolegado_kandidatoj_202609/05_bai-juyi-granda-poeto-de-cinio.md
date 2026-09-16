@@ -1,7 +1,5 @@
 Bai Juyi: granda poeto de Ĉinio
 
-Eblas aŭskulti ĉi tiun artikolon, kiun voĉlegis Arko.
-
 La Dinastio Tang (618-907) estis unu el la plej brilaj periodoj en la ĉina historio. Tiam poezio fariĝis tre populara. La poezio de tiu dinastio ĝenerale sekvis tre precizajn regulojn rilate al metriko, rimoj kaj strukturo. La Plena Kolekto de Tang-Poezio aperis longe poste, inter 1705 kaj 1706. Ĝi enhavis pli ol 48 900 poemojn verkitajn de pli ol 2200 poetoj.
 
 Unu el la plej bone konataj poetoj estis Bai Juyi (772-846). Li naskiĝis en norda Ĉinio, kiam la dinastio komencis malfortiĝi post milita ribelo. Jam en sia jun-aĝo, li sukcesis en ekzameno por ricevi oficon en la ĉefurbo. Tie li spertis la politikan malfortiĝon, koruptecon kaj misorganizadon, kaj la suferojn de la popolanoj. Li koleris pro sociaj maljustaĵoj kaj malkaŝe kritikis la koruptecon de oficistoj. Tio tamen alportis al li malamikojn, kaj li estis forsendita al Xunyang, nuntempe Jiujiang, en suda Ĉinio en 815.

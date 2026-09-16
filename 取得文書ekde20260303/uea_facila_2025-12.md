@@ -1,6 +1,6 @@
 ---
 source: "UEA Facila (uea.facila.org)"
-generated_at: "2026-09-15T16:17:07.083400+00:00"
+generated_at: "2026-09-16T16:26:31.631225+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-12-02 – 2025-12-28"
 ---
@@ -359,7 +359,7 @@ vin-beroj: dolĉaj, molaj fruktetoj, uzataj por fari vinon.
 
 **URL:** https://uea.facila.org/artikoloj/kongresoj-kaj-kunvenoj/la-6-a-virtuala-kongreso-r502
 
-**Author:** Anna Lowenstein
+**Author:** Anna Lowenstein, Fida Amatullah
 
 **Categories:** Kongresoj kaj kunvenoj
 

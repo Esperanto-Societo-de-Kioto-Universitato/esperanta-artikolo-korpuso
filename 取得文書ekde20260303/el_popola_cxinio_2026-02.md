@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-09-15T16:12:44.443187+00:00"
+generated_at: "2026-09-16T16:27:24.893818+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-02-02 – 2026-02-28"
 ---
@@ -12,7 +12,7 @@ time_range: "2026-02-02 – 2026-02-28"
 
 **URL:** http://esperanto.china.org.cn/2026-02/02/content_118308326.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 La 27-an de januaro la ĉina socia retejo WeChat anoncis ĝisdatigon de sia funkcio "SMS por savi vivojn", kiu celas ligi krizokazajn tekstomesaĝojn al apeto ene de WeChat en kritikaj situacioj pri savado. La kapablo permesas, ke dum kriza situacio, tekstmesaĝo aŭtomate malfermu la apeton, ebligante videoalvokojn kaj diskonigon de la preciza loko, kie la paciento estas. En urĝa savado, ĉi tio kontribuas por redukti la tempon necesan por ke iu serĉu helpon kaj faciligas al krizokazaj centroj rapide koni la precizan lokon de la vokanto kaj tuj sendi ambulancon.
 
@@ -61,7 +61,7 @@ Fonto: OneTubeDaily
 
 **URL:** http://esperanto.china.org.cn/2026-02/03/content_118315051.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** E-novaĵoj
 
 La 27-an de januaro, UEA sendis deklaron al UN okaze de la la Tago de Holokaŭsta Memoro. Jen ĝia enhavo:
 
@@ -118,7 +118,9 @@ Fonto: Gazetara Komuniko de UEA n-ro 1280
 
 **URL:** http://esperanto.china.org.cn/2026-02/04/content_118315076.htm
 
-**Categories:** Plej Freŝaj
+**Author:** Bakhtizin Albert
+
+**Categories:** Ekonomio
 
 de Bakhtizin Albert*
 
@@ -143,7 +145,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-02/05/content_118316756.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio
 
 La 2-an de februaro komenciĝis printemp-festa pasaĝertransportado de 2026. Laŭ antaŭkalkulo, 187.91 milionoj da homfojoj fluados tra la lando, pli multe je 13% ol 2025. Per trajno vojaĝos 12 milionoj da homfojoj, pli multe je 15.5% ol la sama periodo de 2025.
 
@@ -160,7 +162,7 @@ Jen la fotoj de altrapidaj trajnoj pretaj por ekpafi:
 
 **Author:** Bui Hai Mung
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Kulturo,Scienco kaj Sporto
 
 Kiam temas pri la "Luna Novjaro", multaj homoj aŭtomate supozas, ke ĝi estas la Ĉina Novjaro, dum aliaj pensas, ke ĝi estas komuna festo de ĉiuj aziaj landoj. Fakte, ambaŭ pensmanieroj ne estas ĝustaj. La "Luna Novjaro", aŭ pli precize la Novjaro laŭ la lun-suna kalendaro, estas esence rafinita kalendara sistemo kaj komuna kultura heredaĵo, kiun multaj popoloj akceptis kaj riĉigis per propraj apartaj trajtoj, kreante diversan kaj viglan printempan panoramon. Ĉi tiu esplorvojaĝo malfermos multkoloran bildon, en kiu kultura interplektiĝo kaj transformiĝo naskas vere tutmondan printempon.
 
@@ -245,7 +247,7 @@ Verkis: Bui Hai Mung
 
 **URL:** http://esperanto.china.org.cn/2026-02/09/content_118317049.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Kulturo,Scienco kaj Sporto
 
 En la unua tago de la printemp-festa pasaĝertransportado de 2026, robota "konsultisto" ekfunkciis en la fervoja stacidomo Orienta Chengdu en la urbo Chengdu, Sichuan-provinco. Kiel fervoja informroboto, ĝi povas montri la detalajn informojn de la pasaĝera bileto, tuj post kiam la pasaĝero skanas sian identigilon aŭ sian vizaĝon.
 
@@ -262,7 +264,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-02/09/content_118324516.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio
 
 Tengtou-vilaĝo situas en Ningbo, Zhejiang-provinco. En 2025, la malneta produkto de la 900-homa vilaĝo atingis 13.5 miliardojn da juanoj kaj la pohoma averaĝa jarenspezo atingis 89 mil juanojn.
 
@@ -287,7 +289,7 @@ Redaktoro: Gao Shuyuan
 
 **URL:** http://esperanto.china.org.cn/2026-02/10/content_118325022.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 Por festi la Printempan Feston, artistoj pri tradicia ĉina ksilografaĵo de Yangliuqing de Tianjin dezajnis ksilografaĵojn kun la temo de la Jaro de Ĉevalo.
 
@@ -302,7 +304,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-02/11/content_118324496.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 Laŭ raporto de The Paper, teamo de ĉinaj adoleskuloj estigis novan mondrekordon de Guinness pri la plej longa flugo per paperaviadilo, ĵetinte permane falditan modelon al distanco de 98.43 metroj — proksime al la 100-metra linio. La rekord-trarompa ĵeto okazis la 28-an de decembro 2025 en Ŝanhajo fare de seshoma teamo kun averaĝa aĝo de 17 jaroj. Uzante norman A4-paperfolion, ilia aviadilo, nomita "Esploro", flugis preskaŭ 100 metrojn ene de la urba Jiading-a Aŭtoeksponejo, elektita pro sia vasta kaj senventa medio.
 
@@ -333,7 +335,7 @@ Fonto: Shanghai Daily
 
 **URL:** http://esperanto.china.org.cn/2026-02/12/content_118330363.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 La Printempa Festo alproksimiĝas, ankaŭ la ekonomia partnereco inter Ĉinio kaj Zimbabvo atingis novan nivelon. Dum karnavalo en Harareo, ĉefurbo de Zimbabvo, Monica Mutsvangwa, ministro pri virinaj aferoj, komunumaj aferoj kaj disvolviĝo de malgrandaj kaj mezgrandaj entreprenoj, diris: "La Jaro de la Ĉevalo alportas pli da vigleco, persistemo kaj neŝancelebla subteno. Ni ĉiam diras al Ĉinio, ke ni estas veraj kaj porĉiamaj amikoj."
 
@@ -354,7 +356,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-02/13/content_118325142.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Vojaĝo tra Ĉinio
 
 Trafita de malvarmego, sekcio de la Flava Rivero situanta ĉe la limo inter Ningxia kaj la Interna Mongolio, frostiĝis. Miloj da glaciflosaĵoj kolektiĝas, kreante unikan vintran pejzaĝon.
 
@@ -369,7 +371,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-02/14/content_118325148.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Vojaĝo tra Ĉinio
 
 Pro frostado, glacipecoj aperis en la montaraj regionoj en Guangxi, sudokcidenta Ĉinio.
 
@@ -386,7 +388,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio, Kulturo,Scienco kaj Sporto
 
 La 10-an de februaro mi vizitis la pekinan distrikton Yangqing, proksime al la limo kun la provinco Hebei. Tie troviĝas mirindaj pejzaĝoj kaj famaj vidindejoj, inkluzive de Badaling — la plej vizitata sekcio de la Granda Muro — la pitoreskejo Lonqingxia, fama pro siaj belaj krutaĵoj, kaj la parko konstruita por la Internacia Hortikultura Ekspozicio en 2019.
 
@@ -445,7 +447,7 @@ Verkis kaj fotis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2026-02/15/content_118325103.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 Lastatempe, novaj glaciskulptaĵoj estis eksponataj en la Harbina Glacineĝa Mondo, fama turisma programo de nordorienta Ĉinio. La mirindaj glaciskulptaĵoj kaj lampaj lumoj kune briligas la vintran nokton.
 
@@ -460,7 +462,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-02/16/content_118325116.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 Ekde la komenco de vintro, daŭras Karnavalo de Arta Glacia Lanterno en la parko Zhaolin de Harbino, kio altiras multajn turistojn kaj lokanojn. Oni uzis ĉirkaŭ 2 300 kubmetrojn da glacio kaj 800 kubmetrojn da neĝo por krei pli ol 300 skulptaĵojn.
 
@@ -475,7 +477,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-02/17/content_118325127.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 Venas la Jaro de Ĉevalo. En la distrikto Huizhou de la urbo Huangshan en la provinco Anhui, Hong Jianhua, reprezenta heredanto de la nemateria kultura heredaĵo "bambua ĉizado de Huizhou", zorgeme ĉizis artaĵojn pri ĉevalo. La ĉevaloj el bambuo prezentas viglecon kaj ĉarmon, ili estas vivecaj kaj impresaj. Hong Jianhua, per ĉiziloj, iom post iom formas la krudan silueton, muskolajn liniojn kaj artan animon de galopanta ĉevalo.
 
@@ -490,7 +492,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-02/18/content_118325132.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 Oraj ornamaĵoj kun la temo pri la Jaro de Ĉevalo disvendiĝas rapide en ĉina merkato pro la Printempa Festo.
 
@@ -505,7 +507,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-02/19/content_118325135.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Vojaĝo tra Ĉinio
 
 Trafita de la kontinua malalta temperaturo, grandaj glacipecoj aperis sur la marsurfaco proksime de la urbo Huludao, la provinco Liaoning de nordorienta Ĉinio.
 
@@ -520,7 +522,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-02/20/content_118325156.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 De la 21-a de januaro ĝis la 31-a de marto, la 40-a Qinhuai-a Lanterna Festivalo okazas en la parko Bailuzhou de Nankino, la provinco Jiangsu. Sub la nokta ĉielo, la lanternoj brilas ĉe Qinhuai-rivero.
 
@@ -535,7 +537,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-02/21/content_118325153.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 De la 23-a de januaro ĝis la 8-a de marto, daŭras en Pekino la Ĉielpalaca Lanterna Festivalo. La festivalo vivece rekreis la fantastajn scenojn de la animacia filmo pri konata simireĝo Sun Wukong, aldonante riĉan festan etoson.
 
@@ -550,7 +552,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-02/22/content_118325169.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 De la 26-a de januaro ĝis la 3-a de marto, en Yuyuan-ĝardeno de Ŝanhajo daŭras lanterna festivalo por la Printempa Festo, donante videcan festenon laŭ la ŝanhaja stilo, tre malsama ol tiu de la pekina lanterna festivalo.
 
@@ -565,7 +567,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-02/23/content_118325191.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Naturo kaj Mediprotekto
 
 Vintre, la Nacia Naturrezervejo Caohai, situanta en la guernio Weining de la urbo Bijie de la provinco Guizhou, prezentas belan scenon kun dek miloj da birdoj al la lago Caohai. Inter la migrantaj birdoj, nigrakolaj gruoj, grizaj gruoj kaj strikapaj anseroj estas la plej ofte rekonataj.
 
@@ -582,7 +584,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Bui Hai Mung
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 En la moderna milita historio de Azio, malmultaj rakontoj havas tian fortan signifon kiel la Longa Marŝado de la Ruĝa Armeo de Ĉinio kaj la vojo Truong Son de la vjetnama armeo. Unu estis strategia moviĝo tra pli ol dek mil kilometroj da severaj geografiaj regionoj; la alia estis strategia itinero tra arbaroj kaj montaroj, trapasante furiozan bombadon por subteni la militon de nacia reunuiĝo. Kvankam devenaj el la militaj spertoj de la 20a jarcento, ambaŭ vojoj superis siajn militajn signifojn kaj transformiĝis en kernajn spiritajn simbolojn. En paca epoko, tiuj spiritoj daŭre vivas en reformadoj, disvolviĝoj kaj la longdaŭraj moderniĝoj de ambaŭ landoj.
 
@@ -652,7 +654,7 @@ Verkis: Bui Hai Mung
 
 **URL:** http://esperanto.china.org.cn/2026-02/25/content_118345550.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio, Vojaĝo tra Ĉinio
 
 En la lastaj jaroj, la festa etoso de la Printempa Festo altiris pli kaj pli da alilandanoj al Ĉinio. La granddatuma analizo fare de la Ĉina Turisma Akademio montras, ke dum la naŭ-taga feriado, homoj el aliaj landoj faris 4.28 milionojn da vizitoj al Ĉinio, interalie 898 miloj da vizitoj estis faritaj de alilandaj turistoj. Datumoj de vojaĝ-retejoj montras, ke la nombro de enlandaj flugoj menditaj per ne-ĉinaj pasportoj dum la feriotagoj de la Printempa Festo pliiĝis je 20% ol tiu en 2025.
 
@@ -667,7 +669,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-02/25/content_118345565.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio, Vojaĝo tra Ĉinio
 
 En ĉi-jara Printempa Festo estis kreita novaj rekordoj pri nombroj de enlandaj turistoj kaj iliaj elspezoj. La 24-an de februaro, la Ministerio pri Kulturo kaj Turismo de Ĉinio publikigis datumojn, ke dum la naŭ-taga feriado 596 milionoj da enlandaj vojaĝoj estis faritaj; la totala enlanda turisma elspezo atingis 803.48 miliardojn da juanoj.
 
@@ -682,7 +684,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-02/26/content_118345575.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 Dum la Printempa Festo de la Jaro de Ĉevalo, en Dunhuang, antikva urbo sur la Silka Vojo, murpentraĵoj kaj elterigitaj antikvaĵoj rilataj al ĉevaloj altiris grandnombron da turistoj. Tra miloj da jaroj, ni ankoraŭ povas aprezi la ĉarmecon de ĉevaloj kaj senti la malfermecon, memfidon kaj novigecan spiriton de antikvuloj.
 
@@ -697,7 +699,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-02/28/content_118352201.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** E-novaĵoj
 
 UEA kunlabore kun la redakcio de la revuo Literatura Vivo kore invitas ĉiujn esperantistojn tra la mondo partopreni en la Internacia Traduk-Konkurso "Vejdo" (2026). La konkurso estas dediĉita al la memoro de prof. Vejdo (Wei Yida, 1947-2025), honora membro de UEA, kaj celas subteni altkvalitan tradukarton en Esperanto.
 

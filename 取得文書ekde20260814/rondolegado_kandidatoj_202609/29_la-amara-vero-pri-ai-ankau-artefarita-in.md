@@ -1,7 +1,5 @@
 La amara vero pri AI: ankaŭ artefarita intelekto havas antaŭjuĝojn
 
-Illustraĵo de Tactical Tech, kun vidaj elementoj de Yiorgos Bagakis kaj Alessandro Cripsta. Uzata kun permeso..
-
 Tiu ĉi artikolo estis verkita de Safa Ghnaim kunlabore kun la Instituto Goethe Brazilo kaj origine publikigita en DataDetoxKit.org. Reviziita versio estis republikigita kiel parto de kunlaborkontrakto kun Global Voices.
 
 Kvankam artefarita intelekto (AI) estas de multaj homoj ofte rigardata kiel “neŭtrala teknologio”, ĝi donas misgvidan bildon, ĉar ankaŭ AI havas antaŭjuĝojn. AI estas evoluigata de homoj kaj trejnata de datumaroj. Same kiel vi kaj mi, homoj kiuj konstruas ĉi tiujn teknologiojn havas siajn konvinkojn, opiniojn kaj spertojn kiuj formas iliajn elektojn, ĉu ili konscias pri tio aŭ ne. Inĝenieroj kaj firmaoj kiuj disvolvas kaj trejnas AI-sistemojn eble donas pli da pezo al certaj informoj aŭ celoj ol al aliaj. Depende de la datumaroj kun kiuj ili “nutras” AI, ekz. algoritmojn aŭ babilejojn – tiuj sistemoj povas produkti rezultojn kun antaŭjuĝoj. Tial AI povas generi neĝustajn informojn, erarajn supozojn aŭ reprodukti malbonajn decidojn, kiel faras homoj.
@@ -58,7 +56,7 @@ Harvard ofertas vastan kolekton de senpagaj retaj testoj por helpi vin malkovri 
 
 Nun kiam vi vidis kiel tiaj pensmanieroj funkcias, imagu kio okazas kiam tiaj pensmanieroj estas aplikataj vastskale. Kiam implicitaj antaŭjuĝoj kaj pensmanieroj enmetiĝas en teknologio, ili povas influi tutajn popolgrupojn — kaj tio okazas tre rapide.
 
-Ekzemple, se vi uzas senpagan ilon de teksto-al-bildo kiel Perchance.org kaj tajpas “bela virino”, tiam vi vidos la jenon:AI-bildoj generitaj en Perchance.org la 13-an de aŭgusto 2024. Bildoj de Tactical Tech.
+Ekzemple, se vi uzas senpagan ilon de teksto-al-bildo kiel Perchance.org kaj tajpas “bela virino”, tiam vi vidos la jenon:
 
 Se ĉi tiu ilo produktis ses bildojn de “bela virino”, kial ili aperas preskaŭ identaj?Klopodu mem: ĉu vi ricevas aliajn rezultojn?
 

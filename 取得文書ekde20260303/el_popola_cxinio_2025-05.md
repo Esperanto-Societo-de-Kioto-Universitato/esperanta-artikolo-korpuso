@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-09-15T16:12:44.376334+00:00"
+generated_at: "2026-09-16T16:27:24.375545+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-05-02 – 2025-05-31"
 ---
@@ -14,7 +14,7 @@ time_range: "2025-05-02 – 2025-05-31"
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Vojaĝo tra Ĉinio
 
 La senprecedenca venko de la brazilano Hugo Calderano en la finalo de la Tablotenisa Mondpokalo 2025, kontraŭ la ĉino Lin Shidong (konsiderata la plej bona en la mondo), per 4-1, kaŭzis grandan emocion kaj en Brazilo – ĉar ĝi estas la unua mondĉampioneco de la lando en tiu sporto – kaj en Ĉinio, pro la frustro malvenki hejme en tiu sporto, en kiu delonge ĉinoj ĉiam estis la "reĝoj". Calderano estas unu el la multaj brazilaj atletoj, kiuj sukcesis atingis tian nivelon danke al subteno de la programo Bolsa Atleta (Atleta Stipendio) de la brazila registaro. Kreita en 2005 de prezidento Lula, la programo jam helpis milojn da sportistoj, financante iliajn trejnadon, ekipaĵojn kaj aliajn elspezojn.
 
@@ -75,7 +75,7 @@ Verkis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2025-05/06/content_117859931.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 En la Malferma Tago de la Ĉina Ambasadorejo en Usono kaj la diskoniga evento pri la provinco Gansu de Ĉinio en la 3-a de majo en Usono, ĉina ambasadoro Xie Feng deklaris, ke Ĉinio ne volas doganmiliton, nek timas ĝin. Se Usono pretas dialogi, ĝi devas adopti sintenon de egaleco, respekto kaj reciprokeco.
 
@@ -94,7 +94,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-05/07/content_117862268.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 La 6-an de majo ĉina prezidanto Xi Jinping interŝanĝis gratulmesaĝojn kun António Luís Santos da Costa, prezidanto de Eŭropa Konsilio, kaj Ursula von der Leyen, prezidanto de Eŭropa Komisiono, pri la 50a datreveno de starigo de diplomatiaj rilatoj inter Ĉinio kaj Eŭropo.
 
@@ -115,7 +115,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-05/07/content_117862276.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 Laŭ la anonco de la ĉina Ministerio de Eksterlandaj Aferoj, invitite de rusa prezidento Vladimir Putin, ĉina prezidanto Xi Jinping faros oficialan viziton al Rusio kaj ĉeestos en Moskvo la solenaĵon memore al la 80-a datreveno de la venko de Sovetio en la Granda Patriota Milito. Jen pejzaĝoj de bela Moskvo.
 
@@ -130,7 +130,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-05/08/content_117864595.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 Ĉina prezidanto Xi Jinping atingis Moskvon per aviadilo en la 7-a de aprilo. La rusa flanko en flughaveno okazigis solenan ceremonion por akcepti lin. Xi Jinping revuis honoran gvardion de rusaj tri armeoj -- la ter-, mar- kaj aer-armeoj kaj spektis paradan marŝon.
 
@@ -149,7 +149,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio, Kulturo,Scienco kaj Sporto
 
 La 1-a de majo, la Internacia Laborista Tago, estas unu el la plej longaj festotagoj en Ĉinio — nur superata de la Nacia Tago (1-a de oktobro) kaj la Ĉina Novjaro (sekvante la tradician kalendaron). Tio montras kiom multe la lando valoras laboristojn. Sed en la imago de multaj eksterlandanoj, Ĉinio estas rigardata kun suspektemo, kiam temas pri laboro: Ekzistas de tiuj, kiuj asocias la landon al romantika idealo pri socialismo, ĝis tiuj, kiuj kredas je ekzisto de trudlaboro kaj longega labortempo. Kia Ĉinio vere estas?
 
@@ -187,7 +187,7 @@ Angla kolego, kiu antaŭe laboris en anglalingva fako de mia laborejo, pasintjar
 
 Mi laboras de la 9-a ĝis la 17-a (kun duhora tagmanĝa paŭzo). Foje mi restas pli longe en mia oficejo por fini artikolon aŭ pasigi la tempon antaŭ ol renkonti amikon por kunvespermanĝi. Laborvojaĝoj estas intensaj (tuttage kolektante informojn, poste verkante artikolojn en mia hotelĉambro), sed eĉ dum tiu freneza laborritmo mi foje trovis tempon por renkonti amikojn kaj eĉ spektis koncerton de Ivan Lins en Ŝanhajo dum CIIE.
 
-La situacio de ĉinaj laboristoj en  konstruado de fabriko de BYD en Brazilo
+La situacio de ĉinaj laboristoj en konstruado de fabriko de BYD en Brazilo
 
 Fine de 2023, brazilaj amaskomunikiloj raportis pri la laborkondiĉoj de ĉinaj laboristoj konstruantaj fabrikon de BYD en la urbo Camaçari de la brazila subŝtato Bahio. La kritikoj celis malbonigi la publikan bildon de Ĉinio, sed la vera situacio estas pli kompleksa. Brazilaj aŭtoritatoj konstatis, ke la kondiĉoj de tiuj ĉinaj laboristoj pri loĝado (pluraj homoj dividantaj la saman ĉambron), la manĝaĵoj servataj al ili kaj iliaj longaj labortempoj estis malkonformaj al postuloj de brazilaj leĝoj. Mi konsentas, ke ĉinaj firmaoj devas observi lokajn leĝojn dum disvolvado de projektoj en alia lando, sed kiel ĉinoj vidas ĉi tion?
 
@@ -220,7 +220,7 @@ Verkis kaj fotis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2025-05/09/content_117866526.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 Posttagmeze de la 8-a de majo en la Prezidenta Oficejo de Kremlo, rusa prezidento Vladimir Putin kaj ĉina prezidanto Xi Jinping interparolis dum tetrinkado.
 
@@ -241,7 +241,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-05/09/content_117866534.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 La 8-an de majo en Moskvo, laŭ la loka tempo, ĉina prezidanto Xi Jinping kaj rusa prezidento Vladimir Putin kune renkontis raportistojn post interparolo.
 
@@ -262,7 +262,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-05/09/content_117866536.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 Antaŭtagmeze de la 8-a de majo, laŭ la loka tempo, en Kremlo, ĉina prezidanto Xi Jinping kaj rusa prezidento Vladimir Putin interparolis.
 
@@ -289,7 +289,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-05/12/content_117870791.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 La 6-an de majo 1975, la tiama vicprezidanto de la Eŭropa Komisiono Christopher Soames kaj la tiama ĉina ĉefministro Zhou Enlai malfermis la unuan ĉapitron de diplomatiaj rilatoj inter la tiama Eŭropa Ekonomia Komunumo kaj Ĉinio.
 
@@ -314,7 +314,7 @@ Arancha Gonzalez (eksa ministro pri eksterlandaj aferoj, Eŭropa Unio kaj Kunlab
 
 **URL:** http://esperanto.china.org.cn/2025-05/12/content_117870801.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 Ĉinio kaj Usono anoncis en la 12-a de majo serion da doganaj modifaj rimedoj celantaj malstreĉi komercajn streĉiĝojn inter la du plej grandaj ekonomioj de la mondo.
 
@@ -333,7 +333,7 @@ Laŭ la deklaro, Usono metos 90-tagan paŭzon sur 24 procentojn de la aldonita i
 
 **URL:** http://esperanto.china.org.cn/2025-05/13/content_117872475.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 La 13-an de majo ĉina prezidanto Xi Jinping diris en la malferma ceremonio de la Ministra Kunveno de Forumo de Ĉinio kaj Komunumo de Latinamerikaj kaj Karibaj Landoj, ke Ĉinio volas plifortigi solidarecon kun latinamerikaj kaj karibaj landoj kaj daŭre subteni unu la alian pri aferoj koncernaj al iliaj kernaj interesoj kaj gravaj zorgoj.
 
@@ -350,7 +350,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-05/13/content_117872609.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 La 12-an de majo la Informa Oficejo de la Ŝtata Konsilantaro de Ĉinio publikigis blankan libron titolitan "Landa sekureco de Ĉinio en nova epoko".
 
@@ -369,7 +369,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-05/14/content_117874386.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 Posttagmeze de la 13-a de majo en Pekino ĉina prezidanto Xi Jinping interparolis kun brazila prezidento Luiz Inacio Lula da Silva, kiu estas en ŝtata vizito al Ĉinio. Ili ĉeestis subskriban ceremonion de kunlaboraj dokumentoj kaj kune renkontiĝis kun gazetaro en la Granda Popola Halo de Pekino.
 
@@ -388,7 +388,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 Posttagmeze de la 13-a de majo en Pekino, Banko de Brazilo (BB) kaj Ĉina Disvolva Banko (ĈDB) subskribis interkonsenton valoran je une miliardo da usonaj dolaroj por pligrandigi la financan kunlaboron inter la du institucioj kaj plifortigi la ekonomiajn ligojn inter Brazilo kaj Ĉinio. La interkonsento estis subskribita dum vizito de institucia misio de BB al la azia lando, plifortigante la strategian partnerecon inter la du ekonomioj.
 
@@ -421,7 +421,7 @@ Raportis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2025-05/15/content_117876593.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 Lastatempe novaj normoj pri nutraĵ-sekureco estis publikigitaj, kiuj antaŭenigos la plibonigon de nutraĵ-sekureco kaj markas, ke la ĉina sistemo por kontroli nutraĵ-sekurecon eniris novan etapon de precizeco tra la tuta ĉeno.
 
@@ -444,7 +444,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Gilbert Morris
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 La ideo, ke Ĉinio "malkreskas", eldirita de iuj okcidentaj amaskomunikiloj, havas neniun bazon, tial ĝi devus esti malakceptita senprokraste por pli kompetenta kaj serioza analizo. La averaĝa jara kreskorapideco de Ĉinio de 2001 ĝis 2010 estis je 10.1%. En 2024, post multaj pesimismaj deklaroj, la ĉina ekonomio kreskis pli ol 5%, duoble pli rapide ol tiu de Usono kaj trioble pli rapide ol tiu de la Eŭropa Unio.
 
@@ -469,7 +469,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-05/21/content_117885226.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 Simon Lichtenberg, estrarano de la Dana Komerca Ĉambro en Ĉinio, estis intervjuita de ĉina amaskomunikilo la 14-an de majo.
 
@@ -496,7 +496,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 Fondita en 1921 de la fama ĉina filantropo Chen Jiageng, Universitato de Xiamen en Fujian-provinco de sudorienta Ĉinio estas unu el la malmultaj universitatoj en la lando kun preskaŭ 100-jara historio. Kvankam ĝi estas unu el la plej prestiĝaj ĉinaj universitatoj de Ĉinio, aperanta en la listo de la 400 plej bonaj en la mondo, tamen ĝi estas aparte konata pro sia bela kampuso, kiu troviĝas proksime de la maro kaj havas unikan arkitekturon, kiu miksas tradiciajn ĉinajn tegmentojn kun okcident-stilaj konstruaĵoj. Multaj turistoj de Ĉinio vizitas tiun kampuson, kiu estas fama vidindejo de la urbo Xiamen.
 
@@ -519,7 +519,7 @@ Raportis kaj fotis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2025-05/21/content_117887028.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 Lastatempe la Informa Oficejo de la Ŝtata Konsilantaro de Ĉinio senvualigis emblemon memorfestantan la 80-an datrevenon de la venko en la Rezistmilito de la Ĉina Popolo kontraŭ Japana Agreso kaj la Monda Kontraŭfaŝisma Milito.
 
@@ -536,7 +536,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-05/21/content_117887842.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 Sceno de la kampanjo de Pingxingguan
 
@@ -563,7 +563,7 @@ Redaktoro: Liu Zijia
 
 **URL:** http://esperanto.china.org.cn/2025-05/21/content_117887849.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 La jaro 2025 markas la 80-an datrevenon de la venko de Ĉinio en la Kontraŭjapana Rezistmilito kaj la Monda Kontraŭfaŝisma Milito.
 
@@ -586,7 +586,7 @@ Redaktoro: Gao Shuyuan
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 Luoyang-ponto estas ikona vidindejo de la urbo Quanzhou de Fujian-provinco, sudorienta Ĉinio. Ĝia konstruado komenciĝis en la jaro 1053 kaj finis en la jaro 1059. Ĝi estas la unua granda ponto konstruita en Quanzhou, longa je 731 metroj, kaj alprenis la plej avangardajn konstru-teknikojn de tiu epoko, ekzemple uzo de tajdoj por faciligi la transportadon de la pezaj ŝtonoj uzitaj en la konstruado, kaj kulturado de ostroj sur la bazo de la ponto por fortikigi ĝian strukturon. Pro tio, ĝi estas majstroverko de antikva inĝenierio pri konstruado de longdistancaj pontoj. En antikveco, Luoyang-ponto estis esenca por transportado inter la urboj Quanzhou kaj Fuzhou.
 
@@ -609,7 +609,9 @@ Raportis kaj fotis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2025-05/22/content_117887889.htm
 
-**Categories:** Plej Freŝaj
+**Author:** Juan Enrique Serrano-Moreno
+
+**Categories:** Ekonomio
 
 de Juan Enrique Serrano-Moreno*
 
@@ -638,7 +640,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-05/23/content_117887905.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 Matevz Frangez, ŝtata sekretario ĉe la Ministerio pri Ekonomio, Turismo kaj Sporto de Slovenio, estis intervjuita de ĉina amaskomunikilo en la 19-a de majo."Slovenio fieras pri rapide kreskantaj industrioj de artefarita intelekto kaj blokĉeno, kaj elstaras en intelekta fabrikado kaj robotiko," diris Frangez. "Nia lando estas la sepa plej robotigita ekonomio en la mondo, subtenata de nia fortika noviga ekosistemo kaj esplora infrastrukturo."
 
@@ -665,7 +667,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio, Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 Fondita en 1997, Bama estas fama tekompanio, kies sidejo troviĝas en la urbo Quanzhou de Fujian-provinco, sudorienta Ĉinio. La kompanio fokusas sur produktado, procezado kaj komerco de altkvalitaj teoj, aparte variaĵo de oolong-teo konata kiel Anxi Tieguanyin. Ĝi havas la prestiĝan titolon de Longhistoria Tradicia Marko de Ĉinio kaj multaj el ĝiaj teoj gajnis atestilojn pri pureco, taŭgeco por vegana dieto, mediamika produkto ktp.
 
@@ -692,7 +694,7 @@ Verkis kaj fotis: Rafael Henrique Zerbetto
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 Dum monatoj mi sekvis kun granda intereso per la amaskomunikiloj la furoron pri la brazila filmo Mi Ankoraŭ Estas Ĉi Tie (Portugale: Ainda Estou Aqui) en Brazilo kaj la mondo. Tiu filmobiografio pri la brazila advokatino kaj aktivulino Eunice Paiva, reĝisorita de Walter Salles, altiris mian atenton.
 
@@ -779,7 +781,7 @@ Fotoj: HiShow
 
 **URL:** http://esperanto.china.org.cn/2025-05/27/content_117897240.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** E-novaĵoj
 
 La 26-an de majo 2025 forpasis en Jiangsu-provinco la veterana ĉina Esperanto-tradukisto Wang Chongfang. La estimata sinjoro naskiĝis en 1936 kaj esperantistiĝis en 1953. Dumvive li klopodis por edukado kaj Esperanta tradukado. Li kompilis du grandajn vortarojn ĉin-Esperantan kaj Esperanto-ĉinan, kaj esperantigis klasikaĵojn kiel Dao De Jing de Laŭzi, Analektoj de Konfuceo kaj aliaj. Li estis konsilanto de la Ĉina Esperanto-Ligo, vicprezidanto de Jiangsu-a Esperanto-Asocio kaj honora prezidanto de Zhenjiang-a Esperanto-Asocio. Lia forpaso estas grava perdo por la ĉina esperantujo. Funebrante lin, ĉinaj esperantistoj heredos lian spiriton kaj daŭre antaŭenigos la ĉinan Esperanto-movadon.
 
@@ -794,7 +796,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-05/27/content_117897741.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 La 26-an de majo Ĉinio publikigis agadplanon por akceli la disvolviĝon de ciferecaj kaj inteligentaj provizĉenoj, kio estas parto de pli vastaj klopodoj por ilia modernigo.
 
@@ -817,7 +819,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-05/28/content_117899575.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 Asit K. Biswas, akademiano kaj vizitanta profesoro ĉe la Universitato de Glasgovo, emfazis la urĝan bezonon forlasi troajn tarifojn, alvokante al la ne-politikigo de komerco. Biswas ankaŭ atentigis, ke la nekonsekvenco de usonaj politikoj estas malutila por ĝia mez- ĝis long-perspektiva disvolviĝo kaj povus konduki aliajn landojn rigardi Ĉinion kiel pli fidindan kaj stabilan partneron. En intervjuo kun ĉina amaskomunikilo, li diris jene:
 
@@ -836,7 +838,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio, Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 En la unuaj kelkaj jaroj post translokiĝo al Ĉinio en 2015, mi pasigis pli da tempo en Pekino kaj la plejparto de miaj vojaĝoj estis al najbaraj provincoj en la nordo de la lando. Tiutempe al sola suda provinco, kiun mi havis la ŝancon viziti dufoje estis Fujian, kiun mi vizitis en 2016 kaj 2017. La provinco ravis min laŭ aparta maniero, ĉar tie mi havis mian unuan kontakton kun multaj elementoj de la ĉina kulturo kaj ekmalkovris, kiom riĉa kaj diversa estas ĉi tiu antikva civilizo.
 
@@ -911,7 +913,7 @@ Verkis kaj fotis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2025-05/30/content_117903465.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 Okaze de la inaŭgura ceremonio de la Dialogo inter Pekino kaj Hangzhou pri la Grandkanala Kulturzono en la 29-a de majo, tri novaj kulturaj kreaĵoj estis oficiale lanĉitaj kun la celo popularigi la kulturon de la Granda Kanalo.
 
@@ -932,7 +934,7 @@ Redaktoro: Gao Shuyuan
 
 **URL:** http://esperanto.china.org.cn/2025-05/30/content_117903491.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Kulturo,Scienco kaj Sporto
 
 La Pekin-hangzhou-a Granda Kanalo estas tre impresa infrastrukturo de antikveco, liu trairas ok provincojn kaj kunligas la sudon kaj la nordon. Do ĝi antaŭenigis interŝanĝojn de malsamaj regionoj de Ĉinio, kontribuis por unuigi la popolon, kaj antaŭenigis la ekonomian disvolvadon de la lando. Do mi pensas, ke ĝi simbolas por la mondo la spiriton pri unuiĝo de popoloj.
 
@@ -953,7 +955,7 @@ Redaktoro: Gao Shuyuan
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio, Vojaĝo tra Ĉinio
 
 Ekde la 1-a de junio, civitanoj de Argentino, Brazilo, Ĉilio, Peruo kaj Urugvajo povos viziti Ĉinion por negocoj, turismo, familia vizito, interŝanĝoj kaj trafiko, kun maksimuma restado de 30 tagoj. La aldono de tiuj kvin sudamerikaj landoj al la unuflanka senvizpolitiko de Ĉinio estis anoncita tuj post la okazigo de la Kunveno Ĉinio-CELAC (Komunumo de Latin-Amerikaj kaj Karibiaj Ŝtatoj).
 
@@ -1010,17 +1012,17 @@ Verkis: Rafael Henrique Zerbetto
 
 ---
 
-# Grandaj Kanaloj kun spirito de granda homarismo estas kreaĵoj  por realigi interkomuniadon kaj  interligon
+# Grandaj Kanaloj kun spirito de granda homarismo estas kreaĵoj por realigi interkomuniadon kaj interligon
 
 **Published:** 2025-05-30
 
 **URL:** http://esperanto.china.org.cn/2025-05/30/content_117910181.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 En la Dialogointer Pekino kaj Hangzhou pri la Grandkanala Kulturzono okazinta en la 29-a de majo 2025,profesorino Meng Man el la Universitato Minzu de Ĉinio diris:
 
-"Pri niaj grandaj kanaloj -- Suez-kanalo, Panama-kanalo, Pekin-Hangzhou-a Kanalo, ne necesa diskuti pri tio, ke kiu estas pli longa, kiu pli aĝa aŭ kiu havas pli grandan transportkapablon. Ili ĉiuj estas kreaĵoj de la homaro, por realigi interkomuniadon kaj  interligon. Ili spegulas la daŭran klopodon kaj saĝecon de homaro trapasi la naturajn limigojn, kaj enkorpigas la grandan spiriton de la homaro."
+"Pri niaj grandaj kanaloj -- Suez-kanalo, Panama-kanalo, Pekin-Hangzhou-a Kanalo, ne necesa diskuti pri tio, ke kiu estas pli longa, kiu pli aĝa aŭ kiu havas pli grandan transportkapablon. Ili ĉiuj estas kreaĵoj de la homaro, por realigi interkomuniadon kaj interligon. Ili spegulas la daŭran klopodon kaj saĝecon de homaro trapasi la naturajn limigojn, kaj enkorpigas la grandan spiriton de la homaro."
 
 Redaktoro: Gao Shuyuan
 
@@ -1033,7 +1035,7 @@ Redaktoro: Gao Shuyuan
 
 **URL:** http://esperanto.china.org.cn/2025-05/31/content_117903790.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 La Drakboata Festo, Printempa Festo, Qingming-festo kaj Mezaŭtuna Festo estas la kvar gravaj tradiciaj festoj por ĉinoj. Koncerna registro estas trovebla en klasikaĵo antaŭ malpli ol du mil jaroj, sed la festokutimoj aperis multe pli frue.
 
@@ -1051,7 +1053,7 @@ Moroj de la Drakboata Festo
 
 Supremenciite, la kutimoj de antikvuloj kiel pendigi artemiziofoliojn, fari kaj kunporti saketojn, trinki realgaran vinon ktp celas restigi al si sanon kaj eviti malsanojn dum tiu ĉi periodo. Kaj la plej grava ingredienco estas artemizio.
 
-La kutimo pendigi artemiziajn foliojn sur pordoj en Drakboata Festo komencis en la 5-a jarcento p.K., kun la celo forpeli malbonojn. Artemizio havas fortan aromon, ĝiaj folioj, rikoltitaj ĉirkaŭ la festo, havas la plej multan sublimadan oleon kaj evidentan efikon por forpeli insektojn. Do homoj pendigas ilin sur pordon kaj la korpon por refreŝigi sin kaj gardi sin kontraŭ moskitoj. Samtempe, la ago estas formo esprimi la bondeziron, ke homoj estu sanaj. Krom roli kiel speciala ornamaĵo de la festo, artemizio ankaŭ estas sanigilo por homoj en ordinara tempo. Ĝi estas terapia metodo. Oni bruligas sekigitajn artemiziajn foliojn kaj per la varmo stimulas iujn akupunkturajn punktojn aŭ specifajn partojn de la korpo, kaj tiel ĝustigas malordon de homa korpo por resaniĝi aŭ eviti malsanojn.  En la pasinta jardeko, la bonefikoj de moksadaj bastonoj, moksadaj varmigiloj kaj aliaj rilataj produktoj estas jam vaste konataj.
+La kutimo pendigi artemiziajn foliojn sur pordoj en Drakboata Festo komencis en la 5-a jarcento p.K., kun la celo forpeli malbonojn. Artemizio havas fortan aromon, ĝiaj folioj, rikoltitaj ĉirkaŭ la festo, havas la plej multan sublimadan oleon kaj evidentan efikon por forpeli insektojn. Do homoj pendigas ilin sur pordon kaj la korpon por refreŝigi sin kaj gardi sin kontraŭ moskitoj. Samtempe, la ago estas formo esprimi la bondeziron, ke homoj estu sanaj. Krom roli kiel speciala ornamaĵo de la festo, artemizio ankaŭ estas sanigilo por homoj en ordinara tempo. Ĝi estas terapia metodo. Oni bruligas sekigitajn artemiziajn foliojn kaj per la varmo stimulas iujn akupunkturajn punktojn aŭ specifajn partojn de la korpo, kaj tiel ĝustigas malordon de homa korpo por resaniĝi aŭ eviti malsanojn. En la pasinta jardeko, la bonefikoj de moksadaj bastonoj, moksadaj varmigiloj kaj aliaj rilataj produktoj estas jam vaste konataj.
 
 En la lastaj kelkaj jaroj, novaj artemiziaj pordopendaĵoj populariĝis. Fasko da artemiziaj folioj kostas nur kelkajn juanojn, sed aldoninte aliajn freŝajn florojn, la prezo tuj altiĝas kelkoble. Ankaŭ artemiziaj girlandoj estas bone vendataj. Girlando ne estas kutima ornamaĵo sur hejma pordo, sed ĝi estas same bone vendata. tio signifas, ke ĉinaj junuloj ne nur amas la tradician kulturon de la festo entenata en la ornamaĵoj, sed ankaŭ donas al ili novecon per sia propra estetiko, donante al tiu ĉi tradicia festo novan viglecon.
 

@@ -1,6 +1,6 @@
 ---
 source: "Global Voices en Esperanto (eo.globalvoices.org)"
-generated_at: "2026-09-15T22:51:26.368791+00:00"
+generated_at: "2026-09-16T16:23:52.151690+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-07-22 – 2025-07-25"
 ---
@@ -156,9 +156,15 @@ Do, se vi zorgas pri nia kolektiva kapablo kompreni niajn kunhomojn kaj alfronti
 
 Detaloj pri la veturado :
 
-Veturada tempo: Aŭgusto 1-3 Rezervaj datoj kaze de veterado: Aŭgusto 10-12
+Veturada tempo: Aŭgusto 1-3
 
-Itineria plano (nuna skizo): FLX Everest Roam (ĉe Komoot). Gvidaj celoj: Grimpi multajn el la plej belaj kaj ikonecaj vojoj kaj gruzaj montetoj en la areo inter Ithaca NY kaj Watkins Glen, Nov-Jorkio (eo). Minimumigi grimpajn ripetojn
+Rezervaj datoj kaze de veterado: Aŭgusto 10-12
+
+Itineria plano (nuna skizo): FLX Everest Roam (ĉe Komoot). Gvidaj celoj:
+
+Grimpi multajn el la plej belaj kaj ikonecaj vojoj kaj gruzaj montetoj en la areo inter Ithaca NY kaj Watkins Glen, Nov-Jorkio (eo).
+
+Minimumigi grimpajn ripetojn
 
 Distanco: 400 km, 300 mejloj
 

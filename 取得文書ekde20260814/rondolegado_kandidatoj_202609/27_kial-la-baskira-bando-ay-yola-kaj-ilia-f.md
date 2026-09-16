@@ -1,7 +1,5 @@
 Kial la baŝkira bando Ay Yola kaj ilia furoraĵo ‘Homay’ ne plaĉis al kelkaj baŝkiroj
 
-Ekrankopio de YouTube-filmeto de la kanto “Homay” de la baŝkira bando Ay Yola, prenita de la YouTube-kanalo AY YOLA . Justa uzo.
-
 Ĉi tiu artikolo estis originale publikigita en la rusa lingvo la 7-an de aprilo 2025, ĉe Novaya Vkladka, enhavpartnero de Global Voices. Daria Dergacheva tradukis la artikolon, kiu ankaŭ estis redaktita por klareco; ĉi tiu versio estas reeldonita ĉi malsupre kun permeso.
 
 La kanto “Homay“, prezentita en la baŝkira lingvo [eo.wikipedia] de la en Ufa [eo] bazita grupo Ay Yola [eo], amasigis milionojn da interretaj aŭskultoj en nur kelkaj semajnoj kaj grimpis sur la tutmondajn furorlistojn. Dum iuj baŝkiroj ĝojas, ke kanto de loka artisto nun ludas ĉie, aliaj kritikas la ĉefkantistinon Adel Shaikhitdinova pro ŝia rusa akĉento, kies fonetiko igis kelkajn vortojn nekompreneblaj. Ĉi tiu sola kanto ekigis intensan debaton en Baŝkirio [ndltr. oficiale Respubliko Baŝkortostan) pri nacia fiereco kaj identeco.

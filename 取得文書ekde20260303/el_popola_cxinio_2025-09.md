@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-09-15T16:12:44.404955+00:00"
+generated_at: "2026-09-16T16:27:24.612372+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-09-01 – 2025-09-30"
 ---
@@ -12,7 +12,7 @@ time_range: "2025-09-01 – 2025-09-30"
 
 **URL:** http://esperanto.china.org.cn/2025-09/01/content_118046729.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 Okdek jarojn post la dua mondmilito, la homaro denove staras ĉe vojkruciĝo: unuiĝo aŭ dividiĝo, dialogo aŭ antagonismo, kungajno aŭ nula sumo. Subteni la rezultojn de la venko de la dua mondmilito kaj la postmilitan internacian ordon fariĝis ĝenerala konsento.
 
@@ -33,7 +33,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-09/01/content_118053991.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 La 31-an de aŭgusto ĉina prezidanto Xi Jinping diris, ke la Ŝanhaja Kunlabora Organizo (ŜKO) surŝultrigas pli grandajn respondecojn por protekti regionan pacon kaj stabilecon, kaj por akceli disvolviĝon de diversaj landoj en la mondo kun pliiĝantaj necertecoj kaj akcelitaj ŝanĝiĝoj.
 
@@ -52,7 +52,9 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-09/01/content_118054347.htm
 
-**Categories:** Plej Freŝaj
+**Author:** BUI HAI MUNG
+
+**Categories:** Ekonomio
 
 de BUI HAI MUNG
 
@@ -105,7 +107,7 @@ La "riĉiga fungo" de Suizhou estas ne nur ekonomia sukcesa rakonto, sed ankaŭ 
 
 **URL:** http://esperanto.china.org.cn/2025-09/02/content_118053909.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 Lastatempe Rana Mitter, profesoro pri uson-ĉinaj rilatoj ĉe la Kolegio Harvard Kennedy, ricevis intervjuon de raportisto. Li diris, ke la Kontraŭjapana Rezistmilito de Ĉinio estas grava parto de la Monda Kontraŭfaŝisma Milito, kaj la kontribuoj de Ĉinio por la dua mondmilito devas esti pli vaste konata.
 
@@ -124,7 +126,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-09/02/content_118053946.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio, Kulturo,Scienco kaj Sporto
 
 Frumatene de la 20a de aŭgusto, en la ekspozicio pri ludoj en Kölner, Germanio, la teamo Lud-scienco anoncis sian novan verkon Nigra Mito: Zhongkui. Ĝis posttagmezo de tiu tago la anonc-filmeto jam estis vidita por 7.65 milionoj da fojoj sur ĉinaj vide-platformoj kun pli ol 50 miloj da komentoj. La temo rapide okupis la unuan lokon en la listo pri plej multe diskutataj temoj en la interreto.
 
@@ -145,7 +147,7 @@ Redaktoro: Liu Zijia
 
 **URL:** http://esperanto.china.org.cn/2025-09/03/content_118058957.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 La 3-an de septembro okazis grandioza ceremonio memorfeste al la 80-a datreveno de la venko en la Ĉina Popola Rezistmilito kontraŭ Japana Agreso kaj la Monda Kontraŭfaŝisma Milito. En la ceremonio ĉina prezidanto Xi Jinping faris gravan paroladon.
 
@@ -166,7 +168,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-09/03/content_118058964.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 Ĉina prezidanto Xi Jinping revuis milittrupojn en Pekino dum la militista parado celebre al la 80-a datreveno de la venko en la Ĉina Popola Rezistmilito kontraŭ Japana Agreso kaj la Monda Kontraŭfaŝisma Milito, la 3-an de septembro.
 
@@ -185,7 +187,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-09/03/content_118059310.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 Ni estas multe impresitaj de la militista parado en Pekino. En la parolado de ĉina prezidanto Xi Jinping, lia voko memori la pasintecon kaj krei pli bonan estontecon kuraĝigas nin.
 
@@ -222,7 +224,7 @@ Projektita de Chen Ji
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 La muzeo pri antikvaj heredaĵoj konstruita sur la antikva sidejo de Luxian estis inaŭgurita en junio ĉi-jare en Tongzhou-distrikto de Pekino. En la loko, kie nun troviĝas la muzeo, okazis arkeologia elfosado inter septembro kaj decembro 2020, sur areo de 3 500 kvadrataj metroj. Rezulte de tiu elfosado, 408 ruinaĵoj -- datitaj de Okcidenta Han-dinastio (206 a.K.-25) ĝis Qing-dinastio (1616-1911) -- estis rivelitaj.
 
@@ -251,7 +253,7 @@ Raportis kaj fotis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2025-09/04/content_118058354.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Kulturo,Scienco kaj Sporto
 
 Kiam brita historiisto Richard Overy verkis pri la dua mondmilito el nova perspektivo, li konsciiĝis ke, pri tiu ĉi temo, delonge lia koncepto estis regata de ampleksaj raportoj kaj eŭropaj kaj amerikaj interpretoj, kiuj longe formis historiografion.
 
@@ -278,7 +280,9 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-09/04/content_118059411.htm
 
-**Categories:** Plej Freŝaj
+**Author:** BUI HAI MUNG
+
+**Categories:** Socia Vivo
 
 de BUI HAI MUNG
 
@@ -335,7 +339,7 @@ Rigardi reen al la pasinteco por kune iri al pli hela estonteco -- jen la inform
 
 **URL:** http://esperanto.china.org.cn/2025-09/04/content_118061293.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 Ĉina gvidanto memorigas nin, ke la mondo estas sur la rando de novaj defioj de grandskalaj militoj.
 
@@ -362,7 +366,7 @@ Tiu ĉi parado montris la gravecon por ŝtato havi potencan kaj modernan armeon 
 
 **URL:** http://esperanto.china.org.cn/2025-09/04/content_118061344.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 Ni deziras ĉion plej bonan al la ĉina popolo por la 80-a datreveno de la venko kontraŭ la japana imperiismo kaj faŝismo.
 
@@ -391,7 +395,7 @@ Projektita de Chen Ji
 
 **URL:** http://esperanto.china.org.cn/2025-09/04/content_118061444.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 Kiel malfacile estis gajni pacon, kaj kiom alta prezo estis pagita por paca vivo!
 
@@ -426,7 +430,7 @@ Projektita de Chen Ji
 
 **URL:** http://esperanto.china.org.cn/2025-09/04/content_118061507.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 Okaze de la 80-a datreveno de la venko en la Ĉina Popola Rezistmilito kontraŭ Japana Agreso kaj la Monda Kontraŭfaŝisma Milito, mi deziras aliĝi kun respekto kaj admiro al la memoro de tiuj, kiuj oferis sian vivon por la paco kaj digno de la popoloj.
 
@@ -453,7 +457,7 @@ En ĉi tiu tre signifa momento en la historio de la popoloj de la mondo, mi espr
 
 **URL:** http://esperanto.china.org.cn/2025-09/05/content_118045385.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Naturo kaj Mediprotekto
 
 Kiel aparta specio de orienta Azio, ruĝa ibiso estas laŭdata kiel orienta gemo. Oni kredas, ke tia birdo portas bonaŭguron. Antaŭe ĝi estis trovebla en Ĉinio, la Korea Duoninsulo, Japanio kaj la fora oriento de Rusio.
 
@@ -486,7 +490,9 @@ Redaktoro: Gao Shuyuan
 
 **URL:** http://esperanto.china.org.cn/2025-09/05/content_118062703.htm
 
-**Categories:** Plej Freŝaj
+**Author:** BUI HAI MUNG
+
+**Categories:** Socia Vivo, Ekonomio
 
 de BUI HAI MUNG
 
@@ -555,7 +561,7 @@ El la koro de Danjiangkou, la akvo ne nur fluas al Pekino aŭ Tianjin, sed anka�
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio
 
 Kiam mi transloĝiĝis al Ĉinio en 2015, malmultaj loĝantoj havis hundojn aŭ katojn hejme. Kion mi foje vidis estis emerituloj promenantaj kun siaj birdoj en kaĝo. Ĉe la angulo proksime al mia loĝejo, ili renkontiĝis kaj pasigis horojn ludante maĝongon. La birdoj, en siaj kaĝoj sur flanka tablo, restis rigardantaj siajn mastrojn ludi.
 
@@ -632,7 +638,7 @@ Verkis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2025-09/08/content_118061280.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 Situanta en la nordokcidenta parto de la Centra Verda Arbarparko en la distrikto Tongzhou de Pekino, ĉi tiu konstruaĵo estis desegnita laŭ la koncepto "kultura grenejo", inspirite de antikvaj grenejoj kaj kanalveloj. Ĝi konsistas el tri apartaj konstruaĵoj, enhavantaj kvar internajn teatrejojn, nome operejo, koncertejo, dramteatrejo kaj malgranda teatrejo, kaj unu subĉiela teatrejo. Ĝia fasado montras metalajn panelojn interplektitajn kun vitraj kurtenmuroj, elvokante la bildon de malvolviĝanta teatra kurteno. Nokte lumigo kaj projekciado plifortigas ĝian distingan teatrejan etoson.
 
@@ -653,7 +659,9 @@ Fonto: Beijing Service
 
 **URL:** http://esperanto.china.org.cn/2025-09/09/content_118068508.htm
 
-**Categories:** Plej Freŝaj
+**Author:** BUI HAI MUNG
+
+**Categories:** Ekonomio
 
 de BUI HAI MUNG
 
@@ -692,7 +700,7 @@ La plano transloki produktadon el Ĉinio jam ne estas ununura vojo, sed fariĝis
 
 **URL:** http://esperanto.china.org.cn/2025-09/09/content_118069093.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 Ĉina prezidanto Xi Jinping alvokis la BRICS-landojn kundefendi multflankismon kaj la multflankan komercan sistemon dum la virtuala BRICS-pintkunveno en Pekino la 8-an de septembro.
 
@@ -713,7 +721,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-09/10/content_118069086.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 Brita Komerca Sendito al Ĉinio Lewis Neal ĉeestis la gazetaran konferencon por la 25-a Ĉina Internacia Foiro por Investo kaj Komerco posttagmeze de la 6-a de septembro por partopreni serion da aktivadoj.
 
@@ -734,7 +742,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-09/10/content_118069126.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 Ĉina prezidanto Xi Jinping sendis gratulmesaĝon al la 25-a Ĉina Internacia Foiro por Investo kaj Komerco en la 8-a de septembro, kiam la foiro malfermiĝis en Xiamen de la provinco Fujian.
 
@@ -755,7 +763,9 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-09/11/content_118071455.htm
 
-**Categories:** Plej Freŝaj
+**Author:** Jevgenij Borjun
+
+**Categories:** E-movado, E-novaĵoj
 
 de Jevgenij Borjun
 
@@ -782,7 +792,7 @@ En la Rusia Esperanta Tago, oni prezentis la novan programon de la unio. Jevgeni
 
 **Author:** Bui Hai Mung
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 Ĉiuj scias, ke Novjorko estas la financa centro de Usono, kaj Londono estas la financa centro de Britio. Do, ĉu vi scias, kie estas la financa centro de Ĉinio?
 
@@ -848,7 +858,7 @@ Alia ŝlosila punkto en la perspektivo estas krei verdan, inteligentan kaj loĝi
 
 Ekzemplo por la mondo
 
-Kiel eksterlanda  ĵurnalisto, je mia unua vizito al Lujiazui mi estis mirigita de la scenaro: La rivero Huangpu brile reflektas la lumojn de la nubskrapuloj. Ĉiu konstruaĵo ne nur estas arkitektura verko, sed ankaŭ viva atesto pri la miriga leviĝo de la areo, kiu antaŭ malpli ol kvar jardekoj estis simple aluvia tero. Sed kio restas en mia kapo ne estas nur la moderna ekstero, sed la sento pri kompleta ekosistemo: Loko, kie tutmondaj entreprenoj, oficejaj laboristoj, lokaj administrantoj kaj komunumoj kunekzistas harmonie. Por mi, Lujiazui estas kaj financa centro, kaj simbolo de la aspiro de Ĉinio en la 21-a jarcento.
+Kiel eksterlanda ĵurnalisto, je mia unua vizito al Lujiazui mi estis mirigita de la scenaro: La rivero Huangpu brile reflektas la lumojn de la nubskrapuloj. Ĉiu konstruaĵo ne nur estas arkitektura verko, sed ankaŭ viva atesto pri la miriga leviĝo de la areo, kiu antaŭ malpli ol kvar jardekoj estis simple aluvia tero. Sed kio restas en mia kapo ne estas nur la moderna ekstero, sed la sento pri kompleta ekosistemo: Loko, kie tutmondaj entreprenoj, oficejaj laboristoj, lokaj administrantoj kaj komunumoj kunekzistas harmonie. Por mi, Lujiazui estas kaj financa centro, kaj simbolo de la aspiro de Ĉinio en la 21-a jarcento.
 
 La rakonto de Lujiazui alportas multajn valorajn spertojn al landoj, kiuj celas krei modernajn financajn centrojn. Unue, la sukceso montras, ke la strategia perspektivo de la registaro estas decida. Ligi Lujiazui kun naciaj projektoj kiel la Libera Komerca Zono, reformaj pilot-programoj aŭ strategio de ampleksa novigo donis solidan fundamenton por disvolvado. Due, Lujiazui pruvas, ke financa centro ne povas baziĝi nur sur kapital-fluoj, sed devas havi ekosistemon. Preskaŭ 50 000 entreprenoj de financo, mara transporto, profesiaj servoj ĝis internacia komerco kreis "arbaron", kie ĉiu elemento subtenas la alian. Ĉi tiu modelo estas referenco por aliaj landoj, kiuj volas konstrui daŭrigeblajn financajn areojn. Trie, la homa faktoro kaj kulturo estas ŝlosilaj. Altiri dekmilojn da internaciaj fakuloj, krei malferman kaj diversan viv- kaj labor-mediojn faris Lujiazui lokon, kie talentoj volas resti longtempe. Aliaj landoj povas lerni de la maniero, kiel Ŝanhajo ne nur konstruis turojn sed ankaŭ konstruis komunumon. Fine, la plej grava estas: Ekonomia disvolvado kaj plibonigo de vivkvalito ne estas kontraŭaj. Male, se saĝe kombinitaj, tiuj du faktoroj helpas unu la alian, kreante daŭrigeblan disvolvan ciklon.
 
@@ -867,7 +877,7 @@ Verkis: Bui Hai Mung
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 "Hodiaŭ ni kunvenas ĉi tie por solene rememori la 80-an datrevenon de la venko en la Ĉina Popola Rezistmilito kontraŭ Japana Agreso kaj la Monda Kontraŭfaŝisma Milito, por rememori la historion, omaĝi la falintajn heroojn, aprezi la pacon kaj krei brilan estontecon." Tiuj vortoj estis eldiritaj de ĉina prezidanto Xi Jinping dum sia parolado en Tian'anmen la 3-an de ĉi tiu monato, ĵus antaŭ la milita parado, kies simbola valoro evidentigis diversajn gravajn temojn de nia epoko.
 
@@ -934,7 +944,9 @@ Verkis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2025-09/12/content_118075438.htm
 
-**Categories:** Plej Freŝaj
+**Author:** BUI HAI MUNG
+
+**Categories:** Socia Vivo
 
 de BUI HAI MUNG
 
@@ -973,7 +985,7 @@ Per konstanta novigo, de inteligenta dogano ĝis aŭtomata impost-repago kaj mod
 
 **URL:** http://esperanto.china.org.cn/2025-09/12/content_118075884.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 La 12-an de septembro la 2-a Premio de Ora Granda Pando, kunaranĝita de la Ĉina Federacio de Literaturaj kaj Artaj Rondoj kaj la registaro de la provinco Sichuan, oficiale malfermiĝis en Chengdu, ĉefurbo de la provinco.
 
@@ -994,7 +1006,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio
 
 Vizito al Chengdu antaŭ nelonge donis al mi la okazon unuafoje vojaĝi per la ĵetaviadilo COMAC C919, sendepende evoluigita de Ĉinio por konkuri kun Boeing kaj Airbus en la kategorio de mallarĝ-korpusaj aviadiloj.
 
@@ -1049,7 +1061,9 @@ Verkis kaj fotis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2025-09/18/content_118085620.htm
 
-**Categories:** Plej Freŝaj
+**Author:** BUI HAI MUNG
+
+**Categories:** Socia Vivo, Ekonomio
 
 de BUI HAI MUNG
 
@@ -1131,7 +1145,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 Konstruita en 1958 oriente de la altgranda Kaiyuan-templo en la okcidenta parto de la Antikva Urbo Jingzhou, Jingzhou-a Muzeo nun estas nacia 4A-nivela turismejo, kiu kunligas ekspoziciojn, diskonigon kaj edukadon, konservadon de antikvaĵoj, protektadon kaj evoluon de la antikva urbo, arkeologian elfosadon kaj esploradon, konstruadon de arkeologia parko ktp. Kiel unu el la unuaj naciaj unuaklasaj muzeoj kaj publikaj institucioj, ĝi estas arta palaco de chu-kulturo kaj bela montrofenestro de la Antikva Urbo Jingzhou.
 
@@ -1162,7 +1176,7 @@ Raportis kaj fotis: Rafael Henrique Zerbetto
 
 **Author:** Bui Hai Mung
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 Infana mondo en la koro de Ŝanhajo
 
@@ -1172,7 +1186,7 @@ Lego-homsimbolo en Lego-parko de Ŝanhajo
 
 La ĉinaj fragmentoj en la Lego-mondo
 
-La unua loko, kie mi vizitis, estas la areo Monkie Kid.  Ĝi estas la plej klara ekzemplo de tia "lokigo" en kreado. Sun Wukong -- popola rolulo tre konata de ĉinoj -- aperas ne nur kiel kultura simbolo, sed ankaŭ kiel gvidanto de interagaj spertoj: Pupteatro, scenejoj, spektakloj kun teknologio, kaj kunaj agadoj por familioj. Ne plu nur rakonto por legi, Monkie Kid transformiĝas en ilo por edukado kaj amuziĝo: Infanoj lernas pri kunlaboro, teamspirito kaj kuraĝo pere de praktikaj spertoj.
+La unua loko, kie mi vizitis, estas la areo Monkie Kid. Ĝi estas la plej klara ekzemplo de tia "lokigo" en kreado. Sun Wukong -- popola rolulo tre konata de ĉinoj -- aperas ne nur kiel kultura simbolo, sed ankaŭ kiel gvidanto de interagaj spertoj: Pupteatro, scenejoj, spektakloj kun teknologio, kaj kunaj agadoj por familioj. Ne plu nur rakonto por legi, Monkie Kid transformiĝas en ilo por edukado kaj amuziĝo: Infanoj lernas pri kunlaboro, teamspirito kaj kuraĝo pere de praktikaj spertoj.
 
 Sun Wukong kun Ruyi-bastono
 
@@ -1233,7 +1247,7 @@ Verkis kaj fotis Bui Hai Mung
 
 **URL:** http://esperanto.china.org.cn/2025-09/23/content_118093396.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Vojaĝo tra Ĉinio
 
 Ĉi-jare estas la 70-a datreveno de la fondiĝo de Xinjiang-a Ujgura Aŭtonoma Regiono. Dum la pasintaj 70 jaroj, en Xinjiang okazis grandaj ŝanĝiĝoj. Kiam la regiono estis fondita en 1955, ĝia produktado estis nur 1 231 miliardoj da juanoj, kaj en 2024 ĝi superis 2 duilionojn da juanoj. Hodiaŭ, la popola bonfarto en Xinjiang daŭre pliboniĝas, kaj ĉiuj aferoj kiel dungado, edukado, sanaj servoj kaj socia asekuro disvolviĝas ĝenerale.
 
@@ -1252,7 +1266,9 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-09/24/content_118095289.htm
 
-**Categories:** Plej Freŝaj
+**Author:** Shi Hongxia
+
+**Categories:** Ekonomio, Naturo kaj Mediprotekto
 
 de Shi Hongxia
 
@@ -1277,7 +1293,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-09/24/content_118095313.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 Posttagmeze de la 23-a de septembro Xi Jinping, ĝenerala sekretario de la Centra Komitato de la Komunista Partio de Ĉinio, ĉina prezidanto kaj prezidanto de la Centra Milita Komisiono, vizitis reprezentantojn de diversaj etnogrupoj de Xinjiang-a Ujgura Aŭtonoma Regiono kaj esprimis sincerajn salutojn kaj bondezirojn al diversetnaj popolanoj de Xinjiang nome de la Centra Komitato de la Komunista Partio de Ĉinio, dezirante, ke ĉiuj solidarece klopodu por pli bone konstrui belan Xinjiang dum la ĉina modernigo.
 
@@ -1296,7 +1312,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-09/24/content_118095339.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 Posttagmeze de la 23-a de septembro, Xi Jinping, ĝenerala sekretario de la Centra Komitato de la Komunista Partio de Ĉinio, ĉina prezidanto kaj prezidanto de la Centra Milita Komisiono, atingis Urumĉion per speciala aviadilo por ĉeesti la festajn eventojn memore al la 70-a datreveno de fondiĝo de la Xinjiang-a Ujgura Aŭtonoma Regiono. Xi Jinping kaj la delegacio estis varme bonvenigataj de diversetnaj popolamasoj de Xinjiang en la flughaveno.
 
@@ -1313,7 +1329,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-09/25/content_118097213.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 La 24-an de septembro Xi Jinping, ĝenerala sekretario de la Centra Komitato de la Komunista Partio de Ĉinio, ĉina prezidanto kaj ankaŭ prezidanto de la Centra Milita Komisiono, aŭskultis la laboran raporton de la partia komitato kaj la registaro de la Xinjiang-a Ujgura Aŭtonoma Regiono. Xi Jinping emfazis, ke Xinjiang devas plene kaj precize praktiki la partian strategion por la regado en nova epoko, persisti pri stabila progreso, ekvilibrigi disvolviĝon kaj sekurecon, firme teni la ĝeneralan celon de socia stabileco kaj longdaŭra paco kaj sekureco, daŭrigi plifortigon de la konscio de komunumo de la ĉina nacio kaj antaŭenigi la konstruadon de la komunumo, ankriĝi je la "kvin strategiaj pozicioj" asignitaj de la centra registaro, kunigi fortojn kaj insiste persistadi, klopodi por konstrui socialisman modernigitan Xinjiang, kiu estas unueca kaj harmonia, prospera kaj riĉa, civilizacie progresinta, kie la homoj vivas feliĉe kaj en bona ekologia medio.
 
@@ -1332,7 +1348,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-09/25/content_118097214.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 Antaŭtagmeze de la 24-a de septembro Xi Jinping, ĝenerala sekretario de la Centra Komitato de la Komunista Partio de Ĉinio, ĉina prezidanto kaj prezidanto de la Centra Milita Komisiono, vizitis la ekspozicion pri atingoj de la 70-jara datreveno de fondiĝo de la Xinjiang-a Ujgura Aŭtonoma Regiono en la Urumĉia Kultura Centro.
 
@@ -1351,7 +1367,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-09/25/content_118097288.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 Antaŭtagmeze de la 25-a de septembro Xi Jinping, ĝenerala sekretario de la Centra Komitato de la Komunista Partio de Ĉinio, ĉina prezidanto kaj ankaŭ prezidanto de la Centra Milita Komisiono, ĉeestis la festan ceremonion por la 70-a datreveno de fondiĝo de Xinjiang-a Ujgura Aŭtonoma Regiono. Li ĉeestis kune kun reprezentantoj de diversaj etnoj, rondoj kaj popolamasoj. La partoprenantoj varme celebris la datrevenon.
 
@@ -1370,7 +1386,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Naturo kaj Mediprotekto, Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 Kadre de la programo GYLD (Tutmonda Dialogo de Junaj Gvidantoj), lanĉita en 2020 kiel platformo por interŝanĝoj inter la junularoj de Ĉinio kaj aliaj landoj, estis nova evento nomita Jangzia Turneo de GYLD, kun la celo liveri al gejunuloj de la tuta mondo la ŝancon konatiĝi kun la kulturo kaj historio de jangzia baseno.
 
@@ -1433,7 +1449,7 @@ Raportis kaj fotis: Rafael Henrique Zerbetto
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 Chu-regno (1030-223 a.K.) estis potenca kaj kulture distinga regno ĉe la meza kaj suba fluoj de Jangzio, konata pro siaj misteraj kaj florkreskaj artaj formoj, kiuj influis ankaŭ ĝiajn vestaĵojn.
 
@@ -1496,7 +1512,7 @@ Fonto: 人民网
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Naturo kaj Mediprotekto
 
 La Nacia Naturrezervejo por Jangzi Delfeno en Tian'e-zhou troviĝas en la urbo Shishou de la provinco Hubei en la meza fluo de Jangzio en Ĉinio. En 1992, ĝi estis oficiale establita per la aprobo de la Ŝtata Konsilio, fariĝante la unua naturrezervejo en la mondo por la transloka protektado de jangziaj delfenoj. En 2006 la provinca instituci-aranĝa komitato de Hubei aprobis ĝin kiel institucion de la ĉefa oficeja nivelo, sub rekta administrado de la Buĝeto de Akvaj Produktoj de Hubei. En 2019 ĝi transdoniĝis al la Buĝeto de Forstado de Hubei.
 
@@ -1529,7 +1545,7 @@ Raportis: Rafael Henrique Zerbetto
 
 **Author:** Bui Hai Mung
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio
 
 Ĉu en la brilega metropolo Ŝanhajo aŭ en malproksima vilaĝo de Gansu-provinco, la kontanta monujo fariĝis unu el la plej facile forgeseblaj aĵoj? La agoj elpreni biletojn, kalkuli monon aŭ atendi restmonon jam fremdiĝis por cent milionoj da ĉinoj. Anstataŭe, unu simpla ago sufiĉas: Malfermi la aplikaĵon, skani QR-kodon, kaj la transakcio finiĝas en nur kelkaj sekundoj.
 
@@ -1551,7 +1567,7 @@ En la interno de la super-aplikaĵoj -- La konkero de pagoj ĝis financaj imperi
 
 La sukceso de QR-pagoj estis nur la komenca paŝo. Alipay kaj WeChat Pay rapide rimarkis, ke la elektronika monujo tro mallarĝas por iliaj ambicioj. Ili volis fariĝi la mini-financaj sistemoj de ĉiu civitano.
 
-Alipay, ekde sia origino kiel sekureca ilo por retkomerco, elektis la vojon transformiĝi al mini-financa centro. La plej strategia paŝo estis la lanĉo de Yu'ebao en 2013. Esence, temis pri monfonduso kun tre simpla mesaĝo: "Via neuzata mono en Alipay aŭtomate produktos profiton." La sukceso kuŝis en solvo de antikva paradokso: Uzantoj volis, ke ilia mono generu profitojn, sed ankaŭ restu tuje uzebla por elspezoj. Yu'ebao forigis tiun baron. Ene de malpli ol unu jaro ĝi fariĝis la plej granda monfonduso en la mondo,  atingante ĉe sia pinto 1.69 mil miliardojn da juanoj (ĉirkaŭ 268 miliardoj da usonaj dolaroj), allogante cent milionojn da malgrandaj investantoj, al kiuj la tradicia bank-sistemo neniam povas aliri. La plej alta interezo ĉe sia pinto atingis ĝis 5-6%, kaj nun restas nur ĉirkaŭ 1.25-2%. De tie, Alipay senĉese grandigis siajn limojn. Ant Huabei ebligis "aĉeti nun, pagi poste", funkcianta kiel virtuala kreditkarto por la juna generacio; servoj pri asekuro, investado eĉ rezervoj de kuracaj vizitoj aŭ pagoj de trafikaj monpunoj estis integritaj. Alipay jam ne estas nur monujo, ĝi estas cifereca banko, publika serv-oficejo kaj aktiv-administranto -- ĉio en unu sola aplikaĵo.
+Alipay, ekde sia origino kiel sekureca ilo por retkomerco, elektis la vojon transformiĝi al mini-financa centro. La plej strategia paŝo estis la lanĉo de Yu'ebao en 2013. Esence, temis pri monfonduso kun tre simpla mesaĝo: "Via neuzata mono en Alipay aŭtomate produktos profiton." La sukceso kuŝis en solvo de antikva paradokso: Uzantoj volis, ke ilia mono generu profitojn, sed ankaŭ restu tuje uzebla por elspezoj. Yu'ebao forigis tiun baron. Ene de malpli ol unu jaro ĝi fariĝis la plej granda monfonduso en la mondo, atingante ĉe sia pinto 1.69 mil miliardojn da juanoj (ĉirkaŭ 268 miliardoj da usonaj dolaroj), allogante cent milionojn da malgrandaj investantoj, al kiuj la tradicia bank-sistemo neniam povas aliri. La plej alta interezo ĉe sia pinto atingis ĝis 5-6%, kaj nun restas nur ĉirkaŭ 1.25-2%. De tie, Alipay senĉese grandigis siajn limojn. Ant Huabei ebligis "aĉeti nun, pagi poste", funkcianta kiel virtuala kreditkarto por la juna generacio; servoj pri asekuro, investado eĉ rezervoj de kuracaj vizitoj aŭ pagoj de trafikaj monpunoj estis integritaj. Alipay jam ne estas nur monujo, ĝi estas cifereca banko, publika serv-oficejo kaj aktiv-administranto -- ĉio en unu sola aplikaĵo.
 
 Dume, WeChat Pay elektis alian vojon, konstruante sur sia ĉefa forto: Socia konektiteco. Se Alipay fariĝis financa centro, WeChat Pay estas la sanga cirkulado de la cifereca korpo de WeChat. WeChat, antaŭ ĉio, estas super-aplikaĵo socia. Laŭ statistiko de la unua trimestro 2025, la monataj aktivaj uzantoj de WeChat Pay atingis 1.47 miliardojn tutmonde, dum la patrina firmao de Alipay, Ant Group, raportis 1.04 miliardojn. Uzantoj malfermas WeChat mezume 21.3 fojojn tage, kompare kun nur 5.7 fojoj por Alipay. La integriĝo estas tiel profunda, ke homoj apenaŭ rimarkas, kiam ili ŝanĝas inter babilado kaj pago. WeChat preskaŭ ĉiam funkcias en la fono de la telefono; do dum aĉetado, estas plej nature pagi per ĝi.
 
@@ -1594,7 +1610,7 @@ Verkis: Bui Hai Mung
 
 **URL:** http://esperanto.china.org.cn/2025-09/30/content_118104142.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 En la Interna Mongolio de Ĉinio, aŭtuno komencis ori herbejon, arbaron kaj sekve la tutan regionon.
 
@@ -1609,7 +1625,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-09/30/content_118106554.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 En la 30-a de septembro sur Tian'anmen-placo de Pekino Xi Jinping kaj aliaj gvidantoj de la Komunista Partio de Ĉinio, kune kun reprezentantoj el diversaj rondoj de la socio, prezentis florkorbojn al forpasintaj naciaj herooj.
 

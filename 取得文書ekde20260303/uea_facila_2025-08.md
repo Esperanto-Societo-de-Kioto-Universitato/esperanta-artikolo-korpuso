@@ -1,6 +1,6 @@
 ---
 source: "UEA Facila (uea.facila.org)"
-generated_at: "2026-09-15T16:17:07.073944+00:00"
+generated_at: "2026-09-16T16:26:31.623647+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-08-03 – 2025-08-26"
 ---
@@ -181,6 +181,19 @@ registriĝi: en-skribiĝi.
 sidejo: ĉefa oficejo de organizaĵo.
 
 signo-lingvo: lingvo uzata de neaŭdantoj, kiuj interparolas ne per vortoj, sed per movoj de la manoj, brakoj kaj vizaĝo.
+
+
+---
+
+# La lasta somero - Martin & la talpoj
+
+**Published:** 2025-08-23
+
+**URL:** https://uea.facila.org/filmetoj/la-lasta-somero-martin-la-talpoj-r360
+
+**Categories:** Filmetoj
+
+[Embed] https://www.youtube.com/embed/dT7BJiMNGJ8?width=100%25&height=86.25
 
 
 ---

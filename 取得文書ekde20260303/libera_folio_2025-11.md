@@ -1,6 +1,6 @@
 ---
 source: "Libera Folio (liberafolio.org)"
-generated_at: "2026-09-15T16:17:07.937986+00:00"
+generated_at: "2026-09-16T16:23:46.869455+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-11-04 – 2025-11-30"
 ---
@@ -251,7 +251,9 @@ La ”malnovaj” lingvoj de DeepL estas traktataj per klasika komputada modelo 
 
 Ĉiuokaze la kvalito de aŭtomataj tradukoj el kaj al Esperanto enorme evoluis dum la pasinta jardeko. Ni prenu la anglalingvan originalon, kiun ni uzis en 2012, kaj komparu.
 
-Originala teksto en la angla: BUENOS AIRES, February 22, 2012 (AFP) – Around 340 people were injured, some of them seriously, Wednesday when a train derailed and struck a railway station platform in Buenos Aires, transport and health officials said. Around a dozen ambulances were sent to the accident in the west of the Argentine capital to treat those hurt, said Alberto Crescenti, a senior city official. Transportation Secretary Juan Pablo Schiavi gave the toll and said many of the passengers were badly injured, including some with multiple fractures and abrasions, adding that “there could be fatalities” among the casualties. Traduko de Google en 2012: Bonaero, februaro 22, 2012 (AFP) – Ĉirkaŭ 340 homoj estis vunditaj, kelkaj el ili serioze, merkredo kiam trajno elreliĝis kaj frapis fervoja stacidomo kajo en Buenos Aires, transporto kaj sano respondeculoj diris. Ĉirkaŭ dekduo ambulancoj estis senditaj al la akcidento en la okcidento de la argentina ĉefurbo trakti tiujn malfelicxan, diris Alberto Crescenti, altranga urbo oficiala. Transporto Sekretario Johano Paŭlo Schiavi donis la paspago kaj diris multajn el la pasaĝeroj estis grave vunditaj, inkludante iuj kun multnombraj frakturoj kaj abrasions, aldonante ke ”ne povis esti viktimoj” inter la viktimoj.
+Originala teksto en la angla: BUENOS AIRES, February 22, 2012 (AFP) – Around 340 people were injured, some of them seriously, Wednesday when a train derailed and struck a railway station platform in Buenos Aires, transport and health officials said. Around a dozen ambulances were sent to the accident in the west of the Argentine capital to treat those hurt, said Alberto Crescenti, a senior city official. Transportation Secretary Juan Pablo Schiavi gave the toll and said many of the passengers were badly injured, including some with multiple fractures and abrasions, adding that “there could be fatalities” among the casualties.
+
+Traduko de Google en 2012: Bonaero, februaro 22, 2012 (AFP) – Ĉirkaŭ 340 homoj estis vunditaj, kelkaj el ili serioze, merkredo kiam trajno elreliĝis kaj frapis fervoja stacidomo kajo en Buenos Aires, transporto kaj sano respondeculoj diris. Ĉirkaŭ dekduo ambulancoj estis senditaj al la akcidento en la okcidento de la argentina ĉefurbo trakti tiujn malfelicxan, diris Alberto Crescenti, altranga urbo oficiala. Transporto Sekretario Johano Paŭlo Schiavi donis la paspago kaj diris multajn el la pasaĝeroj estis grave vunditaj, inkludante iuj kun multnombraj frakturoj kaj abrasions, aldonante ke ”ne povis esti viktimoj” inter la viktimoj.
 
 Kvankam la teksto estas ĝenerale komprenebla, tuj evidentas pluraj fuŝoj, plej rimarkinde eble ”tiujn malfelicxan”, eĉ kun ikso, anstataŭ ”la vunditojn”, kaj ”ne povis esti viktimoj inter la viktimoj” anstataŭ ”povis esti mortintoj inter la viktimoj”. La nuna versio de la Google-tradukilo multe pli bone elturniĝas pri la sama teksto.
 
@@ -290,7 +292,7 @@ Jaŭde la 27-an de novembro 2025 Rob Moerbeek, unu el la plej konataj vizaĝoj d
 
 Li elektis studi klasikajn lingvojn, instruate de docentoj kiuj inspiris lin pri la malnovgreka, la latina kaj la antikva historio. Dum sia instruista periodo (1963–1969) li aniĝis en 1966 al Federacio de Laboristaj Esperantistoj (FLE) en Nederlando kaj al Universala Esperanto-Asocio (UEA).
 
-Post somera volontulado li estis dungi­ta en 1969 kiel oficisto en la Roterdama centra oficejo de UEA, de la direktoro Victor Sadler. Dum 32 jaroj li respondecis pri la sendo de libroj kaj revuoj, zorgis pri la kolekto de Biblioteko Hector Hodler kaj pri la arkivo.
+Post somera volontulado li estis dungita en 1969 kiel oficisto en la Roterdama centra oficejo de UEA, de la direktoro Victor Sadler. Dum 32 jaroj li respondecis pri la sendo de libroj kaj revuoj, zorgis pri la kolekto de Biblioteko Hector Hodler kaj pri la arkivo.
 
 Krome li estis konata kiel la ĉefprovleganto de la tuta movado: li korektis interalie la revuojn Esperanto, Monato, Internacia Pedagogia Revuo, Scienca Revuo, Fenikso (de Esperanto Nederland), Esperantista Vegetarano kaj La kontakto (la revuo de la nederlandaj blindulaj esperantistoj). Li estis provleganto ankaŭ por ĉiuj libroj kaj broŝuroj de UEA.
 

@@ -1,6 +1,6 @@
 ---
 source: "Libera Folio (liberafolio.org)"
-generated_at: "2026-09-15T16:02:39.004463+00:00"
+generated_at: "2026-09-16T16:23:46.878251+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-02-03 – 2026-02-27"
 ---
@@ -134,7 +134,13 @@ Respondante al Epstein, Noam Chomsky rakontas, ke la demando de la komputistoj m
 
 Septembro 6, 2015 je 20.12
 
-Okupata semajno, multaj prelegoj. Plej bona tempo por ni estus la 16-a. Havos prelegon en Harvard tagmeze, sed libera poste. Via komputilisto memorigas min pri la unua fojo, kiam mi renkontis Carnap. Li ne povis kompreni, kial homoj parolas lingvojn, kun ties ĉiuj neregulaĵoj kaj komplekseco. Kial ne ĉiuj simple parolas Esperanton (kiu, kvankam li ne rimarkis tion, uzas ordinaran latinidan gramatikon kun tre malgrandaj ŝanĝoj)? Aŭ pli bone, kial ni ne ĉiuj parolas predikatan kalkulon? Frege, Tarski, kaj aliaj same pensis, ke homa lingvo ne valoras studon. Oni eĉ povas konstrui paradoksojn en ĝi. Granda devio de la riĉa tradicio, kiu en la moderna periodo devenas de Galileo kaj la granduloj de la moderna scienco. Noam
+Okupata semajno, multaj prelegoj. Plej bona tempo por ni estus la 16-a. Havos prelegon en Harvard tagmeze, sed libera poste.
+
+Via komputilisto memorigas min pri la unua fojo, kiam mi renkontis Carnap. Li ne povis kompreni, kial homoj parolas lingvojn, kun ties ĉiuj neregulaĵoj kaj komplekseco. Kial ne ĉiuj simple parolas Esperanton (kiu, kvankam li ne rimarkis tion, uzas ordinaran latinidan gramatikon kun tre malgrandaj ŝanĝoj)? Aŭ pli bone, kial ni ne ĉiuj parolas predikatan kalkulon?
+
+Frege, Tarski, kaj aliaj same pensis, ke homa lingvo ne valoras studon. Oni eĉ povas konstrui paradoksojn en ĝi. Granda devio de la riĉa tradicio, kiu en la moderna periodo devenas de Galileo kaj la granduloj de la moderna scienco.
+
+Noam
 
 Probal Dasgupta, lingvisto kaj antaŭa prezidanto de UEA, kredas ke ĝuste la interrilatado kun Rudolf Carnap kaŭzis la skeptikan sintenon al Esperanto. Laŭ li Chomsky ofte diris similajn aferojn pri Carnap.
 

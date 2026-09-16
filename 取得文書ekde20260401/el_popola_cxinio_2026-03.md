@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-09-15T16:12:44.449356+00:00"
+generated_at: "2026-09-16T16:27:24.929273+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-03-04 – 2026-03-31"
 ---
@@ -12,7 +12,7 @@ time_range: "2026-03-04 – 2026-03-31"
 
 **URL:** http://esperanto.china.org.cn/2026-03/04/content_118357923.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 Lastatempe Thomas Helbling, vicdirektoro de la Azi-Pacifika Departemento de Internacia Monunua Fonduso (IMF), diris, ke malgraŭ enlandaj defioj kaj eksteraj malfaciloj, la ĉina ekonomio montras sian rezistemon.
 
@@ -35,7 +35,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-03/04/content_118357937.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 Lastatempe, en Ĝenevo, Svislando, Peter Bakker, prezidanto kaj ĉefoficisto de la Monda Komerca Konsilio por Daŭripova Disvolviĝo (WBCSD), diris, ke Ĉinio gvidas la ondon en la kampo de daŭripova disvolviĝo kaj prezentas gvidajn solvojn en multaj merkatoj.
 
@@ -64,7 +64,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-03/04/content_118358035.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio, Naturo kaj Mediprotekto
 
 Ĝis la fino de 2025, la totala instalita kapacito de reprodukta energio en Ĉinio atingis 2.34 miliardojn da kilovatoj. Dum la periodo de la 14-a Kvinjara Plano, Ĉinio finkonstruis la plej grandan kaj plej rapide kreskantan sistemon de reprodukta energio, kaj la proporcio de instalita kapacito de tia energio pliiĝis de 40% al ĉirkaŭ 60%.
 
@@ -85,7 +85,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-03/04/content_118360388.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 La tradicio Luofang Zou Gushi (ĉine 罗坊走古事) devenas de la periodo de imperiestro Kangxi de la dinastio Qing (1616-1911). Per la rito Zou Gushi homoj preĝas por benoj, forigo de malfeliĉoj, favora vetero, prospera lando kaj paco. Ĝi daŭras jam pli ol 300 jarojn.
 
@@ -108,7 +108,7 @@ Esperantigis: Bui Hai Mung
 
 **Author:** Bui Hai Mung
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 La granda draka procesio de Gutian estas impona tradicia popola festo de la hakka-a komunumo, devenanta de la urbeto Gutian en la distrikto Liancheng en la provinco Fujian, kun historio de pli ol kvar jarcentoj. Fama pro la grandeco kaj la nombro da partoprenantoj, ĝi estas konata kiel "la plej granda drako" kaj en 2008 estis oficiale enskribita en la Nacian Liston de Nemateria Kultura Heredaĵo de Ĉinio.
 
@@ -131,7 +131,7 @@ Verkis: Bui Hai Mung
 
 **URL:** http://esperanto.china.org.cn/2026-03/04/content_118360987.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 Posttagmeze de la 4-a de marto en la Granda Popola Halo, Pekino, inaŭguriĝis la kvara sesio de la 14-a Tutlanda Komitato de la Ĉina Popola Politika Interkonsiliĝa Konferenco (ĈPPIK). Xi Jinping kaj aliaj gvidantoj de Ĉinio ĉeestis la malferman kunvenon.
 
@@ -146,7 +146,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-03/04/content_118360997.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 La 1-an de marto, misilo trafis ŝoseon proksime de Jerusalemo en Israelo, sed elektra veturilo BYD ATTO 3 (en Ĉinio konata kiel Yuan Plus) eltenis la eksplodon kaj protektis siajn pasaĝerojn, laŭ raporto publikigita ĉe The Times of Israel. Ĉiuj kvin okupantoj suferis nur malgravajn ĝis modere gravajn vundojn.
 
@@ -173,7 +173,7 @@ Fonto: Shanghai Daily
 
 **URL:** http://esperanto.china.org.cn/2026-03/05/content_118357897.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio
 
 Zheng Wangchun, reprezentanto de la 14-a Tutlanda Popola Kongreso, estas sekretario de la Ĉina Komunista Partio en la vilaĝo Gulu kaj direktoro de la vilaĝa komitato de yongli-a ji-etna subgubernio en la provinco Sichuan. Gulu-vilaĝo situas sur krutaĵo de la valo ĉe Dadu-rivero. Ĝi estas tipa izolita montara vilaĝeto, antaŭe atingebla nur post grimpado sur ŝnurŝtupetaro. En 2018 ekfunkciis loka telfero, kio reduktis la 4-horan vojaĝon al 5 minutoj.
 
@@ -192,7 +192,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-03/05/content_118362623.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 Antaǔtagmeze de la 5-a de marto en la Granda Popola Halo de Pekino inaǔguriĝis la kvara sesio de la 14-a Tutlanda Popola Kongreso (TPK). Xi Jinping kaj aliaj gvidantoj de Ĉinio ĉeestis la malferman kunvenon.
 
@@ -207,7 +207,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-03/05/content_118362965.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 En 2025, la aŭtomobila produktado kaj vendado de Ĉinio respektive superis 34 milionojn, kreinte novan rekordon. Ankaŭ la produktado kaj vendado de novenergiaj aŭtomobiloj respektive superis 16 milionojn. Malantaŭ ĉi tiu atingo kuŝas kontinuaj atingoj en teknologia novigado, daŭra plibonigo de industria strukturo kaj senĉesa plibonigo de la ĝenerala kvalito de la aŭtomobila industrio.
 
@@ -222,7 +222,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-03/06/content_118363609.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 La 5-an de marto la ĉina ĉefministro Li Qiang faris laborraporton de la registaro en la kvara sesio de la 14-a Tutlanda Popola Kongreso. En la raporto Li Qiang menciis, ke la ĉina ekonomio progresas malgraŭ premoj kaj montras grandan elastecon. La ekonomio funkcias ĝenerale stabile kun progresoj, la malneta enlanda produkto (MEP) kreskis je 5%, kaj la totala kvanto atingis 140.19 duilionojn da juanoj.
 
@@ -237,7 +237,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-03/06/content_118365529.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 La 5-an de marto ĉina prezidanto Xi Jinping, ankaŭ ĝenerala sekretario de la Centra Komitato de la Komunista Partio de Ĉinio kaj prezidanto de la Centra Milita Komisiono, aliĝis al la grupa diskuto kun reprezentantoj el Jiangsu-provinco en la kvara sesio de la 14-a Tutlanda Popola Kongreso.
 
@@ -254,7 +254,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-03/06/content_118365657.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 La 4-an de marto en la rulseĝa glitŝtonludo de la Vintraj Paralimpikoj en Italio, ĉinaj sportistoj Wang Meng kaj Yang Jinqiao akiris la unuan ormedalon por la ĉina teamo.
 
@@ -269,7 +269,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-03/06/content_118365669.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio
 
 La 5-an de marto la ĉina ĉefministro Li Qiang faris laborraporton de la registaro en la kvara sesio de la 14-a Tutlanda Popola Kongreso. Pri la celoj, kiujn la lando atingos en 2026, la laborraporto prezentis jene:
 
@@ -298,7 +298,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio
 
 La 26-an de februaro 2026, 12 jarojn post la grava parolo de prezidanto Xi Jinping dum sia inspekto en Pekino, la lanĉo-ceremonio de fotoekspozicio de serio registranta 4 747 tagojn de pekina ĉielo, titolita "Pekina ĉielo -- evidenta al la okuloj" kaj la seminario "Protekti la belan bluan ĉielon kaj konstrui belan Ĉinion kune" sukcese okazis en Langyuan-a Olda Lanjing-a Art-centro. La evento atestis ŝanĝojn en pekina ĉielo per bildoj kaj oni pridiskutis la novan vojon de ekomedia protekto kaj la konstruado de bela Ĉinio dum la periodo de la 15-a Kvinjara Plano.
 
@@ -308,7 +308,7 @@ Komence de la evento, mallonga filmo pri la ŝanĝoj en la koloro de la ĉielo d
 
 Zou Yi, direktoro de la Pekina Esplorcentro pri Protektado de Pura Publika Medio, kiel la ĉefa gastoparolanto, rakontis la kortuŝan historion pri sia 13-jara agado. Ekde 2013, li ĉiutage fotis la ĉielon ĉirkaŭ Pekina Televizia Stacio dum 4 747 sinsekvaj tagoj laŭ la kriterioj "samtempe, samloke, samscene". Per tiuj 4 747 fotoj de reala vivo, li plene registris la historian pliboniĝon de la aerkvalito de Pekino, de ofta fumnebulo al la nuna blua ĉielo preskaŭ ĉiutage, registrinte la historion de konstruado de ĉina ekocivilizacio el vidpunkto de ordinara homo.
 
-La  fotoekspozicio "Pekina ĉielo -- evidenta al la okuloj", prezentante la 4 747-tagan fotoserion, estis oficiale lanĉita. Tiu ekspozicio montras la 4 747 tagojn ĉiutage fotitajn de Zou Yi, bildprezentante la signifajn sukcesojn de la ekomedia regado de Pekino. Ĝi estas malfermita al la publiko kaj iĝis grava fenestro por rakonti pri la evoluo de mediprotekto en Ĉinio kaj diskonigi la koncepton de verda disvolvado.
+La fotoekspozicio "Pekina ĉielo -- evidenta al la okuloj", prezentante la 4 747-tagan fotoserion, estis oficiale lanĉita. Tiu ekspozicio montras la 4 747 tagojn ĉiutage fotitajn de Zou Yi, bildprezentante la signifajn sukcesojn de la ekomedia regado de Pekino. Ĝi estas malfermita al la publiko kaj iĝis grava fenestro por rakonti pri la evoluo de mediprotekto en Ĉinio kaj diskonigi la koncepton de verda disvolvado.
 
 Ĉi tiu evento, uzante filmojn kiel ligilon kaj interŝanĝojn kiel platformon, sisteme resumis la 12-jaran praktikan sperton de la batalo por defendi bluan ĉielon en Pekino, kaj konstruis ponton por komunikado inter registaro, entreprenoj, sociaj organizaĵoj kaj ordinaraj homoj per multflanka agado. Kiel sekva paŝo, ĉiuj flankoj utiligos tiun ĉi eventon kiel ŝancon por daŭrigi kaj profundigi la batalon por defendi la bluan ĉielon, antaŭenigi popolan partoprenon por mediprotektado kaj la profundan integriĝon de la Jarmilaj Evoluigaj Celoj de UN kaj entreprenojn, tiel kontribuante al la realigo de socialisma modernigo kaj la konstruado de bela Ĉinio kun pli blua ĉielo, pli verdaj montoj kaj pli puraj akvoj.
 
@@ -325,7 +325,7 @@ Verkis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2026-03/07/content_118368021.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 La 6-an de marto, ĉina prezidanto Xi Jinping emfazis sekvi la vojon de disvolvado de sano kun ĉinaj karakteroj por atingi decidigan progreson en la antaŭenigo de la iniciato "Sana Ĉinio" en la periodo de la 15-a Kvinjara Plano (2026-2030). Li faris la rimarkojn en la komuna grupa kunveno de la kvara sesio de la 14-a Tutlanda Komitato de la Ĉina Popola Politika Interkonsiliĝa Konferenco (ĈPPIK).
 
@@ -344,7 +344,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-03/08/content_118362700.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio
 
 En 2025, la aŭtomobila produktado kaj vendado de Ĉinio respektive superis 34 milionojn, kreinte novan rekordon. Ankaŭ la produktado kaj vendado de novenergiaj aŭtomobiloj respektive superis 16 milionojn. Malantaŭ ĉi tiu atingo kuŝas kontinuaj atingoj en teknologia novigado, daŭra plibonigo de industria strukturo kaj senĉesa plibonigo de la ĝenerala kvalito de la aŭtomobila industrio.
 
@@ -369,7 +369,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-03/08/content_118363625.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio
 
 La 5-an de marto Li Lecheng, ministro pri industrio kaj informada teknologio de Ĉinio, deklaris en la"pasejo de ministroj" de la kvara sesio de la 14-a Tutlanda Popola Kongreso, ke en 2025 la skalo de ĉina AI-industrio superis 1.2 duilionojn da juanoj, kun pli ol 6 200 entreprenoj.
 
@@ -411,7 +411,7 @@ Verkis kaj fotis: Rafael Henrique Zerbetto
 
 **Author:** Bui Hai Mung
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 Dum la vojaĝo al Fujian-provinco, mi havis la bonŝancon viziti tre specialan vilaĝon – Xunpu, kie la virinoj portas florkronojn sur siaj kapoj. En mia vizito al Fujian pasintjare mi tre deziris iri tien, sed bedaŭrinde la tempo mankis. Ĉi-foje mi havis la ŝancon ne nur viziti la vilaĝon, sed ankaŭ propramane metadi la florkronon sur mia kapo.
 
@@ -434,7 +434,7 @@ Verkis: Bui Hai Mung
 
 **Author:** Bui Hai Mung
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 Kiam oni mencias pri la provinco Fujian en Ĉinio, multaj homoj tuj pensas pri la buntaj floroj en la hararo de virinoj laŭ la tradicio de flor-ornamo (簪花). Tamen krom tiu bela tradicio, Fujian konservas ankaŭ alian tre apartan tradicion: la "tri glavoj" (三条簪) de virinoj en la urbo Fuzhou. Se la flor-ornamo simbolas elegantecon kaj dolĉecon, ĉi tiuj "tri glavoj" esprimas la forton kaj kuraĝon de lokaj virinoj.
 
@@ -463,7 +463,7 @@ Verkis: Bui Hai Mung
 
 **Author:** Bui Hai Mung
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio, Vojaĝo tra Ĉinio
 
 En mia afervojaĝo al Fujian-provinco, mi havis ŝancon viziti la urbon Ningde – marborda montregiono konata pro siaj rakontoj pri forigo de malriĉeco kaj ekologia restarigo. Tie mi renkontis kun la familio de Huang Zhenfang, kiu dum pli ol kvar jardekoj dediĉis sin al verdigo de la dezertaj montetoj en la vilaĝo Houyang de la distrikto Zhouning. Ilia rakonto – de malriĉa kampara familio ĝis tri generacioj ligitaj al la arbaro – estas viva pruvo pri la povo de persistemo kaj longtempa vizio en kampara disvolviĝo. Hodiaŭ lia filo Huang Chuanrong rakontas pri la multjara vojaĝo ligita al la arbaro.
 
@@ -532,7 +532,7 @@ Raportis: Bui Hai Mung
 
 **URL:** http://esperanto.china.org.cn/2026-03/10/content_118362689.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio
 
 Lastatempe, intervjuita de ĉinaj raportistoj, Luigi Gambardella, prezidanto de la internacia cifereca asocio ChinaEU en Bruselo, diris, ke ĉinaj kompanioj estas ĉe la avangardo de la tutmonda akcelo al IQ-Epoko, kaj Ĉinio gvidas la vojon en konstruado de kognaj retoj kaj funkciigo de artefarita intelekto (AI).
 
@@ -557,7 +557,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-03/10/content_118363616.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 La 5-an de marto la ĉina ĉefministro Li Qiang faris laborraporton de la registaro en la kvara sesio de la 14-a Tutlanda Popola Kongreso. Parolante pri la ĉefaj celoj de disvolviĝo en 2026, la laborraporto menciis unu el ili, ke landa ekonomio kreskos je 4.5%-5%, kaj oni klopodos atingi pli bonajn rezultojn per efektiva laboro.
 
@@ -574,7 +574,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Kulturo,Scienco kaj Sporto
 
 La 3-an de marto ĉinoj celebris la Lanternan Festivalon, kiu oficiale fermas la celebradojn de la Printempa Festo, longa festa periodo kies komenco estas la Ĉina Novjaro, kiu ĉi-jare estis celebrata la 17-an de februaro. Tiu ĉi estis mia deka Printempa Festo, de kiam mi transloĝiĝis al Pekino, sed kelkfoje mi pasigis tiu ferion eksterlande. Ĉiuokaze, jaron post jaro mi rimarkis profundajn ŝanĝojn en la dinamiko de la celebradoj. Tiaj ŝanĝoj donas al ni indikojn, kiuj helpas kompreni kiel migradoj al urboj kaj la familioj 4-2-1 — formitaj de kvar geavoj, du gefiloj kaj unu genepo, konsekvenco de la politiko de ununura infano, abolita antaŭ dek jaroj — formas la kulturon de la lando.
 
@@ -633,7 +633,7 @@ Verkis kaj fotis (krom la lasta): Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2026-03/11/content_118362679.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio
 
 Lastatempe, Markus Kamieth, ĝenerala direktoro de la germana kemia giganto BASF, diris: "Ĉinio jam fariĝis grava loko por esplorado kaj disvolviĝo."
 
@@ -654,7 +654,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-03/11/content_118363784.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 En la venontaj kvin jaroj, laŭ la 15-a Kvinjara Plano, Ĉinio pli forte subtenos altkvalitan disvolviĝon. La lando profunde antaŭenigos la konstruadon de cifereca Ĉinio, kaj la aldonvaloro de la kernaj industrioj de cifereca ekonomio okupos 12.5% de la malneta enlanda produkto (MEP).
 
@@ -669,7 +669,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-03/11/content_118376667.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 Antaŭtagmeze de la 11a de marto okazis ferma kunveno de la kvara sesio de la 14a Tutlanda Komitato de la Ĉina Popola Politika Interkonsiliĝa Konferenco (ĈPPIK), kiun ĉeestis ĉina prezidanto Xi Jinping kaj aliaj gvidantoj de la lando kaj de la Komunista Partio de Ĉinio.
 
@@ -686,7 +686,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-03/11/content_118376745.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 Antaŭ nelonge, la Ministerio de Industrio kaj Informa Teknologio anoncis, ke Ĉinio sukcese plenumis la unuan fazon de teknikaj eksperimentoj pri 6G-a tekniko, rezervis pli ol 300 ŝlosilajn rezultojn, kaj jam lanĉis la duan fazon de la eksperimentado. En la periodo de la du sesioj, fakuloj de tiu ĉi kampo diris, ke la 6G-a tekniko de Ĉinio pli kaj pli maturiĝas, la 14-a Kvinjara Plano estas periodo por la strategia aranĝo kaj rezervo, kaj la 15-a Kvinjara Plano estas aparte grava periodo por ke la tekniko eniru en la normalan ellaboron kaj komercan preparadon.
 
@@ -701,7 +701,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-03/12/content_118378732.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 Kiel la sekvanto, daŭriganto kaj plibonigo de la 14-a Kvinjara Plano, ankaŭ la 15-a Kvinjara Plano difinas altkvalitan disvolviĝon kiel la ĉeftemon de la ekonomia kaj socia disvolviĝo.
 
@@ -736,7 +736,7 @@ Afiŝo: Gao Shuyuan kaj Liao Yingjie
 
 **URL:** http://esperanto.china.org.cn/2026-03/12/content_118379110.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 Posttagmeze de la 12a de marto en Pekino la 14a Tutlanda Popola Kongreso (TPK) fermis sian kvaran sesion. Xi Jinping kaj aliaj ĉinaj gvidantoj ĉeestis la kunvenon okazintan en la Granda Popola Halo.
 
@@ -753,7 +753,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio
 
 Kelktagojn post la komenco de la atakoj de Usono kaj Israelo kontraŭ Irano, Ĉinio inaŭguris la ĉi-jarajn du sesiojn, la plej gravaj politikaj kunvenoj de la lando, kiuj ĉi-jare ne nur difinas la strategion kaj celojn por la sekva jaro, sed ankaŭ lanĉas la 15-an Kvinjaran Planon.
 
@@ -810,7 +810,7 @@ Verkis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2026-03/17/content_118391386.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Naturo kaj Mediprotekto, Vojaĝo tra Ĉinio
 
 Printempo komenciĝis, plantoj verdiĝas en la distrikto Bishan de la urbo Chongqing. En la lastaj jaroj, la loka registaro faris aranĝojn en la urboregiono por ke urbanoj ĝuu la belecon de la naturo.
 
@@ -827,7 +827,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 Antaŭ kelkaj jaroj, okcidentaj potencoj komencis ataki la ĉinan financadon de infrastrukturaj projektoj eksterlande kiel provo bojkoti la iniciaton "La Zono kaj Vojo", kiu ŝanĝis la vizaĝon de la Tutmonda Sudo proponante alireblan krediton sub pli favoraj kondiĉoj por merĝantaj ekonomioj.
 
@@ -906,7 +906,7 @@ Verkis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2026-03/20/content_118391414.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Vojaĝo tra Ĉinio
 
 Lastatempe aperis neĝo en la gubernio Tanchang de la provinco Gansu, nordokcidenta Ĉinio. Jen pitoreskaj pejzaĝoj en vidindejoj de la loko.
 
@@ -923,7 +923,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Bui Hai Mung
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio, Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 Pasintjare mi unuafoje vizitis la provincon Fujian de Ĉinio por sperti la Printempan Feston kune kun lokaj loĝantoj. Tiu vizito lasis al mi fortajn impresojn pri la kulturo kaj la homoj de la regiono. Post unu jaro mi revenis al Fujian kaj ĉi-foje havis ŝancon koni la provincon pli profunde. Dum naŭ tagoj mi vojaĝis tra diversaj urboj kaj vilaĝoj. Ĉiu loko montris sian propran karakteron: Iuj famas pro sia longa historio de internacia komerco, iuj zorgeme konservas tradiciajn festivalojn kun historio de centoj da jaroj, kaj aliaj rakontas inspirajn historiojn pri kampara disvolviĝo kaj protektado de la medio. Ĉi tiuj spertoj helpis al mi pli klare kompreni Fujian kiel lokon profunde radikitan en sia tradicio, sed samtempe dinamikan kaj viglan en la moderna evoluo de Ĉinio.
 
@@ -992,7 +992,7 @@ Verkis kaj fotis: Bui Hai Mung
 
 **URL:** http://esperanto.china.org.cn/2026-03/25/content_118399333.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 La 18-an de marto okazis aktivadoj de la unua Internacia Tajĝiĉjuan-Tago en la ĉefsidejo de UNESKO en Parizo, Francio. Al la aktivadoj ĉeestis pli ol 400 personoj, inkluzive de reprezentantoj el konstantaj misioj de pli ol 30 landoj, oficistoj de UNESKO kaj tajĝiĉjuan-praktikantoj.
 
@@ -1009,7 +1009,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-03/26/content_118399354.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Naturo kaj Mediprotekto
 
 Lastatempe grandnombro da migrobirdoj atingis Songhua-riveron, nordorienta Ĉinio, por iom ripozi. Sur la akvoareo, la birdoj ludas kaj manĝas, ĝuante la printempan etoson.
 
@@ -1024,7 +1024,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-03/27/content_118405718.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 La 26-an de marto la Jara Konferenco de Boao-Forumo por Azio (BFA) 2026 okazigis plenan kunvenon en Boao, la provinco Hainan de suda Ĉinio.
 
@@ -1047,7 +1047,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Bui Hai Mung
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 En la lastaj tagoj, la Hormuz-Markolo – unu el la plej gravaj itineroj por transporto de nafto en la mondo – subite fariĝis centro de militaj streĉoj pro la konflikto inter Usono, Israelo kaj Irano. Pro la risko, ke ĉi tiu esenca vojo povus esti blokita, la tutmonda energimerkato tuj "varmiĝis". La naftaj prezoj de Brent kaj WTI sinsekve atingis novajn pintojn ekde la komenco de la konfikto. Kiel la plej granda importanto de nafto en la mondo, Ĉinio ŝajne devus esti la plej forte trafita de ĉi tiu ŝoko. Tamen, kontraŭe al la prognozoj pri energikrizo, la makroekonomiaj indikiloj de Ĉinio restas surprize stabilaj. Do leviĝas demando: Kio kreis la "fortan ŝildon", kiu helpas Ĉinion rezisti la ondon de altiĝantaj naftoprezoj pro la konflikto en Mezoriento?
 
@@ -1116,7 +1116,7 @@ Verkis: Bui Hai Mung
 
 **URL:** http://esperanto.china.org.cn/2026-03/31/content_118409731.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio, Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 En aprilo 2017 la Centra Komitato de la Komunista Partio de Ĉinio kaj la Ŝtata Konsilantaro de Ĉinio anoncis la konstruadon de Nova Areo Xiong'an. Hodiaŭ, la urbo jam tute moderniĝis kun perfektiĝanta administrado.
 
@@ -1133,7 +1133,9 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-03/31/content_118411679.htm
 
-**Categories:** Plej Freŝaj
+**Author:** Ĵamŝed Sabiroviĉ Junusov
+
+**Categories:** Socia Vivo, Ekonomio
 
 de Ĵamŝed Sabiroviĉ Junusov*
 
@@ -1216,7 +1218,7 @@ Projektita de Chen Ji
 
 **URL:** http://esperanto.china.org.cn/2026-03/31/content_118411775.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 De la 27-a kaj la 28-a de marto la subforumo pri la Suda Ĉina Maro kadre de Boao-Forumo por Azio kaj serio de amaskomunikilaj agadoj de la rondtabla kunveno "Komuna Hejmo" okazis en Hainan de Ĉinio.
 

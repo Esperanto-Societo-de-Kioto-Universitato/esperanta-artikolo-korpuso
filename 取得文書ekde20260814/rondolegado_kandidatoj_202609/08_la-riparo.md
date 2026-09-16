@@ -1,7 +1,5 @@
 La riparo
 
-Eblas aŭskulti ĉi tiun artikolon, kiun voĉlegis Rafa Nogueras.
-
 La sekva rakonto unue aperis en Short Stories in Esperanto volume 2. Ĝi estas iom simpligita por uea.facila.
 
 La riparo
@@ -55,8 +53,6 @@ grado (˚): mezurunuo de varmo.
 ĝemi: el-igi sonon por esprimi doloron aŭ suferadon.
 
 likvo: aĵo kun simila konsisto kiel akvo; fluaĵo.
-
-Synapticrelay CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=50627718
 
 martelo: ilo uzata por bati aŭ frapi, kutime kun peza fera kapo (foje ankaŭ kun ligna aŭ plasta kapo), kaj longa tenilo.
 

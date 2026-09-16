@@ -1,6 +1,6 @@
 ---
 source: "Pola Retradio (pola-retradio.org)"
-generated_at: "2026-09-15T16:02:39.715035+00:00"
+generated_at: "2026-09-16T16:23:19.040574+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-01-05 – 2026-01-30"
 ---
@@ -272,7 +272,7 @@ En la 1448-a E_elsendo el la 15.01.2026 ĉe www.pola-retradio.org:
 
 ---
 
-# 2026, la Jaro de  Róża Czacka
+# 2026, la Jaro de Róża Czacka
 
 **Published:** 2026-01-20
 

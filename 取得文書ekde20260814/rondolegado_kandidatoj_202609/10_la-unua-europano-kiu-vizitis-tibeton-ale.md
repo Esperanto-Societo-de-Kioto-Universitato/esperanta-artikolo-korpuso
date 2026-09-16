@@ -1,9 +1,5 @@
 La unua eŭropano, kiu vizitis Tibeton Alexandra David-Néel (1868-1969)
 
-Alexandra en la jaroj 1886, 1924 kaj 1933. Foto n-ro 3: Preus museum, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, pere de Wikimedia Commons
-
-Eblas aŭskulti ĉi tiun artikolon, kiun voĉlegis Margaret Zaleski-Zamenhof.
-
 Alexandra naskiĝis en Francio en 1868. Ŝiaj gepatroj estis liber-pensuloj. La familio transloĝiĝis al Belgio kiam ŝi estis kvar-jara. Kiel junulino ŝi multe vojaĝis en Eŭropo. Ĉe la muzeo Guimet en Parizo ŝi ekinteresiĝis pri la aziaj artoj kaj kulturoj. Kiam ŝi havis 21 jarojn, ŝi konvertiĝis al budhismo.
 
 En Parizo ŝi studis Sanskriton kaj la tibetan lingvon, kaj poste en Bruselo ŝi studis muzikon kaj kantadon. En 1895 ŝi vojaĝis al la tiama Hindo-Ĉinio por fariĝi oper-kantistino ĉe la operejo de Hanojo, kaj efektive ŝi estis tie la ĉefa kantistino ĝis 1897.
@@ -39,8 +35,6 @@ feminist(in)o: homo kun la opinio, ke virinoj rajtas je egaleco kun viroj socie,
 fer-vojo: sistemo de feraj vojoj, sur kiuj veturas vagonaroj.
 
 inĝeniero: homo, kiu per helpo de sciencaj metodoj kondukas kaj direktas teknikajn laborojn, ekzemple konstruadon de maŝinoj, vojoj, pontoj kaj simile.
-
-Foto: Bundesarchiv, Bild 183-23805-1665 / CC-BY-SA 3.0
 
 karaktero: la aro da ecoj mensaj, kiuj donas al ĉiu homo apartan manieron pensi kaj agi.
 

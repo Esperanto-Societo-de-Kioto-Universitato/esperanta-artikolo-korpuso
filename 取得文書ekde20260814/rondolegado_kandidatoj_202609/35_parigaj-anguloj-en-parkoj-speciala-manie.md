@@ -35,5 +35,3 @@ Rigardate el pli vasta perspektivo, la pariga angulo en parkoj estas pli ol simp
 Lastatempe, en parigaj anguloj de Ŝanhajo kaj aliaj lokoj, aperis profiloj kreitaj de la junuloj mem, kun pli personigita stilo, emfazante personajn interesojn kaj klopodante mildigi la troan pragmatan etoson. Krome, en kelkaj parigaj anguloj la partopreno ne plu limiĝas al junuloj, sed ankaŭ inkluzivas maljunulojn, kiuj serĉas novan partneron.
 
 La pariga angulo en ĉinaj parkoj estas multfaceta kaj vigla socia fenomeno. Ĝi devenas de sincera familia zorgo, funkcias laŭ spontanee formitaj komunaj reguloj, kaj ekzistas kiel praktika komplemento al modernaj konektaj metodoj. Tiu spaco reflektas la daŭran signifon de familiaj ligoj, reciproka fido kaj rekta interhoma komunikado en nuna urba socio. La pariga angulo estas ne nur loko por "kunligi sortojn", sed ankaŭ aparta spaco, kiu reflektas la klopodojn de homoj konservi sociajn ligojn kaj serĉi feliĉon en praktika maniero meze de la fluo de moderna urba vivo.
-
-Verkis: Bui Hai Mung

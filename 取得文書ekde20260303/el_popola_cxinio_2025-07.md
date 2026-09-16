@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-09-15T16:12:44.390674+00:00"
+generated_at: "2026-09-16T16:27:24.487535+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-07-02 – 2025-07-31"
 ---
@@ -12,7 +12,7 @@ time_range: "2025-07-02 – 2025-07-31"
 
 **URL:** http://esperanto.china.org.cn/2025-07/02/content_117956517.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio
 
 En 1977 Chen Yonghong naskiĝis en vilaĝeto de Nanchang, Jiangxi-provinco, suda Ĉinio. Kiam li estis unujara, li suferis pro poliomjelito kaŭzita de alta febro, kaj liaj kruroj estis permanente atrofiitaj. Post diplomiĝo en teknika mezlernejo, li laboris en multaj lokoj kun lambastonoj. Konstruejoj, konservejoj, elektronik-fabrikoj... Chen Yonghong ŝanĝis multajn laborpostenojn, sed li neniam rezignis: "Mi kredas, ke ankaŭ handikapulo povas prosperi per propra klopodo."
 
@@ -35,7 +35,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio, Kulturo,Scienco kaj Sporto
 
 En mia artikolo publikigita la 2-an de majo (http://espero.chinareports.org.cn/2025-05/02/content_117853443.htm), mi komentis, ke Ĉinio fariĝis konata kiel monda potenco en sporto, sed spertas grandajn malfacilojn por influi la internacian kulturan scenon, aparte amaskulturon. Ekzemple, kiam Usono firmiĝis kiel mondpotenco, tio estis akompanata ne nur de la firmiĝo de la lando kiel sporta potenco, sed ankaŭ de internaciigo de holivudaj filmoj, rapidmanĝaĵo kaj muzikstiloj kiel ĵazo, popo kaj rokenrolo.
 
@@ -98,7 +98,9 @@ Verkis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2025-07/04/content_117960165.htm
 
-**Categories:** Plej Freŝaj
+**Author:** John Magesa (Tanzanio)
+
+**Categories:** Kulturo,Scienco kaj Sporto, E-novaĵoj
 
 John Magesa (Tanzanio)
 
@@ -135,7 +137,7 @@ Ni kore dankas la kompanion Food Junc Tomato Products Co., Ltd. kaj sinjoron Jo
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 De la 28-a ĝis la 30-a de junio mi vizitis la urbon Ruian de la provinco Zhejiang, orienta Ĉinio, por sperti la ĉinan kulturan heredaĵon kune kun japanaj premiitoj de la evento Panda Pokalo, kiuj gajnis vojaĝon al Ĉinio por sperti la kulturan heredaĵon de Ruian.
 
@@ -196,13 +198,13 @@ Verkis kaj fotis: Rafael Henrique Zerbetto
 
 ---
 
-# Virina skribsistemo ekzistas jam delonge‌
+# Virina skribsistemo ekzistas jam delonge
 
 **Published:** 2025-07-07
 
 **URL:** http://esperanto.china.org.cn/2025-07/07/content_117962113.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 En 2023 la dokumenta filmo el Ĉinio "Kaŝitaj Literoj" altiris tutmondan atenton post kiam ĝi estis nomumita en la liston de la 95a Oskar-premio pri la plej bona dokumenta filmo, kiu temas pri "Nüshu" pli-ol-centjara -- la monde ununura ekzistanta virina skribsistemo.
 
@@ -231,11 +233,11 @@ Redaktoro: Liu Zijia
 
 **URL:** http://esperanto.china.org.cn/2025-07/08/content_117969892.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 La ĉina tutlanda enirekzameno por universitatoj ĉijare okazis de la 7-a ĝis la 10-a de junio. Laŭ statistikoj, 13.35 milionoj da lernantoj partoprenis en ĝi. Antaŭ junio komercistoj jam lerte kaptis la ŝancon nomitan "enirekzamena ekonomio" kaj vendis nutraĵojn, ilarojn (skribilo, skrapgumo ktp) kaj specialajn servojn kiel oksigen-gasan enspirilon. Samtempe pro tio, ke la grava ekzameno estas proksima al la Drakboata Festo, komercistoj vendadis "Dingsheng-kukon + Zongzi-on" kiel homonimeca bonaŭgura donaco por la familioj, kies membroj partoprenos la ekzamenon.
 
-Kio estas Dingsheng-kuko? Ĝi estas tradicia manĝeto en la regionoj de Jiangsu kaj Zhejiang, sudorienta Ĉinio. La ĉefa ingredienco estas kruda glueca rizo. Ĝi estas helruĝa laŭ koloro, mola kaj bonodora, kaj dolĉa laŭ la farĉo. Oni diras, ke Dingsheng-kuko origine nomiĝis Dingsun-kuko, ĉar ĝi aspektas kiel "sun" -- elstara parto de la junto de objektoj aŭ konstruaĵoj uzante konkavan kaj konveksan metodon. Laŭ folkloro, en la Suda Song-dinastio (1127-1279), fama generalo Han Shizhong kuraĝe batalis kontraŭ agresantoj. Popolanoj portis Dingsun-kukon al la soldatoj por ke ili manĝu, la loka prononco de "sun" kaj "sheng"  (venko) estas simila, do oni renomis la kukon "Dingsheng-kuko" por memori pri tio. En Ming-dinastio (1368-1644), Dingsheng-kuko komencis porti la signifon de bonaŭguro "venki/sukcesi en ekzameno".
+Kio estas Dingsheng-kuko? Ĝi estas tradicia manĝeto en la regionoj de Jiangsu kaj Zhejiang, sudorienta Ĉinio. La ĉefa ingredienco estas kruda glueca rizo. Ĝi estas helruĝa laŭ koloro, mola kaj bonodora, kaj dolĉa laŭ la farĉo. Oni diras, ke Dingsheng-kuko origine nomiĝis Dingsun-kuko, ĉar ĝi aspektas kiel "sun" -- elstara parto de la junto de objektoj aŭ konstruaĵoj uzante konkavan kaj konveksan metodon. Laŭ folkloro, en la Suda Song-dinastio (1127-1279), fama generalo Han Shizhong kuraĝe batalis kontraŭ agresantoj. Popolanoj portis Dingsun-kukon al la soldatoj por ke ili manĝu, la loka prononco de "sun" kaj "sheng" (venko) estas simila, do oni renomis la kukon "Dingsheng-kuko" por memori pri tio. En Ming-dinastio (1368-1644), Dingsheng-kuko komencis porti la signifon de bonaŭguro "venki/sukcesi en ekzameno".
 
 Krom la okazo de ekzameno, lokanoj ankaŭ uzas Dingsheng-kukon en naskiĝtaga festeno, nupto ktp por esprimi la dezirojn de ĝojo kaj favora aŭspicio. Hodiaŭ, tiu ĉi bongusta kaj belaspekta kuko kun bona signifo jam aperis en pli kaj pli multaj lokoj, alportante la atendon al ekzamen-partoprenontoj tra la tuta lando.
 
@@ -254,7 +256,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 La Pagodo Wenfeng estas konata vidindejo de la urbo Xuchang de la provinco Henan, centra Ĉinio. Ĝi havas okangulan bazon, samkiel plejparto de la pagodoj de la dinastioj Ming kaj Qing, sed ĝiaj proporcioj igas ĝin pli maldika kaj eleganta ol aliaj pagodoj de tiu epoko, kio igas ĝin unika en la ĉina arkitektura tradicio. Kun 13 etaĝoj kaj alteco de ĉirkaŭ 52 metroj, la pagodo estis konstruita dum Ming-dinastio el brikoj kaj ŝtonoj.
 
@@ -275,7 +277,7 @@ Raportis kaj fotis: Rafael Henrique Zerbetto
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 La vilaĝo Nanjie en Henan-provinco de Ĉinio estas mondkonata pro sia unika ekonomia modelo-bazita sur kolektivismo. Vilaĝanoj senpage havas loĝejon, manĝaĵon, vestaĵojn, edukadon, kuracadon kaj aliajn vivbezonaĵojn. Por antaŭenigi la disvolvadon de la vilaĝo, lokanoj emfazas la fundamentajn ideojn de Markso kaj Mao Zedong, kaj tra la tuta vilaĝo troviĝas portretoj de Mao kaj skribaĵoj elĉerpitaj de liaj verkoj kaj paroloj. En la centro de la vilaĝo estis konstruita placo nomita Oriento Estas Ruĝa, kie troviĝas statuo de Mao kaj portretoj de aliaj gravaj figuroj de la historio de socialismo. La placo estas konata turismejo de la vilaĝo kaj vespere fariĝis renkontiĝejo, kie lokaj homoj amuziĝas kaj infanoj ludas.
 
@@ -290,7 +292,7 @@ Raportis kaj fotis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2025-07/10/content_117971721.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Vojaĝo tra Ĉinio, E-novaĵoj
 
 La 4-an de julio sinjorino Laura, hispana esperantisto, akompanata de sinjoro Aldreno, brazila esperantisto kaj konsilisto de Xi'an-a Esperanto-Asocio, vizitis Heibaige-ŝakoklubon en Xi'an-urbo. Yang Chao, prezidanto de kluba konsilio, kaj lernantoj de la klubo, bonvenigis la fremdlandan esperantiston kaj faris interesan kultur-interŝanĝon kun ŝi.
 
@@ -311,7 +313,9 @@ Koincide, kiam Laura atingis la klubon, Yang Chao estis klariganta la hispanan �
 
 **URL:** http://esperanto.china.org.cn/2025-07/11/content_117971734.htm
 
-**Categories:** Plej Freŝaj
+**Author:** Djoomart Otorbaev
+
+**Categories:** Ekonomio
 
 de Djoomart Otorbaev*
 
@@ -363,7 +367,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-07/11/content_117973521.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 La 10-an de julio Xi Jinping, ĝenerala sekretario de la Centra Komitato de la Komunista Partio de Ĉinio kaj ŝtata prezidanto, sendis gratulan leteron al la Ministra Kunveno pri Dialogo de Tutmondaj Civilizacioj.
 
@@ -382,7 +386,7 @@ Redaktoro: Gao Shuyuan
 
 **URL:** http://esperanto.china.org.cn/2025-07/11/content_117973863.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 La 10-an de julio okazis en Pekino la dua premidona ceremonio de Orkide-premio. Naŭ eksterlandanoj kaj la Filadelfia Orkestro el Usono ricevis la premion ĉijare.
 
@@ -401,7 +405,7 @@ Redaktoro: Gao Shuyuan
 
 **URL:** http://esperanto.china.org.cn/2025-07/15/content_117978696.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 Suzhou-stila brodarto estas unu el la reprezentaj skoloj de ĉina brod-metiarto, kun historio de pli ol 2 000 jaroj. La urbo Suzhou de la provinco Jiangsu estas la hejmurbo de suzhou-stila brodarto, kie estas miloj da brodistoj. Yao Jianping, ĉina metiarta majstrino kaj reprezenta heredanto de la ŝtat-nivela nemateria kultura heredaĵo suzhou-stila brodarto, estas unu el ili. Dum jardekoj, ŝi okazigis ekspoziciojn, paroladojn ktp kaj multfoje vizitis Eŭropon kaj Usonon por disvastigi la arton kaj la tradician kulturon de Ĉinio.
 
@@ -430,7 +434,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 Xizang-aj herboj povas esti uzataj en la tradicia medicino, kiu havas unikajn trajtojn. En 2018, la Banmetodo de Xizang-a Tradicia Medicino estis enlistigita kiel nemateria heredaĵo de UNESKO. La historio dexizang-a medicino montras, ke laŭlonge de historio okazis gravaj interŝanĝoj kun kuracistoj el aliaj partoj de Ĉinio, kiuj kontribuis por la progreso de loka medicino. Xizang-a Hospitalo pri Xizang-a Medicino estas unuaklasa hospitalo, kie okazas ne nur kuracado de pacientoj, sed ankaŭ esploroj, instruado, preventaj agadoj kaj produktado de kuraciloj.
 
@@ -451,7 +455,7 @@ Verkita de Rafael Henrique Zerbetto
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Kulturo,Scienco kaj Sporto
 
 Proponita de la ĉina prezidanto Xi Jinping en marto 2023, la Iniciato pri Tutmonda Civilizacio rezultas de maturiĝo kaj sintezo de lia diplomatia penso kaj baziĝas sur la principoj de egaleco, reciproka lernado, dialogo kaj inkluzivigo inter la civilizacioj de la mondo. Dum la lastaj du jaroj, la iniciato gajnis vastan akcepton inter landoj de la tutmonda sudo, kiuj vidas ĝin kiel alternativon al la normigema, hierarkieca kaj koloniisma logiko, kiu ĉiam karakterizis la rilatojn kun la landoj en la centro de tutmonda kapitalismo.
 
@@ -552,7 +556,7 @@ Verkis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2025-07/18/content_117985324.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 La 11-an de julio la Maŭzoleo de Okcidenta Xia-reĝimo estis enlistigita kiel monda heredaĵo, laŭ la decido de la 47-a sesio de Mondheredaĵa Komitato, okazigita en Parizo, Francio. La nombro de mondaj heredaĵoj posedataj de Ĉinio atingis 60.
 
@@ -571,7 +575,7 @@ Redaktoro: Gao Shuyuan
 
 **URL:** http://esperanto.china.org.cn/2025-07/21/content_117983226.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 Gravurado de sigeliloj estas arto kombinanta kaligrafion (ĉefe la sigela skribo) kaj gravuradon (inkluzive de ĉizado kaj fandado) por krei sigelilojn -- unika arto de ĉinaj ideogramoj kun la historio de pli ol 3 700 jaroj. En 2009 ĝi estis enlistigita de UNESKO kiel nemateria kultura heredaĵo de la homaro.
 
@@ -619,7 +623,7 @@ Se vi ne sukcesis partopreni la merkredan ekskurson al Svitavy kaj Litomyšl, v
 
 **URL:** http://esperanto.china.org.cn/2025-07/21/content_117985383.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 En Ĉinio estas pli ol 300 lokaj operoj, el kiuj la plej vaste cirkulanta estas la Pekina Opero, formiĝinta komence de la 19-a jarcento en Pekino.
 
@@ -646,7 +650,7 @@ La Pekina Opero estas altnivela, juĝate laŭ la arta vidpunkto. Mei Lanfang, C
 
 **URL:** http://esperanto.china.org.cn/2025-07/22/content_117989805.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 La 18-an de julio Wang Wentao, ministro pri komerco de Ĉinio, diris en gazetara konferenco pri "altkvalita kompletigo de la 14-a Kvinjara Plano" okazigita de la Informa Oficejo de la Ŝtata Konsilantaro, ke la kvalito de la eksterlanda investado al Ĉinio pliboniĝis, kaj la totala sumo de eksterlanda investado dum la periodo de la 14-a Kvinjara Plano superis la atenditan celon de 700 miliardoj da usonaj dolaroj. La ĉina strukturo pri investado daŭre optimumiĝas.
 
@@ -661,7 +665,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-07/22/content_117989871.htm
 
-**Categories:** Novaĵoj
+**Categories:** E-novaĵoj
 
 Unuiĝintaj Nacioj (UN) deklaris 2025 kiel Internacian Jaron de Paco kaj Konfido por antaŭenigi tutmondan unuiĝon kaj instigi ĉiujn nin pensi kiel alfronti la multajn krizojn, kiujn la mondo trapasas. La Ĝenerala Sekretario de UN, António Guterres, emfazas la bezonon de nova komenco, substrekante la gravecon de homaj rajtoj, unuiĝo kaj solidareco por konstrui pli pacan kaj stabilan estontecon.
 
@@ -686,7 +690,7 @@ La kongresa temo intencas esplori kiel teknologioj povas subteni pacon kaj konfi
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 Pasintmonate, la morto de brazila junulino Juliana Marins post akcidento ĉe vulkano en Indonezio kaŭzis akrajn kritikojn de brazilanoj en sociaj retejoj. En Brazilo, savado en tiaj situacioj estas efika kaj rapida, sed en Indonezio, la savado de Juliana dependis de la bonvolemo de kelkaj volontulaj alpinistoj kaj okazis post pluraj tagoj, kiam ŝi jam estis morta. Ja gravas, ke indoneziaj aŭtoritatoj pristudu la problemojn kaj erarojn, kaj punu homojn, kiuj miskondutis aŭ diskonigis falsajn informojn. Por ni, eksterlande, gravas kompreni, ke Indonezio estas disvolviĝanta lando kun soci-ekonomia realo tre simila al tiu de Brazilo.
 
@@ -773,7 +777,7 @@ Verkis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2025-07/23/content_117990614.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** E-novaĵoj
 
 Esperanto-Muzeo en Svitavy estas kultura institucio situanta en la Domo de Ottendorfer en Svitavy, 75 km norde de Brno. La muzeo prezentas historion kaj nuntempon de la Esperanto-movado kaj krom ekspozicioj ĝi okazigas ankaŭ diversajn klerigajn kaj kulturajn aranĝojn kaj prizorgas Esperanto-bibliotekon.
 
@@ -794,9 +798,9 @@ Se vi ne sukcesis partopreni la merkredan ekskurson al Svitavy kaj Litomyšl, v
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
-La 23-an de julio en la urbo Tianjin, Ĉinio, okazis ĉijara Transcivilizacia Dialogo de Ŝanhaja Kunlabora Organizo (ŜKO), kun partopreno de pli ol 300 homoj. La membrolandoj de ŜKO estas Ĉinio, Barato, Kazaĥio,  Kirgizio, Rusio, Pakistano, Taĝikio, Uzbekio, Irano kaj Belarusio.
+La 23-an de julio en la urbo Tianjin, Ĉinio, okazis ĉijara Transcivilizacia Dialogo de Ŝanhaja Kunlabora Organizo (ŜKO), kun partopreno de pli ol 300 homoj. La membrolandoj de ŜKO estas Ĉinio, Barato, Kazaĥio, Kirgizio, Rusio, Pakistano, Taĝikio, Uzbekio, Irano kaj Belarusio.
 
 Shen Lei, direktoro de la Departemento pri Reklamado de Tianjin-a Komitato de Komunista Partio de Ĉinio (KPĈ), en sia bonveniga parolo substrekis la unikajn avantaĝojn de Tianjin, kun sia spirito de malfermeco kaj diverseco, en antaŭenigo de interŝanĝoj inter civilizacioj kaj prezentis la atingojn de Tianjin en plifortigo de interŝanĝoj kun la mondo per malsamaj strategioj.
 
@@ -837,6 +841,8 @@ Raportis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2025-07/25/content_117992369.htm
 
+**Author:** Harley Seyedin kaj James Eric Black
+
 **Categories:** Novaĵoj
 
 de Harley Seyedin kaj James Eric Black*
@@ -868,7 +874,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-07/26/content_117985358.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** E-novaĵoj
 
 En la nuna Tago de Esperanto, la 26-an de julio, ni festas la 138- an datrevenon de apero de la Internacia Lingvo Esperanto, unika internacia kaj interpopola projekto de lingvo kaj movado de homoj kiuj volas interkompreniĝi kaj interkonatiĝi pace.
 
@@ -893,7 +899,7 @@ En tiu Tago de Esperanto (26 julio), feliĉe proksima de la Internacia Tago de E
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 Nanjiecun estas vilaĝo en Henan-provinco de Ĉinio, konata pro sia socipolitika modelo kaj historia fono, kun multaj simboloj de socialismo troveblaj tra la vilaĝo kun la celo rememori kaj subteni la principojn kaj valorojn de socialismo, aparte la penson de Mao Zedong. Unu el la allogaĵoj de Nanjiecun estas la Ruĝkultura Parko, dediĉita al la historio de la Komunista Partio de Ĉinio kaj la ruĝa kulturo.
 
@@ -918,7 +924,7 @@ Raportis kaj fotis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2025-07/28/content_117999953.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** E-movado, E-novaĵoj
 
 Posttagmeze de la 27-a de julio, laŭ la loka tempo, la ĉina delegacio por 110-a UK okazigis programon "Ĉina Tago" en la Universitato de Mendel en Brno, Ĉeĥio. Pli ol 70 delegitoj el pli ol 20 landoj ĉeestis ĝin.
 
@@ -955,7 +961,7 @@ La 110-a UK daŭras en Brno, Ĉeĥio, de la 26-a de julio ĝis la 2-a de aŭgus
 
 **URL:** http://esperanto.china.org.cn/2025-07/28/content_117999985.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** E-movado, E-novaĵoj
 
 La 27-an de julio, laŭ la loka tempo, la 110-a Universala Kongreso (UK) inaŭguriĝis en Brno, Ĉeĥio. Al la granda evento ĉeestis 1 124 esperantistoj el 63 landoj kaj regionoj, inter ili estas pli ol 40 ĉinaj esperantistoj. La temo de la kongreso estas "Esperanto kaj teknologioj kiel pontoj de paco kaj konfido inter la popoloj". Wang Hanping, vicdirektoro de la Azi-Pacifika Centro de la Ĉina Internacia Komunika Grupo kaj vicprezidanto de la Ĉina Esperanto-Ligo, kaj la ĉina Esperanto-delegacio partoprenis la kongreson.
 
@@ -990,7 +996,7 @@ Dum la semajna kongreso okazos pli ol 150 aktivadoj, kaj ili funkcias kiel gr
 
 **URL:** http://esperanto.china.org.cn/2025-07/29/content_118001695.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto, E-novaĵoj
 
 Posttagmeze de la 27-an de julio, laŭ la loka tempo, Ĉina Esperanto-Ligo (ĈEL) lanĉis Ŝlosilaj Vortoj por Kompreni Ĉinion: Kulturaj Interŝanĝoj en la ĉina lingvo kaj Esperanto en la 110-a Universala Kongreso en Brno, Ĉeĥa Respubliko. Al la lanĉ-ceremonio ĉeestis Duncan Chartters, eksa prezidanto de Universala Esperanto-Asocio (UEA), So Jinsu, novelektita vicprezidanto de UEA, kaj Gong Xiaofeng, estrarano de UEA, Libuše Hýblová, vicprezidanto de la Loka Kongresa Komitato, Wang Hanping, vicprezidanto de ĈEL, kaj pli ol 70 esperantistoj el pli ol 20 landoj.
 
@@ -1015,7 +1021,7 @@ Redakotoro: Gao Shuyuan
 
 **URL:** http://esperanto.china.org.cn/2025-07/30/content_118003053.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 Lastatempe la kvina volumo de la libro Xi Jinping: Regado de Ĉinio en la ĉina kaj la angla lingvoj estis eldonita de la Fremdlingva Eldonejo kaj estas aĉetebla en Ĉinio kaj aliaj landoj. La volumo estas kompilita de la Instituto pri Partia Historio kaj Literaturo de la Centra Komitato de la Komunista Partio de Ĉinio kaj la Ĉina Internacia Komunika Grupo.
 
@@ -1034,7 +1040,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-07/30/content_118003592.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** UK-oj, E-novaĵoj
 
 Laŭ la Regularo pri Honoraj Membroj, Honoraj Prezidantoj kaj Diplomo pri Elstara Agado la Komitato de Universala Esperanto-Asocio (UEA) surbaze de propono de la Estraro de UEA povas aparte distingi esperantistojn, kiuj faris gravajn servojn al la tutmonda Esperanto-movado, per la titolo Honora Membro (HM). Krome kiel Honora Prezidanto (HP) povas esti nomumita esperantisto, kiu aldone havis eksterordinarajn meritojn por UEA.
 
@@ -1071,7 +1077,7 @@ Por decidi la komitato anticipe kaj konfidence ricevis resumajn vivpriskribojn k
 
 **URL:** http://esperanto.china.org.cn/2025-07/31/content_118003552.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 La 8-an de julio komenciĝis la Semajno de Shaanxi en la ĉina pavilono ĉe la Monda Ekspozicio en Osako, Japanio. Dum la semajno, serio da programoj, inkluzive de kulturaj prezentadoj, produkt-ekspozicioj kaj komercaj interŝanĝoj, montris la historian heredaĵon, abundajn produktojn kaj novigan viglecon de Shaanxi, helpante la reciprokan kunlaboron inter ĉinaj kaj eksterlandaj entreprenoj. Pli ol 110 homoj, kiel oficistoj de ĉina kaj japana registaroj, reprezentantoj de internaciaj organizoj, direktoroj de pavilonoj de gravaj landoj, kaj reprezentantoj de amaskomunikiloj ĉeestis la malferman ceremonion.
 
@@ -1094,7 +1100,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-07/31/content_118003566.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 En majo 2023 la unua Ĉin-centrazia Pintkunveno okazis en Xi'an, ĉefurbo de Shaanxi. La pintkunveno enkondukis novan epokon de kunlaboro inter Ĉinio kaj centraziaj landoj.
 

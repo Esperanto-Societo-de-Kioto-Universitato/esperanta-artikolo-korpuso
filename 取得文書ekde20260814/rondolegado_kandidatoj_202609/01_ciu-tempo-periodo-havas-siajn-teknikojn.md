@@ -1,7 +1,5 @@
 Ĉiu tempo-periodo havas siajn teknikojn
 
-Eblas aŭskulti ĉi tiun artikolon, kiun voĉlegis Bill Maxey.
-
 Rimarkinde estas, kiel pli kaj pli rapide ŝanĝiĝas nia vivmaniero de generacio al generacio. Ne plu eblas eĉ paroli pri evoluo, sed pli pri saltoj. Unu generacio daŭras pli-malpli 25 jarojn. Ekzemple antaŭ 25 jaroj, kiu povis imagi la gravecon de komputilo aŭ poŝtelefono en nia nuntempa vivo?
 
 Kaj neniu povas scii, kion la hodiaŭaj infanoj vidos aperi antaŭ ol maljuniĝi. Tiu penso estas interesa sed samtempe timiga. Unu afero estas certa: la estontaj arkeologoj povos sekvi la evoluon de nia moderna socio per studado de la objektoj, kiujn ni homoj postlasos dum nia vivo.
@@ -17,8 +15,6 @@ Akrigilo por razilo: Por vojaĝanta komercisto aŭ eĉ turisto en la komenco de
 Karto-tenilo por unu-manuloj: Post la Unua Mondmilito estis multaj milit-invalidoj, inter aliaj tiuj, kiuj perdis brakon. Por ili, estis malfacile retrovi laboron. En la socia vivo, okazanta por viroj en la loka kafejo, aperis pliaj ĝenoj. Kiel samtempe fumi, trinki, kaj ludi kartojn, kiam oni estas unu-brakulo? La supran malgrandan aparaton, la kartotenilon, la kafejestro fiksis al la tablo. Dum ĝi tenis la kartojn, la mano estis disponebla por teni glason aŭ cigaredon. Tiel, ankaŭ unu-manulo povis partopreni en la sociaj interrilatoj, kaj do senti sin vera viro.
 
 Sylvain Lelarge
-
-La supraj fotoj aperis en la nederlandlingva verko Wat is dat de Sylvain Lelarge. Fotis ilin Peter Kollányi.
 
 Sylvain Lelarge estas franca esperantisto loĝanta en Nederlando. Li instruas la francan lingvon al nederlandanoj, kiuj planas loĝi en Francio. Dum la Universalaj Kongresoj de Esperanto jam de 25 jaroj li instruas ankaŭ Esperanton kun sia edzino Katalin Kováts (la fondinto kaj direktorino de www.edukado.net).
 
@@ -37,8 +33,6 @@ klingo: la akra parto de tranĉilo aŭ de alia ilo uzata por tranĉi.
 parto-preni: esti unu el la homoj, kiuj ĉe-estas kaj kune aktivas en iu komuna agado.
 
 razi: forigi harojn de la vizaĝo, kruroj, aŭ aliaj korpo-partoj; razilo: ilo por forigi harojn de la vizaĝo, kruroj, aŭ aliaj korpo-partoj.
-
-Razilo: Marcus Wengenroth, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1148068
 
 temperaturo: kvanto de varmeco.
 

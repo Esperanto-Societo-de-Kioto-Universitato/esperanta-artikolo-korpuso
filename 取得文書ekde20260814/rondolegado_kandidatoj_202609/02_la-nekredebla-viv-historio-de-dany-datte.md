@@ -1,7 +1,5 @@
 La nekredebla viv-historio de Dany Dattel
 
-Eblas aŭskulti ĉi tiun artikolon, kiun voĉlegis Thomas Bormann.
-
 La suba artikolo estis prezentita kiel prelego en julio 2025 dum la Universala Kongreso en Burno (Brno). Ĝi estas mallongigita kaj simpligita por la legantoj de uea.facila.
 
 Jen la nekredebla viv-historio de Dany Dattel, judo el Germanio.

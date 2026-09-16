@@ -1,18 +1,12 @@
 Johann Schleyer kaj la Dia tasko
 
-Eblas aŭskulti ĉi tiun artikolon, kiun voĉlegis Martin Ptasiński.
-
 Johann Martin Schleyer (1831-1912) estis germana katolika pastro, kiu oficis en la sudgermana urbo Konstanco en la dua duono de la 19-a jarcento. Sed li estis ne nur pastro: li estis ankaŭ poligloto, kiu dum sia vivo okupiĝis pri ĉirkaŭ 80 lingvoj. Laŭdire li aktive parolis kvindek el ili. Li bone regis la germanan, latinan, grekan, anglan, francan, italan, hispanan, rusan, hungaran kaj ankaŭ la ĉinan.
-
-Johann Martin Schleyer en 1908
 
 Laŭ lia propra informo, dum sendorma nokto en la 1870-aj jaroj aperis al li anĝelo en sonĝo, kiu ordonis al li “krei universalan lingvon por unuigi la homaron”. Tio – laŭ li – estis Dia deziro, kaj li estos la Dia ilo. En 1879 Schleyer publikigis sian lingvon Volapük (Volapuko en Esperanto) kaj tiel plenumis tiun Dian taskon.
 
 Schleyer bonege parolis la anglan kaj ankaŭ estis granda entuziasmulo pri la ĉina lingvo. Fascinis lin la mallongeco de ĉinaj vortoj, kaj ankaŭ la son-sistemo de la ĉina lingvo. Li do havis la ideon, krei lingvon kun laŭ-eble nur unu- aŭ du-silabaj vortoj, sen multaj konsonantoj. La vortojn mem li prenis el la angla. Tiel ekestis vortoj kiel vol (mondo, laŭ la angla world) kaj pük (paroli/lingvo, laŭ la angla speak). La simpleco de la ĉina gramatiko tamen fascinis Schleyer-on malpli ol ĝia sonsistemo – tiurilate lia lingvo restis tre latineca. Tial Volapük havas kvin kazojn, same kiel la latina. La genitivon ekzemple oni markas per la finaĵo -a; vola do signifas “de la mondo”. La nomo Volapük signifas “Lingvo de la mondo”.
 
 Schleyer estis tre diktatoreca rilate al sia lingvo: kvankam ekzistis lingva akademio de Volapük (Kadäm Volapüka), li mem tenis la “kopirajton” pri sia lingvo. Finfine ĉiun decidon, ekzemple pri novaj vortoj, faris li mem; la Akademio ne rajtis fari tion sen lia konsento. Tiu fakto, kaj ankaŭ la malfacila gramatiko, gvidis al malkresko de la Volapuka movado post la komenca entuziasmo. Tamen pro manko de konkuranto, en la 1880-aj jaroj ĝi havis pli ol 100 000 parolantojn.
-
-La Akademio de Volapuko ĉ. 1887 (Bildarchiv Austria)
 
 Verŝajnas, ke Zamenhof konis (aŭ eĉ mem lernis) Volapukon kaj sciis pri ties malavantaĝoj. Li do bazis sian propran lingvon sur la latina kaj faciligis la gramatikon. Kaj pli grave: li rezignis pri ĉia kopirajto, kaj diris, ke Esperanto apartenas al sia parolantaro. Per la apero de Esperanto komenciĝis la malkresko de Volapük. Post la morto de Schleyer estis ankoraŭ provoj reformi kaj savi la lingvon, sed sensukcese.
 
@@ -48,8 +42,6 @@ malavantaĝo: tio, kio alportas pli malbonan situacion, malgajnon aŭ malutilon.
 
 pastro: religia funkciulo, kiu prizorgas religiajn aferojn kaj faras aŭ gvidas di-servojn.
 
-PadreRenzo, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, pere de Wikimedia Commons
-
 plan-lingvo: lingvo planita kaj kreita de homo aŭ homoj, anstataŭ evolui nature.
 
 plenumi: plene fari tion, kio necesas; efektivigi.
@@ -63,5 +55,3 @@ rezigni: forlasi iun esperatan aŭ deziratan celon; decidi ne plu fari ion, uzi 
 silabo: parto de vorto, ekzemple la vorto “saluton” havas tri silabojn: sa-lu-ton.
 
 sonĝo: bildoj kaj ideoj, kiujn oni vidas aŭ spertas dum la dormo.
-
-The Nightmare (1781), Henry Fuseli, Detroit Institute of Arts CC BY 2.5

@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-09-15T16:12:44.628587+00:00"
+generated_at: "2026-09-16T16:27:25.373238+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-08-14 – 2026-08-31"
 ---
@@ -12,7 +12,7 @@ time_range: "2026-08-14 – 2026-08-31"
 
 **URL:** http://esperanto.china.org.cn/2026-08/14/content_118608427.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 Sithembiso Bhengu, direktoro de la Instituto Chris Hani de Sud-Afriko, lastatempe diris, ke laŭ lia analizo, mem-reformado emfazas memdisciplinon inter partianoj kaj oficialuloj, kaj celas plibonigi socian administradon kaj antaŭenigi ĉinan modernigon. La emfazo de la Komunista Partio de Ĉinio (KPĈ) pri mem-reformado kaj evoluigo centrita je la popolo alportas valoran sperton al afrikaj landoj, kiuj celas plifortigi administradon kaj pliigi publikan fidon, tion diris la sudafrika politika analizisto.
 
@@ -37,7 +37,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-08/14/content_118611738.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 De junio ĝis aŭgusto estas la ora periodo por spekti la Laktan Vojon en norda hemisfero. Videblas en multaj lokoj de Ĉinio la brilanta Lakta Vojo.
 
@@ -54,7 +54,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Bui Hai Mung
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio, Kulturo,Scienco kaj Sporto
 
 258 000 juanoj, tio estas la plej alta nuna reklamprezo por unu filmeto pli longa ol 60 sekundoj de Fang Taozi, la ĉefaktorino de la AI-produktita mallonga serio La Maldungita Knabino. Por konataj famuloj tia sumo estas kutima, sed Fang Taozi neniam aperis antaŭ filmkamerao. Ŝi ne estas vera homo. Ŝi estas virtuala rolulo kreita per AI. Ŝiaj vizaĝo, voĉo, ĉiutagaj filmetoj kaj afiŝoj en sociaj retejoj... ĉiuj estas generitaj de AI. Post la publikigo de la serio en Douyin meze de 2026, ĝi rapide superis 200 milionojn da spektadoj. Fang Taozi poste daŭrigis sian "vivon" ekster la serio. Ŝi aperas en sociaj retejoj, kunlaboras kun reklamantoj kaj konstante kreskigas sian sekvantaron. Laŭ ĉinaj amaskomunikiloj, unu reklama filmeto de ŝi nun kostas inter 168 000 kaj 258 000 juanoj. Tio vekas interesan demandon: Kiel rolulo, kiu neniam ekzistis en la reala mondo, povas fariĝi tiel valora? Fang Taozi ŝajnas esti nur alia produkto de genera AI. Sed por la filmindustrio ŝi simbolas ion multe pli gravan. La serio mem estas nur la komenco. Post la fino de la rakonto, la rolulo plu kreas ekonomian valoron per sociaj retoj, reklamoj kaj aliaj komercaj agadoj.
 
@@ -99,7 +99,7 @@ Verkis: Bui Hai Mung
 
 **URL:** http://esperanto.china.org.cn/2026-08/19/content_118654738.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 La 12-an de aŭgusto ĉina eksĉefministro Zhu Rongji forpasis en Pekino je la aĝo de 98 jaroj. Li servis kiel membro de la Konstanta Komitato de la Politika Buroo de la 14a kaj 15a Centraj Komitatoj de la Komunista Partio de Ĉinio (KPĈ).
 
@@ -120,7 +120,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-08/19/content_118654739.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 La 17-an de aŭgusto en la Granda Popola Halo de Pekino, okazis solena kunveno memore al la centa datreveno de naskiĝo de la forpasinta ĉina gvidanto Jiang Zemin. Ĉina prezidanto Xi Jinping, ankaŭ ĝenerala sekretario de la Centra Komitato de la Komunista Partio de Ĉinio kaj prezidanto de la Centra Milita Komisiono, ĉeestis la kunvenon kaj faris gravan parolon.
 
@@ -143,7 +143,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 Unu el la vizitindaj lokoj de la Ruĝarmea Strato en Hadapu, Gansu-provinco de Ĉinio, estas antikva poŝtoficejo, kie la ĉina ruĝa armeo akiris gravajn strategiajn informojn dum la Longa Marŝo. Tio ŝanĝis la vojon de la Longa Marŝo kaj la historion de la lando.
 
@@ -170,7 +170,7 @@ Verkis kaj fotis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2026-08/20/content_118657083.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Plej Freŝaj, Novaĵoj, Aktuala temo
 
 Matene de la 19-a de aŭgusto Ĉinio lanĉis la reuzeblan raketon Zhuque-3 Y2 en la Komerca Kosma Noviga Provzono Dongfeng, nordokcidenta Ĉinio.
 
@@ -189,7 +189,7 @@ Redaktoro: Gao Shuyuan
 
 **URL:** http://esperanto.china.org.cn/2026-08/21/content_118657062.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** E-novaĵoj
 
 La premio Deguĉi por 2026 estas aljuĝita al Kuba Esperanto-Asocio (KEA). Kuba Esperanto-Asocio estis fondita la 16-an de junio 1979 kaj en 2026 festis sian 47-an datrevenon. Dum preskaŭ duonjarcento ĝi evoluigis viglan agadon por instruado kaj disvastigo de Esperanto kaj internacia kunlaboro, konservante fortajn kontaktojn kun la tutmonda Esperanto-komunumo. Unu el ĝiaj plej gravaj atingoj estas la Esperanto-Centro Havano, sidejo de KEA kaj vera hejmo de la kuba Esperanto-movado. La Centro gastigas bibliotekon, libroservon kaj diversajn spacojn por kursoj, kunvenoj kaj kulturaj aranĝoj. Ĝi estas loko, kie kubaj esperantistoj renkontiĝas, lernas, aktivas kaj akceptas eksterlandajn vizitantojn, de kio ekestas aparte grava internacia dimensio: la Centro organizas lingvoinstruadon ankaŭ por eksterlandanoj, interalie pri la hispana lingvo kaj Esperanto. Tio kreas rektajn kontaktojn inter kubanoj kaj homoj el aliaj landoj tiel, ke lingvolernado fariĝas ankaŭ rimedo por konatiĝo kun la loka kulturo kaj Esperanto, subtene al interhoma renkontiĝo kaj internacia amikeco.
 
@@ -214,7 +214,7 @@ En aprilo Ĉina Esperanto-Ligo donacis al KEA UNESKO-Kurieron kiel riĉigon al l
 
 **URL:** http://esperanto.china.org.cn/2026-08/21/content_118657100.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 La 19-an de aŭgusto ĉina robotika entrepreno Unitree fariĝis la unua fabrikanto de homformaj robotoj listigita kiel firmao kun A-nivelaj akcioj, kio markas gravan paŝon por la homforma roboto en ĝia transformo de teknologia akumulado al skaleca kaj komercigita disvolviĝo.
 
@@ -231,7 +231,7 @@ Redaktoro: Gao Shuyuan
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Kulturo,Scienco kaj Sporto
 
 Antaŭ 52 jaroj, la 15-an de aŭgusto 1974, Brazilo kaj Ĉinio subskribis la komunan komunikon, kiu oficialigis siajn diplomatiajn rilatojn. Tiu unua paŝo estis modesta, sed saĝa: la tiama brazila registaro, sub la gvido de generalo Ernesto Geisel, vidis en la alproksimiĝo al Ĉinio okazon por diversigi komercajn partnerojn kaj plivastigi komercan horizonton. Sekve estis laŭgrada evoluo, iom bremsita de internaj tumultoj en Brazilo kaj rekomencita kun forto en la 1990-aj jaroj, kaj ĝi fariĝis en la lastaj du jardekoj unu el la plej dinamikaj kaj ampleksaj dulandaj rilatoj de la planedo.
 
@@ -296,7 +296,7 @@ Verkis: Rafael Henrique Zerbetto
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio, Kulturo,Scienco kaj Sporto
 
 La ĉina enmigrado en Brazilon komenciĝis preskaŭ jarcenton antaŭ la japana, kiam ĉinaj viroj estis dungitaj por labori en teplantejoj en Rio-de-Ĵanejrio. Multaj el ili post la fino de kontrakto elektis fariĝi komercistoj aŭ manlaboristoj, estigante tradicion, kiu daŭras en la lando: eĉ nuntempe plejparto de la ĉinoj en Brazilo okupiĝas pri komerco.
 
@@ -373,7 +373,7 @@ Verkis kaj fotis: Rafael Henrique Zerbetto
 
 **Author:** Bui Hai Mung
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio, Kulturo,Scienco kaj Sporto
 
 Antaŭ nelonge Lin Yu, inĝeniero pri inteligenta veturado en Pekino, aĉetis malgrandan retrostilan fotilon. Ĝia bildkvalito ne estas tre bona, sed li ŝatas ĝian stilon kaj la senton malfermi la kovrilon de la celilo. "Mi volis provi alian manieron foti kaj simple ĝui la fotilon dum vojaĝo," li diris. Se praktika utilo ne estas la ĉefa kialo por aĉeti ion, por kio la konsumanto pagas?
 
@@ -430,7 +430,7 @@ Verkis: Bui Hai Mung
 
 **Author:** Bui Hai Mung
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 La 21-an de aŭgusto, en la centro Eye of the Greater Bay Area en Shenzhen, mi partoprenis en la evento "Azia-Pacifika Junulara Renkontiĝo · Energio por la Estonteco", kune kun pli ol 60 reprezentantoj el 13 landoj kaj regionoj.
 
@@ -442,7 +442,7 @@ Tri APEK-kunvenoj en Ĉinio
 
 Ĉinio aliĝis al APEK en 1991. Dek jarojn poste, Ŝanhajo gastigis la kunvenon, kiam Ĉinio estis tuj antaŭ sia aliĝo al la Monda Organizo pri Komerco. En 2014 APEK venis al Pekino, kiam Ĉinio jam fariĝis la dua plej granda ekonomio de la mondo. En 2026 la situacio denove estas alia. AI kaj la cifereca ekonomio rapide ŝanĝas produktadon kaj ĉiutagan vivon, kaj samtempe kreskas la bezono de energio.
 
-La ĉina ministro pri eksterlandaj aferoj Wang Yi iam metis Ŝanhajon, Pekinon kaj Shenzhen sur la saman 25-jaran templinion. Laŭ li, tiu periodo montras kaj la evoluon de azi-pacifika kunlaboro kaj la disvolviĝon de Ĉinio kune kun la regiono. La temo de APEK 2026 estas “Konstrui Azi-Pacifikan Komunumon por Komuna Prospero”, kun tri prioritatoj: malfermo, novigo kaj kunlaboro.  Kaj ĉi-foje la urbo elektita por la gvidantara kunveno estas Shenzhen.
+La ĉina ministro pri eksterlandaj aferoj Wang Yi iam metis Ŝanhajon, Pekinon kaj Shenzhen sur la saman 25-jaran templinion. Laŭ li, tiu periodo montras kaj la evoluon de azi-pacifika kunlaboro kaj la disvolviĝon de Ĉinio kune kun la regiono. La temo de APEK 2026 estas “Konstrui Azi-Pacifikan Komunumon por Komuna Prospero”, kun tri prioritatoj: malfermo, novigo kaj kunlaboro. Kaj ĉi-foje la urbo elektita por la gvidantara kunveno estas Shenzhen.
 
 Kial Shenzhen?
 
@@ -491,7 +491,7 @@ Verkis: Bui Hai Mung
 
 **Author:** Bui Hai Mung
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio, Kulturo,Scienco kaj Sporto
 
 Iun nokton en afervojaĝo mi ne fartis bone. Estis jam malfrue, do mi mendis kelkajn medikamentojn per la apo Meituan. Post nelonge, la liveristo atingis la hotelon. Mi pensis, ke mi devus malsupreniri por preni ilin, sed tiam eksonis la telefono en mia ĉambro. La medikamentoj jam estis antaŭ la pordo. La liveristo estis transdoninta la pakaĵon al roboto en la vestiblo. Kaj la roboto mem prenis la lifton, trovis mian ĉambron kaj portis la medikamentojn ĝis mia pordo. Tio ne estis mia sola tia sperto en Ĉinio. En Hefei mi mendis kafon preparitan de roboto. En Wuhan mi veturis per robottaksio sen ŝoforo, ankaŭ tie mi vidis elektran vertikale startan kaj surteriĝan aviadilon (eVTOL).
 
@@ -550,7 +550,7 @@ Verkis kaj fotis: Bui Hai Mung
 
 **URL:** http://esperanto.china.org.cn/2026-08/28/content_118668442.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 La roboto de la teamo Honor Shuangchi en la finalo de 1 500-metra kurado (Xinhua/Sun Fei)
 
@@ -605,7 +605,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Plej Freŝaj, Novaĵoj, Aktuala temo
 
 Imagu mondon, kie la Suno baldaŭ eksplodos, kaj la homaro en malespero unuiĝas por movi la tutan planedon ekster la sunsistemon. Jen la rakonto de Vaganta Tero 2, fama ĉina sciencfikcia filmo, kiu premieris en brazilaj kinejoj la 20-an de aŭgusto. La furorfilmo, kun mirigaj vidaj efektoj, enspezis pli ol 500 milionojn da usonaj dolaroj en Ĉinio en nur 16 tagoj kaj sekve ankaŭ sukcesis en kinejoj de aliaj landoj, fariĝinte unu el la plej grandaj sukcesoj de kaj publiko kaj kritiko en la ĉina kinarto.
 
@@ -644,7 +644,7 @@ Verkis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2026-08/28/content_118669077.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Naturo kaj Mediprotekto
 
 En 1999, usona instruisto Ronald Sakolsky vizitis ĉinan urbon Luoyang kaj faris instruadon de la angla en tiu ĉi urbo, kadre de interŝanĝa programo de instruistoj inter Ĉinio kaj Usono. Iutage, li hazarde spektis televidan novaĵraporton pri la senlaca laboro de Yin Yuzhen, kaj li profunde kortuŝiĝis, sekve li kolektis 5 000 usonajn dolarojn por helpi Yin kaj ŝian edzon por forstigi kontraŭ dezertiĝo.
 
@@ -667,7 +667,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-08/28/content_118669130.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 La 26-an de aŭgusto ĉina prezidanto Xi Jinping ordonis plenforte serĉi kaj savi homojn, kiuj malaperis en ŝlimfluo en Nepalo kaŭzinte katastrofon al la landlima haveno Gyirong en la Xizang-a Aŭtonoma Regiono de Ĉinio.
 
@@ -686,7 +686,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-08/29/content_118673163.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 La 27-an de aŭgusto, Lin Jian, proparolisto de la ĉina Ministerio de Eksterlandaj Aferoj, diris, ke la debrifluo okazinta en Gyirong de Xizang kaŭzis grandan nombron da mortoj kaj vundoj de ĉinaj kaj nepalaj popoloj. Nun la ĉina flanko kunlaboras kun la nepala flanko por kune plenumi sukuradon.
 
@@ -720,7 +720,9 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-08/31/content_118672030.htm
 
-**Categories:** Plej Freŝaj
+**Author:** Li Yang
+
+**Categories:** Socia Vivo
 
 de Li Yang
 
@@ -745,7 +747,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-08/31/content_118673203.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 La 30-an de aŭgusto ekfunkciis urĝbezona bazstacio en la landlima haveno Gyirong de Xizang-a Aŭtonoma Regiono de Ĉinio. Situante 1.2 kilometrojn for de la landlimo, ĝi estas la unua urĝbezona stacio proksime al la landlimo. La stacio faciligos la savadon, vojiriparadon, vartransportadon kaj komunikadon inter la savistoj.
 
@@ -760,7 +762,7 @@ Redaktoro: Gao Shuyuan
 
 **URL:** http://esperanto.china.org.cn/2026-08/31/content_118673205.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 La 30-an de aŭgusto la Ministerio pri Kriza Administrado informis, ke laŭ la plej nova surloka monitorado pri la ŝlimflua katastrofo, la nova barlago, kiu formiĝis pro antaŭa terŝoviĝado, jam nature superfluis kaj baldaŭ malpleniĝos. La savado nun aktive daŭras.
 

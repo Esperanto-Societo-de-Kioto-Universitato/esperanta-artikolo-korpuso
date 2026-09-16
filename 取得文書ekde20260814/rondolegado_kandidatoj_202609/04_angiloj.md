@@ -1,9 +1,5 @@
 Angiloj
 
-Eŭropa angilo. Foto: Wikimedia Commons / Emőke Dénes, CC BY-SA 4.0
-
-Eblas aŭskulti ĉi tiun artikolon, kiun voĉlegis Derek Roff.
-
 Neniu scias kiel angiloj reproduktiĝas. La eŭropa angilo (Anguilla anguilla) estis ofta besto en la sen-salaj riveroj de Eŭropo. Tamen, dum jarcentoj neniu iam ajn vidis angilojn seks-kuniĝi, nek trovis iliajn ovojn.
 
 La greka filozofo Aristotelo en la 4-a jarcento antaŭ nia epoko supozis, ke angiloj devenas de lumbrikoj. La antikvaj britoj kredis, ke haroj el la vostoj de ĉevaloj fariĝas angiloj.
@@ -15,8 +11,6 @@ En 1777, Carlo Mondini el la itala urbo Bolonjo trovis unu-solan angilon kun ova
 En 1874, preskaŭ jarcenton post la trovo de ovarioj, pola fakulo Szymon Syrski sukcesis trovi la testikojn de unu-sola angilo en Triesto, Italio. Tamen, pli fama ol Syrski estis juna sciencisto, kiu venis al Triesto en 1876 por certigi la trovaĵon. Tiu juna sciencisto nomiĝis Sigmund Freud. Li distranĉis 400 angilojn, sed neniam sukcesis trovi aliajn testikojn. Tial li forlasis la naturajn sciencojn por okupiĝi pri psikanalizado.
 
 Kvankam oni sukcese montris, ke angiloj ja posedas ovariojn kaj testikojn, ankoraŭ neniu vidis ovojn de angiloj, nek trovis la lokon, kie ili naskiĝas. Angilidoj estas travideblaj; tial estas malfacile kapti ilin en la vasta maro. Komence de 1907, dana biologo Johannes Schmidt fiŝkaptis tra la Atlantika Maro por trovi pli kaj pli junajn angilojn. Antaŭ ol atingi sian plenkreskan formon, angilidoj komencas sian vivon kiel travideblaj, malgrandegaj vermoj, nomataj “vitraj angiloj”.
-
-Vitraj angiloj. Foto de Wikipedia / Uwe Kils - https://en.wikipedia.org/wiki/Image:Glasseelskils.jpg, CC BY-SA 3.0.
 
 Dum dek sep jaroj Schmidt vojaĝis, kaptante pli kaj pli malgrandajn ¨vitrajn angilojn¨. Fine, en Sargasa Maro (regiono de norda Atlantiko), li trovis angilidojn malpli ol unu centimetron longajn. Tiel Schmidt trovis la lokon, kie naskiĝas la eŭropa angilo.
 

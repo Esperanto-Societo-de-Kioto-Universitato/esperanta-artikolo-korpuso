@@ -2,8 +2,6 @@
 
 Por kio utilas Esperanto? Juna esperantisto en Kabulo, respondas: ”Mi esperas, ke Esperanto helpos al mi lerni pri aliaj kulturoj kaj komuniki kun homoj ekster mia lando. Ĝi donas al mi senton, ke mi ne estas tute izolita.” Sed dum li mesaĝadis kun Libera Folio, la retligo kun la ekstera mondo estis interrompita de la talibanoj.
 
-Strata vidaĵo en Afganio.
-
 Lia vera nomo estas alia, sed ni nomu lin Bahram, ĉar en Afganio estas danĝere esprimi vidpunktojn, kiuj ne kongruas kun la oficiale akceptataj, kaj ankaŭ kontaktoj kun eksterlando povas esti riskaj. Por kontraŭlabori ”malmoralan aktivadon” la talibana registaro de Afganio lastatempe komencis limigi la aliron al interreto, kaj tiel ankaŭ nia kontakto kun Bahram portempe estis rompita.
 
 Libera Folio ekhavis kontakton kun Bahram tra esperantista reta forumo, kaj li konsentis iom rakonti pri si mem.
@@ -19,8 +17,6 @@ La kontaktoj kun eksterlando nuntempe estas limigitaj, kaj Bahram rakontas ke li
 – Jes, la situacio ne ĉiam facilas. Kontaktiĝi kun eksterlando povas esti malfacile, foje pro tekniko, foje pro sociaj kialoj. Sed interreto donas iun eblecon. Aliro al interreto ĝenerale estas ebla, sed foje okazas interrompoj. Interreto estas multe pli multekosta ol en niaj najbaraj landoj kiel Pakistano kaj Irano. Multaj eksterlandaj retejoj ne funkcias ĉi tie, kaj iuj aplikaĵoj, kiel Tik Tok kaj la ludo Pubg, estas blokitaj.
 
 La rajtoj de virinoj en Afganio nuntempe estas preskaŭ neekzistantaj. En la universitato de Bahram estas nek virinaj instruistoj nek virinaj studentoj. Laŭ novaĵo de BBC libroj verkitaj de virinoj lastatempe estis forigitaj el universitataj bibliotekoj de Afganio kaj malpermesitaj por uzo en instruado.
-
-Strata vidaĵo en Kabulo.
 
 – La vivo de virinoj estas tre limigita ĉi tie. Ili eĉ ne havas aliron al bazaj rajtoj kiel edukado post la sesa klaso. Ili ne povas iri al la banejo aŭ parko nek stiri aŭton. Vere, eĉ se mi multe dirus, ĝi estus malmulte por priskribi la situacion. Pri la situacio de virinoj, mi povas paroli kun miaj proksimaj amikoj, ĉirkaŭ ses personoj. Sed kun aliaj homoj ne eblas paroli, ĉar ĉi tie estas tre danĝere, Bahram rakontas.
 

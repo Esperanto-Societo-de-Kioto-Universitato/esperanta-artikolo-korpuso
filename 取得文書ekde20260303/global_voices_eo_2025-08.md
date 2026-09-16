@@ -1,6 +1,6 @@
 ---
 source: "Global Voices en Esperanto (eo.globalvoices.org)"
-generated_at: "2026-09-15T22:51:26.371271+00:00"
+generated_at: "2026-09-16T16:23:52.157956+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-08-14 – 2025-08-19"
 ---
@@ -41,9 +41,13 @@ Komunikiloj rusiaj sendependaj ankoraŭ ne ankoraŭ ricevis la etikedon “ekstr
 
 **URL:** https://eo.globalvoices.org/2025/08/14304/
 
-**Categories:** Angla, Blogo, Civitanaj komunikiloj, Freŝa Novaĵo, Homaj rajtoj, Irano, Israelo, Mezoriento kaj Nordafriko, Milito kaj konflikto, Palestino, Parollibereco, Politiko, Ĉefaĵo
+**Author:** Aza Delgado Orduño
+
+**Categories:** Angla, Blogo, Civitanaj komunikiloj, Freŝa Novaĵo, Homaj rajtoj, Irano, Israelo, Mezoriento kaj Nordafriko, Milito kaj konflikto, Palestino, Parollibereco, Politiko, Ĉefaĵo, The Bridge
 
 Usona-israela bombado en Teherano [eo], la 3-an de marto 2026. Foto de Avash Media en Vikimedia Komunejo [eo] (CC BY 4.0).
+
+De Bahereh Sahebi
 
 Hodiaŭ en Irano, dum misiloj kaj aeratakoj de Israelo kaj Usono [eoj] trafas la landon, la ĉiutaga vivo okazas sub videbla ĉeesto de sekurecfortoj. Ekde la protestoj kiuj eksplodis la 28-an de decembro 2025, homrajtaj grupoj raportis pliiĝon de armitaj patroloj kaj kontrolpunktoj sur ĉefvojoj kaj urbaj kruciĝoj.
 
@@ -173,7 +177,9 @@ La juna sekcio de Parti Sosialis Malaysia [Malajzia Socialista Partio] estis dev
 
 Kun la temo “PRIDECARE: Kviraj Rakontoj kaj Konscio pri Seksa Sano,” la ateliero organizita de la Malajzia Socialista Partio Pemuda Sosialis, estis origine planita por la 21-a de Junio. Post kiam la evento estis diskonigita en socia retejo lastmonate, la ministro de religiaj aferoj, Na’im Mokhtar, diris ke ĝi “klare defias sociajn normojn kaj religiajn valorojn apogitajn de plejparte da malajzianoj.” Li instigis la policon inspekti la agadon.
 
-Mi alvokas ĉiujn partiojn helpi defendi la socian kaj moralan strukturon de nia socio kontraŭ ajna elemento kiu povas subfosi niajn kredon, etikon, kaj nacian harmonion. Deviaj, malkonformaj kulturoj neniam estos akceptataj kiel normo en Malajzio.
+Mi alvokas ĉiujn partiojn helpi defendi la socian kaj moralan strukturon de nia socio kontraŭ ajna elemento kiu povas subfosi niajn kredon, etikon, kaj nacian harmonion.
+
+Deviaj, malkonformaj kulturoj neniam estos akceptataj kiel normo en Malajzio.
 
 Poste, 21 policaj raportoj estis registritaj ĉe 11 distriktaj centroj kontraŭ la ateliero.
 
@@ -207,7 +213,11 @@ Ili ankaŭ devas sin deteni de la uzo de stigmatiga lingvo, kiu povas plu kreski
 
 Zaid Malek de Advokatoj por Libereco (angle Lawyers For Liberty) argumentis ke oficialuloj ne faru malican ĉasadon surbaze de religia ideologio.
 
-…la fakto ke Islamo estas la oficiala religio ne rajtigas la registaron fari sorĉistin-ĉasadon kontraŭ eventoj, kiuj supozeble malobservas la principojn de Islamo. Ĉiukaze, ĉi tiu publiksana evento por malplimulta grupo neniel ofendas islamon. Islamo instigas kompaton kaj helpon al tiuj, kiuj bezonas ĝin. La registaro ankaŭ devas certigi ke ministroj ne malrespondece faru eldiron sen leĝa bazo nek incitu malamon kontraŭ malplimulaj grupoj.
+…la fakto ke Islamo estas la oficiala religio ne rajtigas la registaron fari sorĉistin-ĉasadon kontraŭ eventoj, kiuj supozeble malobservas la principojn de Islamo.
+
+Ĉiukaze, ĉi tiu publiksana evento por malplimulta grupo neniel ofendas islamon. Islamo instigas kompaton kaj helpon al tiuj, kiuj bezonas ĝin.
+
+La registaro ankaŭ devas certigi ke ministroj ne malrespondece faru eldiron sen leĝa bazo nek incitu malamon kontraŭ malplimulaj grupoj.
 
 
 ---
@@ -234,17 +244,29 @@ Svitlana Pryzynchuk, foto de la eldoneja privata arkivo, uzata permesite.
 
 Filip Noubel (FN): Kio estas la celo kaj historio de la eldonejo Safran?
 
-Svitlana Pryzynchuk (SP): En 2016 mi rimarkis ke mankas al ni ukrainlingva literaturo pri Azio. La situacio de la fako tiel nomita ‘Orientaj studoj’ en Ukrainio estis tre malĝoja. Dum la stalinistaj purigoj [eo] ĉirkaŭ 1930, preskaŭ ĉiuj ukrainaj fakuloj pri aziaj studoj kaj lingvoj estis subpremitaj, kaj ukrainoj estis malpermesitaj studi aŭ fari esploron pri Orienta Azio, kiu estis taksita kiel ‘burĝa-naciista agado’ kontraŭ la prioritatoj fiksitaj laŭ komunismo. Ankaŭ estis malpermesite lerni iun ajn orientazian lingvon en universitatoj de Ukrainio. Ukrainoj povis fari tion nur en Moskvo, Leningrado [nun Sankt-Peterburgo], aŭ Vladivostoko. Post la dissolvo de Sovetunio en 1991, en Ukrainio restis neniu ukrainlingva literaturo pri Azio. Ĝi eĉ ne havis ukrainan tradukon de la ĉefaj klasikaj verkoj. Ĉi tiu periodo okazis samtempe kiam Azio ekdisvolviĝis tre rapide (unue Japanio, Koreio, Tajvano, kaj poste kontinenta Ĉinio), sed al Ukrainio mankis scion kaj profesian informon pri Azio. Preskaŭ ĉiuj disponeblaj informoj venis de Rusio en la rusa lingvo. Sed historie, dum miloj da jaroj, Ukrainio estis profunde ligita al Azio tra la Granda Stepo, de la skitoj [eo] kaj ĥazaroj [eo] ĝis la Mongola Ora Hordo [eo], la Krimea Ĥanlando kaj la Otomana Imperio [eo]. Altranga moderna historiisto de Ukrainio, Mykhailo Hrushevsky [1866–1934] skribis: ‘…La orienta elemento estis kaj daŭre estas forta kaj aktiva en niaj vivoj, tre komplikaj estas ĝiaj partoj.’ En 2018, ni fondis nian azian eldonejon, kiu estas la unua tia en Ukrainio, por alfronti la modernajn defiojn de tutmondiĝo, por respondi al la kresko de Azio, kaj por superi la postkolonian heredaĵon de Ukrainio. Ni verkas niajn librojn mem kaj eldonas ukrainajn tradukojn de antikvaj kaj nuntempaj literaturoj el Azio. Verkante pri malsamaj genroj, ni provas doni al ukrainoj pli bonan komprenon pri aziaj societoj kaj kulturoj.
+Svitlana Pryzynchuk (SP): En 2016 mi rimarkis ke mankas al ni ukrainlingva literaturo pri Azio. La situacio de la fako tiel nomita ‘Orientaj studoj’ en Ukrainio estis tre malĝoja. Dum la stalinistaj purigoj [eo] ĉirkaŭ 1930, preskaŭ ĉiuj ukrainaj fakuloj pri aziaj studoj kaj lingvoj estis subpremitaj, kaj ukrainoj estis malpermesitaj studi aŭ fari esploron pri Orienta Azio, kiu estis taksita kiel ‘burĝa-naciista agado’ kontraŭ la prioritatoj fiksitaj laŭ komunismo. Ankaŭ estis malpermesite lerni iun ajn orientazian lingvon en universitatoj de Ukrainio. Ukrainoj povis fari tion nur en Moskvo, Leningrado [nun Sankt-Peterburgo], aŭ Vladivostoko. Post la dissolvo de Sovetunio en 1991, en Ukrainio restis neniu ukrainlingva literaturo pri Azio. Ĝi eĉ ne havis ukrainan tradukon de la ĉefaj klasikaj verkoj.
+
+Ĉi tiu periodo okazis samtempe kiam Azio ekdisvolviĝis tre rapide (unue Japanio, Koreio, Tajvano, kaj poste kontinenta Ĉinio), sed al Ukrainio mankis scion kaj profesian informon pri Azio. Preskaŭ ĉiuj disponeblaj informoj venis de Rusio en la rusa lingvo.
+
+Sed historie, dum miloj da jaroj, Ukrainio estis profunde ligita al Azio tra la Granda Stepo, de la skitoj [eo] kaj ĥazaroj [eo] ĝis la Mongola Ora Hordo [eo], la Krimea Ĥanlando kaj la Otomana Imperio [eo]. Altranga moderna historiisto de Ukrainio, Mykhailo Hrushevsky [1866–1934] skribis: ‘…La orienta elemento estis kaj daŭre estas forta kaj aktiva en niaj vivoj, tre komplikaj estas ĝiaj partoj.’
+
+En 2018, ni fondis nian azian eldonejon, kiu estas la unua tia en Ukrainio, por alfronti la modernajn defiojn de tutmondiĝo, por respondi al la kresko de Azio, kaj por superi la postkolonian heredaĵon de Ukrainio. Ni verkas niajn librojn mem kaj eldonas ukrainajn tradukojn de antikvaj kaj nuntempaj literaturoj el Azio. Verkante pri malsamaj genroj, ni provas doni al ukrainoj pli bonan komprenon pri aziaj societoj kaj kulturoj.
 
 Kovrilo de la ne-fikcia libro de Sanmao, pri okazaĵo en la Saharo. Foto de Filip Noubel, uzata permesite.
 
 FN: Vi jam tradukis kaj eldonis japanajn kaj tajvanajn literaturojn. Kiel estis la opinioj pri tiuj tradukoj? Kiel estas la videbleco de tajvana literaturo hodiaŭ en Ukrainio?
 
-SP: Jes, ni jam eldonis modernan japanan klasikan verkon, ‘Stebkovrilo’ (japane 蒲団, ukraine Постіль), rakontetaro de Tayama Katai (田山 花袋). Ĉi-printempe ni ankaŭ eldonis ‘La Subiranta Suno’ (japane 斜陽, ukraine Надзахідне сонце), prozetaro de Dazai Osamu (太宰 治). Temas pri Tajvano, ni jam eldonis tri nuntempajn fikciajn verkojn kaj naŭ volumojn de diversaj tajvanaj bildrakontoj. Kiam ni unue eldonis la premiitan novelon ‘La Ŝtelita Biciklo’ (ĉine 單車失竊記, ukraine Хроніки поцуплених роверів) de Wu Ming-yi (吳明益), kaj ‘La Rakontoj de la Saharo’ (ĉine 撒哈拉的故事, ukraine Історії Сахари) de Sanmao (三毛), ĝi estis tute nova afero en nia libro-merkato. Ni rimarkis la eblan valoron de tiuj libroj, sed la vendado estis ankoraŭ malrapida. Pro tio, la sekvonta fikcio kun la titolo ‘Fantoma Urbo’ (ĉine 鬼地方, ukraine Місто привидів) de Kevin Chen (陳思宏) estis ĵus eldonita fine de 2024. Ĉi tio okazis samtempe kiam la ukraina libro-merkato kreskegis. Ĉi tio okazis pro la ampleksa rusia invado en 2022 kaj la sekvinta malpermeso kontraŭ importitaj libroj el Rusio. La vendado estis pli multe ol nia supozo, tial ni eldonis, post ne plu ol kvin monatoj, la duan eldonon de la tradukita verko de Chen. Ĉi tio rezultigis grandan sukceson en nia klopodo promocii tajvanan literaturon. Temas pri bildrakontoj, ni jam havas junan legantaron, kiu scivolemas malkovri Tajvanon per altkvalita tajvana bildrakonto. Nia celo ja estas konigi azian kulturon al ukrainoj, do ni zorge selektis ĉiun verkon. Ekzemple, ‘Guardienne’ (ĉine 守娘, ukraine Берегиня) temas pri la rolo de virinoj en tradicia ĉina socio, ‘Invito de Yama’ (ĉine 閻王帖, ukraine Путівка в Потойбіччя) montras al ni la Subteran Landon, ‘La Leono en la Biblioteko de Bildrakontoj’ (ĉine 獅子藏匿的書屋, ukraine Книгарня, в якій причаївся лев) rakontas pri geniaj goludantoj, kaj ‘Aventuro dum Tea Horo’ (ĉine 異人茶跡, ukraine Формоза: хроніки чаювання) montras la historion de la apero de blua teo en Tajvano en la 19-a jarcento. Ĉiuj tiuj verkoj enhavas aldonan materialon, kiu rolas kiel unika informfonto pri tajvanaj kaj aziaj kulturoj.
+SP: Jes, ni jam eldonis modernan japanan klasikan verkon, ‘Stebkovrilo’ (japane 蒲団, ukraine Постіль), rakontetaro de Tayama Katai (田山 花袋). Ĉi-printempe ni ankaŭ eldonis ‘La Subiranta Suno’ (japane 斜陽, ukraine Надзахідне сонце), prozetaro de Dazai Osamu (太宰 治). Temas pri Tajvano, ni jam eldonis tri nuntempajn fikciajn verkojn kaj naŭ volumojn de diversaj tajvanaj bildrakontoj. Kiam ni unue eldonis la premiitan novelon ‘La Ŝtelita Biciklo’ (ĉine 單車失竊記, ukraine Хроніки поцуплених роверів) de Wu Ming-yi (吳明益), kaj ‘La Rakontoj de la Saharo’ (ĉine 撒哈拉的故事, ukraine Історії Сахари) de Sanmao (三毛), ĝi estis tute nova afero en nia libro-merkato. Ni rimarkis la eblan valoron de tiuj libroj, sed la vendado estis ankoraŭ malrapida. Pro tio, la sekvonta fikcio kun la titolo ‘Fantoma Urbo’ (ĉine 鬼地方, ukraine Місто привидів) de Kevin Chen (陳思宏) estis ĵus eldonita fine de 2024. Ĉi tio okazis samtempe kiam la ukraina libro-merkato kreskegis. Ĉi tio okazis pro la ampleksa rusia invado en 2022 kaj la sekvinta malpermeso kontraŭ importitaj libroj el Rusio. La vendado estis pli multe ol nia supozo, tial ni eldonis, post ne plu ol kvin monatoj, la duan eldonon de la tradukita verko de Chen. Ĉi tio rezultigis grandan sukceson en nia klopodo promocii tajvanan literaturon.
+
+Temas pri bildrakontoj, ni jam havas junan legantaron, kiu scivolemas malkovri Tajvanon per altkvalita tajvana bildrakonto. Nia celo ja estas konigi azian kulturon al ukrainoj, do ni zorge selektis ĉiun verkon. Ekzemple, ‘Guardienne’ (ĉine 守娘, ukraine Берегиня) temas pri la rolo de virinoj en tradicia ĉina socio, ‘Invito de Yama’ (ĉine 閻王帖, ukraine Путівка в Потойбіччя) montras al ni la Subteran Landon, ‘La Leono en la Biblioteko de Bildrakontoj’ (ĉine 獅子藏匿的書屋, ukraine Книгарня, в якій причаївся лев) rakontas pri geniaj goludantoj, kaj ‘Aventuro dum Tea Horo’ (ĉine 異人茶跡, ukraine Формоза: хроніки чаювання) montras la historion de la apero de blua teo en Tajvano en la 19-a jarcento. Ĉiuj tiuj verkoj enhavas aldonan materialon, kiu rolas kiel unika informfonto pri tajvanaj kaj aziaj kulturoj.
 
 FN: Kio estos la redakta plano por la estonteco? Ĉu ĝi inkluzivos ĉinian literaturon? Kio estas la ĉefa defio por tradukistoj?
 
-SP: Temas pri ĉinia literaturo, ni fakte jam komencis en 2018. Ni eldonis la unuan ukrainan tradukon de klasikaj verkoj, ekzemple la filozofio de Zhuangzi (ĉine 莊子, ukraine Джвандзи), kaj la ‘Klasiko de Teo’ (ĉine 茶经, ukraine Чайний канон) de Lu Yu (陸羽). Ni prezentis ilin dum la plej grava libro-festivalo en Ukrainio — Book Arsenal 2019 (ukraine Книжковий Арсенал 2019). Ĝi markis sukcesan komencon en la ukraina libro-socio, kun pli ol du cent ĉeestantoj en niaj eventoj dediĉitaj al varbado por niaj tradukoj. Ni ankaŭ eldonis infanajn seriojn pri temoj, kiel la legendoj de Ĉinio, la 24 sunaj periodoj de la ĉina sunkalendaro [eo], ĉina teatro. Sed nun ni decidis eldoni nur klasikajn verkojn de ĉina literaturo, ekzemple Xiao Hong (蕭紅), grava ĉina verkistino kiu vivis kaj verkis dum la periodo de la Respubliko de Ĉinio (1912–1929 en kontinenta Ĉinio). Krom tajvanaj verkoj, ni planas eldoni japanajn bildrakontojn same kiel niajn tajvanajn bildrakontajn seriojn. Ni ankaŭ planas eldoni pli da koreaj fikcioj. Ĉi tio fakte taŭgas laŭ la intereso de nia ukraina legantaro. La ĉefaj defioj por tradukistoj estas ke ili meritas bonan pagon pro siaj tradukoj el aziaj lingvoj ĉar ili havas raran lingvan kapablon. Sed ni neniel povas, kiel eldonejo, provizi altan pagon ĉar la ukraina libro-merkato estas ankoraŭ malforta. Krome, azia literaturo estas ankoraŭ taksita kiel rara literaturo, do la preskvantoj estas sufiĉe malmultaj. Certe ni klopodas trovi financajn helpojn plejeble, sed tre ofte ni eldonas niajn librojn (precipe klasikajn verkojn) sole dependante de nia eldoneja financo. Nia eldono de ĉinaj klasikaj poemoj de la elstara ukraina ĉinologo Yaroslava Shekera estas vendataj jam kvin jarojn.
+SP: Temas pri ĉinia literaturo, ni fakte jam komencis en 2018. Ni eldonis la unuan ukrainan tradukon de klasikaj verkoj, ekzemple la filozofio de Zhuangzi (ĉine 莊子, ukraine Джвандзи), kaj la ‘Klasiko de Teo’ (ĉine 茶经, ukraine Чайний канон) de Lu Yu (陸羽). Ni prezentis ilin dum la plej grava libro-festivalo en Ukrainio — Book Arsenal 2019 (ukraine Книжковий Арсенал 2019). Ĝi markis sukcesan komencon en la ukraina libro-socio, kun pli ol du cent ĉeestantoj en niaj eventoj dediĉitaj al varbado por niaj tradukoj.
+
+Ni ankaŭ eldonis infanajn seriojn pri temoj, kiel la legendoj de Ĉinio, la 24 sunaj periodoj de la ĉina sunkalendaro [eo], ĉina teatro. Sed nun ni decidis eldoni nur klasikajn verkojn de ĉina literaturo, ekzemple Xiao Hong (蕭紅), grava ĉina verkistino kiu vivis kaj verkis dum la periodo de la Respubliko de Ĉinio (1912–1929 en kontinenta Ĉinio). Krom tajvanaj verkoj, ni planas eldoni japanajn bildrakontojn same kiel niajn tajvanajn bildrakontajn seriojn. Ni ankaŭ planas eldoni pli da koreaj fikcioj. Ĉi tio fakte taŭgas laŭ la intereso de nia ukraina legantaro.
+
+La ĉefaj defioj por tradukistoj estas ke ili meritas bonan pagon pro siaj tradukoj el aziaj lingvoj ĉar ili havas raran lingvan kapablon. Sed ni neniel povas, kiel eldonejo, provizi altan pagon ĉar la ukraina libro-merkato estas ankoraŭ malforta. Krome, azia literaturo estas ankoraŭ taksita kiel rara literaturo, do la preskvantoj estas sufiĉe malmultaj. Certe ni klopodas trovi financajn helpojn plejeble, sed tre ofte ni eldonas niajn librojn (precipe klasikajn verkojn) sole dependante de nia eldoneja financo. Nia eldono de ĉinaj klasikaj poemoj de la elstara ukraina ĉinologo Yaroslava Shekera estas vendataj jam kvin jarojn.
 
 FN: Vi nuntempe loĝas en Tajnano. Kio estis via plej granda surprizo ĝis nun en Tajvano? Kion vi ŝatus, ke ukrainoj plej bone komprenu pri Tajvano?
 
@@ -342,9 +364,21 @@ Avinoj de Placo de Majo, neprofitcela civila asocio fondita en 1977, serĉas ĉi
 
 Post la sukceso de la serio, organizaĵoj de familianoj intervenis sur afiŝoj de la serio per fotoj de Oesterheld kaj liaj kvar filinoj, ĉiuj ankoraŭ malaperintaj. H.I.J.O.S., organizaĵo de gefiloj de viktimoj [Ndltr: la akronimo signifas (ge)filojn en la hispana], kundividis la anoncon en sociaj retoj:
 
-¿Estás mirando El Eternauta? Si es así y naciste en noviembre de 1976 o entre noviembre de 1977 y enero de 1978 y tenés dudas sobre tu identidad o la de alguien que nació en esas fechas, contactate con @abuelasdifusion Foto Kaloian Santos pic.twitter.com/EkEvPFgS8P — H.I.J.O.S. Capital (@hijos_capital) May 3, 2025
+¿Estás mirando El Eternauta?
 
-Ĉu vi spektas El Eternauta? Se tiel, kaj vi naskiĝis en novembro 1976 aŭ inter novembro 1977 kaj januaro 1978, kaj vi havas dubojn pri via identeco, aŭ tiu de iu naskiĝinta en tiuj datoj, kontaktu @abuelasdifusion Foto Kaloian Santos pic.twitter.com/EkEvPFgS8P — H.I.J.O.S. Capital (@hijos_capital) la 3-a de majo 2025
+Si es así y naciste en noviembre de 1976 o entre noviembre de 1977 y enero de 1978 y tenés dudas sobre tu identidad o la de alguien que nació en esas fechas, contactate con @abuelasdifusion
+
+Foto Kaloian Santos pic.twitter.com/EkEvPFgS8P
+
+— H.I.J.O.S. Capital (@hijos_capital) May 3, 2025
+
+Ĉu vi spektas El Eternauta?
+
+Se tiel, kaj vi naskiĝis en novembro 1976 aŭ inter novembro 1977 kaj januaro 1978, kaj vi havas dubojn pri via identeco, aŭ tiu de iu naskiĝinta en tiuj datoj, kontaktu @abuelasdifusion
+
+Foto Kaloian Santos pic.twitter.com/EkEvPFgS8P
+
+— H.I.J.O.S. Capital (@hijos_capital) la 3-a de majo 2025
 
 Kie troviĝas Oesterheld?
 
@@ -382,9 +416,21 @@ Jarojn poste, en 1995, ankaŭ aperis organizaĵo de la tria generacio de familia
 
 La Avinoj jam sukcesis retrovi 140 genepojn [es] ekde la komenco de sia serĉado. La lasta anonco pri retrovita nepo estis farita la 7-an de julio 2025, la unua tia kazo post la apero de la serio.
 
-El #Nieto140 es el primer anuncio de @abuelasdifusion desde que salió la serie El Eternauta La búsqueda sigue por todos los hermanos y hermanas que falta encontrar Si naciste entre 1975 y 1983 y dudás de tu identidad, acercate. Si tenés información, aportala Foto @kalofotograma pic.twitter.com/7QaFmcRJgw — H.I.J.O.S. Capital (@hijos_capital) July 8, 2025
+El #Nieto140 es el primer anuncio de @abuelasdifusion desde que salió la serie El Eternauta
 
-La #Nieto140 [Nepo 140] estas la unua anonco de @abuelasdifusion ekde la apero de la serio El Eternauta. La serĉado daŭras por ĉiuj fratiĉoj kaj fratinoj, kiuj restas netrovataj. Se vi naskiĝis inter 1975 kaj 1983 kaj ne certas pri via identeco, bonvolu kontakti nin. Se vi havas informojn, bonvolu kundividi ilin. Foto @kalofotograma pic.twitter.com/7QaFmcRJgw — H.I.J.O.S. Capital (@hijos_capital) la 8-an de julio 2025
+La búsqueda sigue por todos los hermanos y hermanas que falta encontrar Si naciste entre 1975 y 1983 y dudás de tu identidad, acercate. Si tenés información, aportala
+
+Foto @kalofotograma pic.twitter.com/7QaFmcRJgw
+
+— H.I.J.O.S. Capital (@hijos_capital) July 8, 2025
+
+La #Nieto140 [Nepo 140] estas la unua anonco de @abuelasdifusion ekde la apero de la serio El Eternauta.
+
+La serĉado daŭras por ĉiuj fratiĉoj kaj fratinoj, kiuj restas netrovataj. Se vi naskiĝis inter 1975 kaj 1983 kaj ne certas pri via identeco, bonvolu kontakti nin. Se vi havas informojn, bonvolu kundividi ilin.
+
+Foto @kalofotograma pic.twitter.com/7QaFmcRJgw
+
+— H.I.J.O.S. Capital (@hijos_capital) la 8-an de julio 2025
 
 La organizaĵo daŭrigas sian laboron, serĉante homojn naskitajn inter 1975 kaj 1983, kiuj havas demandojn pri sia identeco kaj deveno. La du infanoj de Oesterheld estas inter la preskaŭ 300 [es], kiuj ankoraŭ ne estis redonitaj.
 

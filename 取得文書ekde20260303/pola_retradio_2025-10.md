@@ -1,6 +1,6 @@
 ---
 source: "Pola Retradio (pola-retradio.org)"
-generated_at: "2026-09-15T16:02:39.699338+00:00"
+generated_at: "2026-09-16T16:23:19.009463+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-10-05 – 2025-10-30"
 ---
@@ -82,7 +82,7 @@ El la elsendo 05.10.2025. Legas Maciek – 02′ 26″
 
 ---
 
-# Pastro Roman Gmyrek invitas por  Preĝotagoj en Częstochowa
+# Pastro Roman Gmyrek invitas por Preĝotagoj en Częstochowa
 
 **Published:** 2025-10-05
 

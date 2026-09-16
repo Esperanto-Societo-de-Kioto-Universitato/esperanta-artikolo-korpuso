@@ -1,7 +1,5 @@
 Kial mi verkas?
 
-Eblas aŭskulti ĉi tiun artikolon, kiun voĉlegis Hanso Becklin.
-
 Unu el la plej produktemaj verkistoj en Esperantujo estas aŭstraliano Trevor Steele, kiu verkis dudekon da originalaj romanoj kaj novelaroj en Esperanto. En La arto labori kune, festlibro por la 70-a datreveno de Humphrey Tonkin, aperas mallonga artikolo de Steele, en kiu li respondas la demandon “Kial vi verkas?” Ahmad Mamduhi simpligis kaj mallongigis tiun artikolon por la legantoj de uea.facila.
 
 Kiel mi komencis verki
@@ -43,8 +41,6 @@ Mi volas aperigi librojn ankaŭ en la angla lingvo. Tio estas pli malfacila, ĉa
 Konkludo: Esperanto donis al mi la kuraĝon verki. En malgranda lingvo, oni povas diri novajn aferojn pli facile ol en grandaj lingvoj.
 
 Trevor Steele Simpligis la artikolon Ahmad Mamduhi
-
-La arto labori kune. Festlibro por Humphrey Tonkin. Red. Detlev Blanke kaj Ulrich Lins. UEA. Rotterdam. 2010. 901 paĝoj. ISBN 978-92-9017-113-3 Prezo: 45.00 € Sed nur fragmento. Trevor Steele. Mondial. Novjorko. 2020 (3a eld). 429 paĝoj. ISBN 978-1595694072 Prezo: 28.50 €
 
 Trevor Steele estas aŭstralia verkisto, kiu de 55 jaroj instruas Esperanton kaj verkas en ĝi. Preskaŭ 20 verkoj liaj aperis libroforme, kaj li instruis Esperanton en diversaj landoj. Nuntempe li instruas plejparte rete.
 

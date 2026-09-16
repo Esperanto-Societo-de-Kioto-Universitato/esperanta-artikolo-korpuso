@@ -2,8 +2,6 @@
 
 Mondskalaj problemoj solveblas nur per mondskala demokratio, kaj mondskala demokratio funkcios nur se homoj havas komunan lingvon. Samkiel la socia evoluo en Koreio gvidis al la enkonduko de demokratia skribsistemo, sur monda nivelo la bezono de vera demokratio postulas la enkondukon de komuna lingvo, argumentas Richard Forsyth en sia vidpunkta artikolo.
 
-“Hangul” – la nomo de la korea alfabeto skribita per la korea alfabeto. Oni legas de maldekstre dekstren kaj de supre suben. La komenca parto de la silabo ĉi tie estas markita ruĝe, la vokala parto blue, kaj la fina parto verde. Bildo: Johannes Barre
-
 Mi kredas, ke la historio de Hangulo (korea skribsistemo) enhavas gravan lecionon por la Esperantomovado. Oni povas pli lerni pri Hangulo en Vikipedio, sed ĉi tie mi volas nur resumi la aspekton, kiun mi opinias grava por esperantistoj. (Parenteze, mi ne komprenas la korean.)
 
 Laŭdire Hangulo estis kreita ĉirkaŭ la gregoria jaro 1444 post rekomendo de la reĝo Seĝong. La bazajn simbolojn de la sistemo oni nomas “ĉamoj”. Ili havas ortangulajn formojn, enkadre de kiuj la markoj kaj strioj indikas fonetikajn trajtojn de la sono koncerna. Ekzempla frazo sekvas.
@@ -23,8 +21,6 @@ Kiel tio koncernas Esperanton? Mia argumento sekvos. En la 1440-aj jaroj Koreio 
 Kontraste, la okupado de japanaj koloniistoj naskis fortan senton de korea nacieco. Tio fortigis la ligojn inter ĉiuj koreoj, ne nur eminentuloj. Krome, post la krizoj de la dua mondmilito kaj la korea milito, necesis tio, ke la tuta civitanaro laboru por rekonstrui la landon. Analfabeteco malhelpus tiun rekonstruon. Aldone, la eksa reganta klaso perdis sian potencon.
 
 Analogio inter Esperanto kaj Hangulo dum ties periodo de subpremado estas evidenta. La plimulto de la hodiaŭaj altranguloj malestimas Esperanton. Ili taksas ĝin eksmoda aŭ malnatura. Ekzemple, en Eŭropa Unio, potenculoj havas sufiĉe da rimedoj por edukigi siajn idojn en tri-kvar lingvoj, kutime inkluzive de la angla, kaj tiel certigi, ke ili restos en la klaso kun politika influo. Eĉ se ili zorgas iom pri parolantoj de iuj ”etaj” lingvoj, ili tamen supozas, ke maŝintraduko baldaŭ nuligos la malfacilaĵojn.
-
-Du paĝoj de Hunminjeongeum Haerye, la verko kiu enkondukis la korean skribsistemon. La novaj literoj estas klarigataj ĉine.
 
 Sed ĉu estas analogio inter Esperanto kaj Hangulo, kiam Hangulo sukcesis? Ankoraŭ ne. La sukceso de Hangulo dependis de du sociaj ŝanĝoj: krizo, kiu paneigis la eksan altajn sociajn tavolojn, kaj nova bezono por kunlaboro kaj do interkomunikado.
 

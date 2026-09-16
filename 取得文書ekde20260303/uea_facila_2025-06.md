@@ -1,6 +1,6 @@
 ---
 source: "UEA Facila (uea.facila.org)"
-generated_at: "2026-09-15T16:17:07.069542+00:00"
+generated_at: "2026-09-16T16:26:31.621304+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-06-08 – 2025-06-29"
 ---
@@ -136,19 +136,6 @@ malkovri: ekscii, ekkoni aŭ ekkompreni aferon, kiun oni antaŭe ne sciis.
 podkasto: programo trovebla en Interreto, kiun interesatoj povas kopii kaj aŭskulti per propra telefono, komputilo aŭ alia ilo.
 
 stilo: la aparta maniero, laŭ kiu estas prezentata verko, artaĵo, vesto aŭ simile; la aparta maniero, laŭ kiu verkisto kunmetas siajn frazojn kaj esprimas siajn ideojn.
-
-
----
-
-# ARGENTINO | La lando de Tango
-
-**Published:** 2025-06-19
-
-**URL:** https://uea.facila.org/filmetoj/argentino-la-lando-de-tango-r347
-
-**Categories:** Filmetoj
-
-[Embed] https://www.youtube.com/embed/k04P0LNgjh0?width=100%25&height=86.25
 
 
 ---

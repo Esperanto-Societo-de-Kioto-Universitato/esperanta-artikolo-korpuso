@@ -21,7 +21,3 @@ Sed, krom tiuj multaj kvalitoj, oni devas ankaŭ sin demandi: kiel rolas tiu lib
 Tiu demando ja fariĝas pli grava, kiam oni rimarkas, ke tuta Okcidento estas nun trafita de ĉiusence konservativema cunamo, kiu provas enpenetri ĉiajn homajn artojn, lasante en ĝi spurojn, kiuj finfine kondukas ne al konservativismo mem, sed al totaleca reakciismo. Ĉu Ek sor! povus esti provo surfi sur tiu marondo? Sincere, kvankam la demando estas justa kaj ĝusta, mi kredas, ke neniu poeto bezonus esti tiom altnivela por partopreni en tiu movado; mi ja preferas kredi, ke ĉi tiu libro reprezentas samtempe iom da laciĝo, inter versemuloj, kaj certe inter legantoj, de tiom da „novigaj eksperimentismoj”, kiuj, ekde Ibere libere (1993), popolas nian poezion.
 
 Ek sor! ja ne estas, kiel iu povus pensi, „avangardo de retroiro”, sed spiro de tradicio, rolanta kiel ĉeesta manifesto, kaj, kvankam oni povas diri, ke oni ne trovos en ĝi novajn formulojn, tio ne signifas, ke la malnovaj receptoj ne plu validas, nek ke, se oni ilin sekvas, oni ne plu povos prepari bonajn pladojn. Jam diris la heleno Heraklito, ke oni ne povas dufoje eniri la saman riveron, sed tio neniel malpermesas, ke en ĝi vivo ankoraŭ fluu, nek ke oni trinku ĝiajn akvojn, kaj tion pruvas la fakto, ke tiu libro estas plenmerita gajninto de la pasintjara Laŭro de la Akademio de Esperanto. Gratulon al la aŭtoro!
-
-Evgenij Georgiev: Ek sor!. Eld. Eldonejo Libera, 2024. 134 paĝoj. Broŝuro. ISBN 978-1-4457-8604-9.
-
-Por mendi, iru al la Retbutiko.

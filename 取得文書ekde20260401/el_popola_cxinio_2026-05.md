@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-09-15T16:12:44.504121+00:00"
+generated_at: "2026-09-16T16:27:25.075128+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-05-01 – 2026-05-29"
 ---
@@ -27,7 +27,7 @@ time_range: "2026-05-01 – 2026-05-29"
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 Dunhuang en la ĉina provinco Gansu estas mirindaĵo de la antikva Silka Vojo, kiu allogas turistojn de la tuta mondo. Krom la famaj turismejoj, bongustaj manĝaĵoj kaj la mondfama Mogao-grotaro, mondheredaĵo de Unesko, tie ankaŭ troviĝas spektinda spektaklo nomita Antikvaj Melodioj de Dunhuang.
 
@@ -48,7 +48,7 @@ Verkis kaj fotis: Rafael Henrique Zerbetto
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 De la 30-a de aprilo ĝis la 5-a de majo okazis ĉijara printempa muzikfestivalo JZ Festival en Ŝanhajo. Ĉar 2026 estas la Ĉin-Brazila Kultura Jaro, Brazilo estis la gastolando de ĉi tiu festivalo. Ivan Lins inaŭguris la festivalon per mirinda koncerto, kaj dum la sekvaj tagoj 15 muzikistaroj el Brazilo kaj ankaŭ brazilaj muzikistoj vivantaj en Ŝanhajo koncertis en la urbo.
 
@@ -73,7 +73,7 @@ Raportis kaj fotis: Rafael Henrique Zerbetto
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 La 30-an de aprilo estis inaŭgurita la Printempa Muzikfestivalo JZ en Ŝanhajo per koncerto de la mondfama brazila muzikisto Ivan Lins, gajninto de pluraj prestiĝaj premioj, kies verkoj estis registritaj kaj kantitaj de sennombraj muzikistoj tra la mondo kaj daŭre influas tutmondan muzikan scenon. En ĉi tiu prezentado, feste al siaj 80 jaroj de vivo kaj 55 jaroj de muzika kariero, Ivan kune kun la publiko rememoris siajn plej ŝatatajn klasikaĵojn, kondukante ĉiujn por mergiĝi en la profundecon kaj amplekson de lia muziko, tuŝite de liaj melodioj.
 
@@ -102,7 +102,7 @@ Verkis kaj fotis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2026-05/08/content_118483140.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 Ĉu vi scias Karem? Li estas hotela akceptisto en Milano, Italio. Iam, iu ĉina turisto donis al li bombonon kun arakida farĉo. Li gustumis kaj forte laŭdis la guston. En februaro ĉi-jare, kun la bombona papereto zorge tenata en la mano, li petis aliajn ĉinajn turistojn aĉeti por li tiun saman bombonon. Neatendite, filmeto de tiu momento ekpopulariĝis en ĉina interreto. Homoj eĉ speciale iris al la hotelo, nur por donaci al li pli da dolĉaĵoj. Tiel, unu bombono fariĝis lia neforgesebla "ĉina gusto".
 
@@ -143,7 +143,7 @@ Redaktoro: Sheng Min
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 Inter la 30-a de aprilo kaj la 5-a de majo, pluraj brazilaj artistoj sin prezentis en Ŝanhajo, financa centro de Ĉinio kaj unu el la plej gravaj urboj de Azio. La agadoj estis partoj de la oficiala kalendaro de eventoj de la Brazil-Ĉina Kultura Jaro kaj partoprenis ilin la brazila ministro pri kulturo Margareth Menezes.
 
@@ -242,7 +242,7 @@ Verkis kaj fotis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2026-05/11/content_118485028.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** UK-oj, E-movado, E-novaĵoj
 
 UEA kunlabore kun Internacia Ligo de Esperantistaj Fotistoj (ILEF) kaj la redakcio de la revuo Literatura Vivo kore invitas esperantistojn tra la tuta mondo partopreni en la ILEF-Fotokonkurso 2026 – “Unu Mondo en Bildoj”, aŭspiciata de UEA. Per lumo ni pontas la mondon: per unu sola bildo ni povas rakonti historion, esprimi senton kaj montri la spiriton de Esperanto sen bezono de vortoj.
 
@@ -269,7 +269,7 @@ Redaktoro: Sheng Min
 
 **URL:** http://esperanto.china.org.cn/2026-05/12/content_118483147.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 Eksponata en la Nacia Muzeo de Ĉinio, la feniksokrono de la imperiestrino Xiaoduan de Ming-dinastio (1368-1644) estas majstra verko. Enfiksitaj alcedaj plumoj estigas vivecajn feniksajn figurojn. Oro, gemoj kaj perloj eligas tavolojn da brilo.Krom la formo, ĝi reflektas kortegan estetikon kaj eksterordinaran arton, konservante elegantecon kaj lertecon de sia epoko.
 
@@ -284,7 +284,7 @@ Redaktoro: Gao Shuyuan
 
 **URL:** http://esperanto.china.org.cn/2026-05/12/content_118485016.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Naturo kaj Mediprotekto
 
 La geoparko Siguniang-monto situas en la provinco Sichuan de Ĉinio, ĉe la transira zono inter la Qinghai-xizang-a Altebenaĵo kaj Sichuan-baseno. La geoparko havas totalan areon de 2 764.01 kilometroj. Ĉe la plej orienta rando de la moderna glaĉera distribuo de Ĉinio, la parko estas sentema areo rilate al tutmonda klimatŝanĝiĝo, kaj ĝi estas unu el la 36 biodiversecaj punktoj de la mondo, kiel ŝlosila zono de la alpa ekosistemo en Ĉinio. En 2026, en la 224-a sesio de la Plenuma Komitato de UNESKO en Parizo, Siguniang-monto estis agnoskita kiel monda geoparko de UNESKO.
 
@@ -301,7 +301,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 Ekde la 11-a de majo, ĉinoj, kiu iras al Brazilo por turismo, negocoj, partopreno en arta aŭ sporta aktivaĵo, aŭ familia vizito, rajtas senvize resti en la lando dum maksimume 30 tagoj. Tiuj, kiuj iras al la lando por alia celo, kiel laboro aŭ studoj, aŭ bezonas resti dum pli longa tempo, daŭre bezonas peti vizon.
 
@@ -326,7 +326,7 @@ Raportis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2026-05/13/content_118491999.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 La 13-an de majo en Pekino ĉina prezidanto Xi Jinping renkontiĝis kun Khaled El-Enany, ĝenerala direktoro de Unesko.
 
@@ -347,7 +347,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-05/14/content_118494337.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 Antaŭtagmeze de la 14-a de majo, ĉina prezidanto Xi Jinping interparolis kun la vizitanta usona prezidento Donald Trump en la Granda Popola Halo de Pekino.
 
@@ -368,7 +368,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-05/14/content_118494346.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 La 14-an de majo ĉina prezidanto Xi Jinping kaj usona prezidento Donald Trump vizitis la Ĉielan Altaron de Pekino. La du ŝtatestroj kunfotiĝis antaŭ la Preĝhalo por Riĉa Rikolto.
 
@@ -383,7 +383,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-05/15/content_118491963.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 Malgraŭ la tutmonda necerteco, la usona kompanio pri duonkonduktantaĵoj Onsemi (ON Semiconductor Corporation) plifortigas sian rilaton kun Ĉinio, ĉar la lando ludas gvidan rolon en tutmonda novigado, tion diris Hassane El-Khoury.
 
@@ -410,7 +410,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-05/15/content_118496303.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 En la renkontiĝo en Pekino la 14an de majo, ĉina prezidanto Xi Jinping kaj la usona prezidento Donald Trump akiris komunan konsenton pri nova perspektivo por estigi konstruivajn kaj stabilajn duflankajn strategiajn rilatojn.
 
@@ -441,7 +441,9 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-05/19/content_118491981.htm
 
-**Categories:** Plej Freŝaj
+**Author:** Ntandoyenkosi Ncube
+
+**Categories:** Ekonomio
 
 de Ntandoyenkosi Ncube
 
@@ -466,7 +468,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-05/20/content_118504421.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 La rusa regiono Irkutsk pretas kunlabori kun ĉinaj partneroj, tion diris Igor Kobzev, guberniestro de Irkutsk, Rusio.
 
@@ -504,7 +506,9 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-05/20/content_118505004.htm
 
-**Categories:** Plej Freŝaj
+**Author:** Kang Jie
+
+**Categories:** Socia Vivo
 
 de Kang Jie
 
@@ -529,7 +533,7 @@ Redaktoro: Gao Shuyuan
 
 **Author:** Bui Hai Mung
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 Imagu la jenan scenon: Dum malpli ol unu semajno, Pekino sinsekve akceptas usonan prezidenton Donald Trump kaj rusan prezidenton Vladimir Putin — du gvidantojn, kiuj reprezentas malsamajn potencocentrojn en la nuna geopolitika strukturo. La fakto, ke kaj Vaŝingtono kaj Moskvo konsideras Pekinon kiel gravan cellokon en la sama periodo, rapide altiris internacian atenton. Tio ne nur montras la kreskantan rolon de Ĉinio en internaciaj rilatoj, sed ankaŭ indikas, ke la tutmonda potencostrukturo eniras pli profundan fazon de transformiĝo.
 
@@ -600,7 +604,7 @@ Verkis: Bui Hai Mung
 
 **Author:** Bui Hai Mung
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 Dum pli ol jardeko, Ĉinio aktive antaŭenigas sian strategion por konstrui landon bazitan sur novigado, kun forta fokuso al investoj en scienco kaj teknologio kaj al altirado de internacia talentulo. Ĉefaj universitatoj kiel Pekina Universitato fariĝis ĉiam pli gravaj cellokoj por sciencistoj, kiuj antaŭe studis aŭ laboris en Usono, Eŭropo kaj aliaj gravaj esplorcentroj de la mondo.
 
@@ -677,7 +681,9 @@ Raportis: Bui Hai Mung
 
 **URL:** http://esperanto.china.org.cn/2026-05/25/content_118491406.htm
 
-**Categories:** Plej Freŝaj
+**Author:** John Huang
+
+**Categories:** E-novaĵoj
 
 de John Huang
 
@@ -738,7 +744,7 @@ Unu tabulo, tri lingvoj; saĝa ludo, mondo kunigita.
 
 **URL:** http://esperanto.china.org.cn/2026-05/25/content_118512614.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Naturo kaj Mediprotekto
 
 Lastatempe la administracio de ŝtat-nivela naturrezervejo de Zhouzhi-gubernio en Shaanxi kvinafoje vidis la scenon de kunesto de tri leopardoj, kiam la organizo rutine analizis la monitorajn datumojn de infraruĝaj fotiloj.
 
@@ -761,7 +767,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-05/25/content_118513050.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 La 25-an de majo la ĉinaj astronaŭtoj de Shenzhou-23 glate eniĝis en la kosmostacion Tiangong kaj renkontiĝis kun la tri kolegoj veturintaj per Shenzhou-22. Tio estas la oka fojo por ĉinaj astronaŭtoj fari renkontiĝon en la kosmostacio. Kaj estas la unua fojo, ke alvenis astronaŭto el Hongkongo.
 
@@ -776,7 +782,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-05/26/content_118514450.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 Laŭ raporto de usona ĵurnalo Washington Post en la 24-a de majo, Usono kaj Irano jam atingis interkonsenton pri la kadro de iu memorandumo: Se la interkonsento estos subskribita, Hormuz-markolo malfermiĝos ene de 30 tagoj.
 
@@ -791,7 +797,7 @@ Redaktoro: Gao Shuyuan
 
 **URL:** http://esperanto.china.org.cn/2026-05/26/content_118514456.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Kulturo,Scienco kaj Sporto
 
 Ĉi-jare estas la 75-jariĝo de paca liberigo de Xizang de Ĉinio. Dum la pasintaj 75 jaroj, la regiono multe ŝanĝiĝis, kaj ĝi estas bela kaj ĉarma.
 
@@ -806,7 +812,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-05/26/content_118514512.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Kulturo,Scienco kaj Sporto
 
 La 23-an de majo popolanoj en Xizang de Ĉinio okazigis ceremonion por festi la 75-jariĝon de paca liberigo de la regiono.
 
@@ -821,7 +827,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-05/27/content_118515165.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 Posttagmeze de la 25-a de majo ĉina prezidanto Xi Jinping intervidiĝis kun serba prezidento Aleksandar Vučić, invitite de Ĉinio, en la Granda Popola Halo de Pekino.
 
@@ -836,7 +842,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-05/27/content_118515181.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 Vespere de la 25-a de majo en la ceremonio okazigita en la Granda Popola Halo en Pekino ĉina prezidanto Xi Jinping donis al serba prezidento Aleksandar Vučić Amikecan Medalon de la Ĉina Popola Respubliko.
 
@@ -851,7 +857,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-05/28/content_118512929.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 Dum malpli ol unu semajno, la prezidentoj de Usono, Donald Trump, kaj Rusio, Vladimir Putin, faris ŝtatan viziton en Pekino. Lastatempe aliaj gvidantoj de mondpotencoj, kiel la franca prezidento Emmanuel Macron kaj la brita ĉefministro Keir Starmer ankaŭ venis al la ĉefurbo de Ĉinio. Tio substrekas la kreskantan gravecon de Ĉinio en la internacia politika kaj ekonomia sceno.
 
@@ -916,11 +922,11 @@ Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2026-05/29/content_118519281.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 Ĉi-jare estas la 75-a jariĝo de la paca liberigo de Xizang, Ĉinio. Pro la lokaj klimato, geografio kaj alta altitudo, en Xizang mankis aŭtovojoj, precipe tiuj altkvalitaj. Sed nun, densa ŝose-reto faciligas vojaĝadon inter urboj kaj vilaĝoj, plibonigas vivon de lokanoj kaj antaŭenpuŝas ekonomian kaj socian disvolviĝon.
 
-Ĝis la fino de 2025,  entute 125.2 mil kilometroj da ŝoseoj estis en servo, tiuj veturvojoj (superantaj la 3-an gradon laŭ landa normo) okupas 95% de la tuta longeco.
+Ĝis la fino de 2025, entute 125.2 mil kilometroj da ŝoseoj estis en servo, tiuj veturvojoj (superantaj la 3-an gradon laŭ landa normo) okupas 95% de la tuta longeco.
 
 Redaktoro: Gao Shuyuan
 
@@ -933,7 +939,9 @@ Redaktoro: Gao Shuyuan
 
 **URL:** http://esperanto.china.org.cn/2026-05/29/content_118520812.htm
 
-**Categories:** Plej Freŝaj
+**Author:** Li Yang
+
+**Categories:** Socia Vivo, Ekonomio
 
 de Li Yang
 

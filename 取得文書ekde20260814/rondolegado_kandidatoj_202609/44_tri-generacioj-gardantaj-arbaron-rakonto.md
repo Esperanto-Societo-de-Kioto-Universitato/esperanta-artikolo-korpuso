@@ -55,5 +55,3 @@ La rakonto de la familio de Huang Zhenfang ne estas nur rakonto pri riĉiĝo per
 La rakonto de tiu familio memorigas min pri mia hejmlando Vjetnamio. Por Vjetnamio, lando kun vasta montara tereno kaj riĉaj arbaraj resursoj, la sperto de Houyang proponas multajn valorajn pensojn. Unue, arbara disvolviĝo postulas longdaŭran vizion kaj persistemon, ĉar plantado de arbaro ne donas rezultojn tuj sed post jardekoj da prizorgado. Due, kombini arbarprotekton kun ekonomiaj agadoj sub la arboj – kiel kultivado de kuracplantoj, abelbredado aŭ fruktarboj – povas helpi loĝantojn samtempe protekti la ekosistemon kaj krei stabilajn enspezojn. Plej grave, tiaj modeloj povas esti daŭrigeblaj, nur kiam la komunumo partoprenas kaj la generacioj transdonas la respondecon unu al la alia, transformante la arbaron ne nur en naturan rimedon sed ankaŭ en fundamenton por vivtenado kaj estonteco.
 
 La verdaj arbaroj de Houyang hodiaŭ ne estas nur la rezulto de unu familio, sed ankaŭ simbolo de tio, kiel komunumo povas ŝanĝi sian sorton per persistemo, fido kaj profunda ligo kun la tero.
-
-Raportis: Bui Hai Mung

@@ -2,8 +2,6 @@ Brajla skribo jubileas kaj evoluas
 
 En la jaro 2025 oni festas la 200-jariĝon de brajlo, skribsistemo inventita por blinduloj en 1825 de la tiam 16-jara franco Louis Braille. Versio de brajlo kun esperantaj literoj estis proponita de la sveda pioniro Harald Thilander ĉirkaŭ la jaro 1900, kaj ekde 1904 daŭre aperadas la brajla revuo Esperanta Ligilo. Otto Prytz en detala artikolo speciale verkita por Libera Folio rakontas pri la estiĝo kaj evoluo de la brajla skribo por diversaj lingvoj.
 
-Legado de brajlo. Plej ofte oni legas samtempe per du fingroj. Foto: Stefan Malmesjö CC BY 2.0
-
 En 1825 la franco Louis Braille, tiam 16-jara, inventis la skribsistemon, kiu eligis blindulojn tra la tuta mondo el la analfabetismo, kaj kiu portas la nomon de la inventinto – brajlo. Kelkaj erare supozas, ke brajlo estas aparta ”lingvo” por blinduloj, kun sia propra alfabeto. La vero estas, ke brajlo estas skribsistemo aplikebla al ajna alfabeto, iom simila al morso.
 
 Ĉi tiu artikolo ne celas prezenti la brajlan sistemon detale, sed necesas konigi kelkajn bazajn trajtojn de la sistemo, por ke la enhavo de la artikolo estu bone komprenata. La baza unuo de la sistemo estas ĉelo kun 6 pozicioj, 3 vertikale kaj 2 horizontale. Tiu grandeco plej bone taŭgas, por ke tuta ĉelo estu palpebla sub fingropinto per unu tuŝo. En ĉiu pozicio estas du ebloj: aŭ estas punkto en ĝi (duuma unuo), aŭ estas nenio en ĝi (duuma nulo). Oni referencas al pozicio en la ĉelo per la vorto “punkto” sekvata de numero de 1 ĝis 6, jene:
@@ -18,8 +16,6 @@ Kvankam 8-bita signaro sufiĉas por unu lingvo kaj eĉ por grupo da lingvoj, ĝi
 
 Esenca diferenco inter brajla skribo kaj ”ordinara” skribo, ĉi-sube nomata ”platskribo”, estas, ke brajlo estas sistemo limigita, aŭ finia laŭ matematika termino, dum platskribo estas praktike senlima aŭ ne-finia: eblas kvazaŭ senfine aldonadi novajn skribsignojn kaj modifi jam ekzistantajn skribsignojn.
 
-Busto de Louis Braille skulptita de Étienne Leroux.
-
 Malgraŭ sia finieco, la brajla sistemo tamen montriĝis mirinde taŭga por redoni ajnan platskribon, almenaŭ teorie. Por tion atingi oni povas utiligi diversajn procedojn, el kiuj mi mencias la du ĉefajn.
 
 Unu estas doni al unu sama punktokombino diversajn signifojn laŭ la kunteksto. Ankaŭ en platskribo tiu procedo estas konata: unu sama signo (-) signifas jen dividstrekon, jen haltostrekon, jen minus-signon. En brajlo la bezonatan kuntekston ofte signalas markilo indikanta, ke la posta(j) signo(j) ne estu legata(j) kiel litero(j): ”cifersigno” antaŭ la unua cifero de nombro, ”oktavsigno” antaŭ muziknoto(j) ktp. Similaj ”ŝaltiloj” estas troveblaj ankaŭ sur komputilaj klavaroj, ekzemple por majuskligi, grasigi, kursivigi ktp.
@@ -29,8 +25,6 @@ La dua procedo estas redoni signon, kiu platskribe okupas unu literspacon, per k
 Brajlo principe estas legata nur horizontale. Sekve tion, kio platskribe situas super aŭ sub signo, sed sur la sama linio, oni brajle devas meti aŭ antaŭ aŭ post la signo, ofte kun markilo indikanta la pozicion. Tiel, io, kio platskribe okupas nur unu literspacon, brajle devas esti redonata per pluraj ĉeloj. Tiu procedo estas multe uzata en matematika kaj fonetika notacio, kaj ekstremagrade en muzika notacio, kies kvinlinia pentagramo devas esti tradukata en horizontale legatan sekvencon.
 
 Grandan parton de la kombinoj Braille grupigis en seriojn de po 10. Por la unua serio li utiligis nur la supran kaj mezan etaĝojn de la ĉelo, t.e. punktojn 1, 2, 4 kaj 5. El la 15 ( 2^4 − 1) punktohavaj kombinoj de tiu ĉelparto li selektis 10. La dua serio estas ripeto de la unua, sed kun aldono de punkto 3. La tria serio estas ripeto de la unua, sed kun aldono de ambaŭ subaj punktoj (3 kaj 6). La kvara serio estas ripeto de la unua, sed kun aldono de punkto 6. La kvina serio estas la unua, movita unu etaĝon suben, do okupanta nur kombinojn de punktoj 2, 3, 5 kaj 6.
-
-La Esperantaj literoj en brajlo.
 
 Al tiuj 50 kombinoj Braille atribuis laŭvice unue la 25 literojn de la latina (franca) alfabeto, poste, unu diakriton post alia, la francajn literojn kun diakrito, kaj poste la du ”ligaĵojn” uzatajn en la franca, nome œ (oe) kaj w (vv). Tiel li kompletigis la kvar unuajn seriojn, jene:
 
@@ -46,8 +40,6 @@ En la origina brajlo, skizita ĉi-supre, Braille atribuis unuĉelajn kombinojn a
 
 Unu modelon oni povas nomi ”tradicia”. Oni uzas brajlan simbolon de franclingva litero kun diakrito ankaŭ por la sama alilingva litero kun la sama aŭ alia diakrito. Ü (u kun tremao) estas uzata ankaŭ en la germana lingvo, do ĝia brajla simbolo estas la sama en ambaŭ lingvoj. La skandinavaj lingvoj ne havas â (a kun cirkumflekso), sed ili havas å (a kun ringeto); do la sama simbolo estas uzata por â en franca brajlo kaj por å en skandinavaj brajloj.
 
-En Esperanto per brajla skribo aperis interalie la verko Blanko sur nigro de Rubén Gallego.
-
 Alian modelon oni povas nomi “form-egaleca”. La brajla formo de kromsignita litero memorigas pri la brajla formo de la koncerna pura litero. Pri tiu modelo Esperanto estas bona ekzemplo.
 
 La formon de la Esperantaj ĉapelitaj literoj en brajlo unue proponis Harald Thilander, sveda pioniro de blindul-afero ĝenerale kaj de blindul-Esperantista movado speciale, mem blinda kaj malforte-aŭdanta. Supozeble li ellaboris la proponon ĉ. 1900, kaj la brajla Esperanta alfabeto establiĝis en 1903, danke al la agado de la fama franca Esperanto-pioniro Théophile Cart, kiu en 1904 fondis la brajlan revuon Esperanta Ligilo, eble la plej malnovan Esperantan periodaĵon ankoraŭ aperantan. Thilander havigis al si ekipaĵon por presi brajlon, kaj de 1912 ĝis 1958 Esperanta Ligilo estis presata en la presejo de Thilander.
@@ -61,8 +53,6 @@ La modelo, laŭ kiu oni sukcesis krei brajlajn versiojn de alfabetoj, estas redo
 Cirila ц (sono «c»), latina c Cirila х (sono «ĥ»), latina h Cirila ж (sono «ĵ»), latina j (laŭ modelo franca) Cirila н (sono «n»), latina n Cirila р (sono «r»), latina r Cirila с (sono «s»), latina s Cirila у (sono «u»), latina u
 
 En kelkaj okazoj ne estas ekvivalento. Ekzemple, la cirilan literon ч (sono “ĉ”) oni redonas per la brajla kombino, kiu reprezentas latinan q.
-
-Komputila ekrano por montri brajlan skribon, kun okpunktaj ĉeloj.
 
 Sed ne ĉiuj platskribaj sistemoj estas literaj. La japana lingvo havas du silabajn ”alfabetojn”. En brajlo ĉiu silabo okupas unu ĉelon: kombinoj de punktoj 3, 5 kaj 6 redonas la silabkomencan konsonanton, kaj kombinoj de punktoj 1, 2 kaj 4 reprezentas la vokalon (plus eventuala silabfina konsonanto).
 

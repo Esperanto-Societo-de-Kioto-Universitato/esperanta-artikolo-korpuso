@@ -1,10 +1,6 @@
 Stead: raportisto kaj esperantisto
 
-Eblas aŭskulti ĉi tiun artikolon, kiun voĉlegis Terry Page.
-
 William Thomas Stead (1849-1912) estis homo vaste respektata pro siaj brilaj kapabloj, varmega spirito kaj senlaca preteco servadi aliajn homojn. Tion certe opiniis, kaj publike diris (sed en la angla lingvo) la donacintoj de memor-tabulo, kiun oni fiksis al muro apud la rivero Tamizo en Londono.
-
-Luke McKernan - W.T. Stead, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=79179740
 
 Nu, kiaj “kapabloj”? Kiuj “donacintoj”? Kaj kial “apud Tamizo”? Por respondi tiujn demandojn necesas scii, ke Stead estis, laŭ profesio, frua esplor-raportisto pri sociaj problemoj, kaj ke li redaktadis kaj mem posedis sukcesajn gazetojn. La donacintoj estis sam-profesiuloj, kiuj post la morto de Stead ne volis permesi, ke oni lin tute forgesu. La memor-tabulon oni lokis tie, kie Tamizo fluas preter Fleet Street. Tiu strato estis tiutempe hejmo de la plej gravaj gazet-eldonejoj.
 
@@ -46,8 +42,6 @@ parto-preni: esti unu el la homoj, kiuj ĉe-estas kaj kune aktivas en iu komuna 
 
 pasaĝero: vojaĝanto portata en veturilo.
 
-Wikimedia / Dike Chukwuma CC SA 4.0
-
 perei: perdi la vivon pro iu malfeliĉa okazo; ĉesi ekzisti, nuliĝi, neniiĝi.
 
 procesi: voki homon antaŭ juĝiston pro kontraŭleĝa ago.
@@ -61,5 +55,3 @@ sub-teni: helpi homon, asocion, projekton, politikon aŭ simile, por ke ĝi sukc
 Tamizo: la rivero, kiu fluas tra Londono.
 
 tosti: ekstari dum festa manĝo, kun propono trinki por la sano aŭ memoro de iu homo, aŭ por la sukceso de iu aŭ io.
-
-Wikipedia / Göteborgs konstmuseum. Foto: Hossein Sehatlou. CC BY 4.0

@@ -1,9 +1,5 @@
 Mallonga historio de la malhumaneco
 
-Pentraĵo de Viktor Vasnetsov (1848-1926)
-
-Eblas aŭskulti ĉi tiun artikolon, kiun voĉlegis Margaret Zaleski-Zamenhof.
-
 La suba artikolo aperis en La Scienc-kanalo de Vicente en 27.3.22. La artikolo estas mallongigita kaj simpligita por la legantoj de uea.facila.
 
 Homo sapiens, speciala estaĵo inter la bestoj, aperis antaŭ proksimume tricent mil jaroj. Dum tiuj fruaj jaroj la homoj fariĝis humanaj, do kial oni tamen rimarkas tiom da malhumaneco en nia historio?
@@ -22,7 +18,7 @@ Nuntempe, ni ne scias, ĉu la nuna emo al malamo rezultas de nia gena heredaĵo 
 
 Vicente Sales
 
-Vicente Sales estas brazila esperantisto, aktiva kiel estrarano de Societo Esperantista de Minas-Ĵerajso (SEM) kaj membro de la Rotaria e-Klubo de Esperanto. Li ankaŭ estas amatora kuristo, gitaristo, kaj entuziasma amanto de scienco. https://www.instagram.com/vicente.kuristo/
+Vicente Sales estas brazila esperantisto, aktiva kiel estrarano de Societo Esperantista de Minas-Ĵerajso (SEM) kaj membro de la Rotaria e-Klubo de Esperanto. Li ankaŭ estas amatora kuristo, gitaristo, kaj entuziasma amanto de scienco.
 
 degeneri: iom post iom perdi siajn bonajn kvalitojn; ricevi pli malbonan formon.
 
@@ -49,8 +45,6 @@ komunumo: societo bazita sur komuneco de vivo kaj interesoj; grupo de homoj kune
 kunlaborema: preta labori kun aliaj por atingi komunajn celojn.
 
 nomado: membro de grupo, kiu ne loĝas fikse en la sama loko, sed vojaĝas ĉiam de loko al loko, ofte laŭ la sezonoj aŭ laŭ la havebleco de manĝaĝoj por si mem kaj siaj bestoj.
-
-Foto: Wikipedia / David Stanley CC BY 2.0
 
 perfortemo: la emo uzi la korpan forton por mistrakti aliajn homojn aŭ bestojn, aŭ por devigi iun aŭ ion kontraŭ ties volo.
 

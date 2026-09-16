@@ -1,7 +1,5 @@
 Baroj al Esperanto-lernado ĉe afrikaj virinoj
 
-Eblas aŭskulti ĉi tiun artikolon, kiun voĉlegis Margaret Zaleski-Zamenhof.
-
 Kial lernado de Esperanto ne allogas afrikajn virinojn? Estas pluraj malhelpoj: soci-kulturaj, ekonomiaj kaj edukaj. Jen kelkaj ĉefaj problemoj:
 
 1. Soci-edukaj kaj ekonomiaj baroj

@@ -1,6 +1,6 @@
 Demokratio bezonas virinojn: Feminisma gvidado dum malvastiĝo de la civila socio
 
-Virinoj manifestacias en la merkato Mchikichini de Dar es Salaam pro egala partopreno kaj inkluzivo en la tanzania socio. Bildo el Flickr de UN Virinoj [eo] (permesilo CC BY-NC-ND 2.0).
+De Clarisse Sih kaj Bibbi Abruzzini
 
 En epoko, kiam demokratia malprogreso ne plu estas malproksima danĝero, sed realo en pluraj kontinentoj, feminismaj gvidantoj rezistas ofte silente, kaj kelfoje, riskante sian propran sekurecon.
 
@@ -10,13 +10,11 @@ Favora medio por la civila socio estas esenca, ne simpla sugesto
 
 En Tanzanio, la feminisma defendanto Martina Kabisama jam de kelkaj jaroj laboras ĉe la intersekco de politika partopreno kaj socia protekto de virinoj. Por ŝi, la rilato inter demokratio kaj genra justeco estas struktura. Ŝi opinias, ke “genra justeco ne povas progresi kie la civila spaco estas limigita”.
 
-Virinoj organiziĝas kaj antaŭenigas ekonomian inkluzivon en la merkato Mchikichini de Dar es Salaam, Tanzanio. Bildo el Flickr de UN Virinoj (permesilo CC BY-NC-ND 2.0).
-
 La laboro de Kabisama elstarigas realaĵon ofte preteratentatan en tutmondaj politikaj debatoj: la politika partopreno de virinoj ne komenciĝas ĉe la balotujoj. Ĝi komenciĝas per protekto, ekonomia sekureco kaj organiza kapablo.
 
 Kiam virinoj ne havas aliron al sistemoj de socia protekto (salajra subteno, jura protekto kaj bazaj servoj), ili estas praktike ekskluzivitaj de la civila socio. Ekonomia malstabileco limigas moviĝeblon. Ĝi silentigas malkonsenton. Ĝi reduktas partoprenon al tiuj, kiuj povas permesi al si tion.
 
-Cifereca pentraĵo de “La Kvin Feministinoj” ĉinaj. Bildo el Vikimedia Komunejo [eo] (permisilo CC BY-SA 4.0).
+Kiam la favora medio por la civila socio estas limigata, ĉu per restriktaj leĝoj, ĉu per gvatado [eo], ĉu per neformala timigado, aktivistaj virinoj ofte estas la unuaj kiuj sentas la premon. En Ĉinio [eo] en 2015, la membroj de La Kvin Feministinoj estis arestitaj nur pro tio ke ili planis publikan kampanjon kontraŭ seksoĉikanado [eo] en publika transporto, ago vaste konsiderata provo silentigi feminisman mobilizadon.
 
 Simile, la maroka blogistino kaj homrajta defendantino Saida El Alami spertis plurajn arestojn pro siaj retaj kritikoj kontraŭ la aŭtoritatoj kaj pro sia defendo de politikaj malliberuloj. Ankaŭ ciferecaj spacoj povas fariĝi lokoj de kunordigitaj atakoj: la brazila ĵurnalistino Patrícia Campos Mello ricevis grandskalan kampanjon de ĉikanado pro tio ke ŝi raportis pri misinformado dum balotoj. Ŝi alfrontis minacojn kaj sekskalumniajn kampanjojn, plifortigitajn de politikaj aktoroj.
 

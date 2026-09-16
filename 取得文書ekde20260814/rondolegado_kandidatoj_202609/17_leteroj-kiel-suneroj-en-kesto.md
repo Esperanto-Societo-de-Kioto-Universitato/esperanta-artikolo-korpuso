@@ -2,8 +2,6 @@ Leteroj kiel suneroj en kesto
 
 Antaŭ kelkaj jaroj, Marc van Oostendorp ricevis viziton de du nederlandaj sinjorinoj, kiuj alportis al li stakon da amleteroj verkitaj en Esperanto, kun la peto traduki ilin. Ilia nederlanda patro ricevis tiujn leterojn en la tridekaj jaroj, de sia itala amikino. La leteroj rakontas la historion de granda amo, kiun ilia patro ŝajne neniam forgesis – amo, kiun interrompis la faŝismo.
 
-Leteroj inter Ada Magnina kaj Eduard Bakker.
-
 ”Viaj leteroj kiel suneroj brilos en mia vivo.” Tiel skribis la juna italino Ada Magnina en januaro 1934 al Eduard Bakker, nederlanda maristo, kiun ŝi renkontis kelkajn monatojn pli frue en la esperantista klubo de Ĝenovo en Italujo. La frazo, skribita per eleganta, preskaŭ kaligrafia manskribo, elstaras sur la unua paĝo de la unua letero en kolekto de preskaŭ cent, kiun mi ricevis antaŭ kelkaj jaroj de la du filinoj de Eduard. Post lia morto ili trovis la leterojn kaŝitajn en kesto, kaj ili petis min traduki la tekston – mi estis la sola, kiun ili konis, kiu povis legi la internacian lingvon. Kiel dankon mi rajtis konservi la leterojn.
 
 Post la afero kun Ada, Eduard edziĝis al ilia patrino kaj neniam rakontis pri la antaŭa amo. Liaj filinoj apenaŭ eĉ sciis, ke li iam parolis Esperanton. Tamen li konservis la leterojn dum jardekoj. Ni havas nur la leterojn, kiujn li ricevis, ne tiujn, kiujn li verkis – ni havas la voĉon de Ada, sed ne la respondon de Eduard. Tamen eblas legi la tutan rakonton inter la linioj: de la unua brilo de amo ĝis la silento de disiĝo. Kaj ĉion ĉi sur la fono de unu el la plej mallumaj epokoj de la eŭropa historio: la leviĝo de faŝismo.

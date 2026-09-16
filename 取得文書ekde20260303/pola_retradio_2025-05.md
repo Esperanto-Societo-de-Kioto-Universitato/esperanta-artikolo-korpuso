@@ -1,6 +1,6 @@
 ---
 source: "Pola Retradio (pola-retradio.org)"
-generated_at: "2026-09-15T16:02:39.672856+00:00"
+generated_at: "2026-09-16T16:23:18.929836+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-05-05 – 2025-05-30"
 ---
@@ -25,7 +25,7 @@ En la 1393-a E_elsendo el la 05.05.2025 ĉe www.pola-retradio.org:
 
 ---
 
-# Miljariĝo de la Pola Reĝolando en la  Universitata Biblioteko de Vroclavo
+# Miljariĝo de la Pola Reĝolando en la Universitata Biblioteko de Vroclavo
 
 **Published:** 2025-05-05
 
@@ -63,7 +63,7 @@ El la elsendo 05.05.2025. Legas Maciek – 02′ 17″
 
 ---
 
-# Koninda polo,  Jan Antoni Mikulicz-Radecki
+# Koninda polo, Jan Antoni Mikulicz-Radecki
 
 **Published:** 2025-05-05
 
@@ -476,7 +476,7 @@ El la elsendo 30.05.2025 – 07′ 17″
 
 **Audio:** https://pola-retradio.org/wp-content/uploads/2025/06/w_mj_Grazyna-PLebanek-prezidanto-de-la-uropa-Verkista_0104.mp3
 
-Grażyna Plebanek, romanverkistino, aŭtorino de filmscenaroj kaj teatraĵoj estis elektita kiel la prezianto de la Eŭropa Verkista Konsilio. La organizaĵo membrigas pli ol 220 mil kreantojn verkantajn en 35 lingvoj, aktivantajn en 50 asocioj de 32 landoj. Krom la uniaj landoj en la Konsilio membras ankaŭ Islando, Norvegio, Svilando, Britio, Belorusio, Montenegro kaj Nord-Makedonio. Grażyna Plebanek estas pola filologo, kiu laboris por Reuters-agantejo kaj „Gazeta Wyborcza”. Ŝi verkas ne nur pole, sed ankaŭ angle, france ​kaj nederlande. En sia kreado ŝi traktas temojn ligitajn kun la virinaj rajtoj, specifeco de la nuntempaj interhomaj rilatoj kaj kulturdiferencoj. De jaroj ŝi popularigas polan literaturon eksterlande gastante dum internaciaj literaturistaj festivaloj. Ekde 2005 ŝi loĝas en Bruselo.
+Grażyna Plebanek, romanverkistino, aŭtorino de filmscenaroj kaj teatraĵoj estis elektita kiel la prezianto de la Eŭropa Verkista Konsilio. La organizaĵo membrigas pli ol 220 mil kreantojn verkantajn en 35 lingvoj, aktivantajn en 50 asocioj de 32 landoj. Krom la uniaj landoj en la Konsilio membras ankaŭ Islando, Norvegio, Svilando, Britio, Belorusio, Montenegro kaj Nord-Makedonio. Grażyna Plebanek estas pola filologo, kiu laboris por Reuters-agantejo kaj „Gazeta Wyborcza”. Ŝi verkas ne nur pole, sed ankaŭ angle, france kaj nederlande. En sia kreado ŝi traktas temojn ligitajn kun la virinaj rajtoj, specifeco de la nuntempaj interhomaj rilatoj kaj kulturdiferencoj. De jaroj ŝi popularigas polan literaturon eksterlande gastante dum internaciaj literaturistaj festivaloj. Ekde 2005 ŝi loĝas en Bruselo.
 
 El la elsendo 30.05.2025. Legas Maciek – 01′ 04″
 

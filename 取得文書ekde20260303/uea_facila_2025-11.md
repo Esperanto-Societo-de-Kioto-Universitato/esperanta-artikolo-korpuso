@@ -1,6 +1,6 @@
 ---
 source: "UEA Facila (uea.facila.org)"
-generated_at: "2026-09-15T16:17:07.080832+00:00"
+generated_at: "2026-09-16T16:26:31.629323+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-11-02 – 2025-11-29"
 ---
@@ -28,19 +28,6 @@ time_range: "2025-11-02 – 2025-11-29"
 **Categories:** Filmetoj
 
 [Embed] https://www.youtube.com/embed/NC4RjKm5V1w?width=100%25&height=86.25
-
-
----
-
-# La lasta somero - Martin & la talpoj
-
-**Published:** 2025-11-09
-
-**URL:** https://uea.facila.org/filmetoj/la-lasta-somero-martin-la-talpoj-r360
-
-**Categories:** Filmetoj
-
-[Embed] https://www.youtube.com/embed/dT7BJiMNGJ8?width=100%25&height=86.25
 
 
 ---
@@ -186,33 +173,6 @@ velado: mara vojaĝado, sporto aŭ ŝatokupo per veloj, t.e. grandaj ŝtofaĵoj 
 **Categories:** Filmetoj
 
 [Embed] https://www.youtube.com/embed/1OLUtI6-pts?width=100%25&height=86.25
-
-
----
-
-# Barry Friedman
-
-**Published:** 2025-11-22
-
-**URL:** https://uea.facila.org/niaj-legantoj/barry-friedman-r79
-
-**Categories:** Niaj legantoj
-
-Mi unue eksciis pri Esperanto antaŭ proksimume 35 jaroj, kiam mi havis proksimume 35 jarojn. Iu hazarde menciis ĝin al mi. Tio okazis en Dallas, Teksaso, Usono. Mia reago, eksciinte pri la ekzisto de Esperanto, estis iri al la loka biblioteko por legi pri ĝi. (Memoru, ke tiam ne ekzistis la koncepto de retpoŝto aŭ interreto.) Mi trovis, ke Amerika Esperanto-Societo proponis senpagan,10-lecionan poŝtan kurson. La kursgvidantoj asertis, ke post 10 lecionoj, la lernanto scios la tutan bazan gramatikon kaj sufiĉe da baza vortprovizo por povi konversacii en Esperanto. Tiu aserto ŝajnis al mi nekredebla. Tamen mi aliĝis al la kurso por provi lerni almenaŭ bazan nivelon de Esperanto. Krome mi legis pri D-ro Zamenhof. Li naskiĝis kaj kreskis ne malproksime de tie, kie kelkaj el miaj geavoj naskiĝis kaj kreskis; tio ŝajnis kiel signo de bonŝanco por ke mi provu lerni Esperanton!
-
-Proksimume unu semajnon post kiam mi aliĝis al la kurso, mi ricevis la unuan lecionon per poŝto. La leciono inkluzivis skriban klarigon pri Esperanto plus kelkajn hejmtaskajn demandojn. Mi devis respondi la hejmtaskodemandojn kaj resendi ilin retpoŝte kun mem-adresita, afrankita koverto. Mi do faris tion. Proksimume du semajnojn poste, mi ricevis miajn korektitajn hejmtaskojn plus la duan lecionon. Mi faris ĉiujn dek lecionojn kaj poste ricevis diplomon! Poste mi aĉetis anglan/esperantan vortaron kaj abonis esperantlingvan revuon. Estis sekcio en tiu revuo pri trovado de korespondantoj. Do mi elektis korespondanton el urbeto en apenaŭ konata lando. Mi povis skribi leteron priskribantan min kaj aldonis plurajn demandojn. Mi metis la leteron en koverton kaj iris al la poŝtoficejo por sendi ĝin. Proksimume monaton poste, mi ricevis respondon. Mia korespondanto komprenis ĉion, kion mi skribis, kaj mi povis kompreni ĉion, kion li skribis!! Mi estis ege surprizita!!! Post nur dek lecionoj mi povis interkomuniki kun iu en Esperanto. Tio estus neebla per iu ajn alia lingvo. Pro tio mi inspiriĝis esti pli aktiva en Esperanto.
-
-Ĉar aliaj homoj en la pasinteco verkis originalajn novelojn en Esperanto kaj tradukis novelojn en Esperanton, mi decidis daŭrigi tiun agadon. Estas du lokoj kie miaj verkoj troveblas:
-
-https://verkoj.com/verkistoj/barry-friedman/
-
-kaj
-
-https://eo.wikipedia.org/wiki/Barry_Friedman
-
-Bonvolu legi tiujn verkojn kaj doni al mi viajn opiniojn pri ili. Mi provas traduki novelojn de aŭtoroj loĝantaj en diversaj partoj de la mondo kaj traktantaj variajn temojn. Ja Esperanto estas "La Universala Lingvo", ĉu ne! Mi esperas, ke miaj noveloj kaj miaj tradukoj inspiros aliajn homojn verki pli da noveloj kaj traduki aliajn novelojn!
-
-Mi ĉiam ĝojas havi korespondamikojn de iu ajn loko en la mondo. Ni povas diskuti ajnan temon. Mia retadreso estas mitderfinger56##gmail.com
 
 
 ---

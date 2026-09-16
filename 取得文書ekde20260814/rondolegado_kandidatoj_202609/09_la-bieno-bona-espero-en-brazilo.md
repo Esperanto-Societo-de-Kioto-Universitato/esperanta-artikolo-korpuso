@@ -1,9 +1,5 @@
 La bieno Bona Espero en Brazilo
 
-La plej malnova konstruaĵo en Bona Espero. Foto: Vikipedio / Jonathaneo CC BY-SA 4.0
-
-Eblas aŭskulti ĉi tiun artikolon, kiun voĉlegis Simone Schumacher.
-
 Ekde 1957 en Brazilo ekzistas la bieno Bona Espero, kie Esperanto estas normala komunikilo inter la loĝantoj. La bieno situas en la regiono Chapada dos Veadeiros, en la centro de Brazilo. Ĝi estis kreita de grupo da esperantistoj el la marborda urbo Recife, kiuj volis vivi en kampara komunumo kaj samtempe helpi la lokan popolon.
 
 La fondintoj de Bona Espero serĉis lokon kun multaj akvofontoj, agrabla klimato, kaj sur la alt-ebenaĵo. Post longa serĉado, ili aĉetis terenon de mil hektaroj. La regiono en 1957 estis malriĉa, kaj multaj el ĝiaj loĝantoj ne kapablis legi kaj skribi. Tie ses kuraĝuloj konstruis la bienon Bona Espero, produktante grandparte siajn proprajn manĝaĵojn. Dum multaj jaroj ili laboris sen elektra energio, sen asfaltitaj vojoj, sen malsanulejo aŭ sociaj servoj.
@@ -53,8 +49,6 @@ kun-laboro: kuna laborado pri iu komuna projekto.
 parto-preno: ĉe-estado aŭ kunfarado en iu komuna aranĝo.
 
 savano: vastaj herbejoj kun maloftaj arboj precipe en iuj sudameriko kaj afrikaj landoj.
-
-Foto: Wikipedia / Angeladepaula CC BY-SA 3.0
 
 situi: troviĝi, esti en iu loko.
 

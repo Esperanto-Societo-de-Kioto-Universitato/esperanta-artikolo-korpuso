@@ -1,10 +1,23 @@
 ---
 source: "UEA Facila (uea.facila.org)"
-generated_at: "2026-09-15T16:17:07.090062+00:00"
+generated_at: "2026-09-16T16:26:31.638394+00:00"
 generator: "retradio_lib.py"
-time_range: "2026-03-11 – 2026-03-28"
+time_range: "2026-03-08 – 2026-03-28"
 ---
 
+
+# Lingva Provoko n-ro 61 (PROTEKTI kaj ŜIRMI)
+
+**Published:** 2026-03-08
+
+**URL:** https://uea.facila.org/filmetoj/lingva-provoko-n-ro-61-protekti-kaj-%C5%9Dirmi-r387
+
+**Categories:** Filmetoj
+
+[Embed] https://www.youtube.com/embed/qyruwX9-3wY?width=100%25&height=86.25
+
+
+---
 
 # Ĉiu tempo-periodo havas siajn teknikojn
 

@@ -1,6 +1,6 @@
 ---
 source: "UEA Facila (uea.facila.org)"
-generated_at: "2026-09-15T16:17:07.076029+00:00"
+generated_at: "2026-09-16T16:26:31.625426+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-09-01 – 2025-09-29"
 ---
@@ -38,7 +38,7 @@ time_range: "2025-09-01 – 2025-09-29"
 
 **URL:** https://uea.facila.org/artikoloj/lega%C4%B5oj/tri-nesolveblaj-problemoj-r487
 
-**Author:** Mauri Cunha do Nascimento
+**Author:** Mauri Cunha do Nascimento, Angela Faria
 
 **Categories:** Legaĵoj
 

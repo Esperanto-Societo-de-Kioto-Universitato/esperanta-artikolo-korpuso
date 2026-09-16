@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-09-15T16:12:44.397167+00:00"
+generated_at: "2026-09-16T16:27:24.546265+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-08-04 – 2025-08-31"
 ---
@@ -12,7 +12,9 @@ time_range: "2025-08-04 – 2025-08-31"
 
 **URL:** http://esperanto.china.org.cn/2025-08/04/content_118010182.htm
 
-**Categories:** Plej Freŝaj
+**Author:** Paolo Pin
+
+**Categories:** Ekonomio
 
 de Paolo Pin*
 
@@ -45,7 +47,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio, Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 En mia pasinta artikolo (http://espero.chinareports.org.cn/2025-07/23/content_117990517.htm) mi komentis, ke Indonezio esploras siajn turismajn resursojn pli bone ol Brazilo, kaj tio validas ankaŭ por aliaj aziaj landoj, inkluzive de Ĉinio, kie tiu sektoro rapide disvolviĝas. Kion aliaj landoj povas lerni de la azia sperto en tiu kampo?
 
@@ -116,7 +118,7 @@ Verkis kaj fotis: Rafael Henrique Zerbetto
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio, Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 Fine de julio mi vizitis la gubernion Xianfeng, kiu situas en Tujia-a kaj Mjaŭ-a Aŭtonoma Prefektejo Enshi en la ĉina provinco Hubei. Temas pri montara regiono kun humida subtropika klimato, plena de belaj pejzaĝoj, arbaroj kaj riveroj, kaj kun ĉeesto de la etnoj Tujia kaj Miao, kiuj konservas unikajn kulturajn tradiciojn kaj tradician arkitekturon, kiu mirigas la vizitantojn.
 
@@ -189,7 +191,9 @@ Verkis kaj fotis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2025-08/07/content_118015132.htm
 
-**Categories:** Plej Freŝaj
+**Author:** Zamir Ahmed Awan
+
+**Categories:** Ekonomio
 
 de Zamir Ahmed Awan*
 
@@ -218,7 +222,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-08/08/content_118016837.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 La 7-an de aŭgusto inaŭguriĝis la 12-aj Mondaj Ludoj en Chengdu, la provinco Sichuan de sudokcidenta Ĉinio.
 
@@ -239,7 +243,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-08/12/content_118020597.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 Papertondaĵo estas simetria kaj aĵura dezajno, kreita per ripetaj faldoj de kvadrata papero kaj forigo de superflua materialo per tondilo aŭ gravurilo.
 
@@ -268,7 +272,7 @@ Redaktoro: Gao Shuyuan
 
 **URL:** http://esperanto.china.org.cn/2025-08/12/content_118022125.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 Jose Perurena, prezidanto de la Internacia Asocio de Mondaj Ludoj, en la 11-a de aŭgusto alte taksis la viglan atmosferon kaj rekordan nivelon de la okazantaj Mondaj Ludoj.
 
@@ -291,7 +295,9 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-08/13/content_118023808.htm
 
-**Categories:** Plej Freŝaj
+**Author:** Dan Steinbock
+
+**Categories:** Ekonomio
 
 de Dan Steinbock*
 
@@ -324,7 +330,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-08/14/content_118025538.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 La laŭvorta nomo de la medaloj de la Mondaj Ludoj 2025 estas "bambua lumo", kies prononco en la ĉina lingvo similas al "kur-sekvi lumon".
 
@@ -345,7 +351,7 @@ Redaktoro: Gao Shuyuan
 
 **URL:** http://esperanto.china.org.cn/2025-08/14/content_118025854.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio
 
 Laŭ la buroo de la Ĉina Fervoja Grupo en Xi'an, ĉefurbo de Shaanxi-provinco, en la unua duonjaro de 2025 la ĉin-eŭropa kargotrajno jam funkciis 3 055 fojojn, atingante 28.8% jaran kreskon; kaj la totala pezo de transportitaj varoj en tiuj trajnoj ekveturitaj el Xi'an jam atingis 3.45 milionojn da tunoj, je kresko de 34.8% kompare kun tiu de la antaŭa jaro. La ŝlosilaj indikoj de la kargotrajno, ekzemple la nombro de vetur-fojoj, transport-kapablo kaj kesta varoŝarĝo restas antaŭaj de la tuta lando.
 
@@ -362,7 +368,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-08/15/content_118027628.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 La Urtiin Duu aŭ longa kanto estas unu el la du ĉefaj formoj de mongolaj kantoj, la alia estas la mallonga kanto (Bogino Duu). Kiel rita esprim-formo asociita kun gravaj celebradoj kaj festoj, Urtiin Duu ludas apartan kaj honoritan rolon en la mongola socio. Ĝi estas prezentita ĉe geedziĝo, inaŭguro de nova hejmo, naskiĝo de infano, markado de ĉevalidoj kaj aliaj sociaj eventoj gravaj por la komunumoj de la Interna Mongolio. Urtiin Duu ankaŭ aŭdeblas ĉe la festo prezentanta luktadon, arkpafadon kaj ĉevalvetkuron.
 
@@ -381,7 +387,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-08/21/content_118031069.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Kulturo,Scienco kaj Sporto
 
 Okaze de la 80-a datreveno de la venko de Ĉinio en la Kontraŭjapana Rezistmilito kaj la Monda Kontraŭfaŝisma Milito, elektitaj oficistoj kaj komunumestroj el la Golfa Regiono de San-Francisko okazigis gazetaran konferencon en San-Joseo, Usono la 13-an de aŭgusto. La konferenco enkondukis ilian eventon -- ekspozicio sur la aviadila ŝipo USS Hornet en aŭklando, Kalifornio, la 30-an de aŭgusto, celante rememorigi la kunlaboron kaj amikecon inter Ĉinio kaj Usono por komuna venko dum la dua mondmilito.
 
@@ -406,7 +412,7 @@ Redaktoro: Gao Shuyuan
 
 **Author:** BUI HAI MUNG (Vjetnamio)
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio, Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 Post loĝado pli ol du jarojn en Ĉinio, mi havis la ŝancon viziti multajn lokojn de la lando. Laŭ mia opinio, la ĉina turismo estas tre bone planita, ĉiuj turismaj lokoj estas puraj kaj la prezoj tre raciaj. Ĉinoj ofte fieras pri la longa historio kaj diras, ke Henan estas la patro, dum Shaanxi estas la patrino, ambaŭ la du lokoj estas simboloj de la origino de Ĉinio.
 
@@ -420,7 +426,7 @@ Parko Qingming Shanghe: Nacia trezoro fariĝis "check-in-turismejo"
 
 La sekreto kuŝas en la parko Qingming Shanghe -- 40-hektara turisma zono, kiu rekreas la majstran pentraĵon Laŭlonge de la Rivero dum Qingming-festo, farita antaŭ pli ol 900 jaroj kaj agnoskita kiel memoraĵo de monda registro de UNESKO. La pentraĵo longas je 5.28 metroj kaj larĝas je 24.8 centimetroj, prezentante 814 homojn, 60 bestojn, 20 ŝipojn kaj 30 konstruaĵojn de la ĉefurbo Bianjing. En Kaifeng, ĉi tiu pentraĵo estas "pligrandigita" al vivanta antikva urbo, inkluzive artefaritan river-sistemon, antikvajn konstruaĵojn, komercan straton kaj centojn da vidindaĵoj kaj artaj spektakloj. Ĉiuj konstruaĵoj kaj arkitekturoj estas rekonstruitaj laŭ la pentraĵo kaj historiaj dokumentoj, tio donas al vizitantoj la senton, ke ili paŝas en pentraĵo kaj vivas en antikva ĉina urbo.
 
-Transhistoria  sperto
+Transhistoria sperto
 
 De mateno ĝis noktomezo, turistoj ne nur "rigardas" sed "vivas" en la song-dinastia atmosfero. Multaj klasikaj ĉinaj literaturoj kaj filmoj estas realisme rekreitaj. Antikva konata generalo Yue Fei kondukas armeon en batalo, antikva juĝisto Bao Zheng juĝas en tribunalo, herooj de Liangshan atakas malliberejon. Precipe, vespere oni povas spekti fajraĵojn kaj feran fajron. Fera fajro estas prezentado, kie fandita fero aŭ gisfero (varmigita ĝis 1 500 gradoj) estas batata per bastonoj, kreante brilajn fajrerojn en la aero.
 
@@ -441,7 +447,7 @@ Verkita de BUI HAI MUNG (Vjetnamio)
 
 **URL:** http://esperanto.china.org.cn/2025-08/21/content_118036690.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 Antaŭtagmeze de la 21-a de aŭgusto ĉe la Potala Palaco, Lasao, ĉina prezidanto Xi Jinping, ĝenerala sekretario de la Centra Komitato de la Komunista Partio de Ĉinio kaj prezidanto de la Centra Milita Komisiono, ĉeestis la ceremonion por la 60-a datreveno de fondiĝo de Xizang-a Aŭtonoma Regiono, kune kun preskaŭ 20 000 kadroj kaj invititoj de diversaj etnogrupoj de Xizang.
 
@@ -460,7 +466,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-08/22/content_118037914.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 Depost la fondiĝo de Xizang-a Aŭtonoma Regiono, la lokaj nemateriaj kulturaj heredaĵoj estas bone konservataj kaj produktataj dum la pasintaj 60 jaroj. Jen la fotoj pri tibetaj kostumoj, dancadoj kaj operaj prezentadoj.
 
@@ -475,7 +481,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-08/22/content_118037944.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio, Vojaĝo tra Ĉinio
 
 Ĉe la 60-a datreveno de fondiĝo de Xizang-a Aŭtonoma Regiono, oni fotis la pontojn sur la rivero de Lasao, ĉefurbo de la regiono de Ĉinio.
 
@@ -490,7 +496,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-08/25/content_118036603.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Naturo kaj Mediprotekto, Vojaĝo tra Ĉinio
 
 Ĉiujare de majo ĝis aŭgusto estas la plej vigla sezono de Hoh Xil: Dum la mallonga somero, diversaj sovaĝherboj prosperas; sovaĝaj tibet-azenoj kaj poefagoj manĝadas por dikigi sin. Sed la plej okulfrapa besto estas la tibeta antilopo. Ekde frua majo, dekmiloj da tibetaj antilopoj pilgrimis el ĉiuj direktoj al la bordoj de Zhuonai-lago por akuŝi.
 
@@ -502,7 +508,7 @@ Lian Xinming diris, ke masklaj tibetaj antilopoj ĝenerale ne migras distance, k
 
 Vintro estas la "amsezono" por tibetaj antilopoj. Tiutempe, masklaj tibetaj antilopoj, krom siaj longaj kornoj, fariĝas pli malhelaj ĉe la vizaĝoj kaj antaŭaj membroj. Por gajni la favoron de "amantinoj", ili konstante batalas.
 
-Post mallonga romantikeco, la tibetaj antilopoj denove apartiĝas. Viraj idoj naskitaj la antaŭan jaron aliĝas al la grupo de sia patro, dum la patrinoj, kun siaj inaj idoj,  preparas por estontaj migradoj kaj naskoj.
+Post mallonga romantikeco, la tibetaj antilopoj denove apartiĝas. Viraj idoj naskitaj la antaŭan jaron aliĝas al la grupo de sia patro, dum la patrinoj, kun siaj inaj idoj, preparas por estontaj migradoj kaj naskoj.
 
 Kiam la somero alproksimiĝas, disaj femalaj tibetaj antilopoj komencas kolektivi en Hoh Xil por la ĉiujara migrado.
 
@@ -519,7 +525,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-08/25/content_118037885.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio
 
 Ekde la komenco de 2025, por fremduloj, "vojaĝo al Ĉinio" fariĝis eĉ pli populara, kaj "aĉetado en Ĉinio" daŭre kreskis. Datumoj publikigitaj de la Administracio pri Impostado de Ĉinio montras, ke de januaro ĝis junio, la nombro de forir-impost-repagaj butikoj duobliĝis, superante 7 200. La nombro de vizitantoj, kiuj ricevis impostrepagojn, kreskis je 186% kompare kun la pasinta jaro, kaj la vendokvanto de impostrepageblaj varoj kaj la monsumo de impostrepagoj kreskis je 94.6% kaj 93.2% respektive kompare kun tiuj de la pasinta jaro.
 
@@ -544,7 +550,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Bui Hai Mung
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Vojaĝo tra Ĉinio
 
 Mi estas vjetnama civitano, kiu vivas kaj laboras en Ĉinio por pli ol du jaroj. Dum ĉi tiu periodo mi loĝis ĉefe en Pekino kaj ankaŭ havis ŝancon viziti multajn aliajn urbojn kiel Ŝanhajo, Hangzhou, Dunhuang, Urumĉio, Zhangjiajie ktp. Miaj spertoj, ĉu en grandaj urboj, ĉu en lokaj regionoj, kondukis min al klara konkludo: Ĉinio estas tre sekura lando.
 
@@ -621,7 +627,7 @@ Verkita de Bui Hai Mung
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 En la urbo Xuchang de Henan-provinco, centra Ĉinio, troviĝas bela historia pagodo Wenfeng, konstruita en Ming-dinastio (1368-1644). Krom esti konata vidindejo de la urbo, tiu pagodo ludis gravan rolon en la historio. La antikva domo apud la pagodo estis transformita en muzeon pri pagoda kulturo, kies konservaĵoj kaj klarigoj pri historiaj kaj kulturaj trajtoj de tiu arkitektura tradicio estas surprize interesaj.
 
@@ -648,7 +654,7 @@ Raportis kaj fotis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2025-08/27/content_118045139.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 La amaskomunikila centro por la memoreventoj pri la 80-a datreveno de la Venko de Ĉinio en la Kontraŭjapana Rezistmilito kaj la Monda Kontraŭfaŝisma Milito malfermiĝis la 27-an de aŭgusto.
 
@@ -669,7 +675,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-08/28/content_118045201.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio, Vojaĝo tra Ĉinio
 
 En la 31-a de aŭgusto kaj la 1-a de septembro, la plej granda pintkunveno de la Ŝanhaja Kunlabora Organizo (ŜKO) okazos en Tianjin, Ĉinio. Kiel la plej popolriĉa, geografie vasta kaj ampleksa regiona organizo de la mondo, ŜKO kunigas diversajn civilizaciojn kaj grandan nombron da kulturaj interagoj, kaj fariĝis platformo por reciproka lernado, paca kunekzisto kaj kunlaborado.
 
@@ -717,7 +723,9 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-08/28/content_118047677.htm
 
-**Categories:** Plej Freŝaj
+**Author:** BUI HAI MUNG
+
+**Categories:** Socia Vivo, Ekonomio
 
 de BUI HAI MUNG
 
@@ -782,7 +790,7 @@ Shouhengcheng montris al mi alian bildon de Ĉinio: Ne nur pri supermodernaj urb
 
 **URL:** http://esperanto.china.org.cn/2025-08/29/content_118045212.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio, Vojaĝo tra Ĉinio
 
 Frue de aŭtuno, Tianjin, situanta ĉe Bohai-golfo, fariĝis altira. Kiel ŝlosila enirejo al norda Ĉinio, Tianjin gastigos la solenan pintkunvenon de la Ŝanhaja Kunlabora Organizo (ŜKO) en la 31-a de aŭgusto kaj la 1-a de septembro. Gvidantoj el pli ol 20 landoj kaj 10 internaciaj organizoj ĉeestos la eventon. La 600-jaraĝa antikva urbo Tianjin atestos gravan momenton de unueco, interfido kaj interkonsento.
 
@@ -797,7 +805,9 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-08/29/content_118045462.htm
 
-**Categories:** Plej Freŝaj
+**Author:** Luo Qing
+
+**Categories:** Kulturo,Scienco kaj Sporto
 
 de Luo Qing*
 
@@ -838,7 +848,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-08/29/content_118121376.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 Ĉe la ekspozicia tabulo kun kantotekstoj kaj notoj de rezistmilitaj kantaĵoj en la Memorhalo pri Literaturo kaj Arto de Yan'an, ĉiam grupiĝas vizitantoj. Ili aŭ mallaŭte recitas, aŭ trankvile kantas, kun respekto kaj seriozeco.
 
@@ -883,7 +893,7 @@ Redaktoro: Sheng Min
 
 **URL:** http://esperanto.china.org.cn/2025-08/30/content_118045159.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Kulturo,Scienco kaj Sporto
 
 La 26-an de aŭgusto malfermiĝis al la publiko artekspozicio pri la Ĉina Popola Rezistmilito kontraŭ Japana Agreso.
 
@@ -902,7 +912,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-08/31/content_118045176.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Kulturo,Scienco kaj Sporto
 
 Ornamaj florbedoj ĉe la placo Tian'anmen kaj la avenuo Chang'an en Pekino estis kompletigitaj antaŭ la granda militista parado celebre al la 80-a datreveno de la venko de Ĉinio en la Kontraŭjapana Rezistmilito kaj la Monda Kontraŭfaŝisma Milito.
 

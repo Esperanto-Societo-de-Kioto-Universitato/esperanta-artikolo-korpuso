@@ -1,6 +1,6 @@
 ---
 source: "Global Voices en Esperanto (eo.globalvoices.org)"
-generated_at: "2026-09-15T22:51:26.387617+00:00"
+generated_at: "2026-09-16T16:23:52.188842+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-05-07 – 2026-05-14"
 ---
@@ -12,9 +12,13 @@ time_range: "2026-05-07 – 2026-05-14"
 
 **URL:** https://eo.globalvoices.org/2026/05/15805/
 
-**Categories:** Blogo, Brazilo, Civitanaj komunikiloj, Homaj rajtoj, Kameruno, Latinameriko, Maroko, Mezoriento kaj Nordafriko, Orienta Azio, Politiko, Subsahara Afriko, Tanzanio, Virinoj kaj genro, Ĉefaĵo, Ĉinio
+**Author:** Aza Delgado Orduño
+
+**Categories:** Blogo, Brazilo, Civitanaj komunikiloj, Homaj rajtoj, Kameruno, Latinameriko, Maroko, Mezoriento kaj Nordafriko, Orienta Azio, Politiko, Subsahara Afriko, Tanzanio, Virinoj kaj genro, Ĉefaĵo, Ĉinio, GV Advocacy, The Bridge
 
 Virinoj manifestacias en la merkato Mchikichini de Dar es Salaam pro egala partopreno kaj inkluzivo en la tanzania socio. Bildo el Flickr de UN Virinoj [eo] (permesilo CC BY-NC-ND 2.0).
+
+De Clarisse Sih kaj Bibbi Abruzzini
 
 En epoko, kiam demokratia malprogreso ne plu estas malproksima danĝero, sed realo en pluraj kontinentoj, feminismaj gvidantoj rezistas ofte silente, kaj kelfoje, riskante sian propran sekurecon.
 
@@ -31,6 +35,8 @@ La laboro de Kabisama elstarigas realaĵon ofte preteratentatan en tutmondaj pol
 Kiam virinoj ne havas aliron al sistemoj de socia protekto (salajra subteno, jura protekto kaj bazaj servoj), ili estas praktike ekskluzivitaj de la civila socio. Ekonomia malstabileco limigas moviĝeblon. Ĝi silentigas malkonsenton. Ĝi reduktas partoprenon al tiuj, kiuj povas permesi al si tion.
 
 Cifereca pentraĵo de “La Kvin Feministinoj” ĉinaj. Bildo el Vikimedia Komunejo [eo] (permisilo CC BY-SA 4.0).
+
+Kiam la favora medio por la civila socio estas limigata, ĉu per restriktaj leĝoj, ĉu per gvatado [eo], ĉu per neformala timigado, aktivistaj virinoj ofte estas la unuaj kiuj sentas la premon. En Ĉinio [eo] en 2015, la membroj de La Kvin Feministinoj estis arestitaj nur pro tio ke ili planis publikan kampanjon kontraŭ seksoĉikanado [eo] en publika transporto, ago vaste konsiderata provo silentigi feminisman mobilizadon.
 
 Simile, la maroka blogistino kaj homrajta defendantino Saida El Alami spertis plurajn arestojn pro siaj retaj kritikoj kontraŭ la aŭtoritatoj kaj pro sia defendo de politikaj malliberuloj. Ankaŭ ciferecaj spacoj povas fariĝi lokoj de kunordigitaj atakoj: la brazila ĵurnalistino Patrícia Campos Mello ricevis grandskalan kampanjon de ĉikanado pro tio ke ŝi raportis pri misinformado dum balotoj. Ŝi alfrontis minacojn kaj sekskalumniajn kampanjojn, plifortigitajn de politikaj aktoroj.
 
@@ -100,6 +106,8 @@ La demando estas, ĉu la institucioj provizos al ili protekton, rimedojn kaj agn
 **Published:** 2026-05-14
 
 **URL:** https://eo.globalvoices.org/2026/05/15866/
+
+**Author:** Aza Delgado Orduño
 
 **Categories:** Angla, Blogo, Civitanaj komunikiloj, Komunikiloj kaj ĵurnalismo, Lingvo, MONDO, Teknikaro, Ĉefaĵo
 

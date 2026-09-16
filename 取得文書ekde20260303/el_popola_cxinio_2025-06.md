@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-09-15T16:12:44.383416+00:00"
+generated_at: "2026-09-16T16:27:24.405511+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-06-04 – 2025-06-30"
 ---
@@ -14,7 +14,7 @@ time_range: "2025-06-04 – 2025-06-30"
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 Shang-dinastio (1600 a.K.-1046 a.K.), la unua dinastio de Ĉinio konfirmita per arkeologiaj pruvoj kaj skribaj registroj, estis sinsekve gvidata de 31 reĝoj en pli ol 500 jaroj kaj markis ne nur la pinton de la bronza epoko en Ĉinio, kaj ludis ŝlosilan rolon en formigo de la frua ĉina civilizacio kaj ŝtato. La plej antikvaj praformoj de ĉinaj signoj, gravuritaj sur bronzaĵoj, ostoj kaj testudaj karapacoj, estas de tiu dinastio. Jen kelkaj interesaj antikvaĵoj de Shang-dinastio videblaj en speciala ekspozicio en la pekina Muzeo de la Granda Kanalo (orienta branĉo de la Ĉefurba Muzeo).
 
@@ -37,7 +37,7 @@ Raportis kaj fotis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2025-06/06/content_117913919.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 De la 21-a ĝis la 25-a de majo, la 9-a Internacia Ekspozicio de la Silka Vojo kaj Foiro de Ĉina Orient-Okcidenta Kunlaboro, Investo kaj Komerco okazis en Xi'an de la provinco Shaanxi. Kun la temo "integriĝo de la Silka Vojo kaj malferma kunlaboro", la ekspozicio altiris 260 eksterlandajn invititojn el pli ol 40 landoj kaj regionoj, inkluzive de Italio, Malajzio, Azerbajĝano, Kataro, Kamboĝo, Alĝerio, invititojn de 29 ministerioj, ŝtataj entreprenoj, asocioj, kaj reprezentantojn de 29 provincoj (aŭtonomaj regionoj kaj municipoj) de Ĉinio. La nombro de vizitantoj al realaj kunvenejoj superis 225 000, kaj la nombro de retejaj klakoj al la ekspozicio superis 8.1 milionojn, kaj la nombro de partoprenantoj kaj la diverseco de eksponaĵoj atingis novan maksimumon.
 
@@ -58,7 +58,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-06/06/content_117915029.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Kulturo,Scienco kaj Sporto
 
 Alvenis la Drakoboata Festo en la 31-a de majo, kaj la tradiciaj drakboataj remkonkursoj okazis en multaj lokoj. Lastatempe la video pri infana drakoboata konkurso de iu infanĝardeno en Guangdong-provinco, Ĉinio, fariĝis populara en la interreto.
 
@@ -81,7 +81,7 @@ Redaktoro: Liu Zijia
 
 **URL:** http://esperanto.china.org.cn/2025-06/09/content_117915026.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio, Kulturo,Scienco kaj Sporto
 
 En la lastaj jaroj, la modludila marko Pop Mart el Ĉinio rapide akiris popularecon en la eŭropa merkato. Fondita en 2010, ĝi kreskis de eta marko ĝis ĉefflua kultura fenomeno fervore sekvata de junuloj. Ĝiaj produktoj, kun treege rekoneblaj dezajnoj, famiĝis tutmonde.
 
@@ -96,7 +96,7 @@ Redaktoro: Liu Zijia
 
 **URL:** http://esperanto.china.org.cn/2025-06/10/content_117917924.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 Lastatempe serio da gravaj interkonsentoj estis atingitaj ĉe la altnivela kunveno inter Ĉinio kaj Usono pri ekonomiaj kaj komercaj aferoj en Ĝenevo, donante mallongan helpon al la iovaaj farmistoj de Usono. Por ili, la malstabileco kaŭzita de jaroj da usonaj komercaj politikoj, kaj la kreskantaj kostoj de importaĵoj kaj velkantaj merkatoj daŭre estas veraj ĉagrenigaj problemoj.
 
@@ -135,7 +135,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio, Kulturo,Scienco kaj Sporto
 
 Dum mia infaneco kaj adolesko en Brazilo, en lernejo mi studis la falon de Konstantinopolo kaj la sekvan blokadon de la Silka Vojo. En brazilaj lernejoj, pro evidenta kialo, la fokuso estas sur ne la konsekvencoj de tio por Ĉinio, sed sur la esplorado de eŭropanoj pri alternativoj al la Silka Vojo, el kio rezultis la malkovron de Ameriko kaj la estigo de setlejoj en Brazilo.
 
@@ -209,7 +209,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-06/11/content_117921067.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 Ĉina prezidanto Xi Jinping telefone konversaciis kun usona prezidento Donald Trump laŭ lia invito la 5-an de junio.
 
@@ -230,7 +230,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-06/11/content_117921078.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 La unua kunveno de la mekanismo pri ĉin-usona ekonomia kaj komerca interkonsiliĝo malfermiĝis la 9-an de junio en Londono, Britio.
 
@@ -251,7 +251,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio, Naturo kaj Mediprotekto, Vojaĝo tra Ĉinio
 
 La Delto de la Flava Rivero estas grava regiono de la ĉina provinco Shandong, kie la Flava Rivero enfluas Bohai-maron. La renkontiĝo de la flavaj akvoj de la rivero kun la bluaj akvoj de la maro kreas belan spektaklon, kiu allogas turistojn al la regiono. Hisotorie, la loko de la delto ŝanĝiĝis plurfoje rezulte de la fakto, ke la rivero transportas sablon kaj ŝlimon el siaj supra kaj meza fluejoj. Lastatempe, monitorado de la rivero per modernaj teknologioj kaj homaj intervenoj cele al plibonigo de la medio en la regiono kontribuis por mildigi la problemojn kaj signife vigligi la ekomedion en tiu regiono, kiu estas esenca por migrado de pluraj specioj de birdoj.
 
@@ -274,7 +274,7 @@ Raportis kaj fotis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2025-06/11/content_117921497.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 La unua kunveno de la mekanismo pri ĉin-usona ekonomia kaj komerca konsiliĝo malfermiĝis la 9-an de junio laŭ loka tempo en Londono. La kunveno daŭras ĝis la 11-a de junio.
 
@@ -297,7 +297,9 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-06/12/content_117921243.htm
 
-**Categories:** Plej Freŝaj
+**Author:** Massoud Amin
+
+**Categories:** Ekonomio
 
 de Massoud Amin*
 
@@ -324,13 +326,13 @@ Redaktoro: Xie Ruifeng
 
 ---
 
-# Ĉinio kaj Usono konsentis pri kadro por efektivigo de ŝtatestraj konsentoj ‌
+# Ĉinio kaj Usono konsentis pri kadro por efektivigo de ŝtatestraj konsentoj
 
 **Published:** 2025-06-12
 
 **URL:** http://esperanto.china.org.cn/2025-06/12/content_117923058.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 La 10-an de junio ĉina internacia komerca reprezentanto kaj vicministro pri komerco Li Chenggang diris, ke Ĉinio kaj Usono principe konsentis pri la kadro por efektivigo de la konsentoj atingitaj de la du ŝtatestroj dum ilia telefona interparolo la 5-an de junio kaj dum intertraktado en Ĝenevo pasintmonate.
 
@@ -351,7 +353,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-06/12/content_117923066.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 Ĉina vicĉefministro He Lifeng diris, ke Usono devas solvi komercajn disputojn kun Ĉinio per egala dialogo kaj reciprok-profita kunlaboro.
 
@@ -372,7 +374,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-06/16/content_117930393.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 La dua Pintkunveno inter Ĉinio kaj Centra Azio alproksimiĝas. Rezulto de enketo de la amaskomunikilo CGTN montras, ke la altnivela kunlaboro inter Ĉinio kaj la kvin centraziaj landoj estas vera enkorpigo de la homara komunumo de komuna estonteco, kio kontinue aldonas stabilecon en ĉiam pli turbulan internacian komunumon.
 
@@ -391,7 +393,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-06/16/content_117930400.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 Kiel ekzempla regiono de la naskiĝa loko de la iniciato "La Zono kaj Vojo" kaj altkvalita kunkonstruado de la iniciato, la Centra Azio profundigas sian ekonomian kaj komercan kunligon kun Ĉinio kaj la duflanka komerco stabile grandigis sian skalon.
 
@@ -425,7 +427,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-06/17/content_117931985.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 La 16-an de junio ĉina prezidanto Xi Jinping interparolis kun kazaĥa prezidento Kassym-Jomart Tokayev en la Prezidenta Palaco de Astano, Kazaĥio.
 
@@ -446,7 +448,9 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-06/17/content_117931988.htm
 
-**Categories:** Plej Freŝaj
+**Author:** Djoomart Otorbaev
+
+**Categories:** Ekonomio
 
 de Djoomart Otorbaev*
 
@@ -473,7 +477,9 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-06/17/content_117931996.htm
 
-**Categories:** Plej Freŝaj
+**Author:** Rafik Tairov
+
+**Categories:** Ekonomio
 
 de Rafik Tairov*
 
@@ -502,7 +508,9 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-06/17/content_117931998.htm
 
-**Categories:** Plej Freŝaj
+**Author:** Gayane Umerova
+
+**Categories:** Ekonomio
 
 de Gayane Umerova*
 
@@ -529,7 +537,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Naturo kaj Mediprotekto, Vojaĝo tra Ĉinio
 
 Grandaj pandoj estas inter la plej raraj bestoj en la mondo. Konataj kiel "vivantaj fosilioj", ili estas ne nur trezoroj de Ĉinio, sed ankaŭ bestoj tre ŝatataj en la tuta mondo. La Esplorbazo de Grandaj Pandoj en Chengdu, Sichuan-provinco de Ĉinio, estas neprofitocela bredejo de grandaj pandoj financata de la ĉina registaro kaj ankaŭ esplorejo pri grandaj pandoj, malgrandaj pandoj kaj aliaj raraj bestoj. Ĝi troviĝas nur 10 kilometrojn for de la urbocentro de Chengdu kaj estis fondita en 1987 por prizorgado de ses grandaj pandoj savitaj el malsano kaj malsato. Nun en la bazo vivas 237 grandaj pandoj en malsamaj aĝoj.
 
@@ -546,7 +554,7 @@ Raportis kaj fotis: Rafael Henrique Zerbetto
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio, Naturo kaj Mediprotekto
 
 La Monda Junulara Prienergia Turneo, okazinta por la tria fojo inter la 4-a kaj la 8-a de junio ĉijare en la ĉinaj provincoj Shandong kaj Sichuan, kunigis 14 junajn profesiulojn kaj studentojn el ok landoj. Kreita de partnereco inter Akademio de Studoj pri Nuntempa Ĉinio kaj la Mondo (ACCWS, laŭ anglalingva mallongigo) kaj la kompanio CHN Energy, la turneo alportis gravan novaĵon ĉijare: En ĝi partoprenis ne nur junaj talentuloj vivantaj en Ĉinio, sed ankaŭ kelkaj gastoj el aliaj landoj.
 
@@ -627,7 +635,7 @@ Verkis kaj fotis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2025-06/19/content_117934772.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 Tiu ĉi filmeto montras du esencajn perkutilojn uzatajn en Nanyin-muziko. Maldekstre estas perkutilo nomita Paiban, kiu konsistas el du aŭ tri lignaj frapiloj tenataj vertikale. Frapado de tiuj perkutiloj rezultas en sono, kiu markas la ritmon de la muziko. Ĝia ludanto kutime ankaŭ rolas kiel ĉefkantisto. Dekstre estas Shuangzhong, du malgrandaj porcelanaj tetasoj, kiu estas frapataj kiel cimbaloj. Oni devas teni ilin ĉe la randoj kaj milde ilin frapi por produkti pli klaran kaj altan sonon. La uzo de tetasoj por fari muzikon spegulas la popoldevenon de Nanyin, devenigita el improviza uzo de ordinaraj objektoj kiel muzikiloj.
 
@@ -650,7 +658,7 @@ Redaktoroj: Rafael Henrique Zerbetto kaj Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-06/19/content_117934841.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 Meshrep estis aldonita en la Liston de Nemateria Kultura Heredaĵo de UNESKO antaŭ kelkaj jaroj. Ĝi estas tradicia arto de ujguroj de Xinjiang-a Ujgura Aŭtonoma Regiono de Ĉinio, ujguroj okazigas diversajn specojn de Meshrep en malsamaj eventoj por festi kaj celebri la rikolton de agrikulturo aŭ bredado. Per tio oni celas kreskigi solidajn familiajn, amikajn, najbarajn kaj komunumajn rilatojn, tio ankaŭ estas grava afero por laboro kaj vivo.
 
@@ -675,7 +683,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-06/19/content_117936346.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 La 17-an de junio en la dua Ĉin-Centrazia Pintkunveno en Astano, kazaĥa ĉefurbo, ĉina prezidanto Xi Jinping diris, ke Ĉinio pretas kunlabori kun centraziaj landoj por protekti internacian justecon kaj kontraŭstari hegemonismon kaj potencpolitikon.
 
@@ -698,7 +706,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio, Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 La arkeologiejo Jinsha estas la centro de la antikva regno Shu, kies civilizacio disvolviĝis ĉe la alta parto de la baseno de Jangzio de la 12-a jarcento a.K. ĝis la 7-a jarcento p.K., alivorte, antaŭ ĉ. 3 200-3 600 jaroj. Tiu arkeologiejo, kune kun tiu de Sanxingdui, reprezentas la kulminon de la disvolvado de Shu-regno.
 
@@ -727,7 +735,7 @@ Raportis kaj fotis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2025-06/20/content_117938742.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 La 19-an de junio malfermiĝis la 9-a Ĉina kaj Sud-Azia Ekspozicio en Kunming, ĉefurbo de la provinco Yunnan en sudokcidenta Ĉinio. Ĝi altiras reprezentantojn de pli ol 2 500 entreprenoj el 73 landoj, regionoj kaj internaciaj organizoj.
 
@@ -752,7 +760,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio, Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 Kuanzhai-aleo estas fama turismejo de la urbo Chengdu en la okcident provinco Sichuan, Ĉinio. Tie estas la nuraj postrestaĵoj de Shaocheng-kulturo de antaŭ 3 000 jaroj kaj de la 300-jara Mancheng-kulturo. Ĝia arkitektura stilo kombinas la kulturon de hutong de norda Ĉinio kun la tradiciaj kortoj de Sichuan. Tiu renovigita historia loko estas tre ŝatata de turistoj kaj lokanoj, kun multaj restoracioj, vendejoj kaj bunta noktovivo. La ĉeesto de artistoj surloke donas al vizitantoj pli intiman sperton de sichuan-a kulturo kaj igas la viziton al tiu loko pli speciala kaj memorinda. Jen kelkaj ekzemploj:
 
@@ -775,7 +783,7 @@ Raportis kaj fotis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2025-06/23/content_117939007.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 Guĉino estas ĉina sepkorda pluk-instrumento. Ĝi estas ludata ekde antikveco, kaj tradicie estas ŝatata de akademiuloj kaj literaturistoj kiel instrumento de granda subtileco kaj rafineco, kaj ankaŭ asociita kun la antikva filozofo Konfuceo. Ĝi estas foje nomata de ĉinoj "la patro de ĉina muziko" aŭ "la instrumento de saĝuloj". Guĉino en la koncepto de ĉinoj estas la plej respektata el ĉiuj ĉinaj muzikinstrumentoj. Ĝi havas historion de ĉirkaŭ 5 000 jaroj, kaj ĝiaj legendaj figuroj rilataj al la ĉina prahistorio estas dieca Fuxi, Shennong kaj Huang Di, la Flava Imperiestro. Ĝi estas menciita en ĉinaj skribaĵoj antaŭ preskaŭ 3 000 jarojn, kaj instrumentoj estis trovitaj en tomboj antaŭ ĉirkaŭ 2 500 jaroj.
 
@@ -798,7 +806,9 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-06/23/content_117944767.htm
 
-**Categories:** Plej Freŝaj
+**Author:** Quang Thanh Phan
+
+**Categories:** Ekonomio
 
 de Quang Thanh Phan*
 
@@ -825,7 +835,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-06/24/content_117942374.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 Kunĉju-opero (aŭ Kunqu) estas unu el la plej malnovaj ekzistantaj ĉinaj operoj. Ĝi evoluis el muzika stilo de Kunshan, parto de la kultura areo Wu, kaj poste furoris en ĉinaj teatrejo de la 16-a ĝis la 18-a jarcentoj. Konataj verkoj de tia opero inkluzivas La Peonian Pavilonon en la dinastio Ming.
 
@@ -850,7 +860,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-06/24/content_117942964.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Kulturo,Scienco kaj Sporto
 
 La 19-an de junio okazis lanĉ-ceremonio de la dulingva (ĉina kaj islanda) libro Danco de glacio kaj fajro dum la Pekina Internacia Librofoiro okazigata en la Ŝtata Konferenca Centro en Pekino.
 
@@ -879,7 +889,7 @@ Redaktoro: Gao Shuyuan
 
 **URL:** http://esperanto.china.org.cn/2025-06/25/content_117942391.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 En la loka vilaĝo Wangmantian, 62-jaraĝa Wang Shengjuan sin tenas al sia identeco kiel heredanto de nemateria kultura heredaĵo kaj zorge konservas tradician metiarton -- la fiŝforman lanternan faradon. Ŝi komencis tion ekde sia 22-jaraĝo kaj fariĝis heredanto de sia familio.
 
@@ -902,7 +912,7 @@ Redaktoro: Sheng Min
 
 **URL:** http://esperanto.china.org.cn/2025-06/26/content_117942396.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 En pli ol 30 jaroj, la pentristo Han Meilin okupis sin pri nekonata sed signifoplena afero: Li kolektis antikvajn simbolojn kaj skribsignojn -- kelkajn ĝis nun ne deĉifritajn -- el diversaj historiaj objektoj kiel surostaj skribaĵoj, ŝtonaj gravuraĵoj, rokpentraĵoj, antikvaj argilaĵoj, bronzaĵoj, brik-enskriboj, ŝtonaj tamburoj ktp. Per tradicia ĉina peniko li kopiis ilin en kaligrafia formo kaj kompilis ilin en verkon nomitan "Ĉiela Libro".
 
@@ -937,7 +947,7 @@ Redaktoro: Liu Zijia
 
 **URL:** http://esperanto.china.org.cn/2025-06/26/content_117949020.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 Inter la 24-a kaj la 26-a de junio okazis la Somera Davos-Forumo en la urbego Tianjin de Ĉinio. La forumo estas ankaŭ konata kiel la 16-a Jarkunveno de la Novaj Ĉampionoj de la Monda Ekonomia Forumo kun la temo "entreprenado en la nova epoko", fokusante sur kvin ŝlosilajn flankojn: Monda ekonomio, perspektivo de Ĉinio, industrioj disrompitaj, investoj en popola bonfarto kaj konservado de la Tero, kaj novtipaj energifontoj kaj materialoj.
 
@@ -958,7 +968,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 Centoj da homoj amasiĝis la 21-an de junio por partopreni la Junian Feston organizitan de la Konsilio de Brazilaj Civitanoj de Pekino partnerece kun la ĉinaj firmaoj OTH kaj Action Bar. Samkiel en la pasintjara evento, ĉiuj biletoj estis disvenditaj tre rapide. Laŭplane, oni okazigos la venontjaran feston en pli granda loko. Kun la celo diskonigi la kulturon de la Junia Festo kaj tipajn produktojn de Brazilo, la festo ĉijare donis al ĉiu biletaĉetinto kuponon por gustumi brazilan kafon kaj partopreni la tradiciajn ludojn de la festo.
 
@@ -1031,7 +1041,7 @@ Verkis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2025-06/30/content_117954508.htm
 
-**Categories:** Novaĵoj
+**Categories:** E-novaĵoj
 
 Por la 111-a Universala Kongreso de Esperanto (UK) la Estraro de UEA elektis Aŭstrion kiel kongreslandon. La bela Graz (Graco) estos la kongresurbo.
 
@@ -1056,7 +1066,7 @@ Entute vigla kaj turisma urbo, kun unika strukturo por vizitantoj kaj tradicia k
 
 **Author:** Rafael Zeerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 Inventita de Bi Sheng ĉirkaŭ la jaro 1040, dum la dinastio Norda Song (960-1127), la tekniko de movebla presado per lignopecoj estas unu el la kvar grandaj inventoj de Ĉinio, kune kun pulvo, papero kaj kompaso. Kompare kun la malnova prestekniko de Tang-dinastio (618-907), kio postulis unu tutan lignoblokon por ĉiu paĝo, la tekniko de moveblaj pecoj ebligas redaktadon de la teksto presota kaj post presado oni povas reuzi la tipojn. La vilaĝo Dongyuan de la urbo Ruian en la provinco Zhejiang de Ĉinio, estas la nura loko, kie la tekniko de presado per lignaj moveblaj tipoj daŭre estas heredata pro sia historia kaj kultura graveco. En 2011 tiu tekniko estis sukcese enmetita en la liston de Unesko pri Nemateria Kultura Heredaĵo Bezonanta Urĝan Protekton.
 
@@ -1071,7 +1081,7 @@ Verkis kaj fotis: Rafael Zeerbetto
 
 **URL:** http://esperanto.china.org.cn/2025-06/30/content_117954567.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Vojaĝo tra Ĉinio
 
 Sur la strato Zhongyi de la urbo Ruian, Ĉinio, la aktoroj de Nanxi-opero prezentis "La rakonton de bivo". Nanxi-opero de Wenzhou estas ŝtat-nivela nemateria kultura heredaĵo de Ĉinio. Kaj "La rakonton de bivo" estas konata kiel la "prapatro de la teatraĵoj de Nanxi-opero".
 
@@ -1086,7 +1096,7 @@ Redaktoro: Sheng Min
 
 **URL:** http://esperanto.china.org.cn/2025-06/30/content_117954587.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 La farado de papera rondventumilo de Wenzhou estas tradicia ĉina metiarto, kiu kombinas paperfaradon kaj presteknikojn. Ĝia produkttekniko estas nemateria kultura heredaĵo de la urbo Wenzhou. La papero farita el pura morusŝelo havas unikan teksturon, donante al la ventumilo artan belecon kiel murpentraĵo.
 

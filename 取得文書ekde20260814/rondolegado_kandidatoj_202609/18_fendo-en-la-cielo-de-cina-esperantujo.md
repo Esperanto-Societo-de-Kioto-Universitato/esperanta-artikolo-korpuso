@@ -2,8 +2,6 @@ Fendo en la ĉielo de ĉina Esperantujo
 
 Ĉu ĉiuj ĉinaj esperantistoj lernis malĝustan elparolon de Esperanto? Ĉu ĉinoj mem elpensis regulon, laŭ kiu la malo de ami estas mal-ami, kaj ne ma-lami? Subite kvazaŭ la ĉielo falis sur la Esperanto-instruistojn en Ĉinio, kiam la Akademio donis konsilon pri la afero, skribas Liu Xiaozhe en sia vidpunkta artikolo.
 
-En ĉinaj lernolibroj oni detale instruas, kiel elparoli ”mal-amiko” kaj similajn vortojn.
-
 La ĉina Esperanto-movado estas grava parto de la monda Esperanto-movado. Tamen lastatempe grava krizo pri lingvaj reguloj de Esperanto atakas ĉinajn esperantistojn.
 
 Imagu, ke subite vi trovas, ke eraraj estas Esperantaj lingvaj reguloj, kiujn vi ne nur mem lernis, sed ankaŭ instruis al lernantoj dum pli ol kvardek jaroj! Tio certe estas granda bato aŭ eĉ katastrofo, kiun spertas mi kaj aliaj ĉinaj esperantistoj. Angulo de la ĉielo falas antaŭ ni.
@@ -15,8 +13,6 @@ Estas notinde, ke ĉinaj lernolibroj ne postulas paŭzon inter mal kaj ami, sed 
 Mi opiniis, ke tio estas cimo en la robota programo, kiun Muravjov preteratentis. Do mi skribis al li por atentigi lin ripari la roboton. Sed Muravjov respondis, ke li ne konas la regulon, kiu postulas aparte legi prefikson kaj radikon en parolado.
 
 Tio mirigis min. Ĉar en ĉiuj ĉinaj lernolibroj oni instruas, ke parolante derivitajn vortojn, oni aparte legu prefikson kaj radikon, radikon kaj radikon, ekzemple mal-amiko, sub-urbo. Sed subite mi konsciis, ke tiuj reguloj ekzistas nur en ĉinaj Esperantaj lernolibroj, ne en tiuj de aliaj landoj.
-
-De kie venis tiuj nur al ĉinoj konataj reguloj, demandas Solis.
 
 Do de kie venis tiuj nur al ĉinoj konataj reguloj? Mi konsultis aliajn ĉinajn esperantistojn, sed vane. Oni ne scias, kio estas la fonto de tiuj reguloj en la lernolibroj. Mi turnis min al Akademio de Esperanto por demandi pri la afero.
 

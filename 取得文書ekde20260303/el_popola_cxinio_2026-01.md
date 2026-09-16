@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-09-15T16:12:44.438053+00:00"
+generated_at: "2026-09-16T16:27:24.870906+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-01-04 – 2026-01-30"
 ---
@@ -12,7 +12,7 @@ time_range: "2026-01-04 – 2026-01-30"
 
 **URL:** http://esperanto.china.org.cn/2026-01/04/content_118260876.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 La 3-an de januaro aperis la unua superluno de 2026. Laŭ astronomioj, la alia superluno de 2026 aperos la 24-an de decembro.
 
@@ -27,7 +27,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-01/04/content_118260911.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 Frumatene de la 3-a de januaro 2026 Usono faris atakon kontraŭ Venezuelo. Usonaj militfortoj forkaptis venezuelan prezidenton Maduro kaj lian edzinon. Usona prezidento Donald Trump deklaris, ke Usono "funkciigos" Venezuelon ĝis "sekura" transiro estos efektivigita.
 
@@ -46,7 +46,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Bui Hai Mung
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio, Kulturo,Scienco kaj Sporto
 
 En la kunteksto, kie la kosmo fariĝis nova kampo de longtempa strategia planado por multaj landoj, la spac-ekonomio jam transpasas la limojn de teknologio kaj nun ligiĝas kun nacia sekureco, industria disvolviĝo kaj internacia pozicio. En Ĉinio, ĉi tiu kampo estas pelata ne nur de merkataj fortoj, sed ankaŭ de la rapideco de politika planado, la kapablo koncentrigi rimedojn, kaj la aktiva rolo de la centra kaj lokaj registaroj.
 
@@ -105,7 +105,7 @@ Verkis: Bui Hai Mung
 
 **URL:** http://esperanto.china.org.cn/2026-01/06/content_118260941.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio
 
 Laŭ la Ministerio pri Transporto de Ĉinio, dum la novjara festado (de la 1-a ĝis la 3-a de januaro), la totala transregiona homfluo atingis 595 milionojn da homfojoj, averaĝe 198 milionojn tage, kreskis je 19.62% kompare kun la sama periodo en 2025.
 
@@ -122,7 +122,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-01/07/content_118270942.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 La antikva Xinzhou-urbo situas en Shanxi-provinco, Ĉinio. Ĝia historio datiĝas de antaŭ du mil jaroj, kaj ĝi estis grava transport-centro kaj milita fortikaĵo de la provinco, igante ĝin historie signifa urbo.
 
@@ -141,7 +141,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Bui Hai Mung
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio
 
 Dum pluraj jardekoj, Usono tenas preskaŭ neanstataŭigeblan centran rolon en la tutmonda fluado de talentuloj, precipe en altteknologiaj sciencaj kampoj. Tamen en la lastaj jaroj, la plifortigo de vizaj limigoj, la kreskanta akademia kontrolo kaj la politikigo de scienca kunlaboro en Usono signife ŝanĝas la esplormedion iam konsideritan malferma kaj stabila. En ĉi tiu kunteksto, Ĉinio ekaperas kiel nova magneto -- ne nur danke al sia vasta investo en scienco kaj teknologio, sed ankaŭ pro klara alĝustigo de sia talentula politiko. Anstataŭ ekskluzive fokusiĝi al la "intelekta repatriigo" -- tio estas, altiri eksterlandajn talentulojn de ĉina deveno el aliaj landoj -- Ĉinio iom post iom transiras al modelo de "tutmonda altirado", celanta venigi internaciajn talentulojn. Tio reflektas la celon konstrui novigan kapablon kaj paŝon post paŝo redifini la tutmondan pejzaĝon de sciofluo.
 
@@ -163,7 +163,7 @@ La ŝanĝo en la ĉina talentula politiko ne okazis hazarde. Unue, la uson-ĉina
 
 Ekde 2015, Ĉinio efektivigis profundajn reformadojn de la administraj mekanismoj pri laboro kaj loĝado de eksterlandanoj. La kunfandado de laborpermesoj, la reformado de la sistemo de konstantaj loĝkartoj, kaj la vastigo de aliro al san-asekuro, edukado kaj loĝado markas klaran transiron el pensmaniero de "administrado" al pensmaniero de "servo al talentuloj".
 
-Aparte, en la kunteksto, en kiu Usono signife altigis kostojn kaj barojn por la H-1B vizo -- la ĉefa  ŝlosilo de la usona teknologia sektoro -- Ĉinio proponis alternativajn solvojn. La enkonduko de la K-vizo por junaj sciencaj kaj teknologiaj talentuloj ekde oktobro de 2025 havas ne nur teknikan signifon, sed ankaŭ strategian mesaĝon: Ĉinio pretas rekte konkuri kun tradiciaj novigaj centroj pri altnivela homkapitalo.
+Aparte, en la kunteksto, en kiu Usono signife altigis kostojn kaj barojn por la H-1B vizo -- la ĉefa ŝlosilo de la usona teknologia sektoro -- Ĉinio proponis alternativajn solvojn. La enkonduko de la K-vizo por junaj sciencaj kaj teknologiaj talentuloj ekde oktobro de 2025 havas ne nur teknikan signifon, sed ankaŭ strategian mesaĝon: Ĉinio pretas rekte konkuri kun tradiciaj novigaj centroj pri altnivela homkapitalo.
 
 3. Plurnivela efektivigo: De la centra registaro ĝis lokaj instancoj kaj institucioj
 
@@ -208,7 +208,9 @@ Verkis: Bui Hai Mung
 
 **URL:** http://esperanto.china.org.cn/2026-01/09/content_118270987.htm
 
-**Categories:** Plej Freŝaj
+**Author:** CHOE Taesok
+
+**Categories:** Socia Vivo, Vojaĝo tra Ĉinio, E-movado, E-novaĵoj
 
 CHOE Taesok (Korea Respubliko/Litovio)
 
@@ -321,7 +323,7 @@ La lasta tagmanĝo estis kutima, sed la ĉina esperantisto, kiu pasigis la tagon
 
 **Author:** Yuan Ailin
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, E-novaĵoj
 
 "Mi esperas, ke ĉiu komencanto havos oportunan lernilon."
 
@@ -350,7 +352,7 @@ Redaktoro: Gao Shuyuan
 
 **URL:** http://esperanto.china.org.cn/2026-01/13/content_118277181.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** E-novaĵoj
 
 Mi volas, sub la titolo "Inter dankemo, memoro kaj respondeco", paroli pri miaj sentoj kaj pripensoj post la ricevo de la honoro de nova Panteono 2025. Mi havas kelkajn punktojn por dividi:
 
@@ -433,7 +435,7 @@ Zhou Tianhao (Tigro), prezidanto de Ŝanhaja Esperanto-Asocio
 
 **URL:** http://esperanto.china.org.cn/2026-01/14/content_118279022.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 Urbestroj el diversaj landoj kune ekbruligis la torĉon en Harbino, konata urbo de nordorienta Ĉinio, markante la malfermon de urbestra dialogo por diskuti pri glacineĝa ekonomio kaj antaŭenigi kunlaborojn inter tutmondaj vintraj urboj.
 
@@ -460,7 +462,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-01/15/content_118279435.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 "Plorĉevalo" naskiĝis pro tio, ke iu laboristo miskudris la buŝon de ridetanta ĉevalo en mala direkto. Kiam oni afiŝis fotojn de tiu nekutima ludilo, ĝi vekis profundan komprenon de retumantoj."Ĉu ĝi ne montras la ĝustan staton de ni, laborantoj?""Malĝojo estas parto de nia vivo kaj brakumu vian malĝojon en la novjaro."
 
@@ -481,7 +483,7 @@ Redaktoro: Gao Shuyuan
 
 **Author:** Bui Hai Mung
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 Ĉiun semajnfinon, en grandaj parkoj de urbegoj kiel Ŝanhajo, Pekino aŭ Shenzhen, aperas rimarkinda socia fenomeno. Ne temas pri maljunuloj praktikantaj tajĝiĉuanon aŭ fotantaj birdojn en parkoj, sed pri gepatroj, kiuj kuniĝas en malgrandaj grupoj kaj interŝanĝas informojn. Ili kunportas zorgeme pretigitajn A4-foliojn, enhavantajn bazajn informojn pri siaj gefiloj -- aĝon, alton, eduknivelon, profesion kaj foje loĝkondiĉojn. Tiuj ne estas laboraj vivresumoj, sed parigaj profiloj, aranĝitaj sur ŝnuroj, anonctabuloj aŭ sur la tero. Tiel formiĝas "pariga angulo" -- spontanea kaj unika komunuma kultura spaco en Ĉinio.
 
@@ -530,7 +532,7 @@ Verkis: Bui Hai Mung
 
 **URL:** http://esperanto.china.org.cn/2026-01/16/content_118281449.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 Laŭ la datumoj publikigitaj de la Ĉina Asocio de Aŭtomobilaj Manufakturoj en la 14-a de januaro, en 2025 la produktado kaj vendado de aŭtoj en Ĉinio superis 34 milionojn, starigante novan historie rekordon. La produktado kaj vendado de novenergiaj aŭtoj superis 16 milionojn. Novenergiaj aŭtoj okupis pli ol duono de venditaj novaj veturiloj.
 
@@ -545,7 +547,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-01/19/content_118281463.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio, Naturo kaj Mediprotekto
 
 Lastatempe Hangzhou de Ĉinio ricevis sciigon de la Konsila Komitato pri Nula Rubo de la Ĝenerala Sekretario de Unuiĝintaj Nacioj (UN), ke ĝi estis elektita kiel unu el la "20 urboj kun nula rubo".
 
@@ -570,7 +572,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-01/20/content_118281484.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 Laŭ la datumoj publikigitaj de la Ĝenerala Dogana Administracio la 14-an de januaro, en 2025 la totalaj importado kaj eksportado de varoj de Ĉinio atingis 45.47 duilionojn da juanoj, kaj ĝia jara kresko estas 3.8%. Tio signifas, ke ĉinaj importado kaj eksportado kreskas en sinsekvaj naŭ jaroj ekde 2017.
 
@@ -587,7 +589,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Hayden Hendricks
 
-**Categories:** Plej Freŝaj
+**Categories:** E-movado, E-novaĵoj
 
 En Katalunio floradas Esperanto. Jam de antaŭ kelkaj jaroj la Kataluna Esperanto-Junularo (KEJ) kreskigis unu el la plej viglaj junularaj movadoj en Eŭropo. La movado plifortiĝis danke al la sukceso de RenKEJtiĝo, la ĉiujara renkontiĝo de KEJ, kaj ĉiumonataj aktivaĵoj kiel bierumadoj, pufmaizaj vesperoj, kursoj kaj festumadoj.
 
@@ -616,7 +618,7 @@ Raportis: Hayden Hendricks
 
 **URL:** http://esperanto.china.org.cn/2026-01/21/content_118291969.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 La 10-an de januaro, la aplikaĵo "Ĉu mortis?" okupis la unuan lokon en la listo de pagendaj aplikaĵoj por Ĉinio en la Apple-vendejo.
 
@@ -641,7 +643,7 @@ Redaktoro: Gao Shuyuan
 
 **URL:** http://esperanto.china.org.cn/2026-01/22/content_118292310.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 La Internacia Mona Fonduso (IMF) lastatempe publikigis la Raporton pri Monda Ekonomia Perspektivo, altigante la prognozon pri kresko de la ĉina ekonomio en 2025 je 0.2 procentpunktoj ĝis 5%, IMF ankaŭ altigis la prognozon pri kresko de la ĉina ekonomio en 2026.
 
@@ -662,7 +664,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Bui Hai Mung
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio, Vojaĝo tra Ĉinio
 
 Mi unuafoje vizitis Harbinon en vintro komence de 2024. La ekstera temperaturo falis sub -20 gradoj. La spirado aperigis blankan vaporon, la okulharoj kovriĝis de prujno, kaj ĉiu paŝo sur la neĝkovrita vojo donis milde rompan sonon. En mia imago, tio estus silenta, malrapida urbo, kvazaŭ "en vintrodormo", simile al multaj aliaj malvarmaj regionoj de la mondo. Sed la realo estis tute mala. Antaŭ miaj okuloj aperis Harbino plena je lumoj, vigla kiel la festo "ĝis la nokto, nokto-fin". La grandega Harbina Glacineĝa Mondo ĉe la bordo de la rivero Songhua brilis kiel kristala regno; fluoj da homoj sinsekve alvenis senĉese de mateno ĝis profunda nokto. Manĝejoj restis malfermitaj ĝis malfrue, hoteloj estis plenplenaj, kaj altrapidaj trajnoj senĉese alportis vizitantojn de Pekino, Ŝanhajo, Kantono kaj eĉ de eksterlandoj. La vintro ĉi tie ne estis tempo de "ekonomia frostiĝo", sed la vigla pinto de la tuta jaro. El tiu sperto mi komencis kompreni, kial la ĉinoj nomas tion "glaci-neĝa ekonomio" -- koncepto ne nur ligita al turismo, sed ankaŭ al regiona disvolva strategio, al maniero transformi severajn naturajn kondiĉojn en kreskan avantaĝon.
 
@@ -710,7 +712,7 @@ Montaro Huapiling en Pekino
 
 Neĝmapo de Ĉinio etendiĝas eskter la tradicia nordoriento
 
-Kiam oni mencias la vintran turismon de Ĉinio, multaj tuj pensas pri la nordoriento, kun ikonecaj bildoj de Harbino aŭ la neĝaj pintoj de la  montaro Changbai. Tamen, la reala pejzaĝo jam multe vastiĝas. Tiu disvolviĝo ne plu estas loka fenomeno, sed fariĝis bone plano de regiona kresko, teksante multkoloran "neĝan tapiŝon" tra la tuta lando.
+Kiam oni mencias la vintran turismon de Ĉinio, multaj tuj pensas pri la nordoriento, kun ikonecaj bildoj de Harbino aŭ la neĝaj pintoj de la montaro Changbai. Tamen, la reala pejzaĝo jam multe vastiĝas. Tiu disvolviĝo ne plu estas loka fenomeno, sed fariĝis bone plano de regiona kresko, teksante multkoloran "neĝan tapiŝon" tra la tuta lando.
 
 En la nordokcidento kaj la regionoj kiel Altay en Xinjiang aŭ Hulunbeier en la Interna Mongolio, oni fieras pri longaj neĝsezonoj kaj altkvalita "pulvor-neĝo", kompletigitaj de unikaj kulturaj festivaloj. La regiono de Pekino, Tianjin kaj Hebei aliflanke plene utiligas la heredaĵon de la Vintraj Olimpikoj de Pekino 2022: Mondklasaj skiejoj kiel Thaiwoo kaj Wanlong en Zhangjiakou transformiĝis al popularaj celoj por kaj profesiuloj kaj ordinaraj vizitantoj.
 
@@ -745,7 +747,7 @@ Verkis kaj fotis: Bui Hai Mung
 
 **URL:** http://esperanto.china.org.cn/2026-01/26/content_118296618.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio
 
 Vojaĝoj per altrapida trajno en Ĉinio fariĝas pli kaj pli oportunaj, ĉar pasaĝeroj ne plu bezonas mem porti grandvoluman pakaĵon. La 15-an de januaro la Ĉina Fervoja Ekspresa Servo plivastigis la provprogramon de sia servo "senpeza vojaĝo", aldonante 92 staciojn al la listo de tiu, kie la servo estas disponebla. Tio alportas la tutan nombron de partoprenantaj stacioj en la provprogramo al 111, kovrante la ĉefajn urbojn de provincoj, municipoj kaj aŭtonomaj regionoj. La programo celas malpliigi la ŝarĝon de transportado de granda pakaĵo kaj fari trajnvojaĝon pli komforta.
 
@@ -798,7 +800,7 @@ Fonto: OneTubeDaily
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 Dum ferio en Brazilo ĉirkaŭ Kristnasko kaj Novjaro, mi sekvis kun nekredemo la novaĵojn pri la atako de Usono al Venezuelo. En sociaj retejoj, mi vidis ekscititajn opiniojn spegulantajn la politikan polusiĝon, kiu ankoraŭ ŝvebas en la aero: Parto de la retanoj defendis la nedefendeblan, ke unu lando milite invadu la teritorion de alia por forkapti ĝian prezidenton.
 
@@ -859,7 +861,9 @@ Verkis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2026-01/28/content_118304147.htm
 
-**Categories:** Plej Freŝaj
+**Author:** Lawrence Loh
+
+**Categories:** Ekonomio
 
 de Lawrence Loh*
 
@@ -890,7 +894,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-01/29/content_118304172.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 Lastatempe la federacio de handikapuloj de Gansu-provinco kaj la socilabora servocentro de Lanzhou-urbo, ĉefurbo de la provinco, labore kun lokaj universitatoj starigis kurson pri datummaro por AI-trejnado por handikapuloj el diversaj lokoj de la provinco. Inter la unuaj handikapaj lernantoj, 19 trapasis diploman ekzamenon por AI-trejnistoj organizitan de la ministerio pri homaj rimedoj kaj socia sekureco. Pluraj el ili jam subskribis dung-kontraktojn kun entreprenoj kaj eklaboris en cifereca kampo.
 
@@ -907,7 +911,9 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2026-01/30/content_118304163.htm
 
-**Categories:** Plej Freŝaj
+**Author:** Yang Yiyong
+
+**Categories:** Ekonomio
 
 de Yang Yiyong
 
@@ -932,7 +938,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio, Naturo kaj Mediprotekto
 
 Dum parolado ĉe la jara kunveno de la Monda Ekonomia Forumo en Davos, Svislando, la usona prezidento Donald Trump akuzis Ĉinion pri uzo de energimiksaĵo bazita sur brulado de fosiliaj brulaĵoj dum ĝi gajnas monon eksportante renovigeblan energion "kiun ĝi mem ne uzas". "Mi neniam sukcesis trovi ventocentralon en Ĉinio," deklaris Trump. Farante tiajn akuzojn, la usona prezidento provis popularigi du rakontojn, ke renovigeblaj energifontoj estas tro kostaj, kaj ke Ĉinio trompas la mondon per deklaroj pri medio, kiuj ne kongruas kun ĝia praktiko.
 
@@ -968,7 +974,7 @@ La frazo "puraj akvoj kaj verdaj montoj valoras pli ol montoj da oro kaj arĝent
 
 La parolado de Trump reflektas malnovan okcidentan bildon pri Ĉinio, kiu ankoraŭ ne estis ĝisdatigita: en la kapoj de multaj homoj, la azia lando ankoraŭ estas tiu de la 1980-aj aŭ 1990-aj jaroj, kiu evoluigis sian industrion bruligante karbon kaj dizelon. Sed Ĉinio ne plu estas tia. Nuntempa Ĉinio evoluigas pintteknologiojn, havas mallumajn fabrikojn 100% aŭtomatigitajn por ŝpari elektron kaj redukti produktadokoston, kaj rapide evoluigis sian kapablon produkti renovigeblan energion.
 
-Pli ol tio, Ĉinio faris grandegajn teknologiajn antaŭenpaŝojn por redukti la koston de  produktado kaj pliigi la efikecon de sunpaneloj kaj ventogeneratoroj, igante la verdan energion pli bonpreza kaj konkurenciva, ne nur en la ĉina merkato sed ankaŭ eksterlande. Jen kial la mondo aĉetas tiujn produktojn de Ĉinio anstataŭ aĉeti de Usono.
+Pli ol tio, Ĉinio faris grandegajn teknologiajn antaŭenpaŝojn por redukti la koston de produktado kaj pliigi la efikecon de sunpaneloj kaj ventogeneratoroj, igante la verdan energion pli bonpreza kaj konkurenciva, ne nur en la ĉina merkato sed ankaŭ eksterlande. Jen kial la mondo aĉetas tiujn produktojn de Ĉinio anstataŭ aĉeti de Usono.
 
 Trump eraris atribuante la konkurencivon de la ĉina industrio al la uzo de energimiksaĵo bazita sur bruligo de fosiliaj brulaĵoj. Ĉinio produktas pli malmultekoste pro la skalo de produktado; la loĝistika efikeco; ĝia pragmata, ampleksa kaj integrita ekonomia planado; kaj pro ĝia peza investado en edukado, scienco kaj infrastrukturo.
 

@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-09-15T16:12:44.431110+00:00"
+generated_at: "2026-09-16T16:27:24.826185+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-12-01 – 2025-12-31"
 ---
@@ -14,7 +14,7 @@ time_range: "2025-12-01 – 2025-12-31"
 
 **Author:** Bui Hai Mung
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio
 
 En multaj vilaĝoj de Ĉinio, la bildo de junuloj, kiuj post universitata diplomiĝo kunportante entuziasmon kaj novan scion revenas al la kamparo por servi la lokajn komunumojn, ne plu estas nekonata. Ili estas "vilaĝ-oficistoj el universitataj diplomitoj", kiuj estas esperataj fariĝi helpo por transformiĝo de la vilaĝo. La rakonto de juna esperantisto Song Zhenyuan (Rimedo), vilaĝ-oficisto en Linyi-urbo, Shandong-provinco, estas vigla ekzemplo de ĉi tiu speciala politiko.
 
@@ -89,7 +89,7 @@ Verkis: Bui Hai Mung
 
 **URL:** http://esperanto.china.org.cn/2025-12/01/content_118204124.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 Reviziita eldono de la studskizo por la Penso de Xi Jinping pri Diplomatio estis publikigita.
 
@@ -112,7 +112,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-12/01/content_118204136.htm
 
-**Categories:** Novaĵoj
+**Categories:** E-novaĵoj
 
 La 27-an de novembro 2025 en Beverwijk forpasis Robert (Rob) Moerbeek (1936-2025).
 
@@ -135,7 +135,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Kulturo,Scienco kaj Sporto
 
 Ĉi-jare estis publikigita la kvina volumo de Xi Jinping: Regado de Ĉinio. Kiam mi transloĝiĝis al Ĉinio en 2015, la unua volumo estis novpublikigita, kaj al mi ŝajnis stranga la ideo, ke prezidanto verku libron dum sia oficperiodo, ĉar, kiel ni scias, verki libron postulas multe da tempo, kion prezidanto kutime ne havas. Ĝuste pro tio, en aliaj landoj oni pli ofte vidas librojn verkitajn de eksprezidantoj, ne de la nuna.
 
@@ -206,7 +206,9 @@ Verkis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2025-12/02/content_118206781.htm
 
-**Categories:** Plej Freŝaj
+**Author:** Chai Ying
+
+**Categories:** Socia Vivo, Ekonomio
 
 de Chai Ying
 
@@ -233,7 +235,9 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-12/05/content_118212566.htm
 
-**Categories:** Plej Freŝaj
+**Author:** Takakage Fujita
+
+**Categories:** Socia Vivo
 
 De Takakage Fujita*
 
@@ -264,7 +268,7 @@ Japanio ne devas reiri al la vojo de milito, neniu rajtas permesi al iu ajn p
 
 **URL:** http://esperanto.china.org.cn/2025-12/05/content_118213236.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio
 
 La 3-an de decembro, en la Ĉin-Kenja Forumo por Legantoj de Xi Jinping: Regado de Ĉinio okazinta en Najrobo, Kenjo, Hassan Omar Hassan, ĝenerala sekretario de la Unuiĝinta Demokratia Alianco de Kenjo, diris, ke la libro kun kvin volumoj prezentas la sociadministran koncepton kaj spertojn de la lando, kaj ĉinajn praktikojn ĉe politika mekanismo, strategio, malriĉecreduktado, scienca novigo kaj tutmonda administrado. Tiuj scioj montras la direkton al Kenjo kaj aliaj landoj de Tutmonda Sudo. Li emfazis, ke estas potenciala forto en la kunlaborado inter Kenjo kaj Ĉinio pri infrastrukturo, partia interŝanĝo, reformado, kulturo kaj aliaj temoj. La du flankoj devas lerni unu de la alia, kune disvolviĝi kaj konstrui estontecon pli prospera, justa kaj inkluziviga.
 
@@ -277,7 +281,7 @@ La 3-an de decembro, en la Ĉin-Kenja Forumo por Legantoj de Xi Jinping: Regado 
 
 **URL:** http://esperanto.china.org.cn/2025-12/05/content_118213237.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio
 
 La 3-an de decembro, okazis Ĉin-Kenja Forumo por Legantoj de Xi Jinping: Regado de Ĉinio en Najrobo, Kenjo. William Kabogo Gitau, Ministro pri Informado, Komunikado kaj Cifereca Ekonomio de Kenjo, faris paroladon pri la koncepto de regado prezentata en la libro. Li diris pri la inspiro donita de la vojo de ĉina modernigo al la transformiĝo de kenjaj ekonomio kaj socio, kaj emfazis, ke la disvolva vojo devas esti surbaze de realaj statoj, fokusante sur la popolo kaj antaŭenpuŝite de reformado kaj novigo. Li ankaŭ retrorigardis la kunlaborajn fruktojn de la du landoj en la kampoj de infrastrukturo, cifereca ekonomio kaj kulturaj interŝanĝoj, kaj menciis la gravan rolon de interŝanĝo kaj komunikado ĉe kulturo, akademio kaj kreivecaj industrioj. Li esperas, ke la du flankoj interkomprenu pere de legado kaj dialogo, kaj plivastigu inter si la spacon por kunlaboro.
 
@@ -290,7 +294,7 @@ La 3-an de decembro, okazis Ĉin-Kenja Forumo por Legantoj de Xi Jinping: Regado
 
 **URL:** http://esperanto.china.org.cn/2025-12/05/content_118213242.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio
 
 La 3-an de decembro, en Johanesburgo, Sud-Afriko, okazis diskonigo por la angla eldono de la kvina volumo de Xi Jinping: Regado de Ĉinio. Cedric Frolick, prezidanto de la Ĉambro de la Ŝtata Asembleo de Sud-Afriko, diris, ke interpopolaj interŝanĝoj devas esti prioritato en la rilatoj inter Sud-Afriko kaj Ĉinio, ambaŭ landoj devas plifortigi komunikadon pri tutmonda administrado por trakti komunajn defiojn.
 
@@ -303,7 +307,7 @@ La 3-an de decembro, en Johanesburgo, Sud-Afriko, okazis diskonigo por la angla 
 
 **URL:** http://esperanto.china.org.cn/2025-12/05/content_118213245.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio
 
 La 3-an de decembro, en Johanesburgo, Sud-Afriko, okazis diskonigo por la angla eldono de la kvina volumo de Xi Jinping: Regado de Ĉinio. Ĉe la diskoniga evento, Thabo Dikgale, aganta direktoro pri internaciaj rilatoj kaj partneroj ĉe la Universitato de Venda, diris, ke unu el la plej gravaj inspiroj donitaj de la libro estas tio, ke landoj devas evolui per vojoj taŭgaj al siaj propraj kondiĉoj anstataŭ simple kopii ekzistantajn modelojn.
 
@@ -316,7 +320,7 @@ La 3-an de decembro, en Johanesburgo, Sud-Afriko, okazis diskonigo por la angla 
 
 **URL:** http://esperanto.china.org.cn/2025-12/10/content_118220365.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 "Ĉu Ĉinio ne rajtas protekti siajn interesojn samkiel ni protektas la niajn?" Tion diris belgo Rudi Kennes, membro de la Eŭropa Parlamento. Li partoprenis en la kunveno de la Eŭropa Parlamento la 25-an de novembro, dubis pri la "duobla normo" de la Eŭropa Unio en komerca politiko rilate al Ĉinio kaj alvokis ĉesigon de kontraŭstaro al Ĉinio.
 
@@ -333,7 +337,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-12/10/content_118220376.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 Lastatempe, en intervjuo kun ĉina raportisto, Hidetoshi Tashiro, ĉefa ekonomikisto de la Japana kompanio Kobayashi Pharmaceutical, diris, ke la kompreno de la japana ĉefministro Sanae Takaichi pri Ĉinio kaj la japan-ĉinaj rilatoj estas grave malkongrua kun la realo. Ŝiaj lastatempaj agoj havis signifan efikon sur la japan-ĉinaj rilatoj, kaj "se ŝi ne retiros tian konduton, tio donos fundamentan baton al la japana ekonomio".
 
@@ -356,7 +360,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Bui Hai Mung
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 Kiel eksterlandano loĝanta kaj laboranta en Ĉinio, mi ofte observas la funkciadon de la ekonomio en ĉiutaga nivelo: Viglaj komercaj stratoj, butikoj, kiuj ŝanĝiĝas post nur kelkaj semajnoj, aŭ familiaj metiejoj, kiuj silente vastigas sian produktadon. Multaj el miaj eksterlandaj amikoj miras pri la rapideco, kun kiu malgrandaj entreprenoj en Ĉinio "aperas" kaj "maturiĝas". La demandoj estas "kial la malgrandaj entreprenoj en Ĉinio kreskas tiel rapide" kaj "ĉu ili profitas de speciala komerca medio".
 
@@ -423,7 +427,7 @@ Verkis: Bui Hai Mung
 
 **URL:** http://esperanto.china.org.cn/2025-12/12/content_118220390.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio, Kulturo,Scienco kaj Sporto
 
 Lastatempe pluraj konataj organizoj montras, ke la scienca esplorado de Ĉinio, kaj kvante kaj kvalite, spertis kreskadon. En multaj kampoj, inkluzive de fakaj kontribuoj kaj internacia gvidado, la scienca kaj teknika novigado de Ĉinio saltis al la supro. La ĵus publikigita raporto "Tutmonda Noviga Indekso 2025" de la Monda Organizo pri Intelekta Proprieto diris, ke por la unua fojo Ĉinio fariĝis unu el la 10 plej novigaj ekonomioj de la mondo.
 
@@ -446,7 +450,9 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-12/12/content_118224583.htm
 
-**Categories:** Plej Freŝaj
+**Author:** Huo Yi
+
+**Categories:** Socia Vivo, Ekonomio
 
 de Huo Yi
 
@@ -469,7 +475,7 @@ Redaktoroj: Gao Shuyuan kaj Xie Ruifeng
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio, Naturo kaj Mediprotekto, Kulturo,Scienco kaj Sporto
 
 Ekde mia infanaĝo en Brazilo mi ŝatas promeni en arbaroj. Mi ĉiam ĝuis malkovri, al kie kondukos min vojeto, grimpi monton por ĝui la vidon de supro, vidi plantojn kaj bestojn en la naturo. En mia adoleskeco mi eĉ havis ekskursan grupon por esplori la arbarojn kaj montetojn proksime al mia hejmurbo.
 
@@ -530,7 +536,7 @@ Verkis kaj fotis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2025-12/16/content_118230851.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** E-movado, E-novaĵoj
 
 La 12-an de decembro, por celebri la 166-an datrevenon de la naskiĝtago de Zamenhof, la Ĉina Esperanto-Ligo, kune kun la Pekina Esperanto-Asocio, okazigis kunsidon en la Publikiga Librejo ĉe la sidejo de la Ĉina Internacia Komunika Grupo. La kunsido komenciĝis dum la unua neĝo en Pekino, aldonante unikan etoson al la celebrado. Partoprenis esperantistoj el Pekino, Tianjin, Zhejiang kaj aliaj lokoj, kaj ankaŭ el Brazilo kaj Vjetnamio.
 
@@ -571,7 +577,7 @@ Redaktoroj: Gou Xinyue kaj Xie Ruifeng
 
 **Author:** Bui Hai Mung
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio, Kulturo,Scienco kaj Sporto
 
 Dum la jaroj loĝante en Ĉinio, mi ofte vidas tre interesan fenomenon: En preskaŭ ajna urbo -- de Pekino, Xi'an ĝis Chengdu aŭ Hangzhou -- ĉiu turisma loko havas apartan areon por memoraĵoj. Ene de turismaj lokoj kiel la Imperiestra Palaco, la Terakota Armeo, aŭ en muzeoj, kaj eĉ en parkoj, kie homoj praktikas tajĝjiĉjŭanon, oni ĉiam trovas etajn budojn vendantajn memoraĵojn plenajn je kultura signifo. En la parko Yuyuantan, kiam sakuro floras, estas tre facile vidi junulojn tenante glaciaĵojn en la formo de sakuro, dum ili fotas sin sub la rozkoloraj branĉoj -- transformante ĉi tiun etan dolĉaĵon en parton de la kultura sperto.
 
@@ -636,7 +642,9 @@ Verkis: Bui Hai Mung
 
 **URL:** http://esperanto.china.org.cn/2025-12/17/content_118232713.htm
 
-**Categories:** Plej Freŝaj
+**Author:** Guo Qingyang kaj Chai Ying
+
+**Categories:** Socia Vivo
 
 de Guo Qingyang kaj Chai Ying
 
@@ -657,13 +665,15 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-12/18/content_118234565.htm
 
-**Categories:** Plej Freŝaj
+**Author:** Zheng Jingqi, Cao Yu kaj Ren Nan
+
+**Categories:** Socia Vivo, Ekonomio
 
 de Zheng Jingqi, Cao Yu kaj Ren Nan
 
 Alfronte al la elektroprovizaj defioj pro frosto de ĉi vintro, la Shaanxi-a Elektrokompanio faris fruan preparadon kaj efektivigis precizajn rimedojn por certigi sekuran kaj stabilan funkciadon de la elektroreto kaj elektroprovizo.
 
-La maksimuma ŝarĝo de la elektroreto de Shaanxi atingos 41 milionojn da kilovatoj,  je 7.7% pli multe ol tiu de la pasinta jaro, kaj en ekstremaj kazoj tio eble superos 41.5 milionojn da kilovatoj. La kompanio komencis de la elektrofonta flanko, kaj ĝi plibonigis prognozon kaj sorban kapaciton de novaj energifontoj. Oni taksis, ke la maksimuma genera kapacito de tradiciaj energifontoj en Shaanxi povas atingi 41.6 milionojn da kilovatoj, kaj per scienca planado, la maksimuma elektroproviza kapacito povas atingi 42 milionojn da kilovatoj.
+La maksimuma ŝarĝo de la elektroreto de Shaanxi atingos 41 milionojn da kilovatoj, je 7.7% pli multe ol tiu de la pasinta jaro, kaj en ekstremaj kazoj tio eble superos 41.5 milionojn da kilovatoj. La kompanio komencis de la elektrofonta flanko, kaj ĝi plibonigis prognozon kaj sorban kapaciton de novaj energifontoj. Oni taksis, ke la maksimuma genera kapacito de tradiciaj energifontoj en Shaanxi povas atingi 41.6 milionojn da kilovatoj, kaj per scienca planado, la maksimuma elektroproviza kapacito povas atingi 42 milionojn da kilovatoj.
 
 La kompanio jam akcelis la planadon kaj konstruadon de la elektroreto. Ĝi finis 8 768 bontenadojn de ekipaĵoj. Komence de la vintro, ĝi ekuzis flugrobotojn kaj saĝajn robotojn por speciala inspektado kaj reta monitorado pri la sekureco de ekipaĵoj. Samtempe, ĝi stokis materialojn anticipe, plifortigis la baznivelajn kriz-riparajn fortojn, kaj certigis, ke funkciuloj kaj veturiloj estas pretaj. Ĉio tio celas plifortigi la kapablojn pri frua averto kaj realtempa monitorado, konstrui plurflankan komunan kriz-respondan mekanismon, plibonigi kunlaborojn kaj rapidigi reag-kapablojn.
 
@@ -678,7 +688,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-12/18/content_118235157.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 Matene de la 6-a de novembro, ĉina prezidanto Xi Jinping aŭskultis raporton pri la konstruado de la Liberkomerca Haveno de Hainan en Sanya-urbo de Hainan-provinco. Zheng Shanjie, direktoro de la Landa Komisiono pri Disvolviĝo kaj Reformado, kaj Feng Fei, sekretario de la partia komitato de la provinco de la Komunista Partio de Ĉinio, faris raportojn.
 
@@ -701,7 +711,9 @@ Redaktoro: Gao Shuyuan
 
 **URL:** http://esperanto.china.org.cn/2025-12/18/content_118235245.htm
 
-**Categories:** Plej Freŝaj
+**Author:** Xie Zuquan
+
+**Categories:** Naturo kaj Mediprotekto
 
 de Xie Zuquan
 
@@ -742,7 +754,7 @@ Jialingjiang-a Tagĵurnalo raportis pri la donaco de "blanka urso" la 4-an de ju
 
 **Author:** Bui Hai Mung
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio
 
 Dum multaj jaroj en Ĉinio, mi ofte vidas, ke la aĝa generacio estas tute malsama ol la tradiciaj imagoj: En multaj parkoj, maljunuloj kun profesiaj fotiloj pacience atendas por kapti la momenton de sunsubiro, maljunulinoj dancas kaj kantas kune; kaj multaj turismaj grupoj, el kiuj pli ol duono de la membroj estas maljunuloj vojaĝantaj tra la tuta lando. En la socia reto Xiaohongshu, afiŝoj pri maljunuloj partoprenantaj videoludojn de League of Legends, aŭ memfide paŝantaj sur la moda podio, fariĝis pli oftaj. Tio ne plu estas izolitaj rakontoj, sed nova bildo de la maljuna generacio en Ĉinio.
 
@@ -805,7 +817,7 @@ Verkis: Bui Hai Mung
 
 **URL:** http://esperanto.china.org.cn/2025-12/22/content_118235184.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio, Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 La turisma ŝoseo de Hainan-insulo en Ĉinio longas je 9 882 kilometroj. Ĝi estis konstruita laŭ la marborda linio, liganta pli ol 370 vidindaĵojn de 12 urboj kaj gubernioj en la provinco Hainan, inkluzive de Haikou, Wenchang kaj Sanya.
 
@@ -824,7 +836,9 @@ Redaktoro: Gao Shuyuan
 
 **URL:** http://esperanto.china.org.cn/2025-12/22/content_118240237.htm
 
-**Categories:** Plej Freŝaj
+**Author:** Zheng Jingqi, Cao Yu, Chai Ying
+
+**Categories:** Socia Vivo, Ekonomio, Kulturo,Scienco kaj Sporto
 
 de Zheng Jingqi, Cao Yu, Chai Ying
 
@@ -847,7 +861,9 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-12/22/content_118240258.htm
 
-**Categories:** Plej Freŝaj
+**Author:** Zhang Zhiheng, Wang Xiaoyan kaj Sun Shan
+
+**Categories:** Socia Vivo, Ekonomio, Kulturo,Scienco kaj Sporto
 
 de Zhang Zhiheng, Wang Xiaoyan kaj Sun Shan
 
@@ -870,7 +886,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** E-novaĵoj
 
 Lanĉinte tri albumojn -- Sojle de la klara temp' (2001), Plaĉas al mi (2004) kaj Surplacen venu vi (2009) -- la fama kataluna folka bando Kaj Tiel Plu pasis longan tempon sen eldoni novan. Por ŝatantoj de ilia muziko, kiel mi, pasigi 16 jarojn sen aŭdi novan kanton de ili estis malfacila tempo.
 
@@ -907,7 +923,9 @@ Verkis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2025-12/23/content_118242422.htm
 
-**Categories:** Plej Freŝaj
+**Author:** Xie Zuquan
+
+**Categories:** Naturo kaj Mediprotekto
 
 de Xie Zuquan
 
@@ -940,7 +958,9 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-12/25/content_118246424.htm
 
-**Categories:** Plej Freŝaj
+**Author:** Atsushi Koketsu
+
+**Categories:** Socia Vivo
 
 de Atsushi Koketsu*
 
@@ -969,7 +989,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-12/26/content_118246765.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Naturo kaj Mediprotekto
 
 Lastatempe iu ĉina kompanio situanta en Chengdu-urbo de Sichuan-provinco malkovris neston de birdoj dum konstruado ene de sia fabrikejo. Por ne ĝeni la birdojn, la estro de la kompanio haltigis la konstruadon kaj tuj raportis al koncernaj registaraj departementoj, petante helpon. Do, multflanka kunlaboro komenciĝis.
 
@@ -992,7 +1012,9 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-12/29/content_118248022.htm
 
-**Categories:** Plej Freŝaj
+**Author:** Zamir Ahmed Awan
+
+**Categories:** Socia Vivo
 
 de Zamir Ahmed Awan*
 
@@ -1019,7 +1041,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Bui Hai Mung
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 Dum multaj jaroj, kiam parolas pri pordmalfermo kaj integriĝo de Ĉinio, oni ofte mencias pri konataj nomoj kiel Shenzhen, Pudong de Ŝanhajo aŭ Hongkongo. Tamen, la decido de Ĉinio konstrui la Liberkomercan Havenon de Hainan -- ne sur malgranda areo, sed sur tuta insulo kun areo de 35 000 km² kaj pli ol 10 milionoj da loĝantoj -- markis gravan turnopunkton en la pensmaniero de Ĉinio pri pordmalfermo. Tio jam ne estas nur loka reformado, sed ankaŭ strategia provo kun nacia kaj tutmonda amplekso. En kunteksto de malrapidiĝanta tutmondiĝo, kreskanta geopolitika konkurenco kaj fragmentiĝo de provizoĉenoj, la antaŭenigo de la pordmalfermo de Hainan starigis gravan demandon: Kion Ĉinio decidis per ĉi tiu strategio? Ĉu temas nur pri klopodo altiri investojn, aŭ pri paŝo por repoziciigi la rolon de Ĉinio en la ŝanĝiĝanta monda ekonomio?
 
@@ -1078,7 +1100,7 @@ Verkis: Bui Hai Mung
 
 **URL:** http://esperanto.china.org.cn/2025-12/31/content_118253680.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** UK-oj, E-movado, E-novaĵoj
 
 1. La 110-a Universala Kongreso de Esperanto sukcese okazis en Ĉeĥio
 
@@ -1131,7 +1153,7 @@ Redaktoro: Bui Hai Mung
 
 **URL:** http://esperanto.china.org.cn/2025-12/31/content_118256351.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 Ĉe la sojlo de la novjaro, ĉina prezidanto Xi Jinping faris novjaran paroladon por 2026. Li diris, ke Ĉinio daŭre malfermas sin al la mondo. En 2025 sukcese okazis la Pintkunveno de Ŝanhaja Kunlabora Organizo en Tianjin kaj la Tutmonda Kunveno de Gvidantoj pri Virinoj, kaj ekfunkciis la Liberkomerca Haveno de Hainan. Por pli bone trakti klimatan ŝanĝiĝon, Ĉinio anoncis pri novaj naci-deciditaj kontribuoj (INDC). Sekve de la "tri iniciatoj" (tutmonda disvolva iniciato, tutmonda sekureca iniciato kaj tutmonda civilizacia iniciato), mi proponis tutmondan administran iniciaton por antaŭenigi la konstruadon de pli justa kaj egaleca tutmond-administra sistemo. La mondo nun estas plena de tumulto, kaj iuj regionoj estas detruitaj de milito. Ĉinio ĉiam staras ĉe la ĝusta flanko de la historio kaj pretas kunlabori kun diversaj landoj por antaŭenpuŝi la mondajn pacon kaj disvolviĝon, kaj konstrui la homaran komunumon de komuna estonteco.
 

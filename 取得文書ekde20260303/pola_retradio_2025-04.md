@@ -1,6 +1,6 @@
 ---
 source: "Pola Retradio (pola-retradio.org)"
-generated_at: "2026-09-15T16:02:39.667212+00:00"
+generated_at: "2026-09-16T16:23:18.901559+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-04-05 – 2025-04-30"
 ---
@@ -139,7 +139,7 @@ El la elsendo 10.04.2025. Legas Milada – 02′ 06″
 
 ---
 
-# Karesma preĝo por polaj infanoj, la viktimoj de la  germana koncentrejo en Łódź
+# Karesma preĝo por polaj infanoj, la viktimoj de la germana koncentrejo en Łódź
 
 **Published:** 2025-04-10
 

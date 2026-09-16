@@ -1,6 +1,6 @@
 ---
 source: "Global Voices en Esperanto (eo.globalvoices.org)"
-generated_at: "2026-09-15T22:51:26.381039+00:00"
+generated_at: "2026-09-16T16:23:52.177101+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-04-01 – 2026-04-01"
 ---
@@ -12,9 +12,13 @@ time_range: "2026-04-01 – 2026-04-01"
 
 **URL:** https://eo.globalvoices.org/2026/04/15796/
 
-**Categories:** Angla, Civitanaj komunikiloj, Freŝa Novaĵo, Homaj rajtoj, Internaciaj rilatoj, Irano, Israelo, Libano, Medio, Mezoriento kaj Nordafriko, Milito kaj konflikto, Palestino, Politiko, Ĉefaĵo
+**Author:** Aza Delgado Orduño
+
+**Categories:** Angla, Civitanaj komunikiloj, Freŝa Novaĵo, Homaj rajtoj, Internaciaj rilatoj, Irano, Israelo, Libano, Medio, Mezoriento kaj Nordafriko, Milito kaj konflikto, Palestino, Politiko, Ĉefaĵo, The Bridge
 
 Bildoj de spavo (senpilota aviadilo) [eo] montras vicojn da freŝaj tomboj en Minab, Irano [eo], kie usona aeratako mortigis pli ol 150 lernantinojn. Ekrankopio de filmeto publikigita en Fejsbuko [eo] fare de Reuters. Justa uzo.
+
+Dum du jaroj, kiam la genocido en Gazao [eo] disvolviĝis rekte antaŭ la okuloj de la mondo, ni avertis. Dum jardekoj, ni dokumentis la hipokritecon, kiu subtenas internacian juron kaj la selekteman koleron kiuj difinas tutmondajn respondojn al konfliktoj, respondoj kiuj nur instigas tiujn konfliktojn. Hodiaŭ, tiuj avertoj jam ne estas teoriaj; ili disvolviĝas en reala tempo tra okcidenta Azio [eo], dum la militkrimoj normaligitaj en Gazao [eo] nun servas kiel skizo por la novaj scenaroj de detruo en Libano [eo] kaj Irano [eo].
 
 Gazao kiel precedenco
 

@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-09-15T16:12:44.368377+00:00"
+generated_at: "2026-09-16T16:27:24.342606+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-04-01 – 2025-04-30"
 ---
@@ -11,6 +11,8 @@ time_range: "2025-04-01 – 2025-04-30"
 **Published:** 2025-04-01
 
 **URL:** http://esperanto.china.org.cn/2025-04/01/content_117799813.htm
+
+**Author:** Li Yang
 
 **Categories:** Ekonomio
 
@@ -99,7 +101,7 @@ Raportis: Rafael Henrique Zerbetto
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Novaĵoj
+**Categories:** Ekonomio
 
 Kiam Ĉinio lanĉis la strategion pri mildigo de malriĉeco, malsamaj solvoj estis alprenitaj por redukti malriĉecon, interalie la translokigo de homoj el lokoj sen ekonomiaj perspektivoj al aliaj lokoj, kie ili povus pli facile prosperi en la vivo. Nujiang-a Industria Parko pri Verdaj Spicaĵoj estis fondita de la Ĉina Kompanio pri Komunikado kaj Konstruado (CCCC, laŭ la angla mallongigo) kun la misio esti centro por provizi laboroportunojn al translokigitoj kaj disvolviĝi kiel Ekzempla Bazo pri Kunligo de Moderna Agrikulturo kaj Disvolvado kaj Ekzempla Bazo pri Teknologio kaj Novigo en Kampara Revigliĝo.
 
@@ -126,7 +128,7 @@ Raportis kaj fotis: Rafael Henrique Zerbetto
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Novaĵoj
+**Categories:** Socia Vivo, Naturo kaj Mediprotekto
 
 La loĝkvartalo Hexie, kies nomo signifas harmonio en la ĉina lingvo, estas la plej granda loĝkvartalo kreita por translokigo de homoj kadre de la laboro pri malaperigo de malriĉeco en la urbo Lushui de Nujiang-a Lisu-a Aŭtonoma Subprovinco de Yunnan-provinco, sudokcidenta Ĉinio. Tie troviĝas 2 524 loĝejoj, kie loĝas 10 445 homoj translokigitaj el 30 vilaĝoj de kvin lokaj distriktoj klasifikitaj kiel "nekapablaj subteni homan setladon pro tre maloportunaj kondiĉoj".
 
@@ -155,7 +157,7 @@ Verkis kaj fotis: Rafael Henrique Zerbetto
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Novaĵoj
+**Categories:** Socia Vivo, Kulturo,Scienco kaj Sporto
 
 La vilaĝo Yangpo, kies nomo signifas "la unua vilaĝo atingita de sunlumo" en la lisu-a lingvo, troviĝas en la subdistrikto Liuku de la urbo Lushui en Yunnan-provinco, sudokcidenta Ĉinio. Situanta sur montopinto meze de Gaoligong-montaro, ĝi troviĝas proksime de la landlimo inter Ĉinio kaj Birmo, en loko plena de historio, mirindaj pejzaĝoj kaj unika etna kulturo.
 
@@ -184,7 +186,7 @@ Raportis kaj fotis: Rafael Henrique Zerbetto
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Novaĵoj
+**Categories:** Socia Vivo, Kulturo,Scienco kaj Sporto
 
 Fondita en septembro 1986, la mezlernejo Minzu troviĝas en la urbeto Daxingdi de la urbo Lushui en Nujiang-a Lisu-a Aŭtonoma Subprovinco de Yunnan-provinco, sudokcidenta Ĉinio. Kovrante areon de 2.5 hektaroj, la lernejo havas 31 klasojn, 105 dungitojn kaj 1306 lernantojn el najbaraj urbetoj. Lernantoj el etnaj minoritatoj estas 99% de la tuta lernantaro de tiu lernejo, kiu edukas la lernantojn subtenante kaj la heredadon de etna kulturo kaj la kulturadon de ilia ampleksa kompetentaro per modernaj instalaĵoj kaj teknologio.
 
@@ -219,7 +221,7 @@ Raportis: Rafael Henrique Zerbetto
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Novaĵoj
+**Categories:** Socia Vivo, Kulturo,Scienco kaj Sporto
 
 Proksime al la urbo Lushui de Nujiang-a Lisu-a Aŭtonoma Subprovinco de Yunnan-provinco, sudokcidenta Ĉinio, troviĝas bela kaj impona arbo, kiu aĝas pli ol mil jarojn. La bela antikva arbo impresas la vizitantojn. Okaze de nia vizito al la arbo, ĝi estis senfolia pro la vintro. Baldaŭ venos la epoko de florado, kiam la arbo pleniĝas je floroj, kvankam sen ajna folio. Fine, dum somero ĝi refoje estos kun multaj verdaj folioj. Homoj vidas tiun arbon kiel simbolon de longa vivo.
 
@@ -242,7 +244,7 @@ Raportis kaj fotis: Rafael Henrique Zerbetto
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Novaĵoj
+**Categories:** Socia Vivo, Kulturo,Scienco kaj Sporto
 
 La loĝkvartalo Hexie, kies nomo signifas harmonion en la ĉina lingvo, estas la plej granda loĝkvartalo kreita por translokigo de homoj kadre de la laboro pri malaperigo de malriĉeco en la urbo Lushui de Nujiang-a Lisu-a Aŭtonoma Subprovinco de Yunnan-provinco, sudokcidenta Ĉinio.
 
@@ -265,7 +267,7 @@ Raportis kaj fotis: Rafael Henrique Zerbetto
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Novaĵoj
+**Categories:** Socia Vivo, Kulturo,Scienco kaj Sporto
 
 En la loĝkvartalo Tuanjie de Nujiang-a Lisu-a Aŭtonoma Subprovinco de Yunnan-provinco, sudokcidenta Ĉinio vivas pluraj homoj el la etno Dulong, fama pro sia tradicio teksi belegajn tapiŝojn kaj vestaĵojn laŭ ilia tradicia tekniko. Antaŭ nelonge, tiu nemateria kultura heredaĵo estis minacata de la malriĉeco en la regiono, kiu stimulis migradon al lokoj kun pli bonaj ekonomiaj perspektivoj, kaj de la populariĝo de industrie faritaj teksaĵoj, kiuj estas pli bonprezaj. En la laboro por malaperigi malriĉecon en Lisu, la loka registaro priatentis la potencialon de lokaj nemateriaj heredajoj kaj tradiciaj scioj, en momento tre oportuna: la dulong-aj teksaĵoj estas faritaj de naturaj kaj mediamikaj fibroj kaj tinkturoj, do ili ne nur estas bonkvalitaj, sed ankaŭ bonaj por homa sano kaj por la medio.
 
@@ -294,7 +296,7 @@ Raportis kaj fotis: Rafael Henrique Zerbetto
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Novaĵoj
+**Categories:** Socia Vivo
 
 En la vilaĝo Yangpo de la urbo Lushui en Yunnan-provinco, sudokcidenta Ĉinio, troviĝas bela librejo, kiu famiĝis en ĉinaj sociaj retejoj kaj allogis multajn turistojn al la vilaĝo por fotiĝi tie. La librejo estis desegnita por profiti la deklivon de la monto por doni al vizitantoj privilegian rigardon de la ĉirkaŭa pejzaĝo kaj ankaŭ havas grandegajn fenestrojn por profiti sunlumon kaj eviti konsumadon de elektro.
 
@@ -311,7 +313,7 @@ Raportis kaj fotis: Rafael Henrique Zerbetto
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Novaĵoj
+**Categories:** Ekonomio
 
 La kafo produktita en la ĉina provinco Yunnan fariĝis pli populara en la lastaj jaroj. La loka klimato estas favora al kulturado de kafoplanto kaj esploristoj disvolvas novajn variaĵojn por pli bone profiti la potencialon de la provinco en tiu sektoro. Fine de marto mi havis la ŝancon viziti kafokampon kaj kafofabrikon en Nujiang-a Lisu-a Aŭtonoma Subprovinco de Yunnan, loko spertanta grandan progreson en produktado de kafo.
 
@@ -342,7 +344,7 @@ Raportis kaj fotis: Rafael Henrique Zerbetto
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Novaĵoj
+**Categories:** Socia Vivo, Kulturo,Scienco kaj Sporto
 
 Sur montopinto en la urbo Lushui en Yunnan-provinco, sudokcidenta Ĉinio, troviĝas la vilaĝo Yangpo, kies nomo signifas "la unua vilaĝo atingita de sunlumo" en la lisu-a lingvo. La vilaĝanoj dum longa tempo vivis relative izolitaj de la mondo kaj en malriĉeco. Nuntempe, la vilaĝo ne nur forlasis malriĉecon, sed ankaŭ trovis vojon al prospero. Lokanoj enspezas el turismo kaj vivas en renovigitaj domoj multe pli komfortaj kaj sekuraj. La agrikulturaj produktoj kaj manartaĵoj de la vilaĝo estas vendataj al aliaj lokoj kaj enspezigas lokanojn. Jen kelkaj bildoj, kiuj montras la staton de la vilaĝo nuntempe.
 
@@ -365,7 +367,7 @@ Raportis kaj fotis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2025-04/10/content_117815810.htm
 
-**Categories:** Novaĵoj
+**Categories:** Ekonomio
 
 La 1-an de aprilo la retejo de Wall Street Journal publikigis artikolon titolitan "Voĉdoninte por Trump, usonaj farmistoj estas atakitaj de la tarifoj altruditaj de li", verkita de Kristina Peterson.
 
@@ -392,7 +394,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-04/10/content_117815883.htm
 
-**Categories:** Novaĵoj
+**Categories:** Ekonomio
 
 La 9-an de aprilo la Informa Oficejo de la Ŝtata Konsilantaro de Ĉinio publikigis blankan libron titolitan "Pozicio de Ĉinio pri Aferoj Koncernaj al Ekonomiaj kaj Komercaj Rilatoj inter Ĉinio kaj Usono".
 
@@ -411,7 +413,9 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-04/10/content_117817065.htm
 
-**Categories:** Novaĵoj
+**Author:** Bak Giwan
+
+**Categories:** E-novaĵoj
 
 de d-ro Bak Giwan
 
@@ -458,7 +462,7 @@ Kaj eble la dua kialo devus esti tio, ke la urbo, kie loĝis Zamenhof, kiam li p
 
 **URL:** http://esperanto.china.org.cn/2025-04/11/content_117815851.htm
 
-**Categories:** Novaĵoj
+**Categories:** Ekonomio
 
 Lastatempe, post kiam la usona registaro anoncis la altrudon de tiel nomataj "reciprokaj tarifoj" al ĉiuj komercaj partneroj, la akcioj de usonaj teknikaj kompanioj kiel Apple grave falis.
 
@@ -485,7 +489,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-04/11/content_117818539.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 Lastatempe Usono altrudis plian 50%-an tarifon al ĉinaj varoj ekde la 9a de aprilo. Estas klare, ke Usono unuavice lanĉis tarifan premon al Ĉinio, kaj poste Ĉinio reagis kun la celo revenigi Usonon al la ĝusta vojo de plurflankisma komerca mekaniko. Sed Usono intencas fari ekstreman premon kaj ĉantaĝon al Ĉinio. Refoje Ĉinio eksplicis, ke se Usono insistos pri sia tarifa politiko, Ĉinio batalos ĝis la fino.
 
@@ -508,7 +512,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 La 10-an de aprilo ĉi-jara Heze-a Peonia Forumo pri Internacia Komunikado kaj la Seminario pri Rakontoj pri la Flava Rivero sukcese okazis en la urbo Heze de Shandong-provinco, orienta Ĉinio. La forumon partoprenis diplomatoj kaj akademiuloj el pli ol 30 landoj por antaŭnigi interkulturan dialogon laŭ la perspektivoj de la kulturo ligita al la Flava Rivero kaj de peonioj.
 
@@ -553,7 +557,7 @@ Raportis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2025-04/14/content_117822513.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 La 14-an de aprilo ĉina prezidanto Xi Jinping atingis Hanojon, ĉefurbon de Vjetnamio, por ŝtata vizito.
 
@@ -574,7 +578,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-04/15/content_117824115.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 Hanojo, ĉefurbo de Vjetnamio, estas antikva urbo kun miljara historio. En la urbo estas riĉaj pejzaĝoj altiraj.
 
@@ -591,7 +595,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 Pasta modelado estas nemateria kultura heredaĵo populara en tuta Ĉinio, kaj en kelkaj regionoj de la lando ĝi akiris lokajn trajtojn kaj teknikojn. Interalie, en la urbo Heze de Shandong-provinco, tiu arto estas agnoskata ne nur kiel nemateria kultura heredaĵo, sed ankaŭ kiel reprezenta heredaĵo de la popolo de Heze. Jen la laboro de Su Yanjun, heze-a artisto, kiu sin dediĉas al pasta modelado ekde sia infaneco kaj lernis la teknikon el la majstro Shi Zhenshan. Ŝiaj verkoj nun troveblas en pluraj artgalerioj kaj personaj kolektoj. Unu el ŝiaj specialaĵoj estas modeli peoniojn, kiuj estas tradicio de Heze. Kiam peonioj burĝonas kaj allogas multajn homojn al la peonia ĝardeno Caozhou, Su kaptas la ŝancon por diskonigi sian arton.
 
@@ -608,7 +612,7 @@ Raportis kaj fotis: Rafael Henrique Zerbetto
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio, Kulturo,Scienco kaj Sporto
 
 Pasintjare, kiam mi unuafoje vizitis la urbon Heze en la orienta provinco Shandong, nova mondo malfermiĝis antaŭ miaj okuloj: La urbo, konata kiel "peonia ĉefurbo de Ĉinio", disvolvis kompletan agrikulturan kaj industrian ĉenon por produkti peoniojn kaj prilabori ilin per industriaj procezoj por krei vastan aron da produktoj el ili, de kuraciloj kaj manĝaĵoj al kosmetikaĵoj kaj produktoj por persona higieno.
 
@@ -675,7 +679,7 @@ Verkis kaj fotis: Rafael Henrique Zerbetto
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio
 
 La urbo Heze de Shandong-provinco, orienta Ĉinio, estas konata kiel "ĉefurbo de peonioj" pro sia granda produktado de tiuj floroj. Kun tre taŭga klimato kaj 1 500-jara sperto en kultivado de peonioj, Heze disvolvis kompletan agrikulturan kaj industrian ĉenon lige al produktado de tiuj floroj kaj ilia transformado per industriaj procezoj. Nuntempe 500 mil homoj en Heze okupiĝas pri laboro rilata al peonioj, kaj pasintjare la floroj donis enspezon je 13 miliardoj da juanoj al la urbo. Inter la produktoj disvolvitaj en Heze troviĝas ne nur peonia oleo kaj tradiciaj ĉinaj kuraciloj, sed ankaŭ pluraj novigaj produktoj, kiel dentokremo, kosmetikaĵoj, parfumoj kaj eĉ ovoj de kokinoj breditaj per speciala manĝaĵo farita el peonioj! Jen sube kelkaj interesaj produktoj de heze-a peonia industrio.
 
@@ -700,7 +704,7 @@ Raportis kaj fotis: Rafael Henrique Zerbetto
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Naturo kaj Mediprotekto, Kulturo,Scienco kaj Sporto
 
 La urbo Heze de Shandong-provinco, orienta Ĉinio, estas fama pro siaj peonioj, tie kultivataj jam de 1 500 jaroj. Kun klimato aparte favora por kreskado de peonioj, Heze fieras pri la beleco de tiuj floroj kreskantaj tie, kaj nuntempe eksportas peoniajn plantidojn, florojn kaj produktojn faritajn el peonioj al 30 landoj. En printempo, kiam burĝonas peonioj, Heze ricevas multajn turistojn, kiuj iras tien por admiri tiujn belajn florojn. Jen kelkaj belaj peonioj fotitaj en Heze ĉi-jare!
 
@@ -717,7 +721,7 @@ Raportis kaj fotis: Rafael Henrique Zerbetto
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio, Kulturo,Scienco kaj Sporto
 
 La Peonia Ĝardeno Caozhou en la urbo Heze de la provinco Shandong, Ĉinio, okupas areon de 1 600 mu-oj (= 1.07 kvadrataj kilometroj) kaj estas AAAA-nivela turismejo. Ĝi estas la plej granda peonia kaj shaoyao-a ĝardeno de la mondo, kaj kadre de plantita areo kaj kadre de diverseco de variaĵoj. Tie troviĝas 800 mil plantoj kun enture 1 308 variaĵoj de peonioj.
 
@@ -872,7 +876,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 Vespere de la 16-a de aprilo mi iris al speciala koncerto de la brazila duopo Duo de Lucas, formita de du muzikistoj Lucas Bohn kaj Lucas Soares, ambaŭ el Brazilo. Ne ofte oni havas ŝancon spekti koncerton de brazila popola muziko en Pekino, sekve tio estis grava kaj nemaltrafebla ŝanco. Ne hazarde, plejparto de la homoj en la spektantaro estis brazilanoj.
 
@@ -899,7 +903,7 @@ Raportis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2025-04/23/content_117839934.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 Lastatempe Ĉinio publikigis gvidlinion pri plibonigo de la provaj liberkomercaj zonoj de la lando por plue antaŭenigi pordmalfermon kaj altkvalitan disvolviĝon.
 
@@ -937,7 +941,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo
 
 La 17-an de aprilo mi kaj aliaj kvar kolegoj el aliaj landoj havis kunvenon kun reprezentantoj de la pekina registaro por diskonigi niajn spertojn, rimarkojn kaj sugestojn, kun la celo komprenigi al ili la bezonojn de alilandaj talentuloj en la urbo, identigi problemojn kaj diskuti plibonigon de politikoj, kiuj tuŝas la vivojn de eksterlandanoj loĝantaj en la urbo. Tiaj kunvenoj estas parto de la ĉiutaga vivo en Ĉinio: Aŭtoritatoj de malsamaj niveloj de la registaro ofte renkontiĝas kun reprezentantoj de malsamaj rondoj de la socio por informiĝi pri la malfacilaĵoj spertataj de ordinaraj homoj kaj kolekti sugestojn. Publikaj konsultoj estas esencaj partoj de la tutproceza popola demokratio, aparta trajto de la perspektivo de la Komunista Partio de Ĉinio (KPĈ) pri la popola partopreno en la regado de la lando.
 
@@ -1025,7 +1029,7 @@ Fonto: Global Times
 
 **URL:** http://esperanto.china.org.cn/2025-04/24/content_117841957.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 La 23-an de aprilo Guo Jiakun, proparolanto de la Ĉina Ministerio pri Eksterlandaj Aferoj, diris en regula gazetara konferenco, ke se la usona flanko vere volas solvi tarif-rilatajn demandojn kun Ĉinio per dialogo kaj intertraktado, ĝi devas ĉesi minacojn kaj ĉantaĝojn kaj konduki la dialogon surbaze de egala traktado, respekto kaj reciproka profito.
 
@@ -1048,7 +1052,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-04/25/content_117840262.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Naturo kaj Mediprotekto
 
 De la 14-a ĝis la 18-a de aprilo, ambasadoro André Correa do Lago, prezidanto de ĉijara 30-a Konferenco de la Partioj de Kadra Kunveno de Unuiĝintaj Nacioj pri Klimatŝanĝiĝo (COP30), vizitis Pekinon por renkontiĝi kun reprezentantoj de la ĉina registaro, rilataj neregistaraj organizaĵoj kaj sciencaj institucioj.
 
@@ -1073,7 +1077,7 @@ Fonto: Brazila Ambasadorejo en Ĉinio
 
 **URL:** http://esperanto.china.org.cn/2025-04/25/content_117842832.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 Lastatempe la drinkejo Lotus Lounge Bar en Kantono, sudorienta Ĉinio, famiĝis en interreto pro sia unika koktelo nomita "Batu Friponon", inspirita de la antikva kantona tradicia rito nomita "Da Siu Yan", por forpeli malbonŝancon. Mendinte la koktelon, kliento ricevas lignan skatolon kun plasta sandalo kaj verda paperpeco, sur kiu li/ŝi devas skribi la nomon de "fripono", kiu kaŭzas ĝenojn. Sekve, la kliento devas uzi la sandalon por bati la paperpecon, aŭ peti al kelnero tion fari. La rito finas per bruligo de la paperpeco, kio simbolas la malaperigon de malbonŝanco. La kelnero sekve malkaŝas la koktelon, kiu estis en la skatolo por ke la kliento drinku ĝin.
 
@@ -1111,7 +1115,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-04/27/content_117840055.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 Fiŝforma lanterno de Shexian-gubernio en Anhui-provinco de Ĉinio aperis en Suda Song-dinastio (1127-1279). Ĝi aspektas kiel karpon, ŝatatan fiŝon de ĉinoj, kaj portas bondaŭguron de feliĉo. Tia fiŝlanterna ludado estas grava loka tradicio. Ĉiujare en la festo lokanoj okazigas rondiradon portante tiajn lanternojn por esprimi bondezirojn.
 
@@ -1130,7 +1134,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-04/28/content_117849302.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Naturo kaj Mediprotekto
 
 La projekto de la Ekologia Media Kodo estis publikigita por unua revizio ĉe la 15-a sesio de la Konstanta Komitato de la 14-a Tutlanda Popola Kongreso de Ĉinio la 27-an de aprilo. Kun 1 188 artikoloj, la projekto estas dividita en kvin partojn: ĝeneralaj dispozicioj, poluadprevento kaj regado, ekologia protektado, verda kaj malaltkarbona disvolviĝo, juraj respondecoj kaj kompletigaj dispozicioj.
 
@@ -1149,7 +1153,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-04/30/content_117853217.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 Matene de la 29-a de aprilo, ĉina prezidanto Xi Jinping vizitis la Nov-disvolvan Bankon (NDB) de BRICS en Ŝanhajo kaj renkontiĝis kun ĝia prezidento Dilma Rousseff.
 
@@ -1174,7 +1178,7 @@ Fonto: Brasil 247
 
 **URL:** http://esperanto.china.org.cn/2025-04/30/content_117853365.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 La 29-an de aprilo ĉina prezidanto Xi Jinping vizitis inkubatoron de artefarita intelekto (AI) en Ŝanhajo, alvokante la urbon ludi la rolon de gvidanto de la disvolvado de AI-industrio. "AI estas merĝanta industrio, kaj ĝi estas ankaŭ industrio, kiu apartenas al junuloj," diris Xi Jinping.
 
@@ -1195,7 +1199,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-04/30/content_117853372.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio
 
 La servokomerco de Ĉinio vidis konstantan kreskon en la unua trimestro de la jaro, inkluzive de rapida kresko en la komerco de vojaĝ-rilataj servoj, laŭ oficialaj donitaĵoj diskonigitaj en la 29-a de aprilo.
 
@@ -1222,7 +1226,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Choi Manwon
 
-**Categories:** Plej Freŝaj
+**Categories:** E-movado
 
 "S-ro Cui! Bonvenon! Sidiĝu. Ĉu vi volas trinki teon?" Ili ĉiam bonvenigis min kun rideto kaj de ili mi aŭdis kaj lernis multon pri Ĉinio kaj Esperanto. Kaj jam pasis pli ol 30 jaroj de mia unua vizito al la redaktejo de El Popola Ĉinio (EPĈ), sed kelkaj amikoj tie ankoraŭ vokas min “小崔”, pro malnova vokkutimo. Tuj post kelkaj monatoj, mi fariĝos 60-jaraĝa, jam ne juna, sed tiun ĉi titolon mi tre ŝatas.
 
@@ -1261,7 +1265,7 @@ Redaktoro: Sheng Min
 
 **Author:** Zhang Changsheng
 
-**Categories:** Plej Freŝaj
+**Categories:** E-movado
 
 En la profunda aŭtuno de 1985, en la urbo Changzhou, la aero estis plena je la dolĉa aromo de osmanto. Kiam mi, kiel vic-sekretario de Changzhou-a Esperanto-Asocio, ekvidis aerpoŝtan leteron el Pekino, la freŝa inko kaj reliefaj presaĵoj sur la papero fiksis tiun ordinaran posttagmezon en mian memoron. La letero de Esperanta Societo en Takatuki, transdonita de Ĉina Radio Internacia tra la redaktorejo de El Popola Ĉinio kaj Ĉina Esperanto-Ligo, falis kiel ŝtono en trankvilan lageton, komencante mian kvindekjaran rilaton kun tiu kara revuo.
 

@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-09-15T16:12:44.360605+00:00"
+generated_at: "2026-09-16T16:27:24.310639+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-03-03 – 2025-03-31"
 ---
@@ -78,6 +78,8 @@ Fonte: Brasil 247
 
 **URL:** http://esperanto.china.org.cn/2025-03/05/content_117745406.htm
 
+**Author:** Anthony Moretti
+
 **Categories:** Ekonomio
 
 de Anthony Moretti*
@@ -147,6 +149,25 @@ Redaktoro: Liu Zijia
 
 ---
 
+# Ĉinio publikigis blankan libron pri fentanil-rilataj substancoj
+
+**Published:** 2025-03-05
+
+**URL:** http://esperanto.china.org.cn/2025-03/05/content_117747596.htm
+
+**Categories:** Plej Freŝaj
+
+La 4-an de marto la Informa Oficejo de la Ŝtata Konsilantaro de Ĉinio publikigis la blankan libron titolitan "Regado de Fentanil-Rilataj Substancoj -- Kontribuo de Ĉinio", elstarigante la rigoran regadon de la lando super tiaj kemiaĵoj.
+
+La lando faris striktan superrigardon super fentanil-rilataj medikamentoj, rigore malhelpis la misuzon de fentanil-rilataj substancoj kaj forte batis kontraŭ la kontrabandado, fabrikado kaj transportado de fentanil-rilataj substancoj kaj rilataj kemiaĵoj.
+
+La dokumento ankaŭ emfazas la sindevontigon de Ĉinio plifortigi internacian kunlaboron pri regado de drogoj per dialogo, komunaj esploroj kaj informado, dum ili akcelas partnerecojn bazitajn sur egaleco kaj reciproka fido.
+
+Redaktoro: Xie Ruifeng
+
+
+---
+
 # Ĉinio celas ekonomian kreskon de 5% en 2025
 
 **Published:** 2025-03-06
@@ -191,7 +212,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Socia Vivo
+**Categories:** Socia Vivo, Kulturo,Scienco kaj Sporto
 
 Mi estis infano, kiam ĉinaj produktoj ekaperis en brazila merkato. La unua donaco importita el Ĉinio, kiun mi gajnis, estis skatolo kun krajonoj. Tiam Ĉinio estis rapide fariĝanta la "fabriko de la mondo".
 
@@ -250,13 +271,30 @@ Verkis: Rafael Henrique Zerbetto
 
 ---
 
+# Xi Jinping esprimas festajn salutojn kaj bondezirojn al virinoj de Ĉinio
+
+**Published:** 2025-03-07
+
+**URL:** http://esperanto.china.org.cn/2025-03/07/content_117752515.htm
+
+**Categories:** Plej Freŝaj
+
+Antaŭ la Internacia Tago de Virinoj, celebrata en la 8-a de marto, Xi Jinping, nome de la Centra Komitato de la Komunista Partio de Ĉinio, prezidanto de Ĉinio kaj prezidanto de la Centra Milita Komisiono, esprimis festajn salutojn kaj bondezirojn al la inaj reprezentantoj, inaj komitatanoj kaj laborantinoj partoprenantaj en la du sesioj, al virinoj el ĉiuj etnoj kaj ĉiuj sektoroj tra la lando, kaj al la inaj samlandanoj en la Hongkonga Speciala Administra Regiono, la Makaa Speciala Administra Regiono kaj Taiwan de Ĉinio.
+
+(el ĈRI)
+
+Redaktoro: Xie Ruifeng
+
+
+---
+
 # Reprezentanto de TPK: Buji-a kostumo povas kunfandiĝi kun ĉiutaga vivo
 
 **Published:** 2025-03-08
 
 **URL:** http://esperanto.china.org.cn/2025-03/08/content_117747639.htm
 
-**Categories:** Kulturo,Scienco kaj Sporto
+**Categories:** Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 Li Li, membro de la 14a Tutlanda Popola Kongreso (TPK) kaj heredanto de farado de nemateria kultura heredaĵo -- buji-a kostumo, lernis de sia patrino kiel fari buji-ajn vestaĵojn laŭ la tradicia farado. En 2015 ŝi revenis al sia hejmurbo, Zitang-vilaĝo, Jichang-urbeto, Qinglong-gubernio de Guizhou-provinco, por fondi entreprenon. Ŝi decidis prove kunfandi tradician kulturon en la ĉiutagan vivon.
 
@@ -265,6 +303,23 @@ En 2023 Li Li estis elektita kiel reprezentanto de la 14-a Tutlanda Popola Kongr
 Li Li planas uzi retkomercajn platformojn por diskonigi kaj vendi kulturajn produktojn. Utiligante ĉiun platformon, ŝi klopodas, por ke ĉi tiuj unikaj kulturaj kaj kreivaj produktoj estu viditaj de pliaj konsumantoj kaj alportu realajn enspezojn al la brodistoj, tiel ke nova vigleco povos esti aldonita al etnaj kulturoj.
 
 Redaktoro: Xie Ruifeng
+
+
+---
+
+# Fermiĝis la tria sesio de la 14a Tutlanda Komitato de ĈPPIK
+
+**Published:** 2025-03-10
+
+**URL:** http://esperanto.china.org.cn/2025-03/10/content_117757648.htm
+
+**Categories:** Plej Freŝaj
+
+Antaŭtagmeze de la 10a de marto okazis ferma kunveno de la tria sesio de la 14a Tutlanda Komitato de la Ĉina Popola Politika Interkonsiliĝa Konferenco (ĈPPIK), kiun ĉeestas ĉina prezidanto Xi Jinping kaj aliaj gvidantoj de la lando kaj de la Komunista Partio de Ĉinio.
+
+En la ferma kunveno estis aprobitaj la rezolucio de la tria sesio de la 14aTutlanda Komitato de ĈPPIK pri laborraporto de la konstanta komitato, la rezolucio de la tria sesio de la 14 Tutlanda Komitato de ĈPPIK pri laboroj rilataj al proponoj prezentitaj depost la dua sesio kaj la raporto pri ekzamenoj de proponoj.
+
+Redaktoro: Liu Zijia
 
 
 ---
@@ -341,7 +396,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-03/11/content_117757731.htm
 
-**Categories:** Socia Vivo
+**Categories:** Socia Vivo, Ekonomio
 
 Du pioniraj novigoj de Pekino, la aparato Travel Pass kaj la karto MiFang, estis ĝisdatigitaj kaj laŭplane estos oficiale lanĉitaj en marto. La aparato Travel Pass, malpeza kiel portebla ŝargilo, havas ekranon, fotilon kaj kartajn ingojn, kiuj subtenas kaj SIM-kartojn de China Unicom kaj fizikajn bankokartojn. Ĝi funkcias kiel portebla vifi-alirpunkto, faciligas komunikadon per tekstaj mesaĝoj, ebligas pagadon per dudimensiaj kodoj kaj provizas tradukon de fotita teksto.
 
@@ -389,13 +444,28 @@ Redaktoro: Xie Ruifeng
 
 ---
 
+# Fermiĝis la tria sesio de la 14-a TPK
+
+**Published:** 2025-03-11
+
+**URL:** http://esperanto.china.org.cn/2025-03/11/content_117760357.htm
+
+**Categories:** Plej Freŝaj
+
+Posttagmeze de la 11-a de marto en Pekino la 14-a Tutlanda Popola Kongreso (TPK) fermis sian trian sesion. Xi Jinping kaj aliaj ĉinaj gvidantoj ĉeestis la kunvenon okazintan en la Granda Popola Halo.
+
+Redaktoro: Xie Ruifeng
+
+
+---
+
 # Deklama Konkurso "Ruĝa Folio" finiĝis
 
 **Published:** 2025-03-12
 
 **URL:** http://esperanto.china.org.cn/2025-03/12/content_117760211.htm
 
-**Categories:** E
+**Categories:** E-movado, E-novaĵoj
 
 Lastatempe finiĝis la unua Esperanta Deklama Konkurso "Ruĝa Folio", organizita de la Ĉina Esperanto-Ligo, El Popola Ĉinio kaj la Lernejo pri Internacia Kultura Diskonigo sub la Komunika Kolegio de Zhejiang, subtenata de la Azi-Pacifika Komunika Centro de la Ĉina Internacia Komunika Grupo (ĈIKG) kaj la kolegio, kaj gvidata de ĈIKG.
 
@@ -416,7 +486,7 @@ Redaktoroj: Sheng Min kaj Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-03/12/content_117760236.htm
 
-**Categories:** E
+**Categories:** E-novaĵoj
 
 La 3-an de marto oficiale komenciĝis la nedeviga kurso de Esperanto en la Pekina Lingva kaj Kultura Universitato, sin anoncis al la kurso 30 studentoj. Chen Ji, ĝenerala sekretario de la Ĉina Esperanto-Ligo (ĈEL), respondecas kiel la ĉefa instruisto.
 
@@ -443,7 +513,7 @@ Redaktoroj: Gao Shuyuan kaj Xie Ruifeng
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Socia Vivo
+**Categories:** Socia Vivo, Kulturo,Scienco kaj Sporto
 
 Dum mia unua vizito al Xinjiang-a Ujgura Aŭtonoma Regiono de Ĉinio fine de 2020, mi estis impresita de la kontrasto inter la riĉa kaj prospera vivo de lokanoj en la glora epoko de la antikva Silka Vojo, atestata de antikvaĵoj nun konservataj en muzeoj, kaj la malriĉeco, kiu disiĝis tra la regiono post la fino de komercado tra la Silka Vojo. Nur antaŭ nelonge Xinjiang trovis novan vojon al prospero, kiam ĝi fariĝis ĉefrolulo de la Ekonomia Zono de la Silka Vojo, proponita de prezidanto Xi Jinping en 2013.
 
@@ -476,7 +546,7 @@ Verkis kaj fotis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2025-03/14/content_117766420.htm
 
-**Categories:** Ekonomio
+**Categories:** Ekonomio, Naturo kaj Mediprotekto
 
 En la Arboplantada Tago, oni havas kutimon volontule planti arbojn en Ĉinio.
 
@@ -610,7 +680,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Zhang Hui
 
-**Categories:** E
+**Categories:** E-movado, E-novaĵoj
 
 Je la 4-a horo de la 17-a de marto, Baiyangshujie-bazlernejo de la urbo Taiyuan, la provinco Shanxi, Ĉinio, kaj la Kvina Bazlernejo en la urbo Śrem, Pollando, komencis interretan komunikadon. La instruistoj kaj lernantoj de la ĉina kaj pola bazlernejoj havis varman interŝanĝon.
 
@@ -631,7 +701,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-03/19/content_117772944.htm
 
-**Categories:** Kulturo,Scienco kaj Sporto
+**Categories:** Kulturo,Scienco kaj Sporto, E-novaĵoj
 
 La 19-an de februaro, la cifereca artaĵo "Skywalker" de Wei Wanli, direktoro de dezajn-departemento de la Azi-Pacifika Komunika Centro sub la Ĉina Internacia Komunika Grupo, estis elektita por la sespersona eksponado, organizita de Dreamina, AI.DAO kaj Douyin, sub la konata internacia art-ekspozicio Salon Ant Capital en Parizo. S-ro Wei Wanli estas ankaŭ arta ĉefredaktoro de El Popola Ĉinio, kiu respondecas pri arta dezajnado por gravaj eventoj, kiel la Ĉina Kongreso de Esperanto, Ĉina Tago en UK-oj kaj aliaj. Lastatempe, li komencis prezenti sian talenton pri artefarita intelekto (AI), kaj unu el liaj verkoj estis elektita por la internacia ekspozicio.
 
@@ -652,13 +722,13 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Choi Manwon
 
-**Categories:** Kulturo,Scienco kaj Sporto
+**Categories:** Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 Tiun ĉi Printempan Feston de Ĉinio mi pasigis ĉe la monto Jiuhua (ĉine: 九华山). Por mi, tio estas unua fojo pasigi la Printempan Feston en montara vilaĝo de Ĉinio, kiu estas plena de budhisma kulturo kaj homameco de ĉinaj vilaĝanoj.
 
 Meze de januaro mi ricevis telefonvokon de mia amiko, esperantisto, kiu laboras en iu videaĵ-elsendejo. La elsendejo planas filmi pri la monto Jiuhua, kaj mia vojaĝo al la monto tuj komencis.
 
-La monto Jiuhua estas konata kiel unu el la kvar famaj budhismaj sanktejoj de Ĉinio, ĝi ankaŭ estas reprezentata de Dizang-bodisatvo (ĉine: 地藏菩萨).  Dizang-bodisatvo estas ankaŭ konata kiel unu el la reĝfamilianoj de Sinluo (ĉine: 新罗), antikva korea dinastio, mi estis petita partopreni en la filmadon pri la monto Jiuhua.
+La monto Jiuhua estas konata kiel unu el la kvar famaj budhismaj sanktejoj de Ĉinio, ĝi ankaŭ estas reprezentata de Dizang-bodisatvo (ĉine: 地藏菩萨). Dizang-bodisatvo estas ankaŭ konata kiel unu el la reĝfamilianoj de Sinluo (ĉine: 新罗), antikva korea dinastio, mi estis petita partopreni en la filmadon pri la monto Jiuhua.
 
 Dizang-bodisatvo, nomata Jin Qiaojue (ĉine: 金乔觉; koree: Gim Gjo-Gak), en sia juna tempo studis en Chang'an, tiama ĉefurbo de la dinastio Tang, kaj reiris al sia lando, kaj post kelkaj jaroj li revenis al Ĉinio kun sia blanka dorlothundo, nomita Shan-ting (善听).
 
@@ -693,7 +763,7 @@ Verkis: Choi Manwon (Profesoro de Esperanto-fako de Zaozhaung-a Universitato)
 
 **URL:** http://esperanto.china.org.cn/2025-03/20/content_117776755.htm
 
-**Categories:** Kulturo,Scienco kaj Sporto
+**Categories:** Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 Lastatempe en la urbo Xi'an de la provinco Shaanxi, nordokcidenta Ĉinio, pompas prumfloroj. Turistoj kaptas la ŝancon por viziti prumkampojn en la kamparo kaj ĝui la unikan belecon de floroj en printempo. La subaj fotoj, faritaj de flugroboto, montras turistojn promenantajn tra la prunkampoj de la distrikto Huyi de la urbo la 18-an de marto.
 
@@ -710,7 +780,7 @@ Fonto: Xinhua
 
 **URL:** http://esperanto.china.org.cn/2025-03/20/content_117776775.htm
 
-**Categories:** Kulturo,Scienco kaj Sporto
+**Categories:** Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 En Ŝanhajo jam komenciĝis la sezono de sakuroj, kaj ĉijara Ŝanhaja Sakurfestivalo komenciĝis la 15-an de marto en la parko Gucun. Entute 120 specoj de sakuro kaj pli ol 16 mil sakurarboj devos flori ĉi-jare en la parko. Ĉijara festivalo unuafoje permesas al vizitantoj admiri la sakurojn de 6:00 ĝis 9:30 ptm. Dum la festivalo la parko ankaŭ gastigos plurajn interagajn aktivaĵojn pri diversaj sektoroj, inkluzive de kulturo, manartaĵoj, turismo, sporto kaj legado. La festivalo daŭros ĝis la 15-a de aprilo.
 
@@ -803,7 +873,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Wei Yubin (Jado)
 
-**Categories:** E
+**Categories:** E-movado
 
 La WeChat-legogrupo pri Esperanto ekzistas jam kvin jarojn. Dum nia vojaĝo tra la vasta kampo de Esperanta literaturo, ni renkontis demandon de ĉiu vojaĝanto: Kiu vojo kondukas al plej fruktodona celo? Ĉu ni sekvu la spurojn de la klasikaj majstroj, aŭ ni elektu la modernajn vojojn, kiuj ankoraŭ estas freŝaj kaj ŝanĝiĝantaj?
 
@@ -872,7 +942,7 @@ Verkita de Wei Yubin (Jado)
 
 **URL:** http://esperanto.china.org.cn/2025-03/25/content_117783062.htm
 
-**Categories:** Kulturo,Scienco kaj Sporto
+**Categories:** Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 En la lastaj jaroj She-gubernio de Anhui-provinco, Ĉinio, uzas la oportunon kreitan de populariĝo de nokta turismado. La loko aranĝis programojn de prezentadoj en la antikva urbo, kiel provo por kunfandi turismadon kaj tradician lokan kulturon.
 
@@ -887,7 +957,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-03/25/content_117785054.htm
 
-**Categories:** Kulturo,Scienco kaj Sporto
+**Categories:** Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 La 20-an de marto okazis la inaŭguro de la 2-a Ĝardenfestivalo de la pekina distrikto Chaoyang kaj de la 18-a Pekina Chaoyang-a Kulturfestivalo de Printempa Ekvinokso ĉe la parko Ritan. La kulmino de la evento estis prezentado de antikvaj ritualoj, antikva tradicio de pli ol 500 jaroj. La ceremonio uzis historie akurataj kostumoj, muzikiloj kaj aliaj aferoj, kaj allogis vizitantojn por intima sperto de la tradicia rito de printempa ekvinokso, kuncelebrante la kulturan heredaĵon ligitan al tiu ĉi sezono.
 
@@ -904,7 +974,7 @@ Fonto: Global Times
 
 **URL:** http://esperanto.china.org.cn/2025-03/26/content_117785070.htm
 
-**Categories:** Ekonomio
+**Categories:** Ekonomio, Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 Kiam la temperaturo altiĝas en Xinghua-urbo de Jiangsu-provinco, Ĉinio, kolzofloroj ekpompis sinsekve. La ora koloro ornamas riverojn kaj vastajn kampojn, kaj el tio rezultas pejzaĝoj, kiuj allogas amasojn da turistoj.
 
@@ -963,7 +1033,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-03/28/content_117789335.htm
 
-**Categories:** Ekonomio
+**Categories:** Ekonomio, Naturo kaj Mediprotekto, Vojaĝo tra Ĉinio
 
 Lastatempe ekfunkciis la model-zono de nul-karbonellaso en Boao, Hainan-provinco de Ĉinio. La model-zono starigis sistemojn de energia cirkulado, konstrua verdigo, trafika verd-optimumigo, novigita centralo, materia cirkulado, akva cirkulado, ĝardena mediamika rearanĝo, saĝigitaj entreprenoj kaj aliaj por realigi la veran nuligon de karbona ellasado. Sekve, la zono provos trovi pli da spertoj pri administrado de nul-karbonellasa urbo kaj disvastigos la spertojn al tropikaj lokoj.
 
@@ -1069,7 +1139,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-03/31/content_117789363.htm
 
-**Categories:** Ekonomio
+**Categories:** Ekonomio, Vojaĝo tra Ĉinio
 
 Printempe floroj pompas en la kampoj de turismejo en Jinhua-urbo de Zhejiang-provinco. La turismejo okazigis programon de florfesto por ke vizitantoj povu spekti florojn, ĝui artfajraĵojn kaj sperti faradon de nemateriaj kulturaj heredaĵoj. La loka florkampo ne nur kreis multe da belaj pejzaĝoj, sed ankaŭ helpas lokanojn dungiĝi kaj enspezi.
 
@@ -1084,7 +1154,7 @@ Redaktoro: Xie Ruifeng
 
 **URL:** http://esperanto.china.org.cn/2025-03/31/content_117790181.htm
 
-**Categories:** Socia Vivo
+**Categories:** Socia Vivo, Ekonomio
 
 La sektoro de internacia turismo de Ŝanhajo montras kreskon en tiu ĉi printempo. Kiel la urbo povos plibonigi siajn servojn por ke pli da eksterlandaj turistoj ŝatu la sperton kaj spontanee rekomendu al aliaj homoj viziti Ĉinion? Fakuloj el akademiaj rondoj, profesiuloj pri turismo kaj homoj kun internacia sperto diskonigis siajn rimarkojn kaj sugestojn rilate al tiu temo.
 

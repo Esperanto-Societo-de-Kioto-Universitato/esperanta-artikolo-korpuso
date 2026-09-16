@@ -1,7 +1,5 @@
 Kial Burno?
 
-Eblas aŭskulti ĉi tiun artikolon, kiun voĉlegis Rafa Nogueras.
-
 La UK (Universala Kongreso) okazos ĉi-jare en la urbo Brno, Ĉeĥio. Brno estas la nomo de tiu urbo en la ĉeĥa lingvo, sed ĝis lastatempe ĝi ne havis ĝenerale akceptitan Esperantan nomon. Ĉu la ĉeĥa nomo povus funkcii en Esperanto sen ŝanĝi la literumon? Tio estis la demando, kiun renkontis la organizantoj de la UK pasintjare. Membroj de la LKK (Loka Kongresa Komitato) en Ĉeĥio kontaktis UEA, kiu diskutis tiun demandon kun la Akademio de Esperanto. Ni esploru la demandon, kaj kiel niaj kleruloj respondis al ĝi.
 
 Kial Brno prezentas problemojn? Estas pluraj kialoj. Unue, en Esperanto ĉiu silabo devas enhavi vokalon, sed en la unua silabo de Brno mankas vokalo. Tial Brno neniel povas esti plene Esperantigita nomo. (En la ĉeĥa lingvo la litero r povas funkcii kiel vokalo, do Brno tamen estas facile elparolebla por ĉeĥoj.)

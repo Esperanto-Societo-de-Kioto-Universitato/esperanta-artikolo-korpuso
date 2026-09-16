@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-09-15T13:49:03.050891+00:00"
+generated_at: "2026-09-16T16:27:24.900164+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-03-01 – 2026-03-02"
 ---
@@ -12,7 +12,7 @@ time_range: "2026-03-01 – 2026-03-02"
 
 **URL:** http://esperanto.china.org.cn/2026-03/01/content_118349145.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Ekonomio, Vojaĝo tra Ĉinio
 
 La kanjona ponto Huajiang situas sur Liu'an-aŭtovojo en la provinco Guizhou de sudokcidenta Ĉinio, ĝi estas populara turisma celloko pro la renomo "monde plej alta ponto". Statistikoj montras, ke dum la feritagoj de la Printempa Festo de 2026, sole la servareo proksime al la ponto jam ricevis 270 mil homfojojn da vizitantoj kaj pli ol 70 mil veturilojn. Inter la turistoj, 75% estis memveturaj, kaj pli ol duono el ili venis de aliaj provincoj.
 
@@ -33,7 +33,7 @@ Redaktoro: Xie Ruifeng
 
 **Author:** Bui Hai Mung
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 La galerio de Imperiestraj Trezoroj sur la insulo Gulangyu fariĝis unu el la plej gravaj kulturaj fenestroj en suda Ĉinio. La galerio estas kunkonstruita de la registaro de Xiamen kaj la Imperiestra Muzeo en Pekino, kaj ĝi estas la sola tema branĉo de la Palaca Muzeo ekster la ĉina ĉefurbo. Ĝi celas prezenti elstarajn kolektaĵojn de ĉina antikva arto kaj ankaŭ valorajn eksterlandajn objektojn, montrante la riĉecon de la ĉina tradicio kaj la historion de interkultura interŝanĝo.
 
@@ -56,7 +56,7 @@ Verkis: Bui Hai Mung
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Kulturo,Scienco kaj Sporto
 
 La ferio de la Printempa Festo, la plej granda popola festo en la mondo, ĉi-jare okazis inter la 15-a kaj 23-a de februaro, dum Karnavalo, la dua plej granda popola festo, okazis inter la 13-a kaj 17-a. La parta koincido de la du ferioj ne estas malofta, sed koincido de la du ĉefaj datoj — la unua tago de la Ĉina Novjaro kaj la karnavala mardo — estas iom rara. Kaj tiu koincido okazis ĉi-jare.
 

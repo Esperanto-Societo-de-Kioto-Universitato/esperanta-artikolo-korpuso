@@ -1,6 +1,6 @@
 ---
 source: "UEA Facila (uea.facila.org)"
-generated_at: "2026-09-15T16:17:07.171049+00:00"
+generated_at: "2026-09-16T16:26:31.702059+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-05-02 – 2026-05-31"
 ---
@@ -12,7 +12,7 @@ time_range: "2026-05-02 – 2026-05-31"
 
 **URL:** https://uea.facila.org/artikoloj/movado/eldonejo-guteto-r517
 
-**Author:** Brandon Sowers
+**Author:** Brandon Sowers, Stela Besenyei-Merger
 
 **Categories:** Movado
 
@@ -77,6 +77,19 @@ scienc-fikcio: rakonto pri la estonteco, ofte kun imago pri la scienco kaj tekni
 stoki: teni grandan kvantojn da aĵoj por posta vendado aŭ utiligo.
 
 sub-teni: helpi homon, asocion, projekton, politikon aŭ simile, por ke ĝi sukcesu.
+
+
+---
+
+# Menstrua ciklo klarigita
+
+**Published:** 2026-05-02
+
+**URL:** https://uea.facila.org/filmetoj/menstrua-ciklo-klarigita-r395
+
+**Categories:** Filmetoj
+
+[Embed] https://www.youtube.com/embed/s5pOM7OO_Mk?width=100%25&height=86.25
 
 
 ---

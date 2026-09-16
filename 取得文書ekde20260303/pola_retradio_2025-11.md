@@ -1,6 +1,6 @@
 ---
 source: "Pola Retradio (pola-retradio.org)"
-generated_at: "2026-09-15T16:02:39.704748+00:00"
+generated_at: "2026-09-16T16:23:19.021903+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-11-05 – 2025-11-30"
 ---
@@ -160,7 +160,7 @@ El la elsendo 10.11.2025. Legas Barbara – 02′ 05″
 
 ---
 
-# OpenAI atentigas pri kreskanta kvanto de   psikaj perturboj inter ChatGPT-uzantoj
+# OpenAI atentigas pri kreskanta kvanto de psikaj perturboj inter ChatGPT-uzantoj
 
 **Published:** 2025-11-10
 

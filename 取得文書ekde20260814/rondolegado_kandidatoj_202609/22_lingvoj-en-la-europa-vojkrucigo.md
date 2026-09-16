@@ -39,5 +39,3 @@ Jen la vojkruciĝo: Unuiĝo de ŝtatoj aŭ unuiĝo de popoloj? Dum eŭropanoj de
 Imagu: membriĝo de ŝtato kun 87 000 loĝantoj aŭtomate donus oficialigon al lingvo parolata de dek milionoj, pri kiu ĝis nun oni malakceptis peton de tia statuso.
 
 Nicolau Dols Profesoro pri la kataluna en Universitat de les Illes Balears Prezidanto de Filologia Sekcio de Institut d’Estudis Catalans (Oficiala akademio de la kataluna lingvo)
-
-Legu pli: Hispanio petas pliajn oficialajn lingvojn por EU

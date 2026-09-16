@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2026-09-15T16:12:44.604748+00:00"
+generated_at: "2026-09-16T16:27:25.320308+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-08-03 – 2026-08-12"
 ---
@@ -14,7 +14,7 @@ time_range: "2026-08-03 – 2026-08-12"
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Kulturo,Scienco kaj Sporto
 
 La 48-a kunsido de la Monda Heredaĵa Komitato de UNESKO, okazinta en Busan, Sud-Koreio, la 25-an de julio, anoncis la enlistigon de la porcelan-produktada komplekso de Jingdezhen en la Liston de Monda Heredaĵo de UNESKO. Situanta en la ĉina provinco Jiangxi, Jingdezhen havas longan tradicion en porcelan-farado, kiu devenas de la Orienta Han-dinastio (25-220). La imperiestro Zhenzong de Song-dinastio, en la jaro 1004, nomis la urbon per la nomo de sia epoko, Jingde, por honori la altkvalitan porcelanon tie produktitan por la imperia kortego.
 
@@ -71,7 +71,7 @@ Verkis kaj fotis: Rafael Henrique Zerbetto
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, UK-oj, E-movado
 
 Mia unua vojaĝo al Azio okazis en 2012, kiam mi iris al Hanojo, Vjetnamio, por partopreni la 97-an Universalan Kongreson de Esperanto (UK) kaj la 68-an Mondan Kongreson de Esperantista Junularo (IJK), ambaŭ en la sama urbo. Dum la UK, unu aktivaĵo altiris mian atenton: Ĉina Tago. Mi miris, ĉar ne estis similaj eventoj de aliaj landoj. La sekvan jaron, en Rejkjaviko, Islando, la Ĉina Tago denove estis en la programo. Kaj en 2014, kiam la kongreso okazis en Bonaero, Argentino, ĝi denove okazis. Esplorante, mi malkovris, ke temas pri memregata aktivaĵo iniciatinta de la Ĉina Esperanto-Ligo kaj regule okazanta ekde 2009, kun la celo antaŭenigi la ĉinan kulturon kaj kulturajn interŝanĝojn kun la lando.
 
@@ -124,7 +124,7 @@ Verkis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2026-08/04/content_118636359.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** UK-oj, E-movado, E-novaĵoj
 
 Posttagmeze de la 2-a de aŭgusto, dum la 111-a Universala Kongreso de Esperanto en Graz, Aŭstrio, la ĉina Esperanto-delegacio organizis la programon "Esperanto kaj Ĉinio". Ĉe la evento partoprenis preskaŭ 100 reprezentantoj el pli ol 20 landoj.
 
@@ -173,7 +173,7 @@ La 111-a Universala Kongreso de Esperanto okazas de la 1-a ĝis la 8-a de aŭgus
 
 **URL:** http://esperanto.china.org.cn/2026-08/05/content_118575172.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** UK-oj
 
 Friedensreich Hundertwasser estis unu el la plej grandaj artistoj de Vieno fine de la 20-a jarcento, kaj estas ofte nomata "Gaudí el Aŭstrio". Hundertwasser amis spiralojn kun mildaj kurboj kaj akvon, kiu fluas libere laŭ sia propra volo. Li malamis simetrion kaj rektajn liniojn. En liaj artaĵoj regas helaj koloroj kaj kurbaj linioj, kune kun infana senartifikeco kaj sovaĝa fantazio.
 
@@ -202,7 +202,7 @@ Redaktoro: Liu Zijia
 
 **Author:** Bui Hai Mung
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Ekonomio
 
 Dum semajnfino en komerca centro en Pekino, juna virino puŝas infanĉareton tra la homamaso. Sed en la ĉareto ne troviĝas bebo, sed adorinda kato. Ne malproksime, kukvendejo preparas naskiĝtagan kukon por hundo, dum proksima bestkuracejo estas preskaŭ plene rezervita dum la semajnfino. Tiaj scenoj hodiaŭ ne plu estas nekutimaj en ĉinaj urboj. Antaŭ nur ĉirkaŭ unu jardeko, malmultaj homoj povus imagi, ke hundoj kaj katoj havos tiel gravan lokon en la familia vivo. Malantaŭ la rapida disvolviĝo de la kulturo de dorlotbestoj troviĝas ne nur merkato kun valoro de centoj da miliardoj da juanoj, sed ankaŭ ŝanĝiĝanta maniero, laŭ kiu ĉinoj komprenas familion, kunulecon kaj feliĉon.
 
@@ -261,7 +261,7 @@ Verkis kaj fotis: Bui Hai Mung
 
 **URL:** http://esperanto.china.org.cn/2026-08/05/content_118636412.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** UK-oj, E-movado, E-novaĵoj
 
 Posttagmeze de la 2-a de aŭgusto, okaze de la "Esperanto kaj Ĉinio" dum la 111-a Universala Kongreso de Esperanto (UK) en Graz, Aŭstrio, lanĉiĝis la Esperanta versio de "Ŝlosilaj Vortoj por Kompreni Ĉinion: Origino kaj Nuntempa Signifo de Ĉina Filozofio". Ĉe la evento ĉeestis Yu Tao, vicprezidanto de la Ĉina Internacia Komunika Grupo (ĈIKG) kaj komitatano A de UEA; SO Jinsu, vicprezidanto de UEA; Gong Xiaofeng kaj François Jacomot, membroj de la estraro de UEA; Yang Jianping, vicprezidanto de Ĉina Esperanto-Ligo (ĈEL) kaj direktoro de la Ĉina Azia-Pacifika Centro de ĈIKG; Huang Xiaolong, prezidanto de la Internacia Komerca kaj Ekonomia Federacio; Alexandra Madella, vicprezidanto de Internacia Ligo de Esperantistaj Instruistoj; kaj Leopold Pötz, reprezentanto de la loka kongresa komitato de Graz.
 
@@ -280,7 +280,7 @@ La serio "Ŝlosilaj Vortoj por Kompreni Ĉinion" estas ŝlosila publika scioprod
 
 **URL:** http://esperanto.china.org.cn/2026-08/06/content_118636437.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** UK-oj, E-movado, E-novaĵoj
 
 Posttagmeze de la 2-a de aŭgusto, dum la 111-a Universala Kongreso de Esperanto okazanta en la kongresa centro de Graz, la ĉina Esperanto-delegacio komencis la programon "Esperanto kaj Ĉinio". Ĉe la evento partoprenis preskaŭ 100 reprezentantoj el pli ol 20 landoj, kiuj kune ĉeestis ĉi tiun gravan momenton de interkulturaj Esperanto-interŝanĝoj inter Ĉinio kaj aliaj landoj.
 
@@ -301,7 +301,7 @@ La Esperanto-Muzeo de la Aŭstria Nacia Biblioteko estas la plej malnova lingva 
 
 **URL:** http://esperanto.china.org.cn/2026-08/06/content_118636450.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** UK-oj, E-novaĵoj
 
 Laŭ la Regularo pri Honoraj Membroj, Honoraj Prezidantoj kaj Diplomo pri Elstara Agado la Komitato de Universala Esperanto-Asocio (UEA), surbaze de propono de la Estraro de UEA, povas aparte distingi esperantistojn, kiuj faris gravajn servojn al la tutmonda Esperanto-movado, per la titolo Honora Membro (HM). Krome, kiel Honora Prezidanto (HP) povas esti nomumita eksa prezidanto de UEA, kiu havis eksterordinarajn meritojn por la Asocio.
 
@@ -327,7 +327,7 @@ Kunfotiĝo en la inaŭguro de la 111-a UK en Graz
 
 La Komitato ankaŭ elektis kiel Honoran Prezidanton de UEA je lia memoro Probal Dasgupta (Barato), kiu prezidis UEA en la periodo 2007-2013.
 
-Por decidi la Komitato anticipe kaj konfidence ricevis resumajn vivpriskribojn kaj informojn pri la gravaj datoj, verkoj kaj meritoj de la kandidatoj, nun publike arkivitajn en la komitata elŝutejo de UEA:  https://uea.org/teko/komitato.
+Por decidi la Komitato anticipe kaj konfidence ricevis resumajn vivpriskribojn kaj informojn pri la gravaj datoj, verkoj kaj meritoj de la kandidatoj, nun publike arkivitajn en la komitata elŝutejo de UEA: https://uea.org/teko/komitato.
 
 
 ---
@@ -338,7 +338,9 @@ Por decidi la Komitato anticipe kaj konfidence ricevis resumajn vivpriskribojn k
 
 **URL:** http://esperanto.china.org.cn/2026-08/06/content_118636461.htm
 
-**Categories:** Plej Freŝaj
+**Author:** Gao Le kaj Ye Jing
+
+**Categories:** Socia Vivo, Naturo kaj Mediprotekto
 
 de Gao Le kaj Ye Jing
 
@@ -361,7 +363,7 @@ Xi'an, kun pli firma decidemo kaj pli fortaj rimedoj, gardos ĉiun flugantan bir
 
 **URL:** http://esperanto.china.org.cn/2026-08/07/content_118638274.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto
 
 Laŭ la loka tempo la 5-an de aŭgusto okazis libro-prezento por la kvina volumo de "Xi Jinping: Regado de Ĉinio" en Duŝanbeo, ĉefurbo de Taĝikio. La temo de la evento estas "Kune antaŭenigi modernigon kaj konstrui ĉin-taĝikan komunumon de komuna estonteco".
 
@@ -376,7 +378,7 @@ Redaktoro: Gao Shuyuan
 
 **URL:** http://esperanto.china.org.cn/2026-08/11/content_118642633.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 La 5-an de aŭgusto UNESKO anoncis, ke Pekino estis elektita kiel UNESKO-UIA (Internacia Unio de Arkitektoj) Monda Ĉefurbo de Arkitekturo 2029.
 
@@ -409,7 +411,7 @@ Fonto: Beijing Service
 
 **Author:** Rafael Henrique Zerbetto
 
-**Categories:** Plej Freŝaj
+**Categories:** Socia Vivo, Kulturo,Scienco kaj Sporto, Vojaĝo tra Ĉinio
 
 Mi unuafoje informiĝis pri la historia batalo de Lazikou en 2021 dum legado de la libron Ruĝa Stelo super Ĉinio de Edgar Snow. La aŭtoro detale priskribas, kiel la ĉina Ruĝa Armeo, enirinte en la provincon Gansu, troviĝis en mallarĝa ravino, inter klifoj kaj dividante la spacon kun la forta fluo de la rivero Lazikou.
 
@@ -482,7 +484,7 @@ Verkis: Rafael Henrique Zerbetto
 
 **URL:** http://esperanto.china.org.cn/2026-08/12/content_118590959.htm
 
-**Categories:** Plej Freŝaj
+**Categories:** Naturo kaj Mediprotekto, Vojaĝo tra Ĉinio
 
 Somere en Baiyangdian-lago de la Nova Areo Xiong'an, Hebei-provinco, lotusfloroj pompas en klara akvo, montrante la belecon de harmonio inter homoj kaj naturo. Post la establo de la Nova Areo Xiong'an, Baiyangdian-lago spertis grandskalan sisteman eko-restarigon. La akvokvalito boniĝis, kaj viciĝis en la aro de klarakvaj lagoj de Ĉinio.
 

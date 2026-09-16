@@ -1,6 +1,6 @@
 ---
 source: "Global Voices en Esperanto (eo.globalvoices.org)"
-generated_at: "2026-09-15T22:51:26.360892+00:00"
+generated_at: "2026-09-16T16:23:52.099975+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-03-11 – 2025-03-17"
 ---
@@ -117,6 +117,10 @@ Fremdeco, ekzotismo, kaj pseŭdo-interkultureco
 
 La kovrilo de “La Aŭgusta Luno” de la greka aŭtoro Voula Mastori.
 
+Kaj en historiaj kaj fikciaj libroj uzataj en lernejoj, mencioj pri romaa kulturo tute mankas. La romaa popolo kaj sia lingvo estas menciita nur mallonge en dramaj libroj por la fina nivelo de bazlernejo. Sed, ĉi tiuj estas ne kompletaj kaj relative konvenaj mencioj.
+
+Aggelos Hatzinikolaou estas emerita bazlerneja instruisto. Post sia instrua kariero plejparte en Dendropotamo, la plej konata geto en Thessaloniki, kie loĝas preskaŭ nur Romaoj, li akiris profundan komprenon pri romaa kulturo en la greka kondiĉo. En intervjuo de la OBCT, li komentis pri la etnocentrismo en la greka eduksistemo:
+
 Nome de tiel dirata varbado de plurkultureco, kiun postulas nia tutmonda socio, ekzistas malprofundaj klopodoj por inkludi popolojn, kiujn oni konsideras fremdaj, kiel la Romaoj, migrintoj, kaj rifuĝintoj. Sed, kiel kutime, oni ne povas atingi interkulturan dialogon nur per stereotipaj mencioj pri manĝaĵoj, dancoj, kaj kantoj. Oni bezonas pli profundan dialogon, kiu nun mankas en nia edukada sistemo.
 
 La forpasinta profesoro Sofia Gavriilidis faris gravan akademian verkon pri pedagogio, kiu klarigas ekzemplojn de “pseŭdo-interkulturaj” libroj por infanoj en formalaj edukado kaj literaturo. Pseŭdo-interkultureco estas klopodo por agnoski aliajn kulturojn sed per manieroj, kiuj ekzotigas la fremdan popolon kaj plu emfazas malsamecon anstataŭ fari ponton per komunaj trajtoj, aŭ implicas la superecon de la dominanta kulturo prezentante la fremdan popolon kiel viktimo.
@@ -128,6 +132,8 @@ Georgia Kalpazidou estas aktivisto, verkisto, kaj kunfondinto de la ne-registara
 Konkludo
 
 Konklude, per la komparo de kazoj inter la du landoj en sudorienta Eŭropo, Rumanio kaj Grekio, ŝajnas ke prezenti historion en lernolibroj estas pli malsimpla defio hodiaŭ ol antaŭe. Ne nur temas pri datoj kaj eventoj, sed ankaŭ pri inkludi opiniojn, alfronti malkomfortajn verojn, kaj malkonstrui malnovajn perspektivojn. Kvankam la historio de la romaa popolo estas plena je malfacilaĵoj kaj persistemoj, de sklaveco ĝis travivado de la holokaŭsto, ĉi tiu realo estas ofte malgravigita aŭ misprezentita en lernolibroj. Ĉi tio kreas malfacilan sed gravan demandon: kiel ni povas instrui historion, kiu reprezentas ĉies spertojn?
+
+Ĉi tiu publikaĵo estis farita en la “Collaborative and Investigative Journalism Initiative” (CIJI), projekto kunfinancita de la Eŭropa Komisiono. La enhavo de ĉi tiu publikaĵo estas sole la respondeco de la Osservatorio Balcani Caucaso Transeuropa kaj ne reprezentas la opiniojn de la Eŭropa Unio. Vizitu la retejon de la projekto ĉi tie.
 
 
 ---

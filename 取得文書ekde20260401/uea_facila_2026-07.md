@@ -1,6 +1,6 @@
 ---
 source: "UEA Facila (uea.facila.org)"
-generated_at: "2026-09-15T16:17:07.222033+00:00"
+generated_at: "2026-09-16T16:26:31.736847+00:00"
 generator: "retradio_lib.py"
 time_range: "2026-07-03 – 2026-07-26"
 ---
@@ -92,6 +92,19 @@ UN: Unuiĝintaj Nacioj.
 
 ---
 
+# ESPERANTISTO
+
+**Published:** 2026-07-11
+
+**URL:** https://uea.facila.org/filmetoj/esperantisto-r405
+
+**Categories:** Filmetoj
+
+[Embed] https://www.youtube.com/embed/WDzt0IJrRUU?width=100%25&height=86.25
+
+
+---
+
 # Konkurso “Vikio amas ZEO-jn”
 
 **Published:** 2026-07-14
@@ -171,7 +184,7 @@ volontulo: homo, kiu proponas sin por plenumi taskon aŭ fari laboron, plej ofte
 
 **URL:** https://uea.facila.org/artikoloj/movado/kongreso-por-virinoj-r527
 
-**Author:** Alessandra Madella
+**Author:** Alessandra Madella, Miora Raveloharison
 
 **Categories:** Movado
 

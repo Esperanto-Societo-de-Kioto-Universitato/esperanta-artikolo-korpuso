@@ -1,6 +1,6 @@
 ---
 source: "UEA Facila (uea.facila.org)"
-generated_at: "2026-09-15T16:17:07.062168+00:00"
+generated_at: "2026-09-16T16:26:31.616837+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-03-09 – 2025-03-29"
 ---
@@ -25,7 +25,7 @@ time_range: "2025-03-09 – 2025-03-29"
 
 **URL:** https://uea.facila.org/artikoloj/movado/biciklu-al-burno-por-la-universala-kongreso-r468
 
-**Author:** Christine Brücker
+**Author:** Christine Brücker, Lars Sözüer
 
 **Categories:** Movado
 

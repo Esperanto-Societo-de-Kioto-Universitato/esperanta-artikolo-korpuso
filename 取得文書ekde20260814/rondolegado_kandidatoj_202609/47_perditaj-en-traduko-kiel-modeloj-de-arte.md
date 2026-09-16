@@ -1,9 +1,5 @@
 Perditaj en traduko: Kiel modeloj de artefarita intelekto influas lingvokomunumojn kun malmultaj rimedoj
 
-Bildo de Zhendong Wang. Uzata laŭ permesilo de Unsplash.
-
-[Ĉiuj ligiloj estas al anglalingvaj paĝoj krom se alie notite.]
-
 Ĉi tiu artikolo estas parto de serio “Spotlight” de Global Voices (eo.wikipedia), titolita Homaj perspektivoj pri AI (ndlr. AI = Artefarita Intelekto en eo) publikigita en aprilo 2026. La serio proponos profundan rigardon pri kiel AI estas uzata en evolulandoj, kiel ĝia uzo kaj efektivigo influas diversajn komunumojn, kion tiu AI-eksperimento povus signifi por estontaj genercioj, kaj pli. Por subteni tiun ĉi projekton vi povas fari donacon ĉi tie.
 
 La entreprenoj malantaŭ produktoj funkciigitaj per artefarita intelekto (AI) prezentis kaj vendis ilin kiel vojon al progreso por konsumantoj. La realo estas ke sennombraj eblaj klientoj ekster la evoluintaj landoj restas malantaŭe.

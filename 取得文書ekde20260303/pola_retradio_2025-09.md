@@ -1,6 +1,6 @@
 ---
 source: "Pola Retradio (pola-retradio.org)"
-generated_at: "2026-09-15T16:02:39.693899+00:00"
+generated_at: "2026-09-16T16:23:18.995663+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-09-05 – 2025-09-30"
 ---
@@ -575,7 +575,7 @@ El la elsendo 30.09.2025 – 07′ 52″
 
 **Categories:** Elsendoj
 
-**Audio:** https://pola-retradio.org/wp-content/uploads/2025/09/RetRadio_30.09.2025_wt_M_1428.mp3, https://www.vinilkosmo-mp3.com/eo/kanzono-tradicia-progresiva/kaj-tiel-plu-102/4-je-la-kvara.html
+**Audio:** https://pola-retradio.org/wp-content/uploads/2025/09/RetRadio_30.09.2025_wt_M_1428.mp3
 
 En la 1428-a E_elsendo el la 30.09.2025 ĉe www.pola-retradio.org:
 

@@ -2,8 +2,6 @@ Kanada filmo en Esperanto nun rete spektebla
 
 En oktobro 2024 premieris en Kanado dudekminuta sciencfikcia filmo en Esperanto, Himalia. Nun la filmo estas spektebla en la reto okaze de kebekia kinofestivalo, dum la 29-a de januaro eĉ senpage. Libera Folio republikigas artikolon pri la filmo, kiu pli frue aperis en la kanada Esperanto-gazeto Lumo.
 
-Sceno el la filmo.
-
 En oktobro 2024, kadre de ”Festival du nouveau cinéma”, premieris en Montrealo mallonga sciencfikcia filmo en Esperanto, ”Himalia”. Tiu unika kaj originala kinarta verko, kies lingvaĵoj estis flegitaj de kebekiaj esperantistoj, estis reĝisorita de Clara Milo kaj Juliette Lossky – neesperantistoj. Ĝi konkuris kun aliaj mallongaj kanadaj filmoj kadre de tiu kinarta festivalo.
 
 Temas pri unu el la malmultaj profesiaj filmoj en Esperanto. Kiel tio okazis? Mi koncize rakontu…
@@ -26,8 +24,6 @@ La filmo nun spekteblas en Eŭropo per la servoj de la grava kanalo ARTE. En la 
 
 Aldone, la filmo jam estas elektita por konkuri kadre de diversaj kinartaj festivaloj.
 
-Clara Milo
-
 Clara Milo, kiu kreis la filmon kune kun Juliette Lossky, respondis kelkajn demandojn de Nicolas Viau.
 
 Kiu estis la kerna ideo de la projekto? Kial vi elektis Esperanton?
@@ -44,7 +40,7 @@ Post la elekto de Esperanto, ĉu la lingvo ŝajnis al vi aparte malfacila afero,
 
 – Mi jam havis sperton reĝisori filmon en fremda lingvo: la islanda, kiu estas lingvo, kiun mi ne parolas. Kiam tiu filmo, kies titolo estas ”Aska”, estis projekciita en kinejo, mi fakte ekkonsciis pri tio, ke la rakontado reliefiĝas, ĉar oni devas legi subtekstojn. La aŭdata dialogaro fariĝas melodio, kiu lasas la publikon atenti la ”literaturaĵojn” de la filmo, io, kion oni kutime apenaŭ atentas, kiam la frazoj ”nature” glitas en nin.
 
-– Do Esperanto ne timigis min, êc se iuj teamanoj iom timis tiun aspekton. Tamen, dum tiuj rolulelektaj sesioj, kiujn ni gvidis kaj en la franca kaj en Esperanto tiel, ke ni povu kompari, ni rimarkis, ke iuj homoj ŝajnas pli trafaj Esperante ol franclingve!
+– Do Esperanto ne timigis min, eĉ se iuj teamanoj iom timis tiun aspekton. Tamen, dum tiuj rolulelektaj sesioj, kiujn ni gvidis kaj en la franca kaj en Esperanto tiel, ke ni povu kompari, ni rimarkis, ke iuj homoj ŝajnas pli trafaj Esperante ol franclingve!
 
 La lingvo ebligis al ili distanciĝi de la vortoj kaj esprimi sin per emocioj anstataŭe.
 
@@ -67,9 +63,3 @@ Pri Esperanto mem, laŭ mia kompreno, vi jam sciis pri la ekzisto de Esperanta l
 – Kadre de miaj projektoj, mi provas neniam igi la anglan ”baza lingvo”, aŭ se ĝi aperu, ĝi estu nur unu lingvo inter diversaj. Laŭ mi oni taksas la anglan en kinarto pli grava, ol oni devus. Unuflanke, oni ja komprenu, ke ĝi ebligas aliron al pli vasta publiko. Sed mi pli ŝatas plaĉi al malgranda publiko, kiu vere ŝategos la filmon pro ĝia aŭtentikeco.
 
 Nicolas Viau
-
-Vidu pli:
-
-Reklamfilmeto
-
-Informoj pri la filmo

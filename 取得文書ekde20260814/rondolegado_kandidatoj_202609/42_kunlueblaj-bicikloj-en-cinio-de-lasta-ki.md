@@ -59,5 +59,3 @@ Lecionoj por estonteco
 La jardeka vojaĝo de la ĉina kunluebla biciklado lasis multajn valorajn spertojn. Unue, teknologia novigo devas esti akompanata de efika administrado. Due, tro rapida kresko sen ekvilibro povas konduki al gravaj sekvoj. Trie, la ĝustatempa partopreno de la registaro en la rolo de plananto estas esenca. En la komenca fazo, la nekontrolita eksplodo de la merkato kaŭzis milionojn da forlasitaj bicikloj -- simbolo de la negativa flanko de trovarmigita kresko. Tamen el tiu krizo Ĉinio konstruis multnivelan administradon, kiu kunigas registarojn, entreprenojn kaj uzantojn, ĝi estas modelo malofta inter evoluantaj landoj.
 
 En la estonteco, kunlueblaj bicikloj daŭre ludos gravan rolon en la urba transporta arkitekturo de Ĉinio. La rakonto pri ĉina kunluebla biciklado ne estas nur ekzemplo de cifereca aplikado en trafiko, sed ankaŭ atesto pri adaptiĝo kaj lernado el malsukceso.
-
-Verkis Bui Hai Mung

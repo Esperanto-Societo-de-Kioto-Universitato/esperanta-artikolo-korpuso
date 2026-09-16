@@ -1,4 +1,4 @@
-Virina skribsistemo ekzistas jam delonge‌
+Virina skribsistemo ekzistas jam delonge
 
 En 2023 la dokumenta filmo el Ĉinio "Kaŝitaj Literoj" altiris tutmondan atenton post kiam ĝi estis nomumita en la liston de la 95a Oskar-premio pri la plej bona dokumenta filmo, kiu temas pri "Nüshu" pli-ol-centjara -- la monde ununura ekzistanta virina skribsistemo.
 
@@ -15,5 +15,3 @@ En 2000, kiam la vilaĝo Pumei malfermis kurson pri Nüshu, 12-jara Hu Xin enami
 Nun en Nüshu-butiko en Jiangyong, oni povas aĉeti broditan tukon, ventumilon, orelringon, ringon kaj veston kun nüshu-aj elementoj, kaj la produktoj estas tre ŝatataj de klientoj. La posedanto de la butiko diris, ke daŭre kreskas la vendado de produktoj rilataj al Nüshu.
 
 Hu Xin diris: "Ni povas skribi Nüshu. Dum skribado, nia koro trankviliĝas. Ni povas kanti Nüshu. Dum kantado, la koro heliĝas." Laŭ Hu Xin, lerni Nüshu estas rimedo por kultivi la animon.
-
-Redaktoro: Liu Zijia
