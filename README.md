@@ -7,15 +7,15 @@
 
 収集ツール: [esperanta-artikolo-kolektilo](https://github.com/Esperanto-Societo-de-Kioto-Universitato/esperanta-artikolo-kolektilo)
 
-## 収録内容(2026-09-15 時点)
+## 収録内容(2026-09-17 時点)
 
 | フォルダ | 期間 | 記事数 | 内容 |
 |---|---|---|---|
-| `取得文書ekde20260303/` | 2025-03-03〜2026-03-03 | 1199 | 7サイト(Pola Retradio 含む)。Monato は ID プローブで補完済み |
-| `取得文書ekde20260401/` | 2026-03-04〜2026-08-13 | 366 | 6サイト(Pola Retradio 除外) |
+| `取得文書ekde20260303/` | 2025-03-03〜2026-03-03 | 1202 | 7サイト(Pola Retradio 含む)。Monato は ID プローブで補完済み |
+| `取得文書ekde20260401/` | 2026-03-04〜2026-08-13 | 368 | 6サイト(Pola Retradio 除外) |
 | `取得文書ekde20260814/` | 2026-08-14〜2026-09-14 | 86 | 6サイト(Pola Retradio 除外) |
 
-- 3つのフォルダで **2025-03-03〜2026-09-14 が切れ目なし**(計1651本)。フォルダ間で同じ URL は重複しない
+- 3つのフォルダで **2025-03-03〜2026-09-14 が切れ目なし**(計1656本)。フォルダ間で同じ URL は重複しない
 - 各記事は md / txt / csv / jsonl の4形式
 - サイト×月の内訳・既知の注意点は各フォルダ内の `MANIFEST.md` を参照
 
@@ -25,7 +25,7 @@
 [`取得文書ekde20260814/rondolegado_kandidatoj_202609.md`](取得文書ekde20260814/rondolegado_kandidatoj_202609.md) にまとめています。
 
 - 各記事の抽出 md (1 記事 1 ファイル): [`取得文書ekde20260814/rondolegado_kandidatoj_202609/`](取得文書ekde20260814/rondolegado_kandidatoj_202609/)。
-  エスペラントの題名と本文だけの形式なので、注釈ルビツール [esperanto-radiko-cjk-annotator](https://esperanto-radiko-cjk-annotator.streamlit.app/) の「ファイルアップロード」にそのまま読み込めます
+  エスペラントの題名と本文 (語注・著者紹介を含む。朗読案内・写真説明・クレジット・http(s) で始まる URL は除く) で、Markdown 記号を使わないので、注釈ルビツール [esperanto-radiko-cjk-annotator](https://esperanto-radiko-cjk-annotator.streamlit.app/) の「ファイルアップロード」にそのまま読み込めます
 - ルビ付き HTML (Netlify Drop 用): [`取得文書ekde20260814/rondolegado_kandidatoj_202609_ruby/`](取得文書ekde20260814/rondolegado_kandidatoj_202609_ruby/)
   (まとめてダウンロードするなら同じ場所の `rondolegado_kandidatoj_202609_ruby.zip`)。
   展開したフォルダごと https://app.netlify.com/drop にドロップすると、一覧・投票ページ (index.html) とルビ付きの 50 本を部員と共有できるサイトになります
